@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Trading Bot Dashboard</title>
+  <title>QuickBot Dashboard</title>
   <style>
     * { margin: 0; padding: 0; box-sizing: border-box; }
     body {
@@ -24,7 +24,7 @@
     }
     .grid {
       display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+      grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
       gap: 20px;
     }
     .card {
@@ -33,6 +33,7 @@
       padding: 20px;
       border: 1px solid rgba(255,255,255,0.1);
     }
+    .card.full { grid-column: 1 / -1; }
     .card h2 {
       font-size: 1rem;
       color: #888;
@@ -40,31 +41,48 @@
       text-transform: uppercase;
       letter-spacing: 1px;
     }
-    .stat {
-      font-size: 2rem;
-      font-weight: bold;
-      color: #00ff88;
-    }
+    .stat { font-size: 2rem; font-weight: bold; color: #00ff88; }
     .stat.negative { color: #ff4757; }
     .stat-label { font-size: 0.9rem; color: #666; }
     
+    /* Feed */
+    .feed {
+      max-height: 400px;
+      overflow-y: auto;
+      font-family: 'Monaco', 'Consolas', monospace;
+      font-size: 0.8rem;
+      background: rgba(0,0,0,0.2);
+      border-radius: 8px;
+      padding: 10px;
+    }
+    .feed-item {
+      padding: 6px 8px;
+      border-bottom: 1px solid rgba(255,255,255,0.05);
+      line-height: 1.4;
+    }
+    .feed-item:last-child { border-bottom: none; }
+    .feed-time { color: #666; }
+    .feed-msg { color: #ddd; }
+    
+    /* Positions */
     .position {
       background: rgba(255,255,255,0.03);
       border-radius: 8px;
-      padding: 15px;
-      margin-bottom: 10px;
+      padding: 12px;
+      margin-bottom: 8px;
     }
+    .position:last-child { margin-bottom: 0; }
     .position-header {
       display: flex;
       justify-content: space-between;
       align-items: center;
-      margin-bottom: 10px;
+      margin-bottom: 8px;
     }
-    .position-coin { font-size: 1.2rem; font-weight: bold; }
+    .position-coin { font-size: 1.1rem; font-weight: bold; }
     .position-side {
-      padding: 4px 12px;
+      padding: 3px 10px;
       border-radius: 20px;
-      font-size: 0.8rem;
+      font-size: 0.75rem;
       font-weight: bold;
     }
     .position-side.long { background: rgba(0,255,136,0.2); color: #00ff88; }
@@ -72,27 +90,27 @@
     .position-details {
       display: grid;
       grid-template-columns: repeat(4, 1fr);
-      gap: 10px;
-      font-size: 0.85rem;
+      gap: 8px;
+      font-size: 0.8rem;
     }
-    .position-detail label { color: #666; display: block; }
-    .position-detail span { color: #fff; }
+    .position-detail label { color: #666; display: block; font-size: 0.7rem; }
     .pnl-positive { color: #00ff88; }
     .pnl-negative { color: #ff4757; }
     
+    /* Prices */
     .prices {
       display: grid;
       grid-template-columns: repeat(3, 1fr);
-      gap: 15px;
+      gap: 10px;
       text-align: center;
     }
     .price-item {
       background: rgba(255,255,255,0.03);
-      padding: 15px;
+      padding: 12px;
       border-radius: 8px;
     }
-    .price-coin { font-weight: bold; color: #888; }
-    .price-value { font-size: 1.3rem; margin-top: 5px; }
+    .price-coin { font-weight: bold; color: #888; font-size: 0.9rem; }
+    .price-value { font-size: 1.2rem; margin-top: 4px; }
     
     .stats-grid {
       display: grid;
@@ -101,19 +119,20 @@
       text-align: center;
     }
     
-    .trades-table {
-      width: 100%;
-      font-size: 0.85rem;
-    }
-    .trades-table th {
-      text-align: left;
-      padding: 8px;
-      color: #666;
-      border-bottom: 1px solid rgba(255,255,255,0.1);
-    }
-    .trades-table td {
+    /* Trades */
+    .trades-list { max-height: 250px; overflow-y: auto; }
+    .trade-item {
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr 1fr;
+      gap: 8px;
       padding: 8px;
       border-bottom: 1px solid rgba(255,255,255,0.05);
+      font-size: 0.8rem;
+    }
+    .trade-item:first-child { 
+      color: #666; 
+      font-weight: bold;
+      border-bottom: 1px solid rgba(255,255,255,0.1);
     }
     .trade-buy { color: #00ff88; }
     .trade-sell { color: #ff4757; }
@@ -124,29 +143,31 @@
       font-size: 0.8rem;
       margin-top: 20px;
     }
-    
     .explorer-link {
       text-align: center;
       margin-top: 10px;
     }
-    .explorer-link a {
-      color: #00d9ff;
-      text-decoration: none;
-    }
+    .explorer-link a { color: #00d9ff; text-decoration: none; font-size: 0.85rem; }
     .explorer-link a:hover { text-decoration: underline; }
     
-    @media (max-width: 600px) {
+    ::-webkit-scrollbar { width: 5px; }
+    ::-webkit-scrollbar-track { background: rgba(255,255,255,0.02); }
+    ::-webkit-scrollbar-thumb { background: rgba(255,255,255,0.1); border-radius: 3px; }
+    
+    @media (max-width: 768px) {
       .grid { grid-template-columns: 1fr; }
       .position-details { grid-template-columns: repeat(2, 1fr); }
       .stats-grid, .prices { grid-template-columns: 1fr; }
+      .trade-item { grid-template-columns: repeat(2, 1fr); }
     }
   </style>
 </head>
 <body>
   <div class="container">
-    <h1>🤖 Backbot Trading Dashboard</h1>
+    <h1>⚡ QuickBot Dashboard</h1>
     
     <div class="grid">
+      <!-- Account -->
       <div class="card">
         <h2>💰 Conta</h2>
         <div class="stats-grid">
@@ -164,10 +185,11 @@
           </div>
         </div>
         <div class="explorer-link">
-          <a href="https://hypurrscan.io/address/0x4FFf1187E66b66bC8E31886F2b861f951736a276" target="_blank">Ver no Explorer →</a>
+          <a href="https://hypurrscan.io/address/0x4FFf1187E66b66bC8E31886F2b861f951736a276" target="_blank">📊 Ver no Explorer →</a>
         </div>
       </div>
       
+      <!-- Prices -->
       <div class="card">
         <h2>📊 Preços</h2>
         <div class="prices">
@@ -186,6 +208,7 @@
         </div>
       </div>
       
+      <!-- Positions -->
       <div class="card">
         <h2>📈 Posições Abertas</h2>
         <div id="positions">
@@ -193,16 +216,25 @@
         </div>
       </div>
       
+      <!-- Trades -->
       <div class="card">
         <h2>📜 Últimos Trades</h2>
-        <div id="trades" style="max-height: 300px; overflow-y: auto;">
+        <div class="trades-list" id="trades">
           <div style="color: #666; text-align: center; padding: 20px;">Carregando...</div>
+        </div>
+      </div>
+      
+      <!-- Feed -->
+      <div class="card full">
+        <h2>🧠 Feed de Pensamentos</h2>
+        <div class="feed" id="feed">
+          <div style="color: #666; text-align: center; padding: 20px;">Conectando ao bot...</div>
         </div>
       </div>
     </div>
     
     <div class="refresh-info">
-      Atualização automática a cada 10 segundos | Última: <span id="last-update">-</span>
+      Atualização automática a cada 5 segundos | Última: <span id="last-update">-</span>
     </div>
   </div>
 
@@ -210,10 +242,16 @@
     const WALLET = '0x4FFf1187E66b66bC8E31886F2b861f951736a276';
     const HL_API = 'https://api.hyperliquid.xyz/info';
     
+    // Simulated feed (in production, this would come from a backend)
+    let feedItems = [];
+    
     function formatMoney(n) { return '$' + n.toFixed(2); }
     function formatPrice(n) {
       if (n >= 10000) return '$' + n.toFixed(0);
       return '$' + n.toFixed(2);
+    }
+    function formatTime(ts) {
+      return new Date(ts).toLocaleTimeString('pt-BR', { hour: '2-digit', minute: '2-digit', second: '2-digit' });
     }
     
     async function hlPost(body) {
@@ -224,6 +262,56 @@
       });
       return res.json();
     }
+    
+    // Generate feed thoughts based on market data
+    function generateThought(positions, mids, prevMids) {
+      const now = new Date().toISOString();
+      const time = formatTime(now);
+      
+      // Analyze positions
+      for (const p of positions) {
+        const coin = p.position.coin;
+        const size = parseFloat(p.position.szi);
+        const pnl = parseFloat(p.position.unrealizedPnl);
+        const entry = parseFloat(p.position.entryPx);
+        const isLong = size > 0;
+        const currentPrice = parseFloat(mids[coin] || 0);
+        const pnlPct = ((pnl / (Math.abs(size) * entry)) * 100);
+        
+        // Calculate distances
+        const slDist = isLong ? ((currentPrice - entry * 0.99) / currentPrice * 100) : ((entry * 1.01 - currentPrice) / currentPrice * 100);
+        const tpDist = isLong ? ((entry * 1.02 - currentPrice) / currentPrice * 100) : ((currentPrice - entry * 0.98) / currentPrice * 100);
+        
+        const msg = `📊 ${coin} ${isLong ? 'LONG' : 'SHORT'} | PnL: ${pnl >= 0 ? '+' : ''}$${pnl.toFixed(3)} (${pnlPct.toFixed(2)}%) | SL: ${slDist.toFixed(2)}% | TP: ${tpDist.toFixed(2)}%`;
+        
+        // Only add if significantly different from last
+        const lastSimilar = feedItems.find(f => f.msg.startsWith(`📊 ${coin}`));
+        if (!lastSimilar || Math.abs(parseFloat(lastSimilar.pnlPct || 0) - pnlPct) > 0.3) {
+          feedItems.unshift({ ts: now, time, msg, pnlPct });
+        }
+      }
+      
+      // Analyze price movements for coins without positions
+      const posCoins = positions.map(p => p.position.coin);
+      for (const coin of ['BTC', 'ETH', 'SOL']) {
+        if (posCoins.includes(coin)) continue;
+        
+        const price = parseFloat(mids[coin] || 0);
+        const prevPrice = parseFloat(prevMids[coin] || price);
+        const change = ((price - prevPrice) / prevPrice * 100);
+        
+        if (Math.abs(change) > 0.1) {
+          const direction = change > 0 ? '📈' : '📉';
+          const msg = `🔍 ${coin} $${formatPrice(price)} | ${direction} ${change > 0 ? '+' : ''}${change.toFixed(2)}% | Analisando oportunidade...`;
+          feedItems.unshift({ ts: now, time, msg });
+        }
+      }
+      
+      // Keep only last 30
+      feedItems = feedItems.slice(0, 30);
+    }
+    
+    let prevMids = {};
     
     async function fetchData() {
       try {
@@ -252,6 +340,10 @@
         document.getElementById('price-eth').textContent = formatPrice(parseFloat(mids.ETH || 0));
         document.getElementById('price-sol').textContent = formatPrice(parseFloat(mids.SOL || 0));
         
+        // Generate feed thoughts
+        generateThought(positions, mids, prevMids);
+        prevMids = { ...mids };
+        
         // Positions list
         const posEl = document.getElementById('positions');
         if (positions.length > 0) {
@@ -261,6 +353,7 @@
             const pnl = parseFloat(p.position.unrealizedPnl);
             const entry = parseFloat(p.position.entryPx);
             const lev = parseFloat(p.position.leverage?.value || 1);
+            const currentPrice = parseFloat(mids[p.position.coin] || entry);
             
             return `
               <div class="position">
@@ -274,15 +367,15 @@
                     <span>${formatPrice(entry)}</span>
                   </div>
                   <div class="position-detail">
-                    <label>Size</label>
-                    <span>${Math.abs(size).toFixed(4)}</span>
+                    <label>Atual</label>
+                    <span>${formatPrice(currentPrice)}</span>
                   </div>
                   <div class="position-detail">
                     <label>PnL</label>
                     <span class="${pnl >= 0 ? 'pnl-positive' : 'pnl-negative'}">${pnl >= 0 ? '+' : ''}${formatMoney(pnl)}</span>
                   </div>
                   <div class="position-detail">
-                    <label>Leverage</label>
+                    <label>Lev</label>
                     <span>${lev}x</span>
                   </div>
                 </div>
@@ -295,32 +388,43 @@
         
         // Trades
         const tradesEl = document.getElementById('trades');
-        const recentFills = (fills || []).slice(0, 20);
+        const recentFills = (fills || []).slice(0, 15);
         if (recentFills.length > 0) {
           tradesEl.innerHTML = `
-            <table class="trades-table">
-              <thead>
-                <tr><th>Data</th><th>Coin</th><th>Side</th><th>Size</th><th>Price</th></tr>
-              </thead>
-              <tbody>
-                ${recentFills.map(f => {
-                  const date = new Date(f.time).toLocaleString('pt-BR', { day: '2-digit', month: '2-digit', hour: '2-digit', minute: '2-digit' });
-                  const isBuy = f.side === 'B';
-                  return `
-                    <tr>
-                      <td>${date}</td>
-                      <td>${f.coin}</td>
-                      <td class="${isBuy ? 'trade-buy' : 'trade-sell'}">${isBuy ? 'BUY' : 'SELL'}</td>
-                      <td>${f.sz}</td>
-                      <td>${formatPrice(parseFloat(f.px))}</td>
-                    </tr>
-                  `;
-                }).join('')}
-              </tbody>
-            </table>
+            <div class="trade-item">
+              <span>Data</span>
+              <span>Coin</span>
+              <span>Side</span>
+              <span>Price</span>
+            </div>
+            ${recentFills.map(f => {
+              const date = new Date(f.time).toLocaleString('pt-BR', { day: '2-digit', month: '2-digit', hour: '2-digit', minute: '2-digit' });
+              const isBuy = f.side === 'B';
+              return `
+                <div class="trade-item">
+                  <span>${date}</span>
+                  <span>${f.coin}</span>
+                  <span class="${isBuy ? 'trade-buy' : 'trade-sell'}">${isBuy ? 'BUY' : 'SELL'}</span>
+                  <span>${formatPrice(parseFloat(f.px))}</span>
+                </div>
+              `;
+            }).join('')}
           `;
         } else {
           tradesEl.innerHTML = '<div style="color: #666; text-align: center; padding: 20px;">Nenhum trade ainda</div>';
+        }
+        
+        // Feed
+        const feedEl = document.getElementById('feed');
+        if (feedItems.length > 0) {
+          feedEl.innerHTML = feedItems.map(f => `
+            <div class="feed-item">
+              <span class="feed-time">[${f.time}]</span>
+              <span class="feed-msg">${f.msg}</span>
+            </div>
+          `).join('');
+        } else {
+          feedEl.innerHTML = '<div style="color: #666; text-align: center; padding: 20px;">Aguardando dados...</div>';
         }
         
         document.getElementById('last-update').textContent = new Date().toLocaleTimeString('pt-BR');
@@ -331,7 +435,7 @@
     }
     
     fetchData();
-    setInterval(fetchData, 10000);
+    setInterval(fetchData, 5000);
   </script>
 </body>
 </html>
