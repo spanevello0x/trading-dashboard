@@ -241,6 +241,38 @@
       return n >= 1000 ? '$' + n.toLocaleString('en-US', {minimumFractionDigits: 2, maximumFractionDigits: 2}) : '$' + n.toFixed(2);
     }
     
+    function renderFills(fills) {
+      if (!fills || fills.length === 0) {
+        return '<p style="color: #888; text-align: center; padding: 20px;">Nenhum trade registrado</p>';
+      }
+      
+      let rows = fills.slice(0, 20).map(f => {
+        const isLong = f.side === 'B';
+        const pnl = parseFloat(f.closedPnl || 0);
+        const time = new Date(f.time).toLocaleString('pt-BR');
+        const pnlStr = pnl !== 0 ? ((pnl >= 0 ? '+' : '') + formatMoney(pnl)) : '-';
+        const pnlClass = pnl >= 0 ? 'positive' : 'negative';
+        const sideClass = isLong ? 'long' : 'short';
+        const dir = f.dir || (isLong ? 'BUY' : 'SELL');
+        
+        return '<tr>' +
+          '<td style="font-size: 0.8rem;">' + time + '</td>' +
+          '<td><strong>' + f.coin + '</strong></td>' +
+          '<td><span class="side-' + sideClass + '">' + dir + '</span></td>' +
+          '<td>' + formatPrice(f.px) + '</td>' +
+          '<td>' + f.sz + '</td>' +
+          '<td class="' + pnlClass + '">' + pnlStr + '</td>' +
+          '<td style="color: #888;">$' + parseFloat(f.fee).toFixed(3) + '</td>' +
+          '</tr>';
+      }).join('');
+      
+      return '<table class="positions-table">' +
+        '<thead><tr>' +
+        '<th>Data</th><th>Ativo</th><th>Tipo</th><th>Preço</th><th>Tamanho</th><th>PnL</th><th>Fee</th>' +
+        '</tr></thead>' +
+        '<tbody>' + rows + '</tbody></table>';
+    }
+    
     async function fetchHL(type, params = {}) {
       const res = await fetch(HL_API, {
         method: 'POST',
@@ -252,10 +284,11 @@
     
     async function loadData() {
       try {
-        // Fetch account state and prices in parallel
-        const [account, mids] = await Promise.all([
+        // Fetch account state, prices and fills in parallel
+        const [account, mids, fills] = await Promise.all([
           fetchHL('clearinghouseState', { user: WALLET }),
-          fetchHL('allMids')
+          fetchHL('allMids'),
+          fetchHL('userFills', { user: WALLET })
         ]);
         
         // Update prices
@@ -367,6 +400,11 @@
           <div class="card full-width">
             <h2>📈 Posições Abertas</h2>
             ${positionsHtml}
+          </div>
+          
+          <div class="card full-width">
+            <h2>📜 Histórico de Trades (Perpétuos)</h2>
+            ${renderFills(fills)}
           </div>
         `;
         
