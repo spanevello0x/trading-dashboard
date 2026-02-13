@@ -45,7 +45,6 @@
     .stat.negative { color: #ff4757; }
     .stat-label { font-size: 0.9rem; color: #666; }
     
-    /* Feed */
     .feed {
       max-height: 400px;
       overflow-y: auto;
@@ -62,9 +61,7 @@
     }
     .feed-item:last-child { border-bottom: none; }
     .feed-time { color: #666; }
-    .feed-msg { color: #ddd; }
     
-    /* Positions */
     .position {
       background: rgba(255,255,255,0.03);
       border-radius: 8px;
@@ -97,7 +94,6 @@
     .pnl-positive { color: #00ff88; }
     .pnl-negative { color: #ff4757; }
     
-    /* Prices */
     .prices {
       display: grid;
       grid-template-columns: repeat(3, 1fr);
@@ -119,36 +115,22 @@
       text-align: center;
     }
     
-    /* Trades */
-    .trades-list { max-height: 250px; overflow-y: auto; }
+    .trades-list { max-height: 200px; overflow-y: auto; }
     .trade-item {
       display: grid;
       grid-template-columns: 1fr 1fr 1fr 1fr;
       gap: 8px;
-      padding: 8px;
+      padding: 6px;
       border-bottom: 1px solid rgba(255,255,255,0.05);
-      font-size: 0.8rem;
+      font-size: 0.75rem;
     }
-    .trade-item:first-child { 
-      color: #666; 
-      font-weight: bold;
-      border-bottom: 1px solid rgba(255,255,255,0.1);
-    }
+    .trade-item:first-child { color: #666; font-weight: bold; }
     .trade-buy { color: #00ff88; }
     .trade-sell { color: #ff4757; }
     
-    .refresh-info {
-      text-align: center;
-      color: #666;
-      font-size: 0.8rem;
-      margin-top: 20px;
-    }
-    .explorer-link {
-      text-align: center;
-      margin-top: 10px;
-    }
+    .refresh-info { text-align: center; color: #666; font-size: 0.8rem; margin-top: 20px; }
+    .explorer-link { text-align: center; margin-top: 10px; }
     .explorer-link a { color: #00d9ff; text-decoration: none; font-size: 0.85rem; }
-    .explorer-link a:hover { text-decoration: underline; }
     
     ::-webkit-scrollbar { width: 5px; }
     ::-webkit-scrollbar-track { background: rgba(255,255,255,0.02); }
@@ -157,8 +139,6 @@
     @media (max-width: 768px) {
       .grid { grid-template-columns: 1fr; }
       .position-details { grid-template-columns: repeat(2, 1fr); }
-      .stats-grid, .prices { grid-template-columns: 1fr; }
-      .trade-item { grid-template-columns: repeat(2, 1fr); }
     }
   </style>
 </head>
@@ -167,7 +147,6 @@
     <h1>⚡ QuickBot Dashboard</h1>
     
     <div class="grid">
-      <!-- Account -->
       <div class="card">
         <h2>💰 Conta</h2>
         <div class="stats-grid">
@@ -189,7 +168,6 @@
         </div>
       </div>
       
-      <!-- Prices -->
       <div class="card">
         <h2>📊 Preços</h2>
         <div class="prices">
@@ -208,33 +186,24 @@
         </div>
       </div>
       
-      <!-- Positions -->
       <div class="card">
         <h2>📈 Posições Abertas</h2>
-        <div id="positions">
-          <div style="color: #666; text-align: center; padding: 20px;">Carregando...</div>
-        </div>
+        <div id="positions">Carregando...</div>
       </div>
       
-      <!-- Trades -->
       <div class="card">
-        <h2>📜 Últimos Trades</h2>
-        <div class="trades-list" id="trades">
-          <div style="color: #666; text-align: center; padding: 20px;">Carregando...</div>
-        </div>
+        <h2>📜 Trades Recentes</h2>
+        <div class="trades-list" id="trades">Carregando...</div>
       </div>
       
-      <!-- Feed -->
       <div class="card full">
         <h2>🧠 Feed de Pensamentos</h2>
-        <div class="feed" id="feed">
-          <div style="color: #666; text-align: center; padding: 20px;">Conectando ao bot...</div>
-        </div>
+        <div class="feed" id="feed">Conectando...</div>
       </div>
     </div>
     
     <div class="refresh-info">
-      Atualização automática a cada 5 segundos | Última: <span id="last-update">-</span>
+      Atualização a cada 5s | <span id="last-update">-</span>
     </div>
   </div>
 
@@ -242,76 +211,78 @@
     const WALLET = '0x4FFf1187E66b66bC8E31886F2b861f951736a276';
     const HL_API = 'https://api.hyperliquid.xyz/info';
     
-    // Simulated feed (in production, this would come from a backend)
     let feedItems = [];
+    let prevData = {};
     
     function formatMoney(n) { return '$' + n.toFixed(2); }
-    function formatPrice(n) {
-      if (n >= 10000) return '$' + n.toFixed(0);
-      return '$' + n.toFixed(2);
-    }
-    function formatTime(ts) {
-      return new Date(ts).toLocaleTimeString('pt-BR', { hour: '2-digit', minute: '2-digit', second: '2-digit' });
-    }
+    function formatPrice(n) { return n >= 10000 ? '$' + n.toFixed(0) : '$' + n.toFixed(2); }
+    function formatTime() { return new Date().toLocaleTimeString('pt-BR', { hour: '2-digit', minute: '2-digit', second: '2-digit' }); }
     
     async function hlPost(body) {
-      const res = await fetch(HL_API, {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify(body)
-      });
+      const res = await fetch(HL_API, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(body) });
       return res.json();
     }
     
-    // Generate feed thoughts based on market data
-    function generateThought(positions, mids, prevMids) {
-      const now = new Date().toISOString();
-      const time = formatTime(now);
-      
-      // Analyze positions
+    function addThought(msg) {
+      const time = formatTime();
+      feedItems.unshift({ time, msg });
+      if (feedItems.length > 30) feedItems = feedItems.slice(0, 30);
+    }
+    
+    function generateThoughts(positions, mids) {
       for (const p of positions) {
         const coin = p.position.coin;
         const size = parseFloat(p.position.szi);
         const pnl = parseFloat(p.position.unrealizedPnl);
         const entry = parseFloat(p.position.entryPx);
         const isLong = size > 0;
-        const currentPrice = parseFloat(mids[coin] || 0);
-        const pnlPct = ((pnl / (Math.abs(size) * entry)) * 100);
+        const price = parseFloat(mids[coin] || 0);
+        const pnlPct = (pnl / (Math.abs(size) * entry)) * 100;
         
-        // Calculate distances
-        const slDist = isLong ? ((currentPrice - entry * 0.99) / currentPrice * 100) : ((entry * 1.01 - currentPrice) / currentPrice * 100);
-        const tpDist = isLong ? ((entry * 1.02 - currentPrice) / currentPrice * 100) : ((currentPrice - entry * 0.98) / currentPrice * 100);
+        const key = `pos_${coin}`;
+        const lastPnl = prevData[key];
         
-        const msg = `📊 ${coin} ${isLong ? 'LONG' : 'SHORT'} | PnL: ${pnl >= 0 ? '+' : ''}$${pnl.toFixed(3)} (${pnlPct.toFixed(2)}%) | SL: ${slDist.toFixed(2)}% | TP: ${tpDist.toFixed(2)}%`;
-        
-        // Only add if significantly different from last
-        const lastSimilar = feedItems.find(f => f.msg.startsWith(`📊 ${coin}`));
-        if (!lastSimilar || Math.abs(parseFloat(lastSimilar.pnlPct || 0) - pnlPct) > 0.3) {
-          feedItems.unshift({ ts: now, time, msg, pnlPct });
+        // Só adiciona se mudou significativamente
+        if (lastPnl === undefined || Math.abs(pnlPct - lastPnl) >= 0.3) {
+          prevData[key] = pnlPct;
+          
+          let thought;
+          if (pnlPct >= 1.5) {
+            thought = `🚀 ${coin} voando! +${pnlPct.toFixed(2)}% de lucro, quase no TP!`;
+          } else if (pnlPct >= 0.5) {
+            thought = `📈 ${coin} no verde +${pnlPct.toFixed(2)}%, trade andando bem`;
+          } else if (pnlPct >= -0.3) {
+            thought = `⏳ ${coin} ${pnlPct >= 0 ? '+' : ''}${pnlPct.toFixed(2)}%, lateralizando...`;
+          } else if (pnlPct >= -0.7) {
+            thought = `😬 ${coin} ${pnlPct.toFixed(2)}%, perdendo mas SL ainda longe`;
+          } else {
+            thought = `⚠️ ${coin} ${pnlPct.toFixed(2)}%, chegando perto do SL... segurando`;
+          }
+          
+          addThought(thought);
         }
       }
       
-      // Analyze price movements for coins without positions
+      // Análise de preços para coins sem posição
       const posCoins = positions.map(p => p.position.coin);
       for (const coin of ['BTC', 'ETH', 'SOL']) {
         if (posCoins.includes(coin)) continue;
         
         const price = parseFloat(mids[coin] || 0);
-        const prevPrice = parseFloat(prevMids[coin] || price);
-        const change = ((price - prevPrice) / prevPrice * 100);
+        const lastPrice = prevData[`price_${coin}`];
         
-        if (Math.abs(change) > 0.1) {
-          const direction = change > 0 ? '📈' : '📉';
-          const msg = `🔍 ${coin} $${formatPrice(price)} | ${direction} ${change > 0 ? '+' : ''}${change.toFixed(2)}% | Analisando oportunidade...`;
-          feedItems.unshift({ ts: now, time, msg });
+        if (lastPrice) {
+          const change = ((price - lastPrice) / lastPrice) * 100;
+          if (Math.abs(change) > 0.15) {
+            prevData[`price_${coin}`] = price;
+            const dir = change > 0 ? '📈' : '📉';
+            addThought(`🔍 ${coin} $${formatPrice(price)} ${dir} ${change > 0 ? '+' : ''}${change.toFixed(2)}% - analisando...`);
+          }
+        } else {
+          prevData[`price_${coin}`] = price;
         }
       }
-      
-      // Keep only last 30
-      feedItems = feedItems.slice(0, 30);
     }
-    
-    let prevMids = {};
     
     async function fetchData() {
       try {
@@ -321,30 +292,25 @@
           hlPost({ type: 'userFills', user: WALLET })
         ]);
         
-        // Balance
         const balance = parseFloat(account.marginSummary?.accountValue || 0);
-        document.getElementById('balance').textContent = formatMoney(balance);
-        
-        // Positions
         const positions = account.assetPositions || [];
+        const totalPnl = positions.reduce((s, p) => s + parseFloat(p.position.unrealizedPnl || 0), 0);
+        
+        document.getElementById('balance').textContent = formatMoney(balance);
         document.getElementById('positions-count').textContent = positions.length + '/5';
         
-        // Total PnL
-        const totalPnl = positions.reduce((sum, p) => sum + parseFloat(p.position.unrealizedPnl || 0), 0);
         const pnlEl = document.getElementById('pnl');
         pnlEl.textContent = (totalPnl >= 0 ? '+' : '') + formatMoney(totalPnl);
         pnlEl.className = 'stat ' + (totalPnl >= 0 ? '' : 'negative');
         
-        // Prices
         document.getElementById('price-btc').textContent = formatPrice(parseFloat(mids.BTC || 0));
         document.getElementById('price-eth').textContent = formatPrice(parseFloat(mids.ETH || 0));
         document.getElementById('price-sol').textContent = formatPrice(parseFloat(mids.SOL || 0));
         
-        // Generate feed thoughts
-        generateThought(positions, mids, prevMids);
-        prevMids = { ...mids };
+        // Generate thoughts
+        generateThoughts(positions, mids);
         
-        // Positions list
+        // Positions
         const posEl = document.getElementById('positions');
         if (positions.length > 0) {
           posEl.innerHTML = positions.map(p => {
@@ -352,87 +318,53 @@
             const isLong = size > 0;
             const pnl = parseFloat(p.position.unrealizedPnl);
             const entry = parseFloat(p.position.entryPx);
+            const current = parseFloat(mids[p.position.coin] || entry);
             const lev = parseFloat(p.position.leverage?.value || 1);
-            const currentPrice = parseFloat(mids[p.position.coin] || entry);
             
-            return `
-              <div class="position">
-                <div class="position-header">
-                  <span class="position-coin">${p.position.coin}</span>
-                  <span class="position-side ${isLong ? 'long' : 'short'}">${isLong ? 'LONG' : 'SHORT'}</span>
-                </div>
-                <div class="position-details">
-                  <div class="position-detail">
-                    <label>Entry</label>
-                    <span>${formatPrice(entry)}</span>
-                  </div>
-                  <div class="position-detail">
-                    <label>Atual</label>
-                    <span>${formatPrice(currentPrice)}</span>
-                  </div>
-                  <div class="position-detail">
-                    <label>PnL</label>
-                    <span class="${pnl >= 0 ? 'pnl-positive' : 'pnl-negative'}">${pnl >= 0 ? '+' : ''}${formatMoney(pnl)}</span>
-                  </div>
-                  <div class="position-detail">
-                    <label>Lev</label>
-                    <span>${lev}x</span>
-                  </div>
-                </div>
+            return `<div class="position">
+              <div class="position-header">
+                <span class="position-coin">${p.position.coin}</span>
+                <span class="position-side ${isLong ? 'long' : 'short'}">${isLong ? 'LONG' : 'SHORT'}</span>
               </div>
-            `;
+              <div class="position-details">
+                <div class="position-detail"><label>Entry</label><span>${formatPrice(entry)}</span></div>
+                <div class="position-detail"><label>Atual</label><span>${formatPrice(current)}</span></div>
+                <div class="position-detail"><label>PnL</label><span class="${pnl >= 0 ? 'pnl-positive' : 'pnl-negative'}">${pnl >= 0 ? '+' : ''}${formatMoney(pnl)}</span></div>
+                <div class="position-detail"><label>Lev</label><span>${lev}x</span></div>
+              </div>
+            </div>`;
           }).join('');
         } else {
-          posEl.innerHTML = '<div style="color: #666; text-align: center; padding: 20px;">Nenhuma posição aberta</div>';
+          posEl.innerHTML = '<div style="color:#666;text-align:center;padding:20px">Sem posições</div>';
         }
         
         // Trades
         const tradesEl = document.getElementById('trades');
-        const recentFills = (fills || []).slice(0, 15);
-        if (recentFills.length > 0) {
-          tradesEl.innerHTML = `
-            <div class="trade-item">
-              <span>Data</span>
-              <span>Coin</span>
-              <span>Side</span>
-              <span>Price</span>
-            </div>
-            ${recentFills.map(f => {
+        const recent = (fills || []).slice(0, 10);
+        if (recent.length > 0) {
+          tradesEl.innerHTML = `<div class="trade-item"><span>Data</span><span>Coin</span><span>Side</span><span>Price</span></div>` +
+            recent.map(f => {
               const date = new Date(f.time).toLocaleString('pt-BR', { day: '2-digit', month: '2-digit', hour: '2-digit', minute: '2-digit' });
               const isBuy = f.side === 'B';
-              return `
-                <div class="trade-item">
-                  <span>${date}</span>
-                  <span>${f.coin}</span>
-                  <span class="${isBuy ? 'trade-buy' : 'trade-sell'}">${isBuy ? 'BUY' : 'SELL'}</span>
-                  <span>${formatPrice(parseFloat(f.px))}</span>
-                </div>
-              `;
-            }).join('')}
-          `;
+              return `<div class="trade-item"><span>${date}</span><span>${f.coin}</span><span class="${isBuy ? 'trade-buy' : 'trade-sell'}">${isBuy ? 'BUY' : 'SELL'}</span><span>${formatPrice(parseFloat(f.px))}</span></div>`;
+            }).join('');
         } else {
-          tradesEl.innerHTML = '<div style="color: #666; text-align: center; padding: 20px;">Nenhum trade ainda</div>';
+          tradesEl.innerHTML = '<div style="color:#666;text-align:center;padding:20px">Sem trades</div>';
         }
         
         // Feed
         const feedEl = document.getElementById('feed');
-        if (feedItems.length > 0) {
-          feedEl.innerHTML = feedItems.map(f => `
-            <div class="feed-item">
-              <span class="feed-time">[${f.time}]</span>
-              <span class="feed-msg">${f.msg}</span>
-            </div>
-          `).join('');
-        } else {
-          feedEl.innerHTML = '<div style="color: #666; text-align: center; padding: 20px;">Aguardando dados...</div>';
-        }
+        feedEl.innerHTML = feedItems.length > 0 
+          ? feedItems.map(f => `<div class="feed-item"><span class="feed-time">[${f.time}]</span> ${f.msg}</div>`).join('')
+          : '<div style="color:#666;text-align:center;padding:20px">Aguardando...</div>';
         
-        document.getElementById('last-update').textContent = new Date().toLocaleTimeString('pt-BR');
+        document.getElementById('last-update').textContent = formatTime();
         
-      } catch (e) {
-        console.error('Error:', e);
-      }
+      } catch (e) { console.error(e); }
     }
+    
+    // Initial thought
+    addThought('ℹ️ QuickBot Dashboard conectado!');
     
     fetchData();
     setInterval(fetchData, 5000);
