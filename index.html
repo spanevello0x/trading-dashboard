@@ -59,6 +59,49 @@
     .status-online { background: #00c853; color: #000; }
     .status-offline { background: #ff5252; }
     
+    .feed-container {
+      background: rgba(0,0,0,0.3);
+      border-radius: 12px;
+      padding: 16px;
+      max-height: 300px;
+      overflow-y: auto;
+    }
+    .feed-item {
+      padding: 12px;
+      margin-bottom: 8px;
+      background: rgba(255,255,255,0.05);
+      border-radius: 8px;
+      border-left: 3px solid #7b2cbf;
+      font-size: 0.9rem;
+    }
+    .feed-item.signal { border-left-color: #00c853; background: rgba(0,200,83,0.1); }
+    .feed-item.warning { border-left-color: #ffd600; }
+    .feed-item .time { color: #666; font-size: 0.75rem; margin-bottom: 4px; }
+    .feed-item .msg { line-height: 1.4; }
+    
+    .scan-status {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 10px;
+      padding: 10px;
+      background: rgba(0,212,255,0.1);
+      border-radius: 8px;
+      margin-bottom: 15px;
+      font-size: 0.85rem;
+    }
+    .scan-status .pulse {
+      width: 10px;
+      height: 10px;
+      background: #00d4ff;
+      border-radius: 50%;
+      animation: pulse 2s infinite;
+    }
+    @keyframes pulse {
+      0%, 100% { opacity: 1; transform: scale(1); }
+      50% { opacity: 0.5; transform: scale(1.2); }
+    }
+    
     .grid {
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
@@ -206,6 +249,13 @@
       <span id="status-badge" class="status-badge status-offline">Carregando...</span>
     </header>
     
+    <div class="scan-status">
+      <div class="pulse"></div>
+      <span>Última análise: <strong id="last-scan">--</strong></span>
+      <span style="color: #666;">|</span>
+      <span>Próxima em: <strong id="next-scan">30s</strong></span>
+    </div>
+    
     <div id="prices" class="prices">
       <div class="price-item"><div class="coin">BTC</div><div class="price" id="price-btc">--</div></div>
       <div class="price-item"><div class="coin">ETH</div><div class="price" id="price-eth">--</div></div>
@@ -226,7 +276,7 @@
     // Bot config (static)
     const CONFIG = {
       setup: 'Pullback to Swing',
-      timeframe: '5m',
+      timeframes: '1m, 5m, 15m',
       maxTrades: 5,
       maxLeverage: 5,
       positionPct: 20,
@@ -281,6 +331,156 @@
       });
       return res.json();
     }
+    
+    // Feed de análise
+    let feedMessages = [];
+    const MAX_FEED = 10;
+    
+    function addFeed(msg, type = 'info') {
+      const time = new Date().toLocaleTimeString('pt-BR');
+      feedMessages.unshift({ time, msg, type });
+      if (feedMessages.length > MAX_FEED) feedMessages.pop();
+    }
+    
+    function renderFeed() {
+      if (feedMessages.length === 0) return '<p style="color:#666;text-align:center;">Aguardando análises...</p>';
+      return feedMessages.map(f => 
+        '<div class="feed-item ' + f.type + '">' +
+        '<div class="time">' + f.time + '</div>' +
+        '<div class="msg">' + f.msg + '</div>' +
+        '</div>'
+      ).join('');
+    }
+    
+    // Encontrar swing points
+    function findSwings(candles, lookback = 5) {
+      const swingHighs = [];
+      const swingLows = [];
+      
+      for (let i = lookback; i < candles.length - lookback; i++) {
+        let isHigh = true, isLow = true;
+        for (let j = i - lookback; j <= i + lookback; j++) {
+          if (j === i) continue;
+          if (candles[j].h >= candles[i].h) isHigh = false;
+          if (candles[j].l <= candles[i].l) isLow = false;
+        }
+        if (isHigh) swingHighs.push({ idx: i, price: candles[i].h });
+        if (isLow) swingLows.push({ idx: i, price: candles[i].l });
+      }
+      return { swingHighs, swingLows };
+    }
+    
+    // Analisar tendência e gerar insights
+    function analyzeMarket(coin, candles, timeframe) {
+      if (candles.length < 50) return null;
+      
+      const { swingHighs, swingLows } = findSwings(candles);
+      const recentHighs = swingHighs.filter(s => s.idx > candles.length - 60);
+      const recentLows = swingLows.filter(s => s.idx > candles.length - 60);
+      
+      if (recentHighs.length < 2 || recentLows.length < 2) return null;
+      
+      const lastHigh = recentHighs[recentHighs.length - 1].price;
+      const prevHigh = recentHighs[recentHighs.length - 2].price;
+      const lastLow = recentLows[recentLows.length - 1].price;
+      const prevLow = recentLows[recentLows.length - 2].price;
+      const price = candles[candles.length - 1].c;
+      
+      const uptrend = lastHigh > prevHigh && lastLow > prevLow;
+      const downtrend = lastHigh < prevHigh && lastLow < prevLow;
+      
+      // Calcular distância até swing
+      const distToLow = ((price - lastLow) / price * 100).toFixed(2);
+      const distToHigh = ((lastHigh - price) / price * 100).toFixed(2);
+      
+      return { 
+        coin, timeframe, price, 
+        lastHigh, lastLow, prevHigh, prevLow,
+        uptrend, downtrend, 
+        distToLow, distToHigh,
+        trend: uptrend ? 'UP' : downtrend ? 'DOWN' : 'RANGE'
+      };
+    }
+    
+    // Gerar mensagem de análise
+    function generateInsight(analysis) {
+      if (!analysis) return null;
+      
+      const { coin, timeframe, price, lastHigh, lastLow, trend, distToLow, distToHigh } = analysis;
+      const priceFmt = formatPrice(price);
+      const lowFmt = formatPrice(lastLow);
+      const highFmt = formatPrice(lastHigh);
+      
+      if (trend === 'UP') {
+        if (parseFloat(distToLow) < 1.5) {
+          return { msg: '🎯 <strong>' + coin + '</strong> [' + timeframe + '] em tendência de ALTA, tocando zona de pullback! Preço ' + priceFmt + ' próximo do swing low ' + lowFmt + ' (' + distToLow + '%). <span class="positive">Possível entrada LONG!</span>', type: 'signal' };
+        } else {
+          return { msg: '📈 <strong>' + coin + '</strong> [' + timeframe + '] em UPTREND. Preço atual ' + priceFmt + '. Aguardando pullback até ~' + lowFmt + ' (' + distToLow + '% de distância) para entrada LONG.', type: 'info' };
+        }
+      } else if (trend === 'DOWN') {
+        if (parseFloat(distToHigh) < 1.5) {
+          return { msg: '🎯 <strong>' + coin + '</strong> [' + timeframe + '] em tendência de BAIXA, tocando zona de pullback! Preço ' + priceFmt + ' próximo do swing high ' + highFmt + ' (' + distToHigh + '%). <span class="negative">Possível entrada SHORT!</span>', type: 'signal' };
+        } else {
+          return { msg: '📉 <strong>' + coin + '</strong> [' + timeframe + '] em DOWNTREND. Preço atual ' + priceFmt + '. Aguardando pullback até ~' + highFmt + ' (' + distToHigh + '% de distância) para entrada SHORT.', type: 'info' };
+        }
+      } else {
+        return { msg: '↔️ <strong>' + coin + '</strong> [' + timeframe + '] em RANGE. Preço ' + priceFmt + ' entre ' + lowFmt + ' e ' + highFmt + '. Sem tendência clara, aguardando definição.', type: 'warning' };
+      }
+    }
+    
+    // Fetch candles
+    async function fetchCandles(coin, interval, count = 100) {
+      const endTime = Date.now();
+      const ms = { '1m': 60000, '5m': 300000, '15m': 900000 };
+      const startTime = endTime - count * ms[interval];
+      
+      const data = await fetchHL('candleSnapshot', { 
+        req: { coin, interval, startTime, endTime }
+      });
+      
+      return data.map(c => ({
+        o: parseFloat(c.o), h: parseFloat(c.h), 
+        l: parseFloat(c.l), c: parseFloat(c.c)
+      }));
+    }
+    
+    // Analisar todos os mercados
+    async function analyzeAll() {
+      const timeframes = ['1m', '5m', '15m'];
+      const coins = ['BTC', 'ETH', 'SOL'];
+      const insights = [];
+      
+      for (const coin of coins) {
+        for (const tf of timeframes) {
+          try {
+            const candles = await fetchCandles(coin, tf);
+            const analysis = analyzeMarket(coin, candles, tf);
+            const insight = generateInsight(analysis);
+            if (insight) insights.push(insight);
+          } catch (e) { }
+        }
+      }
+      
+      // Priorizar sinais
+      insights.sort((a, b) => {
+        if (a.type === 'signal' && b.type !== 'signal') return -1;
+        if (b.type === 'signal' && a.type !== 'signal') return 1;
+        return 0;
+      });
+      
+      // Adicionar top 3 insights ao feed
+      insights.slice(0, 3).forEach(i => addFeed(i.msg, i.type));
+      
+      return insights;
+    }
+    
+    // Countdown timer
+    let nextScanIn = 30;
+    setInterval(() => {
+      nextScanIn--;
+      if (nextScanIn < 0) nextScanIn = 30;
+      document.getElementById('next-scan').textContent = nextScanIn + 's';
+    }, 1000);
     
     async function loadData() {
       try {
@@ -370,8 +570,8 @@
               <div class="setup-badge">${CONFIG.setup}</div>
               <div class="config-grid">
                 <div class="config-item">
-                  <div class="label">Timeframe</div>
-                  <div class="value">${CONFIG.timeframe}</div>
+                  <div class="label">Timeframes</div>
+                  <div class="value" style="font-size:0.9rem">${CONFIG.timeframes}</div>
                 </div>
                 <div class="config-item">
                   <div class="label">Max Trades</div>
@@ -407,6 +607,20 @@
             ${renderFills(fills)}
           </div>
         `;
+        
+        // Update last scan time
+        document.getElementById('last-scan').textContent = new Date().toLocaleTimeString('pt-BR');
+        nextScanIn = 30;
+        
+        // Run market analysis and update feed
+        await analyzeAll();
+        
+        // Add feed section after main content
+        const feedHtml = '<div class="card full-width" style="margin-top:20px;">' +
+          '<h2>🧠 Feed de Análise (Tempo Real)</h2>' +
+          '<div class="feed-container">' + renderFeed() + '</div>' +
+          '</div>';
+        document.getElementById('dashboard').innerHTML += feedHtml;
         
         document.getElementById('update-time').textContent = 'Última atualização: ' + new Date().toLocaleString('pt-BR');
         
