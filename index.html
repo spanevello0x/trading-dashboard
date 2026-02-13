@@ -3,622 +3,335 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>🎯 Pullback Trading Bot</title>
+  <title>Trading Bot Dashboard</title>
   <style>
     * { margin: 0; padding: 0; box-sizing: border-box; }
-    
     body {
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      font-family: 'Segoe UI', system-ui, sans-serif;
       background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
-      color: #fff;
+      color: #e4e4e4;
       min-height: 100vh;
       padding: 20px;
     }
-    
-    .main-layout {
-      display: grid;
-      grid-template-columns: 1fr 380px;
-      gap: 20px;
-      max-width: 1600px;
-      margin: 0 auto;
-    }
-    
-    @media (max-width: 1100px) {
-      .main-layout {
-        grid-template-columns: 1fr;
-      }
-      .feed-sidebar { order: -1; }
-    }
-    
-    .content-area { min-width: 0; }
-    
-    header {
+    .container { max-width: 1400px; margin: 0 auto; }
+    h1 {
       text-align: center;
-      margin-bottom: 20px;
-      padding: 20px;
-      background: rgba(255,255,255,0.05);
-      border-radius: 16px;
-      border: 1px solid rgba(255,255,255,0.1);
-    }
-    
-    header h1 {
+      margin-bottom: 30px;
       font-size: 2rem;
-      margin-bottom: 10px;
-      background: linear-gradient(90deg, #00d4ff, #7b2cbf);
+      background: linear-gradient(90deg, #00d9ff, #00ff88);
       -webkit-background-clip: text;
       -webkit-text-fill-color: transparent;
-      background-clip: text;
     }
-    
-    .wallet-link {
-      display: inline-block;
-      background: rgba(255,255,255,0.1);
-      color: #00d4ff;
-      padding: 6px 12px;
-      border-radius: 8px;
-      margin: 8px 0;
-      text-decoration: none;
-      font-family: monospace;
-      font-size: 0.8rem;
-    }
-    .wallet-link:hover { background: rgba(255,255,255,0.2); }
-    
-    .status-badge {
-      display: inline-block;
-      padding: 6px 14px;
-      border-radius: 20px;
-      font-size: 0.85rem;
-      font-weight: 600;
-    }
-    .status-online { background: #00c853; color: #000; }
-    .status-offline { background: #ff5252; }
-    
-    /* Feed Sidebar */
-    .feed-sidebar {
-      background: rgba(255,255,255,0.05);
-      border-radius: 16px;
-      border: 1px solid rgba(255,255,255,0.1);
-      padding: 20px;
-      height: fit-content;
-      position: sticky;
-      top: 20px;
-    }
-    
-    .feed-header {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      margin-bottom: 15px;
-      padding-bottom: 15px;
-      border-bottom: 1px solid rgba(255,255,255,0.1);
-    }
-    
-    .feed-header h2 {
-      font-size: 1rem;
-      color: #fff;
-      display: flex;
-      align-items: center;
-      gap: 8px;
-    }
-    
-    .feed-status {
-      font-size: 0.75rem;
-      color: #888;
-    }
-    
-    .feed-container {
-      max-height: 600px;
-      overflow-y: auto;
-    }
-    
-    .feed-item {
-      padding: 12px;
-      margin-bottom: 10px;
-      background: rgba(0,0,0,0.3);
-      border-radius: 10px;
-      border-left: 3px solid #7b2cbf;
-      font-size: 0.85rem;
-      animation: fadeIn 0.3s ease;
-    }
-    
-    @keyframes fadeIn {
-      from { opacity: 0; transform: translateY(-10px); }
-      to { opacity: 1; transform: translateY(0); }
-    }
-    
-    .feed-item.signal { border-left-color: #00c853; background: rgba(0,200,83,0.15); }
-    .feed-item.warning { border-left-color: #ffd600; background: rgba(255,214,0,0.1); }
-    .feed-item .time { color: #666; font-size: 0.7rem; margin-bottom: 6px; }
-    .feed-item .msg { line-height: 1.5; }
-    
-    .scan-status {
-      display: flex;
-      align-items: center;
-      gap: 8px;
-      padding: 8px 12px;
-      background: rgba(0,212,255,0.1);
-      border-radius: 8px;
-      margin-bottom: 15px;
-      font-size: 0.8rem;
-    }
-    .pulse {
-      width: 8px;
-      height: 8px;
-      background: #00d4ff;
-      border-radius: 50%;
-      animation: pulse 2s infinite;
-    }
-    @keyframes pulse {
-      0%, 100% { opacity: 1; transform: scale(1); }
-      50% { opacity: 0.5; transform: scale(1.3); }
-    }
-    
     .grid {
       display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-      gap: 15px;
-      margin-bottom: 15px;
+      grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+      gap: 20px;
     }
-    
     .card {
       background: rgba(255,255,255,0.05);
       border-radius: 16px;
       padding: 20px;
       border: 1px solid rgba(255,255,255,0.1);
     }
-    
     .card h2 {
-      font-size: 0.85rem;
+      font-size: 1rem;
       color: #888;
-      margin-bottom: 14px;
+      margin-bottom: 15px;
       text-transform: uppercase;
       letter-spacing: 1px;
     }
+    .stat {
+      font-size: 2rem;
+      font-weight: bold;
+      color: #00ff88;
+    }
+    .stat.negative { color: #ff4757; }
+    .stat-label { font-size: 0.9rem; color: #666; }
     
-    .big-number {
-      font-size: 2.2rem;
-      font-weight: 700;
-      margin-bottom: 8px;
-    }
-    
-    .positive { color: #00c853; }
-    .negative { color: #ff5252; }
-    .neutral { color: #ffd600; }
-    
-    .stat-row {
-      display: flex;
-      justify-content: space-between;
-      padding: 10px 0;
-      border-bottom: 1px solid rgba(255,255,255,0.1);
-    }
-    .stat-row:last-child { border-bottom: none; }
-    .stat-label { color: #888; font-size: 0.9rem; }
-    .stat-value { font-weight: 600; }
-    
-    .prices {
-      display: flex;
-      gap: 12px;
-      justify-content: center;
-      flex-wrap: wrap;
-      margin-bottom: 15px;
-    }
-    
-    .price-item {
-      text-align: center;
-      padding: 10px 18px;
-      background: rgba(255,255,255,0.05);
-      border-radius: 10px;
-      min-width: 100px;
-    }
-    .price-item .coin { font-size: 0.8rem; color: #888; }
-    .price-item .price { font-size: 1.2rem; font-weight: 600; }
-    
-    .positions-table {
-      width: 100%;
-      border-collapse: collapse;
-      font-size: 0.9rem;
-    }
-    .positions-table th {
-      text-align: left;
-      padding: 10px;
-      color: #888;
-      font-size: 0.75rem;
-      border-bottom: 1px solid rgba(255,255,255,0.1);
-    }
-    .positions-table td {
-      padding: 10px;
-      border-bottom: 1px solid rgba(255,255,255,0.05);
-    }
-    
-    .side-long { 
-      background: rgba(0,200,83,0.2); 
-      color: #00c853;
-      padding: 3px 6px;
-      border-radius: 4px;
-      font-size: 0.75rem;
-    }
-    .side-short { 
-      background: rgba(255,82,82,0.2); 
-      color: #ff5252;
-      padding: 3px 6px;
-      border-radius: 4px;
-      font-size: 0.75rem;
-    }
-    
-    .config-grid {
-      display: grid;
-      grid-template-columns: repeat(3, 1fr);
-      gap: 8px;
-    }
-    .config-item {
-      background: rgba(255,255,255,0.05);
-      padding: 8px;
+    .position {
+      background: rgba(255,255,255,0.03);
       border-radius: 8px;
-      text-align: center;
-    }
-    .config-item .label { font-size: 0.7rem; color: #888; }
-    .config-item .value { font-size: 1rem; font-weight: 600; margin-top: 2px; }
-    
-    .setup-badge {
-      background: linear-gradient(90deg, #00d4ff, #7b2cbf);
-      padding: 5px 10px;
-      border-radius: 6px;
-      font-weight: 600;
-      font-size: 0.8rem;
-      display: inline-block;
+      padding: 15px;
       margin-bottom: 10px;
     }
+    .position-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 10px;
+    }
+    .position-coin { font-size: 1.2rem; font-weight: bold; }
+    .position-side {
+      padding: 4px 12px;
+      border-radius: 20px;
+      font-size: 0.8rem;
+      font-weight: bold;
+    }
+    .position-side.long { background: rgba(0,255,136,0.2); color: #00ff88; }
+    .position-side.short { background: rgba(255,71,87,0.2); color: #ff4757; }
+    .position-details {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 10px;
+      font-size: 0.85rem;
+    }
+    .position-detail label { color: #666; display: block; }
+    .position-detail span { color: #fff; }
+    .pnl-positive { color: #00ff88; }
+    .pnl-negative { color: #ff4757; }
     
-    .full-width { grid-column: 1 / -1; }
-    
-    .update-time {
+    .prices {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 15px;
       text-align: center;
-      color: #666;
-      font-size: 0.75rem;
-      margin-top: 15px;
+    }
+    .price-item {
+      background: rgba(255,255,255,0.03);
+      padding: 15px;
+      border-radius: 8px;
+    }
+    .price-coin { font-weight: bold; color: #888; }
+    .price-value { font-size: 1.3rem; margin-top: 5px; }
+    
+    .stats-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 15px;
+      text-align: center;
     }
     
-    .loading { text-align: center; padding: 40px; color: #888; }
+    .trades-table {
+      width: 100%;
+      font-size: 0.85rem;
+    }
+    .trades-table th {
+      text-align: left;
+      padding: 8px;
+      color: #666;
+      border-bottom: 1px solid rgba(255,255,255,0.1);
+    }
+    .trades-table td {
+      padding: 8px;
+      border-bottom: 1px solid rgba(255,255,255,0.05);
+    }
+    .trade-buy { color: #00ff88; }
+    .trade-sell { color: #ff4757; }
     
-    @media (max-width: 768px) {
-      header h1 { font-size: 1.5rem; }
-      .big-number { font-size: 1.8rem; }
+    .refresh-info {
+      text-align: center;
+      color: #666;
+      font-size: 0.8rem;
+      margin-top: 20px;
+    }
+    
+    .explorer-link {
+      text-align: center;
+      margin-top: 10px;
+    }
+    .explorer-link a {
+      color: #00d9ff;
+      text-decoration: none;
+    }
+    .explorer-link a:hover { text-decoration: underline; }
+    
+    @media (max-width: 600px) {
       .grid { grid-template-columns: 1fr; }
-      .config-grid { grid-template-columns: repeat(2, 1fr); }
-      .wallet-link { font-size: 0.65rem; }
+      .position-details { grid-template-columns: repeat(2, 1fr); }
+      .stats-grid, .prices { grid-template-columns: 1fr; }
     }
   </style>
 </head>
 <body>
-  <div class="main-layout">
-    <!-- Main Content -->
-    <div class="content-area">
-      <header>
-        <h1>🎯 Pullback to Swing Bot</h1>
-        <p style="color: #888; margin-bottom: 8px; font-size: 0.9rem;">Trading automatizado no Hyperliquid</p>
-        <a href="https://hypurrscan.io/address/0x4FFf1187E66b66bC8E31886F2b861f951736a276#txs" 
-           target="_blank" class="wallet-link">
-          📍 0x4FFf1187E66b66bC8E31886F2b861f951736a276
-        </a>
-        <br>
-        <span id="status-badge" class="status-badge status-offline">Carregando...</span>
-      </header>
-      
-      <div class="prices">
-        <div class="price-item"><div class="coin">BTC</div><div class="price" id="price-btc">--</div></div>
-        <div class="price-item"><div class="coin">ETH</div><div class="price" id="price-eth">--</div></div>
-        <div class="price-item"><div class="coin">SOL</div><div class="price" id="price-sol">--</div></div>
+  <div class="container">
+    <h1>🤖 Backbot Trading Dashboard</h1>
+    
+    <div class="grid">
+      <div class="card">
+        <h2>💰 Conta</h2>
+        <div class="stats-grid">
+          <div>
+            <div class="stat" id="balance">-</div>
+            <div class="stat-label">Balance</div>
+          </div>
+          <div>
+            <div class="stat" id="pnl">-</div>
+            <div class="stat-label">PnL Total</div>
+          </div>
+          <div>
+            <div class="stat" id="positions-count">-</div>
+            <div class="stat-label">Posições</div>
+          </div>
+        </div>
+        <div class="explorer-link">
+          <a href="https://hypurrscan.io/address/0x4FFf1187E66b66bC8E31886F2b861f951736a276" target="_blank">Ver no Explorer →</a>
+        </div>
       </div>
       
-      <div id="dashboard" class="loading">
-        <p>Carregando dados do Hyperliquid...</p>
+      <div class="card">
+        <h2>📊 Preços</h2>
+        <div class="prices">
+          <div class="price-item">
+            <div class="price-coin">BTC</div>
+            <div class="price-value" id="price-btc">-</div>
+          </div>
+          <div class="price-item">
+            <div class="price-coin">ETH</div>
+            <div class="price-value" id="price-eth">-</div>
+          </div>
+          <div class="price-item">
+            <div class="price-coin">SOL</div>
+            <div class="price-value" id="price-sol">-</div>
+          </div>
+        </div>
       </div>
       
-      <div class="update-time" id="update-time"></div>
+      <div class="card">
+        <h2>📈 Posições Abertas</h2>
+        <div id="positions">
+          <div style="color: #666; text-align: center; padding: 20px;">Carregando...</div>
+        </div>
+      </div>
+      
+      <div class="card">
+        <h2>📜 Últimos Trades</h2>
+        <div id="trades" style="max-height: 300px; overflow-y: auto;">
+          <div style="color: #666; text-align: center; padding: 20px;">Carregando...</div>
+        </div>
+      </div>
     </div>
     
-    <!-- Feed Sidebar -->
-    <div class="feed-sidebar">
-      <div class="feed-header">
-        <h2>🧠 Análise em Tempo Real</h2>
-      </div>
-      <div class="scan-status">
-        <div class="pulse"></div>
-        <span>Última: <strong id="last-scan">--</strong></span>
-        <span style="color: #555;">|</span>
-        <span>Próxima: <strong id="next-scan">30s</strong></span>
-      </div>
-      <div id="feed-container" class="feed-container">
-        <p style="color:#666;text-align:center;padding:20px;">Iniciando análise...</p>
-      </div>
+    <div class="refresh-info">
+      Atualização automática a cada 10 segundos | Última: <span id="last-update">-</span>
     </div>
   </div>
-  
+
   <script>
     const WALLET = '0x4FFf1187E66b66bC8E31886F2b861f951736a276';
     const HL_API = 'https://api.hyperliquid.xyz/info';
     
-    const CONFIG = {
-      setup: 'Pullback to Swing',
-      timeframes: '1m, 5m, 15m',
-      maxTrades: 5,
-      maxLeverage: 5,
-      positionPct: 20,
-      minRR: 1.5,
-      idealRR: 2,
-      coins: ['BTC', 'ETH', 'SOL']
-    };
-    
-    function formatMoney(v) { return '$' + parseFloat(v).toFixed(2); }
-    function formatPrice(v) {
-      const n = parseFloat(v);
-      return n >= 1000 ? '$' + n.toLocaleString('en-US', {minimumFractionDigits: 2, maximumFractionDigits: 2}) : '$' + n.toFixed(2);
+    function formatMoney(n) { return '$' + n.toFixed(2); }
+    function formatPrice(n) {
+      if (n >= 10000) return '$' + n.toFixed(0);
+      return '$' + n.toFixed(2);
     }
     
-    // ============================================
-    // FEED MANAGEMENT (Persistent)
-    // ============================================
-    let feedMessages = [];
-    const MAX_FEED = 15;
-    let lastInsightHashes = new Set();
-    
-    function hashInsight(msg) {
-      // Simple hash to detect duplicates
-      return msg.replace(/<[^>]*>/g, '').substring(0, 100);
-    }
-    
-    function addFeed(msg, type = 'info') {
-      const hash = hashInsight(msg);
-      // Don't add if same insight already exists recently
-      if (lastInsightHashes.has(hash)) return;
-      
-      const time = new Date().toLocaleTimeString('pt-BR');
-      feedMessages.unshift({ time, msg, type, hash });
-      lastInsightHashes.add(hash);
-      
-      if (feedMessages.length > MAX_FEED) {
-        const removed = feedMessages.pop();
-        lastInsightHashes.delete(removed.hash);
-      }
-      
-      renderFeed();
-    }
-    
-    function renderFeed() {
-      const container = document.getElementById('feed-container');
-      if (feedMessages.length === 0) {
-        container.innerHTML = '<p style="color:#666;text-align:center;padding:20px;">Aguardando análises...</p>';
-        return;
-      }
-      container.innerHTML = feedMessages.map(f => 
-        '<div class="feed-item ' + f.type + '">' +
-        '<div class="time">' + f.time + '</div>' +
-        '<div class="msg">' + f.msg + '</div>' +
-        '</div>'
-      ).join('');
-    }
-    
-    // ============================================
-    // TECHNICAL ANALYSIS
-    // ============================================
-    function findSwings(candles, lookback = 5) {
-      const swingHighs = [], swingLows = [];
-      for (let i = lookback; i < candles.length - lookback; i++) {
-        let isHigh = true, isLow = true;
-        for (let j = i - lookback; j <= i + lookback; j++) {
-          if (j === i) continue;
-          if (candles[j].h >= candles[i].h) isHigh = false;
-          if (candles[j].l <= candles[i].l) isLow = false;
-        }
-        if (isHigh) swingHighs.push({ idx: i, price: candles[i].h });
-        if (isLow) swingLows.push({ idx: i, price: candles[i].l });
-      }
-      return { swingHighs, swingLows };
-    }
-    
-    function analyzeMarket(coin, candles, timeframe) {
-      if (candles.length < 50) return null;
-      
-      const { swingHighs, swingLows } = findSwings(candles);
-      const recentHighs = swingHighs.filter(s => s.idx > candles.length - 60);
-      const recentLows = swingLows.filter(s => s.idx > candles.length - 60);
-      
-      if (recentHighs.length < 2 || recentLows.length < 2) return null;
-      
-      const lastHigh = recentHighs[recentHighs.length - 1].price;
-      const prevHigh = recentHighs[recentHighs.length - 2].price;
-      const lastLow = recentLows[recentLows.length - 1].price;
-      const prevLow = recentLows[recentLows.length - 2].price;
-      const price = candles[candles.length - 1].c;
-      
-      const uptrend = lastHigh > prevHigh && lastLow > prevLow;
-      const downtrend = lastHigh < prevHigh && lastLow < prevLow;
-      
-      const distToLow = ((price - lastLow) / price * 100).toFixed(2);
-      const distToHigh = ((lastHigh - price) / price * 100).toFixed(2);
-      
-      return { coin, timeframe, price, lastHigh, lastLow, uptrend, downtrend, distToLow, distToHigh };
-    }
-    
-    function generateInsight(a) {
-      if (!a) return null;
-      const p = formatPrice(a.price), low = formatPrice(a.lastLow), high = formatPrice(a.lastHigh);
-      
-      if (a.uptrend) {
-        if (parseFloat(a.distToLow) < 1.5) {
-          return { msg: '🎯 <strong>' + a.coin + '</strong> [' + a.timeframe + '] UPTREND tocando pullback zone! ' + p + ' próximo de ' + low + ' (' + a.distToLow + '%). <span class="positive">Zona de LONG!</span>', type: 'signal' };
-        }
-        return { msg: '📈 <strong>' + a.coin + '</strong> [' + a.timeframe + '] UPTREND. Preço ' + p + '. Pullback target: ' + low + ' (-' + a.distToLow + '%)', type: 'info' };
-      } else if (a.downtrend) {
-        if (parseFloat(a.distToHigh) < 1.5) {
-          return { msg: '🎯 <strong>' + a.coin + '</strong> [' + a.timeframe + '] DOWNTREND tocando pullback zone! ' + p + ' próximo de ' + high + ' (' + a.distToHigh + '%). <span class="negative">Zona de SHORT!</span>', type: 'signal' };
-        }
-        return { msg: '📉 <strong>' + a.coin + '</strong> [' + a.timeframe + '] DOWNTREND. Preço ' + p + '. Pullback target: ' + high + ' (+' + a.distToHigh + '%)', type: 'info' };
-      }
-      return { msg: '↔️ <strong>' + a.coin + '</strong> [' + a.timeframe + '] RANGE entre ' + low + ' e ' + high + '. Sem tendência definida.', type: 'warning' };
-    }
-    
-    async function fetchCandles(coin, interval, count = 100) {
-      const endTime = Date.now();
-      const ms = { '1m': 60000, '5m': 300000, '15m': 900000 };
-      const startTime = endTime - count * ms[interval];
-      const data = await fetchHL('candleSnapshot', { req: { coin, interval, startTime, endTime } });
-      return data.map(c => ({ o: parseFloat(c.o), h: parseFloat(c.h), l: parseFloat(c.l), c: parseFloat(c.c) }));
-    }
-    
-    async function analyzeAll() {
-      const timeframes = ['5m', '15m', '1m']; // Order by priority
-      const coins = ['BTC', 'ETH', 'SOL'];
-      const insights = [];
-      
-      for (const coin of coins) {
-        for (const tf of timeframes) {
-          try {
-            const candles = await fetchCandles(coin, tf);
-            const analysis = analyzeMarket(coin, candles, tf);
-            const insight = generateInsight(analysis);
-            if (insight) insights.push(insight);
-          } catch (e) { console.error(coin, tf, e); }
-        }
-      }
-      
-      // Sort: signals first
-      insights.sort((a, b) => (a.type === 'signal' ? -1 : 1) - (b.type === 'signal' ? -1 : 1));
-      
-      // Add only new/changed insights (max 2 per cycle to avoid spam)
-      let added = 0;
-      for (const i of insights) {
-        if (added >= 2) break;
-        const hash = hashInsight(i.msg);
-        if (!lastInsightHashes.has(hash)) {
-          addFeed(i.msg, i.type);
-          added++;
-        }
-      }
-      
-      // If nothing new but we have signals, mention we're still watching
-      if (added === 0 && insights.some(i => i.type === 'signal')) {
-        // Don't add duplicate "still watching" messages
-      }
-    }
-    
-    // ============================================
-    // COUNTDOWN TIMER
-    // ============================================
-    let nextScanIn = 30;
-    setInterval(() => {
-      nextScanIn--;
-      if (nextScanIn < 0) nextScanIn = 30;
-      document.getElementById('next-scan').textContent = nextScanIn + 's';
-    }, 1000);
-    
-    // ============================================
-    // FILLS RENDERER
-    // ============================================
-    function renderFills(fills) {
-      if (!fills || fills.length === 0) {
-        return '<p style="color: #888; text-align: center; padding: 20px;">Nenhum trade registrado</p>';
-      }
-      let rows = fills.slice(0, 10).map(f => {
-        const isLong = f.side === 'B';
-        const pnl = parseFloat(f.closedPnl || 0);
-        const time = new Date(f.time).toLocaleString('pt-BR');
-        return '<tr><td style="font-size:0.75rem;">' + time + '</td><td><strong>' + f.coin + '</strong></td>' +
-          '<td><span class="side-' + (isLong ? 'long' : 'short') + '">' + (f.dir || (isLong ? 'BUY' : 'SELL')) + '</span></td>' +
-          '<td>' + formatPrice(f.px) + '</td><td>' + f.sz + '</td>' +
-          '<td class="' + (pnl >= 0 ? 'positive' : 'negative') + '">' + (pnl !== 0 ? (pnl >= 0 ? '+' : '') + formatMoney(pnl) : '-') + '</td></tr>';
-      }).join('');
-      return '<table class="positions-table"><thead><tr><th>Data</th><th>Ativo</th><th>Tipo</th><th>Preço</th><th>Size</th><th>PnL</th></tr></thead><tbody>' + rows + '</tbody></table>';
-    }
-    
-    // ============================================
-    // API FETCH
-    // ============================================
-    async function fetchHL(type, params = {}) {
+    async function hlPost(body) {
       const res = await fetch(HL_API, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ type, ...params })
+        body: JSON.stringify(body)
       });
       return res.json();
     }
     
-    // ============================================
-    // MAIN DATA LOADER
-    // ============================================
-    async function loadData() {
+    async function fetchData() {
       try {
         const [account, mids, fills] = await Promise.all([
-          fetchHL('clearinghouseState', { user: WALLET }),
-          fetchHL('allMids'),
-          fetchHL('userFills', { user: WALLET })
+          hlPost({ type: 'clearinghouseState', user: WALLET }),
+          hlPost({ type: 'allMids' }),
+          hlPost({ type: 'userFills', user: WALLET })
         ]);
         
-        document.getElementById('price-btc').textContent = formatPrice(mids['BTC'] || 0);
-        document.getElementById('price-eth').textContent = formatPrice(mids['ETH'] || 0);
-        document.getElementById('price-sol').textContent = formatPrice(mids['SOL'] || 0);
+        // Balance
+        const balance = parseFloat(account.marginSummary?.accountValue || 0);
+        document.getElementById('balance').textContent = formatMoney(balance);
         
-        const value = parseFloat(account.marginSummary?.accountValue || 0);
-        const withdrawable = parseFloat(account.withdrawable || 0);
-        const marginUsed = parseFloat(account.marginSummary?.totalMarginUsed || 0);
+        // Positions
         const positions = account.assetPositions || [];
+        document.getElementById('positions-count').textContent = positions.length + '/5';
         
-        document.getElementById('status-badge').className = 'status-badge status-online';
-        document.getElementById('status-badge').textContent = '🟢 Online';
+        // Total PnL
+        const totalPnl = positions.reduce((sum, p) => sum + parseFloat(p.position.unrealizedPnl || 0), 0);
+        const pnlEl = document.getElementById('pnl');
+        pnlEl.textContent = (totalPnl >= 0 ? '+' : '') + formatMoney(totalPnl);
+        pnlEl.className = 'stat ' + (totalPnl >= 0 ? '' : 'negative');
         
-        const pnlClass = value >= 15 ? 'positive' : value >= 10 ? 'neutral' : 'negative';
+        // Prices
+        document.getElementById('price-btc').textContent = formatPrice(parseFloat(mids.BTC || 0));
+        document.getElementById('price-eth').textContent = formatPrice(parseFloat(mids.ETH || 0));
+        document.getElementById('price-sol').textContent = formatPrice(parseFloat(mids.SOL || 0));
         
-        let positionsHtml = '<p style="color: #888; text-align: center; padding: 15px;">Nenhuma posição aberta</p>';
+        // Positions list
+        const posEl = document.getElementById('positions');
         if (positions.length > 0) {
-          positionsHtml = '<table class="positions-table"><thead><tr><th>Ativo</th><th>Lado</th><th>Size</th><th>Entrada</th><th>PnL</th><th>Lev</th></tr></thead><tbody>' +
-            positions.map(p => {
-              const pos = p.position;
-              const size = parseFloat(pos.szi);
-              const isLong = size > 0;
-              const pnl = parseFloat(pos.unrealizedPnl || 0);
-              return '<tr><td><strong>' + pos.coin + '</strong></td><td><span class="side-' + (isLong ? 'long' : 'short') + '">' + (isLong ? 'LONG' : 'SHORT') + '</span></td>' +
-                '<td>' + Math.abs(size).toFixed(4) + '</td><td>' + formatPrice(pos.entryPx) + '</td>' +
-                '<td class="' + (pnl >= 0 ? 'positive' : 'negative') + '">' + (pnl >= 0 ? '+' : '') + formatMoney(pnl) + '</td>' +
-                '<td>' + (pos.leverage?.value || 1) + 'x</td></tr>';
-            }).join('') + '</tbody></table>';
+          posEl.innerHTML = positions.map(p => {
+            const size = parseFloat(p.position.szi);
+            const isLong = size > 0;
+            const pnl = parseFloat(p.position.unrealizedPnl);
+            const entry = parseFloat(p.position.entryPx);
+            const lev = parseFloat(p.position.leverage?.value || 1);
+            
+            return `
+              <div class="position">
+                <div class="position-header">
+                  <span class="position-coin">${p.position.coin}</span>
+                  <span class="position-side ${isLong ? 'long' : 'short'}">${isLong ? 'LONG' : 'SHORT'}</span>
+                </div>
+                <div class="position-details">
+                  <div class="position-detail">
+                    <label>Entry</label>
+                    <span>${formatPrice(entry)}</span>
+                  </div>
+                  <div class="position-detail">
+                    <label>Size</label>
+                    <span>${Math.abs(size).toFixed(4)}</span>
+                  </div>
+                  <div class="position-detail">
+                    <label>PnL</label>
+                    <span class="${pnl >= 0 ? 'pnl-positive' : 'pnl-negative'}">${pnl >= 0 ? '+' : ''}${formatMoney(pnl)}</span>
+                  </div>
+                  <div class="position-detail">
+                    <label>Leverage</label>
+                    <span>${lev}x</span>
+                  </div>
+                </div>
+              </div>
+            `;
+          }).join('');
+        } else {
+          posEl.innerHTML = '<div style="color: #666; text-align: center; padding: 20px;">Nenhuma posição aberta</div>';
         }
         
-        document.getElementById('dashboard').innerHTML = 
-          '<div class="grid">' +
-            '<div class="card"><h2>💰 Conta</h2><div class="big-number ' + pnlClass + '">' + formatMoney(value) + '</div>' +
-            '<div class="stat-row"><span class="stat-label">Disponível</span><span class="stat-value">' + formatMoney(withdrawable) + '</span></div>' +
-            '<div class="stat-row"><span class="stat-label">Margem</span><span class="stat-value">' + formatMoney(marginUsed) + '</span></div>' +
-            '<div class="stat-row"><span class="stat-label">Posições</span><span class="stat-value">' + positions.length + '/' + CONFIG.maxTrades + '</span></div></div>' +
-            '<div class="card"><h2>⚙️ Setup</h2><div class="setup-badge">' + CONFIG.setup + '</div>' +
-            '<div class="config-grid">' +
-            '<div class="config-item"><div class="label">Timeframes</div><div class="value" style="font-size:0.85rem">' + CONFIG.timeframes + '</div></div>' +
-            '<div class="config-item"><div class="label">Leverage</div><div class="value">' + CONFIG.maxLeverage + 'x</div></div>' +
-            '<div class="config-item"><div class="label">Por Trade</div><div class="value">' + CONFIG.positionPct + '%</div></div>' +
-            '<div class="config-item"><div class="label">Max Trades</div><div class="value">' + CONFIG.maxTrades + '</div></div>' +
-            '<div class="config-item"><div class="label">RR Min</div><div class="value">' + CONFIG.minRR + ':1</div></div>' +
-            '<div class="config-item"><div class="label">RR Ideal</div><div class="value">' + CONFIG.idealRR + ':1</div></div>' +
-            '</div></div></div>' +
-          '<div class="card full-width"><h2>📈 Posições Abertas</h2>' + positionsHtml + '</div>' +
-          '<div class="card full-width"><h2>📜 Histórico de Trades</h2>' + renderFills(fills) + '</div>';
+        // Trades
+        const tradesEl = document.getElementById('trades');
+        const recentFills = (fills || []).slice(0, 20);
+        if (recentFills.length > 0) {
+          tradesEl.innerHTML = `
+            <table class="trades-table">
+              <thead>
+                <tr><th>Data</th><th>Coin</th><th>Side</th><th>Size</th><th>Price</th></tr>
+              </thead>
+              <tbody>
+                ${recentFills.map(f => {
+                  const date = new Date(f.time).toLocaleString('pt-BR', { day: '2-digit', month: '2-digit', hour: '2-digit', minute: '2-digit' });
+                  const isBuy = f.side === 'B';
+                  return `
+                    <tr>
+                      <td>${date}</td>
+                      <td>${f.coin}</td>
+                      <td class="${isBuy ? 'trade-buy' : 'trade-sell'}">${isBuy ? 'BUY' : 'SELL'}</td>
+                      <td>${f.sz}</td>
+                      <td>${formatPrice(parseFloat(f.px))}</td>
+                    </tr>
+                  `;
+                }).join('')}
+              </tbody>
+            </table>
+          `;
+        } else {
+          tradesEl.innerHTML = '<div style="color: #666; text-align: center; padding: 20px;">Nenhum trade ainda</div>';
+        }
         
-        document.getElementById('last-scan').textContent = new Date().toLocaleTimeString('pt-BR');
-        nextScanIn = 30;
-        
-        // Run analysis (updates feed separately)
-        await analyzeAll();
-        
-        document.getElementById('update-time').textContent = 'Atualizado: ' + new Date().toLocaleString('pt-BR');
+        document.getElementById('last-update').textContent = new Date().toLocaleTimeString('pt-BR');
         
       } catch (e) {
-        console.error(e);
-        document.getElementById('status-badge').className = 'status-badge status-offline';
-        document.getElementById('status-badge').textContent = '🔴 Erro';
+        console.error('Error:', e);
       }
     }
     
-    // Initial load + refresh every 30s
-    loadData();
-    setInterval(loadData, 30000);
+    fetchData();
+    setInterval(fetchData, 10000);
   </script>
 </body>
 </html>
