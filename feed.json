@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T11:42:23.394Z",
+      "time": "11:42:23",
+      "type": "position",
+      "msg": "PAXG +0.01% — Se mexer muito, assusta"
+    },
+    {
+      "ts": "2026-02-14T11:42:23.122Z",
+      "time": "11:42:23",
+      "type": "position",
+      "msg": "HYPE +0.54% — Tá verde? Tira print rápido antes que vire"
+    },
+    {
       "ts": "2026-02-14T11:41:53.991Z",
       "time": "11:41:53",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "11:34:52",
       "type": "position",
       "msg": "ZEC +0.29% — Stonks 📈 (desculpa, não resisti)"
-    },
-    {
-      "ts": "2026-02-14T11:34:52.586Z",
-      "time": "11:34:52",
-      "type": "position",
-      "msg": "PAXG +0.01% — Enquanto não move, não perco. Stonks mental."
-    },
-    {
-      "ts": "2026-02-14T11:34:22.449Z",
-      "time": "11:34:22",
-      "type": "position",
-      "msg": "HYPE +1.25% — Tá subindo? Deixa eu não olhar pra não dar azar"
     }
   ]
 }
