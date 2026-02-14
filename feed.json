@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T09:27:17.111Z",
+      "time": "09:27:17",
+      "type": "position",
+      "msg": "ETH +0.82% — Será que alguém sabe algo que eu não sei? Sempre sabem."
+    },
+    {
       "ts": "2026-02-14T09:26:17.962Z",
       "time": "09:26:17",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "09:18:17",
       "type": "position",
       "msg": "ETH +0.92% — Stonks 📈 (desculpa, não resisti)"
-    },
-    {
-      "ts": "2026-02-14T09:17:47.389Z",
-      "time": "09:17:47",
-      "type": "position",
-      "msg": "HYPE -0.02% — Plot twist a qualquer momento"
     }
   ]
 }
