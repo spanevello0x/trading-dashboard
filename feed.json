@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T12:45:25.690Z",
+      "time": "12:45:25",
+      "type": "position",
+      "msg": "ZEC -0.16% — Vermelho é a minha cor favorita agora"
+    },
+    {
+      "ts": "2026-02-14T12:45:25.426Z",
+      "time": "12:45:25",
+      "type": "position",
+      "msg": "PAXG -0.05% — Será que esqueceram dessa moeda?"
+    },
+    {
+      "ts": "2026-02-14T12:45:24.789Z",
+      "time": "12:45:24",
+      "type": "position",
+      "msg": "HYPE -0.85% — Podia ser pior. Dá tempo ainda."
+    },
+    {
       "ts": "2026-02-14T12:44:25.304Z",
       "time": "12:44:25",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "12:40:09",
       "type": "analysis",
       "msg": "Hmm, BERA mostrando sinais de SHORT (78%)"
-    },
-    {
-      "ts": "2026-02-14T12:40:08.863Z",
-      "time": "12:40:08",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - FARTCOIN cancelado"
-    },
-    {
-      "ts": "2026-02-14T12:40:08.592Z",
-      "time": "12:40:08",
-      "type": "signal",
-      "msg": "🎯 SHORT FARTCOIN @ $0.19 (89%) — Bora, confia no pai"
-    },
-    {
-      "ts": "2026-02-14T12:40:08.592Z",
-      "time": "12:40:08",
-      "type": "analysis",
-      "msg": "FARTCOIN tá interessante, 89% pro SHORT"
     }
   ]
 }
