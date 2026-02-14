@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T08:34:45.884Z",
+      "time": "08:34:45",
+      "type": "position",
+      "msg": "PAXG +0.08% — O mercado decidiu tirar uma soneca"
+    },
+    {
       "ts": "2026-02-14T08:34:15.695Z",
       "time": "08:34:15",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "08:25:45",
       "type": "position",
       "msg": "BCH +0.16% — O mercado me ama (por enquanto)"
-    },
-    {
-      "ts": "2026-02-14T08:25:45.168Z",
-      "time": "08:25:45",
-      "type": "position",
-      "msg": "SUI -1.64% — Quem mandou confiar em linha colorida"
     }
   ]
 }
