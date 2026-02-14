@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T12:06:23.985Z",
+      "time": "12:06:23",
+      "type": "position",
+      "msg": "PAXG -0.02% — O mercado tá buffering"
+    },
+    {
       "ts": "2026-02-14T12:05:53.693Z",
       "time": "12:05:53",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "11:55:23",
       "type": "position",
       "msg": "HYPE +0.82% — Olha só, o mercado decidiu colaborar hoje"
-    },
-    {
-      "ts": "2026-02-14T11:54:53.349Z",
-      "time": "11:54:53",
-      "type": "position",
-      "msg": "PAXG -0.06% — Enquanto não move, não perco. Stonks mental."
     }
   ]
 }
