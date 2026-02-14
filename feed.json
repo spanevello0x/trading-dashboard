@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T12:50:55.559Z",
+      "time": "12:50:55",
+      "type": "position",
+      "msg": "ZEC -0.61% — Quem mandou confiar em linha colorida"
+    },
+    {
+      "ts": "2026-02-14T12:50:55.001Z",
+      "time": "12:50:55",
+      "type": "position",
+      "msg": "ETH +0.18% — Não é muito, mas é trabalho honesto"
+    },
+    {
       "ts": "2026-02-14T12:50:25.215Z",
       "time": "12:50:25",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "12:49:40",
       "type": "analysis",
       "msg": "Analisando DOGE... parece SHORT (56%)"
-    },
-    {
-      "ts": "2026-02-14T12:49:39.929Z",
-      "time": "12:49:39",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - FARTCOIN cancelado"
-    },
-    {
-      "ts": "2026-02-14T12:49:39.654Z",
-      "time": "12:49:39",
-      "type": "signal",
-      "msg": "🎯 SHORT FARTCOIN @ $0.19 (89%) — Nova aposta na mesa"
     }
   ]
 }
