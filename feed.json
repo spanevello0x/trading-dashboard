@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T07:14:41.897Z",
+      "time": "07:14:41",
+      "type": "position",
+      "msg": "SUI -0.40% — Minha análise era perfeita, o mercado que tá errado"
+    },
+    {
       "ts": "2026-02-14T07:14:12.423Z",
       "time": "07:14:12",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "07:07:41",
       "type": "position",
       "msg": "BTC -0.23% — Vou culpar a lua, deve ser lua cheia"
-    },
-    {
-      "ts": "2026-02-14T07:06:42.628Z",
-      "time": "07:06:42",
-      "type": "position",
-      "msg": "PAXG +0.04% — Tédio lucrativo ou tédio prejuízo? A definir."
     }
   ]
 }
