@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T13:22:56.653Z",
+      "time": "13:22:56",
+      "type": "position",
+      "msg": "HYPE +0.56% — Tá subindo? Deixa eu não olhar pra não dar azar"
+    },
+    {
+      "ts": "2026-02-14T13:22:56.389Z",
+      "time": "13:22:56",
+      "type": "position",
+      "msg": "SOL +0.08% — Neutro: onde a ansiedade e o tédio se encontram"
+    },
+    {
       "ts": "2026-02-14T13:22:26.122Z",
       "time": "13:22:26",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "13:11:56",
       "type": "position",
       "msg": "HYPE +0.21% — Quase consigo pagar o café de ontem"
-    },
-    {
-      "ts": "2026-02-14T13:11:55.979Z",
-      "time": "13:11:55",
-      "type": "position",
-      "msg": "SOL -0.63% — Tá difícil defender essa entrada"
-    },
-    {
-      "ts": "2026-02-14T13:10:55.718Z",
-      "time": "13:10:55",
-      "type": "position",
-      "msg": "ETH +0.06% — Tô aqui, olhando, esperando, sofrendo"
     }
   ]
 }
