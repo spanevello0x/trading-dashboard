@@ -1,6 +1,30 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T06:48:42.460Z",
+      "time": "06:48:42",
+      "type": "position",
+      "msg": "PAXG -0.00% — O mercado tá pensando..."
+    },
+    {
+      "ts": "2026-02-14T06:48:41.838Z",
+      "time": "06:48:41",
+      "type": "position",
+      "msg": "BCH -0.01% — O mercado tá buffering"
+    },
+    {
+      "ts": "2026-02-14T06:48:41.234Z",
+      "time": "06:48:41",
+      "type": "position",
+      "msg": "SUI -0.02% — Vai, faz alguma coisa"
+    },
+    {
+      "ts": "2026-02-14T06:48:40.948Z",
+      "time": "06:48:40",
+      "type": "position",
+      "msg": "BTC -0.28% — Sabia que não devia ter olhado"
+    },
+    {
       "ts": "2026-02-14T06:47:42.206Z",
       "time": "06:47:42",
       "type": "position",
@@ -155,30 +179,6 @@
       "time": "06:47:11",
       "type": "position",
       "msg": "SUI -0.01% — Neutro: onde a ansiedade e o tédio se encontram"
-    },
-    {
-      "ts": "2026-02-14T06:47:11.418Z",
-      "time": "06:47:11",
-      "type": "position",
-      "msg": "BTC -0.29% — O gráfico parecia tão bonito..."
-    },
-    {
-      "ts": "2026-02-14T06:46:40.873Z",
-      "time": "06:46:40",
-      "type": "error",
-      "msg": "❌ Scan: Cannot read properties of null (reading 'assetPositions')"
-    },
-    {
-      "ts": "2026-02-14T06:46:37.375Z",
-      "time": "06:46:37",
-      "type": "error",
-      "msg": "❌ JUP: Cannot read properties of null (reading 'map')"
-    },
-    {
-      "ts": "2026-02-14T06:46:37.112Z",
-      "time": "06:46:37",
-      "type": "error",
-      "msg": "❌ LINK: Cannot read properties of null (reading 'map')"
     }
   ]
 }
