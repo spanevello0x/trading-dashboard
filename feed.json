@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T09:15:55.418Z",
+      "time": "09:15:55",
+      "type": "system",
+      "msg": "⏰ PAXG expirou (30 candles) — Cancelando"
+    },
+    {
+      "ts": "2026-02-14T09:15:51.341Z",
+      "time": "09:15:51",
+      "type": "system",
+      "msg": "⏰ SUI expirou (30 candles) — Cancelando"
+    },
+    {
+      "ts": "2026-02-14T09:15:46.443Z",
+      "time": "09:15:46",
+      "type": "system",
+      "msg": "⏰ BCH expirou (30 candles) — Cancelando"
+    },
+    {
       "ts": "2026-02-14T09:14:47.791Z",
       "time": "09:14:47",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "09:07:47",
       "type": "position",
       "msg": "PAXG -0.01% — Pelo menos não tá caindo... ainda"
-    },
-    {
-      "ts": "2026-02-14T09:07:46.982Z",
-      "time": "09:07:46",
-      "type": "position",
-      "msg": "BCH +0.65% — O mercado tá generoso hoje, desconfio"
-    },
-    {
-      "ts": "2026-02-14T09:07:16.671Z",
-      "time": "09:07:16",
-      "type": "position",
-      "msg": "SUI -2.71% — O mercado escolheu violência hoje"
-    },
-    {
-      "ts": "2026-02-14T09:07:16.403Z",
-      "time": "09:07:16",
-      "type": "position",
-      "msg": "ETH +1.23% — Tá verde? Tira print rápido antes que vire"
     }
   ]
 }
