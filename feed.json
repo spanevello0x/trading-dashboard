@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T15:34:02.350Z",
+      "time": "15:34:02",
+      "type": "position",
+      "msg": "SOL +0.29% — Quem diria, acertei uma"
+    },
+    {
+      "ts": "2026-02-14T15:34:02.085Z",
+      "time": "15:34:02",
+      "type": "position",
+      "msg": "ETH -0.13% — Pelo menos não é dinheiro de verdade... ah, espera"
+    },
+    {
       "ts": "2026-02-14T15:33:32.021Z",
       "time": "15:33:32",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "15:25:20",
       "type": "system",
       "msg": "⚠️ Limite atingido (5/5) - kPEPE cancelado"
-    },
-    {
-      "ts": "2026-02-14T15:25:20.237Z",
-      "time": "15:25:20",
-      "type": "signal",
-      "msg": "🎯 LONG kPEPE @ $0.00 (100%) — Os indicadores mandaram, eu obedeci"
-    },
-    {
-      "ts": "2026-02-14T15:25:19.899Z",
-      "time": "15:25:19",
-      "type": "analysis",
-      "msg": "XMR no radar: 56% LONG"
     }
   ]
 }
