@@ -1,6 +1,30 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T07:48:14.273Z",
+      "time": "07:48:14",
+      "type": "position",
+      "msg": "PAXG +0.01% — O mercado tá no modo avião"
+    },
+    {
+      "ts": "2026-02-14T07:48:14.004Z",
+      "time": "07:48:14",
+      "type": "position",
+      "msg": "AAVE +1.10% — Respira... ainda não acabou"
+    },
+    {
+      "ts": "2026-02-14T07:48:13.641Z",
+      "time": "07:48:13",
+      "type": "position",
+      "msg": "BCH +0.05% — Lateral é o novo tendência"
+    },
+    {
+      "ts": "2026-02-14T07:48:13.376Z",
+      "time": "07:48:13",
+      "type": "position",
+      "msg": "SUI -0.63% — Mercado fazendo mercadisse"
+    },
+    {
       "ts": "2026-02-14T07:47:13.314Z",
       "time": "07:47:13",
       "type": "position",
@@ -155,30 +179,6 @@
       "time": "07:39:14",
       "type": "position",
       "msg": "PAXG +0.08% — Parece até stable coin"
-    },
-    {
-      "ts": "2026-02-14T07:39:13.979Z",
-      "time": "07:39:13",
-      "type": "position",
-      "msg": "AAVE +1.09% — Imagina se eu tivesse colocado mais..."
-    },
-    {
-      "ts": "2026-02-14T07:39:13.675Z",
-      "time": "07:39:13",
-      "type": "position",
-      "msg": "BCH -0.48% — Mercado fazendo mercadisse"
-    },
-    {
-      "ts": "2026-02-14T07:39:13.409Z",
-      "time": "07:39:13",
-      "type": "position",
-      "msg": "SUI -0.68% — Meu eu do passado tomou essa decisão, problema dele"
-    },
-    {
-      "ts": "2026-02-14T07:38:13.783Z",
-      "time": "07:38:13",
-      "type": "position",
-      "msg": "PAXG +0.08% — Enquanto não move, não perco. Stonks mental."
     }
   ]
 }
