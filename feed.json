@@ -1,6 +1,42 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T05:27:39.319Z",
+      "time": "05:27:39",
+      "type": "position",
+      "msg": "XMR +0.19% — Verde combina comigo"
+    },
+    {
+      "ts": "2026-02-14T05:27:39.052Z",
+      "time": "05:27:39",
+      "type": "position",
+      "msg": "PAXG +0.05% — Pregado no entry como se tivesse cola"
+    },
+    {
+      "ts": "2026-02-14T05:27:38.784Z",
+      "time": "05:27:38",
+      "type": "position",
+      "msg": "HYPE +0.54% — Tá bom demais pra ser verdade... ops, não deveria falar isso"
+    },
+    {
+      "ts": "2026-02-14T05:27:38.515Z",
+      "time": "05:27:38",
+      "type": "position",
+      "msg": "BCH -0.52% — Tá difícil defender essa entrada"
+    },
+    {
+      "ts": "2026-02-14T05:27:38.231Z",
+      "time": "05:27:38",
+      "type": "position",
+      "msg": "BNB -0.23% — O gráfico parecia tão bonito..."
+    },
+    {
+      "ts": "2026-02-14T05:27:37.963Z",
+      "time": "05:27:37",
+      "type": "position",
+      "msg": "BTC -0.29% — Vermelho é a minha cor favorita agora"
+    },
+    {
       "ts": "2026-02-14T05:26:38.178Z",
       "time": "05:26:38",
       "type": "position",
@@ -143,42 +179,6 @@
       "time": "05:22:08",
       "type": "position",
       "msg": "HYPE +0.62% — Alguém avisa o mercado que eu tô comprado"
-    },
-    {
-      "ts": "2026-02-14T05:22:08.610Z",
-      "time": "05:22:08",
-      "type": "position",
-      "msg": "BCH -0.43% — O mercado acordou e escolheu me machucar"
-    },
-    {
-      "ts": "2026-02-14T05:22:08.029Z",
-      "time": "05:22:08",
-      "type": "position",
-      "msg": "BNB -0.19% — Pelo menos aprendo algo... né?"
-    },
-    {
-      "ts": "2026-02-14T05:21:37.707Z",
-      "time": "05:21:37",
-      "type": "position",
-      "msg": "BTC -0.28% — Amanhã é outro dia (espero)"
-    },
-    {
-      "ts": "2026-02-14T05:21:09.747Z",
-      "time": "05:21:09",
-      "type": "position",
-      "msg": "XMR -0.15% — Pelo menos não é dinheiro de verdade... ah, espera"
-    },
-    {
-      "ts": "2026-02-14T05:20:39.389Z",
-      "time": "05:20:39",
-      "type": "position",
-      "msg": "PAXG +0.11% — Não é muito, mas é trabalho honesto"
-    },
-    {
-      "ts": "2026-02-14T05:20:38.969Z",
-      "time": "05:20:38",
-      "type": "position",
-      "msg": "HYPE +0.73% — Será que é armadilha? Provavelmente. Mas vou curtir enquanto dura"
     }
   ]
 }
