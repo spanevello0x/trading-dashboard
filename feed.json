@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T11:49:23.339Z",
+      "time": "11:49:23",
+      "type": "position",
+      "msg": "PAXG -0.02% — O mercado decidiu tirar uma soneca"
+    },
+    {
       "ts": "2026-02-14T11:48:52.860Z",
       "time": "11:48:52",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "11:47:07",
       "type": "system",
       "msg": "⚠️ Limite atingido (5/5) - DOGE cancelado"
-    },
-    {
-      "ts": "2026-02-14T11:47:06.980Z",
-      "time": "11:47:06",
-      "type": "signal",
-      "msg": "🎯 LONG DOGE @ $0.10 (89%) — Bora, confia no pai"
     }
   ]
 }
