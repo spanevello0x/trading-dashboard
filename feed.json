@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T15:11:00.647Z",
+      "time": "15:11:00",
+      "type": "position",
+      "msg": "SOL +0.09% — Esperando o mercado decidir o que quer da vida"
+    },
+    {
       "ts": "2026-02-14T15:10:30.367Z",
       "time": "15:10:30",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "14:59:29",
       "type": "position",
       "msg": "ETH -0.57% — Mais um dia normal no crypto"
-    },
-    {
-      "ts": "2026-02-14T14:58:30.658Z",
-      "time": "14:58:30",
-      "type": "position",
-      "msg": "HYPE +0.20% — Respira... ainda não acabou"
     }
   ]
 }
