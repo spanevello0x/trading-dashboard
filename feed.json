@@ -1,6 +1,36 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T05:13:38.937Z",
+      "time": "05:13:38",
+      "type": "position",
+      "msg": "XMR +0.07% — O mercado decidiu tirar uma soneca"
+    },
+    {
+      "ts": "2026-02-14T05:13:38.667Z",
+      "time": "05:13:38",
+      "type": "position",
+      "msg": "PAXG +0.15% — Melhor que Netflix isso aqui"
+    },
+    {
+      "ts": "2026-02-14T05:13:38.394Z",
+      "time": "05:13:38",
+      "type": "position",
+      "msg": "HYPE +0.98% — Imagina se eu tivesse colocado mais..."
+    },
+    {
+      "ts": "2026-02-14T05:13:37.819Z",
+      "time": "05:13:37",
+      "type": "position",
+      "msg": "BNB -0.07% — Parece até stable coin"
+    },
+    {
+      "ts": "2026-02-14T05:13:37.333Z",
+      "time": "05:13:37",
+      "type": "position",
+      "msg": "BTC -0.29% — O mercado escolheu violência hoje"
+    },
+    {
       "ts": "2026-02-14T05:13:07.898Z",
       "time": "05:13:07",
       "type": "position",
@@ -149,36 +179,6 @@
       "time": "05:07:38",
       "type": "position",
       "msg": "XMR +0.30% — Print pra mostrar pros netos"
-    },
-    {
-      "ts": "2026-02-14T05:07:37.696Z",
-      "time": "05:07:37",
-      "type": "position",
-      "msg": "BCH +0.09% — Zona de conforto do gráfico"
-    },
-    {
-      "ts": "2026-02-14T05:07:37.101Z",
-      "time": "05:07:37",
-      "type": "position",
-      "msg": "BTC -0.35% — Mercado fazendo mercadisse"
-    },
-    {
-      "ts": "2026-02-14T05:07:08.157Z",
-      "time": "05:07:08",
-      "type": "position",
-      "msg": "PAXG +0.20% — Tá subindo? Deixa eu não olhar pra não dar azar"
-    },
-    {
-      "ts": "2026-02-14T05:07:07.867Z",
-      "time": "05:07:07",
-      "type": "position",
-      "msg": "HYPE +1.16% — Vou fingir que sabia que isso ia acontecer"
-    },
-    {
-      "ts": "2026-02-14T05:07:07.333Z",
-      "time": "05:07:07",
-      "type": "position",
-      "msg": "BNB -0.02% — Consolidação ou indecisão? Sim."
     }
   ]
 }
