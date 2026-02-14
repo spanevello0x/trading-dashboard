@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T12:44:25.304Z",
+      "time": "12:44:25",
+      "type": "position",
+      "msg": "ZEC +0.06% — O gráfico tá meditando"
+    },
+    {
+      "ts": "2026-02-14T12:44:25.035Z",
+      "time": "12:44:25",
+      "type": "position",
+      "msg": "PAXG -0.02% — O mercado tá pensando..."
+    },
+    {
       "ts": "2026-02-14T12:43:54.831Z",
       "time": "12:43:54",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "12:40:08",
       "type": "analysis",
       "msg": "FARTCOIN tá interessante, 89% pro SHORT"
-    },
-    {
-      "ts": "2026-02-14T12:40:08.183Z",
-      "time": "12:40:08",
-      "type": "analysis",
-      "msg": "XPL no radar: 56% SHORT"
-    },
-    {
-      "ts": "2026-02-14T12:40:07.907Z",
-      "time": "12:40:07",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - BCH cancelado"
     }
   ]
 }
