@@ -1,6 +1,36 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T07:07:42.793Z",
+      "time": "07:07:42",
+      "type": "position",
+      "msg": "PAXG +0.04% — Isso é acumulação ou distribuição? Ninguém sabe."
+    },
+    {
+      "ts": "2026-02-14T07:07:42.523Z",
+      "time": "07:07:42",
+      "type": "position",
+      "msg": "AAVE +0.16% — Print pra mostrar pros netos"
+    },
+    {
+      "ts": "2026-02-14T07:07:42.257Z",
+      "time": "07:07:42",
+      "type": "position",
+      "msg": "BCH -0.33% — O mercado escolheu violência hoje"
+    },
+    {
+      "ts": "2026-02-14T07:07:41.988Z",
+      "time": "07:07:41",
+      "type": "position",
+      "msg": "SUI -0.38% — Pelo menos aprendo algo... né?"
+    },
+    {
+      "ts": "2026-02-14T07:07:41.707Z",
+      "time": "07:07:41",
+      "type": "position",
+      "msg": "BTC -0.23% — Vou culpar a lua, deve ser lua cheia"
+    },
+    {
       "ts": "2026-02-14T07:06:42.628Z",
       "time": "07:06:42",
       "type": "position",
@@ -149,36 +179,6 @@
       "time": "07:02:41",
       "type": "position",
       "msg": "BTC -0.21% — O mercado escolheu violência hoje"
-    },
-    {
-      "ts": "2026-02-14T07:01:42.460Z",
-      "time": "07:01:42",
-      "type": "position",
-      "msg": "PAXG +0.04% — Plot twist a qualquer momento"
-    },
-    {
-      "ts": "2026-02-14T07:01:42.180Z",
-      "time": "07:01:42",
-      "type": "position",
-      "msg": "AAVE +0.06% — Dormiu no ponto"
-    },
-    {
-      "ts": "2026-02-14T07:01:41.885Z",
-      "time": "07:01:41",
-      "type": "position",
-      "msg": "BCH -0.30% — Amanhã é outro dia (espero)"
-    },
-    {
-      "ts": "2026-02-14T07:01:41.620Z",
-      "time": "07:01:41",
-      "type": "position",
-      "msg": "SUI -0.23% — Pelo menos não é dinheiro de verdade... ah, espera"
-    },
-    {
-      "ts": "2026-02-14T07:01:41.354Z",
-      "time": "07:01:41",
-      "type": "position",
-      "msg": "BTC -0.23% — Não é prejuízo se eu não vender... ah, tem stop"
     }
   ]
 }
