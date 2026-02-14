@@ -1,6 +1,42 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T06:28:42.376Z",
+      "time": "06:28:42",
+      "type": "position",
+      "msg": "XMR +0.43% — Olha só, o mercado decidiu colaborar hoje"
+    },
+    {
+      "ts": "2026-02-14T06:28:42.113Z",
+      "time": "06:28:42",
+      "type": "position",
+      "msg": "PAXG +0.15% — Não é muito, mas é trabalho honesto"
+    },
+    {
+      "ts": "2026-02-14T06:28:41.852Z",
+      "time": "06:28:41",
+      "type": "position",
+      "msg": "HYPE +1.33% — Melhor que Netflix isso aqui"
+    },
+    {
+      "ts": "2026-02-14T06:28:41.591Z",
+      "time": "06:28:41",
+      "type": "position",
+      "msg": "BCH +0.03% — Esperando Godot, versão crypto"
+    },
+    {
+      "ts": "2026-02-14T06:28:41.316Z",
+      "time": "06:28:41",
+      "type": "position",
+      "msg": "BNB -0.12% — Respira... é só número na tela"
+    },
+    {
+      "ts": "2026-02-14T06:28:41.051Z",
+      "time": "06:28:41",
+      "type": "position",
+      "msg": "BTC -0.29% — O gráfico parecia tão bonito..."
+    },
+    {
       "ts": "2026-02-14T06:27:41.464Z",
       "time": "06:27:41",
       "type": "position",
@@ -143,42 +179,6 @@
       "time": "06:23:41",
       "type": "position",
       "msg": "XMR +0.62% — Melhor que Netflix isso aqui"
-    },
-    {
-      "ts": "2026-02-14T06:23:11.258Z",
-      "time": "06:23:11",
-      "type": "position",
-      "msg": "PAXG +0.16% — Tá bom demais pra ser verdade... ops, não deveria falar isso"
-    },
-    {
-      "ts": "2026-02-14T06:23:10.061Z",
-      "time": "06:23:10",
-      "type": "position",
-      "msg": "BTC -0.35% — Meu eu do passado tomou essa decisão, problema dele"
-    },
-    {
-      "ts": "2026-02-14T06:22:41.496Z",
-      "time": "06:22:41",
-      "type": "position",
-      "msg": "XMR +0.42% — Tá subindo? Deixa eu não olhar pra não dar azar"
-    },
-    {
-      "ts": "2026-02-14T06:22:40.879Z",
-      "time": "06:22:40",
-      "type": "position",
-      "msg": "HYPE +1.43% — Obrigado universo, tava precisando"
-    },
-    {
-      "ts": "2026-02-14T06:22:40.609Z",
-      "time": "06:22:40",
-      "type": "position",
-      "msg": "BCH -0.06% — O mercado tá pensando..."
-    },
-    {
-      "ts": "2026-02-14T06:22:40.345Z",
-      "time": "06:22:40",
-      "type": "position",
-      "msg": "BNB +0.01% — A calmaria antes da tempestade... ou mais calmaria"
     }
   ]
 }
