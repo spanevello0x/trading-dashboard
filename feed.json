@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T12:12:24.632Z",
+      "time": "12:12:24",
+      "type": "position",
+      "msg": "PAXG -0.03% — O gráfico tá meditando"
+    },
+    {
+      "ts": "2026-02-14T12:12:24.363Z",
+      "time": "12:12:24",
+      "type": "position",
+      "msg": "HYPE +0.56% — Quem diria, acertei uma"
+    },
+    {
+      "ts": "2026-02-14T12:12:24.099Z",
+      "time": "12:12:24",
+      "type": "position",
+      "msg": "ETH -0.22% — Tá difícil defender essa entrada"
+    },
+    {
       "ts": "2026-02-14T12:11:23.824Z",
       "time": "12:11:23",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "12:01:23",
       "type": "position",
       "msg": "PAXG -0.04% — Isso é acumulação ou distribuição? Ninguém sabe."
-    },
-    {
-      "ts": "2026-02-14T12:01:23.450Z",
-      "time": "12:01:23",
-      "type": "position",
-      "msg": "HYPE +0.91% — Tá subindo? Deixa eu não olhar pra não dar azar"
-    },
-    {
-      "ts": "2026-02-14T12:01:23.121Z",
-      "time": "12:01:23",
-      "type": "position",
-      "msg": "ETH +0.00% — Tick tock, mercado..."
-    },
-    {
-      "ts": "2026-02-14T11:59:53.779Z",
-      "time": "11:59:53",
-      "type": "position",
-      "msg": "PAXG -0.07% — Nem comprador nem vendedor quer tomar atitude"
     }
   ]
 }
