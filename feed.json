@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T11:09:21.644Z",
+      "time": "11:09:21",
+      "type": "position",
+      "msg": "PAXG +0.02% — Tédio lucrativo ou tédio prejuízo? A definir."
+    },
+    {
+      "ts": "2026-02-14T11:09:21.378Z",
+      "time": "11:09:21",
+      "type": "position",
+      "msg": "HYPE +0.19% — Tá verde? Tira print rápido antes que vire"
+    },
+    {
       "ts": "2026-02-14T11:08:51.871Z",
       "time": "11:08:51",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "11:00:51",
       "type": "position",
       "msg": "PAXG +0.02% — O gráfico tá meditando"
-    },
-    {
-      "ts": "2026-02-14T11:00:51.261Z",
-      "time": "11:00:51",
-      "type": "position",
-      "msg": "XRP -0.28% — Ah sim, o famoso 'compra no topo'"
-    },
-    {
-      "ts": "2026-02-14T11:00:21.300Z",
-      "time": "11:00:21",
-      "type": "position",
-      "msg": "HYPE -0.14% — Vou culpar a lua, deve ser lua cheia"
     }
   ]
 }
