@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T11:24:22.241Z",
+      "time": "11:24:22",
+      "type": "position",
+      "msg": "PAXG -0.02% — Pregado no entry como se tivesse cola"
+    },
+    {
+      "ts": "2026-02-14T11:24:21.956Z",
+      "time": "11:24:21",
+      "type": "position",
+      "msg": "HYPE +1.17% — Melhor que Netflix isso aqui"
+    },
+    {
+      "ts": "2026-02-14T11:24:21.670Z",
+      "time": "11:24:21",
+      "type": "position",
+      "msg": "XRP +1.39% — Não sou eu, é o mercado que tá errado... ah não, dessa vez acertou"
+    },
+    {
       "ts": "2026-02-14T11:23:22.880Z",
       "time": "11:23:22",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "11:16:21",
       "type": "position",
       "msg": "XRP +0.34% — Tá verde? Tira print rápido antes que vire"
-    },
-    {
-      "ts": "2026-02-14T11:15:22.327Z",
-      "time": "11:15:22",
-      "type": "position",
-      "msg": "ZEC +0.10% — Não sou eu, é o mercado que tá errado... ah não, dessa vez acertou"
-    },
-    {
-      "ts": "2026-02-14T11:15:22.062Z",
-      "time": "11:15:22",
-      "type": "position",
-      "msg": "PAXG +0.02% — Zona de conforto do gráfico"
-    },
-    {
-      "ts": "2026-02-14T11:15:21.796Z",
-      "time": "11:15:21",
-      "type": "position",
-      "msg": "HYPE +0.54% — Tá subindo? Deixa eu não olhar pra não dar azar"
     }
   ]
 }
