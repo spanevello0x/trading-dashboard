@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T11:50:53.039Z",
+      "time": "11:50:53",
+      "type": "position",
+      "msg": "ETH +0.15% — Não me acostumem com isso"
+    },
+    {
       "ts": "2026-02-14T11:50:23.390Z",
       "time": "11:50:23",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "11:47:09",
       "type": "signal",
       "msg": "🎯 LONG BNB @ $631.96 (100%) — Análise feita, trade executado, fé ativada"
-    },
-    {
-      "ts": "2026-02-14T11:47:09.200Z",
-      "time": "11:47:09",
-      "type": "analysis",
-      "msg": "BNB tá interessante, 100% pro LONG"
     }
   ]
 }
