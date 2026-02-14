@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T07:45:14.172Z",
+      "time": "07:45:14",
+      "type": "position",
+      "msg": "PAXG +0.02% — Esperando Godot, versão crypto"
+    },
+    {
+      "ts": "2026-02-14T07:45:13.636Z",
+      "time": "07:45:13",
+      "type": "position",
+      "msg": "BCH -0.22% — Ah sim, o famoso 'compra no topo'"
+    },
+    {
+      "ts": "2026-02-14T07:45:13.234Z",
+      "time": "07:45:13",
+      "type": "position",
+      "msg": "SUI -0.81% — Tá difícil defender essa entrada"
+    },
+    {
       "ts": "2026-02-14T07:44:43.743Z",
       "time": "07:44:43",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "07:37:13",
       "type": "position",
       "msg": "BCH -0.42% — Quem mandou confiar em linha colorida"
-    },
-    {
-      "ts": "2026-02-14T07:37:12.882Z",
-      "time": "07:37:12",
-      "type": "position",
-      "msg": "SUI -0.77% — Pelo menos não apostei a casa... dessa vez"
-    },
-    {
-      "ts": "2026-02-14T07:35:43.843Z",
-      "time": "07:35:43",
-      "type": "position",
-      "msg": "PAXG +0.08% — O gráfico tá meditando"
-    },
-    {
-      "ts": "2026-02-14T07:35:43.582Z",
-      "time": "07:35:43",
-      "type": "position",
-      "msg": "AAVE +0.96% — Vou comemorar quando fechar. Talvez."
     }
   ]
 }
