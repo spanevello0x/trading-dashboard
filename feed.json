@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T07:55:14.568Z",
+      "time": "07:55:14",
+      "type": "position",
+      "msg": "PAXG -0.01% — Nem pra cima nem pra baixo. Ansiedade infinita."
+    },
+    {
+      "ts": "2026-02-14T07:55:14.242Z",
+      "time": "07:55:14",
+      "type": "position",
+      "msg": "BCH -0.11% — Meu eu do passado tomou essa decisão, problema dele"
+    },
+    {
       "ts": "2026-02-14T07:54:43.922Z",
       "time": "07:54:43",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "07:53:29",
       "type": "system",
       "msg": "⚠️ Limite atingido (5/5) - VIRTUAL cancelado"
-    },
-    {
-      "ts": "2026-02-14T07:53:29.294Z",
-      "time": "07:53:29",
-      "type": "signal",
-      "msg": "🎯 LONG VIRTUAL @ $0.64 (78%) — Essa eu senti"
-    },
-    {
-      "ts": "2026-02-14T07:53:29.294Z",
-      "time": "07:53:29",
-      "type": "analysis",
-      "msg": "Analisando VIRTUAL... parece LONG (78%)"
     }
   ]
 }
