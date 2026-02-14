@@ -1,6 +1,96 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T09:16:27.856Z",
+      "time": "09:16:27",
+      "type": "execution",
+      "msg": "✅ Filled: 11.000000 XRP @ $1.45"
+    },
+    {
+      "ts": "2026-02-14T09:16:25.725Z",
+      "time": "09:16:25",
+      "type": "execution",
+      "msg": "📤 Abrindo LONG em XRP..."
+    },
+    {
+      "ts": "2026-02-14T09:16:24.443Z",
+      "time": "09:16:24",
+      "type": "execution",
+      "msg": "⚙️ Leverage: 5x"
+    },
+    {
+      "ts": "2026-02-14T09:16:24.150Z",
+      "time": "09:16:24",
+      "type": "signal",
+      "msg": "🎯 LONG XRP @ $1.45 (89%) — Os indicadores mandaram, eu obedeci"
+    },
+    {
+      "ts": "2026-02-14T09:16:24.149Z",
+      "time": "09:16:24",
+      "type": "analysis",
+      "msg": "Analisando XRP... parece LONG (89%)"
+    },
+    {
+      "ts": "2026-02-14T09:16:23.848Z",
+      "time": "09:16:23",
+      "type": "result",
+      "msg": "🏁 Trade completo: SHORT HYPE @ $31.51 | RR 2:1"
+    },
+    {
+      "ts": "2026-02-14T09:16:23.848Z",
+      "time": "09:16:23",
+      "type": "execution",
+      "msg": "🎯 Take Profit: $30.89"
+    },
+    {
+      "ts": "2026-02-14T09:16:22.248Z",
+      "time": "09:16:22",
+      "type": "execution",
+      "msg": "🛡️ Stop Loss: $31.84"
+    },
+    {
+      "ts": "2026-02-14T09:16:20.636Z",
+      "time": "09:16:20",
+      "type": "execution",
+      "msg": "✅ Filled: 0.500000 HYPE @ $31.51"
+    },
+    {
+      "ts": "2026-02-14T09:16:18.746Z",
+      "time": "09:16:18",
+      "type": "execution",
+      "msg": "📤 Abrindo SHORT em HYPE..."
+    },
+    {
+      "ts": "2026-02-14T09:16:17.642Z",
+      "time": "09:16:17",
+      "type": "execution",
+      "msg": "⚙️ Leverage: 5x"
+    },
+    {
+      "ts": "2026-02-14T09:16:17.367Z",
+      "time": "09:16:17",
+      "type": "signal",
+      "msg": "🎯 SHORT HYPE @ $31.52 (100%) — Essa eu senti"
+    },
+    {
+      "ts": "2026-02-14T09:16:17.367Z",
+      "time": "09:16:17",
+      "type": "analysis",
+      "msg": "HYPE no radar: 100% SHORT"
+    },
+    {
+      "ts": "2026-02-14T09:16:17.039Z",
+      "time": "09:16:17",
+      "type": "analysis",
+      "msg": "Olhando SOL... 56% LONG"
+    },
+    {
+      "ts": "2026-02-14T09:16:00.241Z",
+      "time": "09:16:00",
+      "type": "position",
+      "msg": "ETH +0.93% — Vou comemorar quando fechar. Talvez."
+    },
+    {
       "ts": "2026-02-14T09:15:55.418Z",
       "time": "09:15:55",
       "type": "system",
@@ -89,96 +179,6 @@
       "time": "09:12:16",
       "type": "position",
       "msg": "SUI -2.50% — Prometo estudar mais... mentira, vou continuar igual"
-    },
-    {
-      "ts": "2026-02-14T09:11:46.627Z",
-      "time": "09:11:46",
-      "type": "position",
-      "msg": "ETH +1.00% — Imagina se eu tivesse colocado mais..."
-    },
-    {
-      "ts": "2026-02-14T09:11:17.847Z",
-      "time": "09:11:17",
-      "type": "position",
-      "msg": "PAXG -0.00% — A calmaria antes da tempestade... ou mais calmaria"
-    },
-    {
-      "ts": "2026-02-14T09:11:17.583Z",
-      "time": "09:11:17",
-      "type": "position",
-      "msg": "BCH +0.59% — Melhor que Netflix isso aqui"
-    },
-    {
-      "ts": "2026-02-14T09:11:17.320Z",
-      "time": "09:11:17",
-      "type": "position",
-      "msg": "SUI -2.76% — Podia ser pior. Dá tempo ainda."
-    },
-    {
-      "ts": "2026-02-14T09:10:17.150Z",
-      "time": "09:10:17",
-      "type": "position",
-      "msg": "SUI -2.78% — O gráfico parecia tão bonito..."
-    },
-    {
-      "ts": "2026-02-14T09:10:16.763Z",
-      "time": "09:10:16",
-      "type": "position",
-      "msg": "ETH +1.15% — Será que é armadilha? Provavelmente. Mas vou curtir enquanto dura"
-    },
-    {
-      "ts": "2026-02-14T09:09:47.757Z",
-      "time": "09:09:47",
-      "type": "position",
-      "msg": "PAXG -0.00% — Esperando Godot, versão crypto"
-    },
-    {
-      "ts": "2026-02-14T09:09:47.496Z",
-      "time": "09:09:47",
-      "type": "position",
-      "msg": "BCH +0.60% — Até um relógio quebrado acerta duas vezes"
-    },
-    {
-      "ts": "2026-02-14T09:09:16.766Z",
-      "time": "09:09:16",
-      "type": "position",
-      "msg": "SUI -2.75% — Prometo estudar mais... mentira, vou continuar igual"
-    },
-    {
-      "ts": "2026-02-14T09:09:16.505Z",
-      "time": "09:09:16",
-      "type": "position",
-      "msg": "ETH +1.15% — O mercado me ama (por enquanto)"
-    },
-    {
-      "ts": "2026-02-14T09:08:47.749Z",
-      "time": "09:08:47",
-      "type": "position",
-      "msg": "PAXG -0.01% — Esperando o mercado decidir o que quer da vida"
-    },
-    {
-      "ts": "2026-02-14T09:08:47.489Z",
-      "time": "09:08:47",
-      "type": "position",
-      "msg": "BCH +0.45% — Meu psicólogo vai ficar orgulhoso"
-    },
-    {
-      "ts": "2026-02-14T09:08:16.693Z",
-      "time": "09:08:16",
-      "type": "position",
-      "msg": "SUI -2.75% — Vou culpar a lua, deve ser lua cheia"
-    },
-    {
-      "ts": "2026-02-14T09:08:16.432Z",
-      "time": "09:08:16",
-      "type": "position",
-      "msg": "ETH +1.22% — Verde combina comigo"
-    },
-    {
-      "ts": "2026-02-14T09:07:47.243Z",
-      "time": "09:07:47",
-      "type": "position",
-      "msg": "PAXG -0.01% — Pelo menos não tá caindo... ainda"
     }
   ]
 }
