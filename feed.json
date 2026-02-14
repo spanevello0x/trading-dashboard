@@ -1,6 +1,108 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T07:00:22.189Z",
+      "time": "07:00:22",
+      "type": "execution",
+      "msg": "🛡️ Stop Loss: $120.77"
+    },
+    {
+      "ts": "2026-02-14T07:00:20.294Z",
+      "time": "07:00:20",
+      "type": "execution",
+      "msg": "✅ Filled: 0.120000 AAVE @ $122.02"
+    },
+    {
+      "ts": "2026-02-14T07:00:18.305Z",
+      "time": "07:00:18",
+      "type": "execution",
+      "msg": "📤 Abrindo LONG em AAVE..."
+    },
+    {
+      "ts": "2026-02-14T07:00:16.494Z",
+      "time": "07:00:16",
+      "type": "execution",
+      "msg": "⚙️ Leverage: 5x"
+    },
+    {
+      "ts": "2026-02-14T07:00:16.206Z",
+      "time": "07:00:16",
+      "type": "signal",
+      "msg": "🎯 LONG AAVE @ $121.99 (89%) — Vamo ver no que dá"
+    },
+    {
+      "ts": "2026-02-14T07:00:16.206Z",
+      "time": "07:00:16",
+      "type": "analysis",
+      "msg": "AAVE tá interessante, 89% pro LONG"
+    },
+    {
+      "ts": "2026-02-14T07:00:15.832Z",
+      "time": "07:00:15",
+      "type": "analysis",
+      "msg": "ASTER no radar: 56% SHORT"
+    },
+    {
+      "ts": "2026-02-14T07:00:15.141Z",
+      "time": "07:00:15",
+      "type": "analysis",
+      "msg": "Analisando LIT... parece LONG (56%)"
+    },
+    {
+      "ts": "2026-02-14T07:00:14.858Z",
+      "time": "07:00:14",
+      "type": "analysis",
+      "msg": "ZEC no radar: 67% LONG"
+    },
+    {
+      "ts": "2026-02-14T07:00:14.495Z",
+      "time": "07:00:14",
+      "type": "analysis",
+      "msg": "XRP no radar: 67% LONG"
+    },
+    {
+      "ts": "2026-02-14T07:00:14.164Z",
+      "time": "07:00:14",
+      "type": "analysis",
+      "msg": "HYPE no radar: 56% LONG"
+    },
+    {
+      "ts": "2026-02-14T07:00:13.870Z",
+      "time": "07:00:13",
+      "type": "analysis",
+      "msg": "Olhando SOL... 56% LONG"
+    },
+    {
+      "ts": "2026-02-14T07:00:13.593Z",
+      "time": "07:00:13",
+      "type": "analysis",
+      "msg": "Analisando ETH... parece LONG (56%)"
+    },
+    {
+      "ts": "2026-02-14T07:00:13.303Z",
+      "time": "07:00:13",
+      "type": "position",
+      "msg": "PAXG +0.04% — Lateral é o novo tendência"
+    },
+    {
+      "ts": "2026-02-14T07:00:12.989Z",
+      "time": "07:00:12",
+      "type": "position",
+      "msg": "BCH -0.27% — O stop tá ali por um motivo, né"
+    },
+    {
+      "ts": "2026-02-14T07:00:12.339Z",
+      "time": "07:00:12",
+      "type": "position",
+      "msg": "SUI -0.19% — Sabia que não devia ter olhado"
+    },
+    {
+      "ts": "2026-02-14T07:00:11.420Z",
+      "time": "07:00:11",
+      "type": "system",
+      "msg": "TAO fechou — Arquivado"
+    },
+    {
       "ts": "2026-02-14T06:59:42.290Z",
       "time": "06:59:42",
       "type": "position",
@@ -77,108 +179,6 @@
       "time": "06:56:41",
       "type": "position",
       "msg": "BTC -0.25% — Minha análise era perfeita, o mercado que tá errado"
-    },
-    {
-      "ts": "2026-02-14T06:56:12.271Z",
-      "time": "06:56:12",
-      "type": "position",
-      "msg": "PAXG +0.03% — Tá ali, existindo"
-    },
-    {
-      "ts": "2026-02-14T06:56:12.005Z",
-      "time": "06:56:12",
-      "type": "position",
-      "msg": "TAO +1.47% — Será que alguém sabe algo que eu não sei? Sempre sabem."
-    },
-    {
-      "ts": "2026-02-14T06:56:11.740Z",
-      "time": "06:56:11",
-      "type": "position",
-      "msg": "BCH -0.41% — Vermelho é a minha cor favorita agora"
-    },
-    {
-      "ts": "2026-02-14T06:56:11.475Z",
-      "time": "06:56:11",
-      "type": "position",
-      "msg": "SUI -0.11% — O mercado acordou e escolheu me machucar"
-    },
-    {
-      "ts": "2026-02-14T06:55:42.045Z",
-      "time": "06:55:42",
-      "type": "position",
-      "msg": "TAO +1.16% — Melhor que Netflix isso aqui"
-    },
-    {
-      "ts": "2026-02-14T06:55:41.159Z",
-      "time": "06:55:41",
-      "type": "position",
-      "msg": "BTC -0.26% — Não é prejuízo se eu não vender... ah, tem stop"
-    },
-    {
-      "ts": "2026-02-14T06:55:12.260Z",
-      "time": "06:55:12",
-      "type": "position",
-      "msg": "PAXG +0.03% — Será que esqueceram dessa moeda?"
-    },
-    {
-      "ts": "2026-02-14T06:55:11.678Z",
-      "time": "06:55:11",
-      "type": "position",
-      "msg": "BCH -0.35% — Sabia que não devia ter olhado"
-    },
-    {
-      "ts": "2026-02-14T06:54:42.000Z",
-      "time": "06:54:42",
-      "type": "position",
-      "msg": "TAO +1.27% — Isso aí, garoto. Vai, vai, vai..."
-    },
-    {
-      "ts": "2026-02-14T06:54:41.439Z",
-      "time": "06:54:41",
-      "type": "position",
-      "msg": "SUI -0.16% — O gráfico parecia tão bonito..."
-    },
-    {
-      "ts": "2026-02-14T06:54:41.124Z",
-      "time": "06:54:41",
-      "type": "position",
-      "msg": "BTC -0.23% — Minha análise era perfeita, o mercado que tá errado"
-    },
-    {
-      "ts": "2026-02-14T06:54:12.153Z",
-      "time": "06:54:12",
-      "type": "position",
-      "msg": "PAXG +0.03% — Zona de conforto do gráfico"
-    },
-    {
-      "ts": "2026-02-14T06:54:11.616Z",
-      "time": "06:54:11",
-      "type": "position",
-      "msg": "BCH -0.30% — Mercado fazendo mercadisse"
-    },
-    {
-      "ts": "2026-02-14T06:53:41.951Z",
-      "time": "06:53:41",
-      "type": "position",
-      "msg": "TAO +1.23% — Meu psicólogo vai ficar orgulhoso"
-    },
-    {
-      "ts": "2026-02-14T06:53:11.421Z",
-      "time": "06:53:11",
-      "type": "position",
-      "msg": "SUI -0.16% — Vermelho é a minha cor favorita agora"
-    },
-    {
-      "ts": "2026-02-14T06:53:11.150Z",
-      "time": "06:53:11",
-      "type": "position",
-      "msg": "BTC -0.23% — Pelo menos não é dinheiro de verdade... ah, espera"
-    },
-    {
-      "ts": "2026-02-14T06:52:42.237Z",
-      "time": "06:52:42",
-      "type": "position",
-      "msg": "PAXG -0.00% — O mercado foi tomar café, já volta"
     }
   ]
 }
