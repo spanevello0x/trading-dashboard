@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T12:57:55.773Z",
+      "time": "12:57:55",
+      "type": "position",
+      "msg": "ZEC -0.42% — Pelo menos aprendo algo... né?"
+    },
+    {
+      "ts": "2026-02-14T12:57:55.236Z",
+      "time": "12:57:55",
+      "type": "position",
+      "msg": "ETH -0.01% — A calmaria antes da tempestade... ou mais calmaria"
+    },
+    {
       "ts": "2026-02-14T12:57:25.480Z",
       "time": "12:57:25",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "12:54:39",
       "type": "system",
       "msg": "⚠️ Limite atingido (5/5) - FARTCOIN cancelado"
-    },
-    {
-      "ts": "2026-02-14T12:54:39.540Z",
-      "time": "12:54:39",
-      "type": "signal",
-      "msg": "🎯 SHORT FARTCOIN @ $0.19 (89%) — Setup alinhado, agora é com o mercado"
-    },
-    {
-      "ts": "2026-02-14T12:54:39.264Z",
-      "time": "12:54:39",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - XPL cancelado"
     }
   ]
 }
