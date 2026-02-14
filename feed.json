@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T15:21:01.304Z",
+      "time": "15:21:01",
+      "type": "position",
+      "msg": "HYPE +0.01% — Zona de conforto do gráfico"
+    },
+    {
+      "ts": "2026-02-14T15:21:01.039Z",
+      "time": "15:21:01",
+      "type": "position",
+      "msg": "SOL +0.45% — Será que alguém sabe algo que eu não sei? Sempre sabem."
+    },
+    {
       "ts": "2026-02-14T15:20:31.012Z",
       "time": "15:20:31",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "15:20:15",
       "type": "analysis",
       "msg": "FARTCOIN no radar: 78% LONG"
-    },
-    {
-      "ts": "2026-02-14T15:20:15.066Z",
-      "time": "15:20:15",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - XPL cancelado"
-    },
-    {
-      "ts": "2026-02-14T15:20:14.080Z",
-      "time": "15:20:14",
-      "type": "signal",
-      "msg": "🎯 LONG XPL @ $0.10 (100%) — Vamo ver no que dá"
     }
   ]
 }
