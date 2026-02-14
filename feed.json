@@ -1,6 +1,42 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T06:21:41.412Z",
+      "time": "06:21:41",
+      "type": "position",
+      "msg": "XMR +0.58% — Não sou eu, é o mercado que tá errado... ah não, dessa vez acertou"
+    },
+    {
+      "ts": "2026-02-14T06:21:41.147Z",
+      "time": "06:21:41",
+      "type": "position",
+      "msg": "PAXG +0.16% — Calma que ainda pode dar errado"
+    },
+    {
+      "ts": "2026-02-14T06:21:40.869Z",
+      "time": "06:21:40",
+      "type": "position",
+      "msg": "HYPE +1.39% — Vou fingir que sabia que isso ia acontecer"
+    },
+    {
+      "ts": "2026-02-14T06:21:40.608Z",
+      "time": "06:21:40",
+      "type": "position",
+      "msg": "BCH +0.15% — Obrigado universo, tava precisando"
+    },
+    {
+      "ts": "2026-02-14T06:21:40.339Z",
+      "time": "06:21:40",
+      "type": "position",
+      "msg": "BNB -0.05% — Consolidação ou indecisão? Sim."
+    },
+    {
+      "ts": "2026-02-14T06:21:40.052Z",
+      "time": "06:21:40",
+      "type": "position",
+      "msg": "BTC -0.34% — Tá bom, universo, entendi o recado"
+    },
+    {
       "ts": "2026-02-14T06:20:12.370Z",
       "time": "06:20:12",
       "type": "position",
@@ -143,42 +179,6 @@
       "time": "06:16:10",
       "type": "position",
       "msg": "BTC -0.42% — Pelo menos o stop existe. Graças a Deus pelo stop."
-    },
-    {
-      "ts": "2026-02-14T06:15:40.920Z",
-      "time": "06:15:40",
-      "type": "position",
-      "msg": "PAXG +0.16% — Não me acostumem com isso"
-    },
-    {
-      "ts": "2026-02-14T06:15:40.654Z",
-      "time": "06:15:40",
-      "type": "position",
-      "msg": "HYPE +1.24% — Vou fingir que sabia que isso ia acontecer"
-    },
-    {
-      "ts": "2026-02-14T06:15:40.380Z",
-      "time": "06:15:40",
-      "type": "position",
-      "msg": "BCH +0.45% — Obrigado universo, tava precisando"
-    },
-    {
-      "ts": "2026-02-14T06:15:40.115Z",
-      "time": "06:15:40",
-      "type": "position",
-      "msg": "BNB +0.05% — Nem comprador nem vendedor quer tomar atitude"
-    },
-    {
-      "ts": "2026-02-14T06:15:11.326Z",
-      "time": "06:15:11",
-      "type": "position",
-      "msg": "XMR +0.66% — Calma que ainda pode dar errado"
-    },
-    {
-      "ts": "2026-02-14T06:15:09.989Z",
-      "time": "06:15:09",
-      "type": "position",
-      "msg": "BTC -0.42% — Podia ser pior. Dá tempo ainda."
     }
   ]
 }
