@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T08:07:45.242Z",
+      "time": "08:07:45",
+      "type": "position",
+      "msg": "PAXG -0.03% — Esperando o mercado decidir o que quer da vida"
+    },
+    {
+      "ts": "2026-02-14T08:07:44.977Z",
+      "time": "08:07:44",
+      "type": "position",
+      "msg": "BCH +0.12% — Meu psicólogo vai ficar orgulhoso"
+    },
+    {
       "ts": "2026-02-14T08:07:14.553Z",
       "time": "08:07:14",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "07:59:44",
       "type": "position",
       "msg": "BCH -0.04% — Isso é acumulação ou distribuição? Ninguém sabe."
-    },
-    {
-      "ts": "2026-02-14T07:59:44.568Z",
-      "time": "07:59:44",
-      "type": "position",
-      "msg": "SUI -0.96% — O gráfico parecia tão bonito..."
-    },
-    {
-      "ts": "2026-02-14T07:58:44.820Z",
-      "time": "07:58:44",
-      "type": "position",
-      "msg": "PAXG -0.01% — Isso é acumulação ou distribuição? Ninguém sabe."
     }
   ]
 }
