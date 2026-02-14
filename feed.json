@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T14:27:59.443Z",
+      "time": "14:27:59",
+      "type": "position",
+      "msg": "HYPE +1.03% — Tá verde? Tira print rápido antes que vire"
+    },
+    {
       "ts": "2026-02-14T14:27:28.953Z",
       "time": "14:27:28",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "14:16:59",
       "type": "position",
       "msg": "HYPE +0.82% — Stonks 📈 (desculpa, não resisti)"
-    },
-    {
-      "ts": "2026-02-14T14:16:28.664Z",
-      "time": "14:16:28",
-      "type": "position",
-      "msg": "SOL -0.67% — Amanhã é outro dia (espero)"
     }
   ]
 }
