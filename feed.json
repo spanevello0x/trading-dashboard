@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T05:37:09.861Z",
+      "time": "05:37:09",
+      "type": "position",
+      "msg": "XMR +0.06% — Isso é acumulação ou distribuição? Ninguém sabe."
+    },
+    {
+      "ts": "2026-02-14T05:37:09.597Z",
+      "time": "05:37:09",
+      "type": "position",
+      "msg": "PAXG +0.05% — Plot twist a qualquer momento"
+    },
+    {
       "ts": "2026-02-14T05:36:39.100Z",
       "time": "05:36:39",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "05:31:38",
       "type": "position",
       "msg": "BTC -0.30% — O stop tá ali por um motivo, né"
-    },
-    {
-      "ts": "2026-02-14T05:31:08.693Z",
-      "time": "05:31:08",
-      "type": "position",
-      "msg": "BCH -0.23% — O gráfico parecia tão bonito..."
-    },
-    {
-      "ts": "2026-02-14T05:31:08.428Z",
-      "time": "05:31:08",
-      "type": "position",
-      "msg": "BNB -0.24% — Clássico"
     }
   ]
 }
