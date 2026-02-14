@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T09:24:17.861Z",
+      "time": "09:24:17",
+      "type": "position",
+      "msg": "ZEC +0.43% — Vou comemorar quando fechar. Talvez."
+    },
+    {
       "ts": "2026-02-14T09:23:47.259Z",
       "time": "09:23:47",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "09:16:49",
       "type": "analysis",
       "msg": "Olhando MOODENG... 56% SHORT"
-    },
-    {
-      "ts": "2026-02-14T09:16:48.830Z",
-      "time": "09:16:48",
-      "type": "analysis",
-      "msg": "ARB tá interessante, 56% pro SHORT"
     }
   ]
 }
