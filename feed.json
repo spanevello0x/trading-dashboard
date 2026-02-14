@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T06:54:42.000Z",
+      "time": "06:54:42",
+      "type": "position",
+      "msg": "TAO +1.27% — Isso aí, garoto. Vai, vai, vai..."
+    },
+    {
+      "ts": "2026-02-14T06:54:41.439Z",
+      "time": "06:54:41",
+      "type": "position",
+      "msg": "SUI -0.16% — O gráfico parecia tão bonito..."
+    },
+    {
+      "ts": "2026-02-14T06:54:41.124Z",
+      "time": "06:54:41",
+      "type": "position",
+      "msg": "BTC -0.23% — Minha análise era perfeita, o mercado que tá errado"
+    },
+    {
       "ts": "2026-02-14T06:54:12.153Z",
       "time": "06:54:12",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "06:47:31",
       "type": "system",
       "msg": "⚠️ Limite atingido (5/5) - JUP cancelado"
-    },
-    {
-      "ts": "2026-02-14T06:47:30.600Z",
-      "time": "06:47:30",
-      "type": "signal",
-      "msg": "🎯 SHORT JUP @ $0.15 (89%) — Vamo ver no que dá"
-    },
-    {
-      "ts": "2026-02-14T06:47:30.599Z",
-      "time": "06:47:30",
-      "type": "analysis",
-      "msg": "Analisando JUP... parece SHORT (89%)"
-    },
-    {
-      "ts": "2026-02-14T06:47:30.232Z",
-      "time": "06:47:30",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - LINK cancelado"
     }
   ]
 }
