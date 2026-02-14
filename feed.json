@@ -1,6 +1,36 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T07:08:43.235Z",
+      "time": "07:08:43",
+      "type": "position",
+      "msg": "PAXG +0.04% — Isso é acumulação ou distribuição? Ninguém sabe."
+    },
+    {
+      "ts": "2026-02-14T07:08:42.967Z",
+      "time": "07:08:42",
+      "type": "position",
+      "msg": "AAVE +0.20% — Se continuar assim, quase empato na semana"
+    },
+    {
+      "ts": "2026-02-14T07:08:42.700Z",
+      "time": "07:08:42",
+      "type": "position",
+      "msg": "BCH -0.19% — Prometo estudar mais... mentira, vou continuar igual"
+    },
+    {
+      "ts": "2026-02-14T07:08:42.405Z",
+      "time": "07:08:42",
+      "type": "position",
+      "msg": "SUI -0.36% — Quem precisa de dinheiro mesmo"
+    },
+    {
+      "ts": "2026-02-14T07:08:41.994Z",
+      "time": "07:08:41",
+      "type": "position",
+      "msg": "BTC -0.22% — Quem inventou crypto? Preciso conversar"
+    },
+    {
       "ts": "2026-02-14T07:07:42.793Z",
       "time": "07:07:42",
       "type": "position",
@@ -149,36 +179,6 @@
       "time": "07:03:41",
       "type": "position",
       "msg": "BTC -0.21% — Mercado fazendo mercadisse"
-    },
-    {
-      "ts": "2026-02-14T07:02:42.465Z",
-      "time": "07:02:42",
-      "type": "position",
-      "msg": "PAXG +0.04% — O mercado decidiu tirar uma soneca"
-    },
-    {
-      "ts": "2026-02-14T07:02:42.200Z",
-      "time": "07:02:42",
-      "type": "position",
-      "msg": "AAVE +0.10% — Será que esqueceram dessa moeda?"
-    },
-    {
-      "ts": "2026-02-14T07:02:41.939Z",
-      "time": "07:02:41",
-      "type": "position",
-      "msg": "BCH -0.30% — Minha análise era perfeita, o mercado que tá errado"
-    },
-    {
-      "ts": "2026-02-14T07:02:41.670Z",
-      "time": "07:02:41",
-      "type": "position",
-      "msg": "SUI -0.29% — Quem inventou crypto? Preciso conversar"
-    },
-    {
-      "ts": "2026-02-14T07:02:41.404Z",
-      "time": "07:02:41",
-      "type": "position",
-      "msg": "BTC -0.21% — O mercado escolheu violência hoje"
     }
   ]
 }
