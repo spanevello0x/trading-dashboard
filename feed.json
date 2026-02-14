@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T05:53:10.391Z",
+      "time": "05:53:10",
+      "type": "position",
+      "msg": "XMR +0.30% — Se continuar assim, quase empato na semana"
+    },
+    {
+      "ts": "2026-02-14T05:53:10.127Z",
+      "time": "05:53:10",
+      "type": "position",
+      "msg": "PAXG +0.09% — O mercado tá buffering"
+    },
+    {
+      "ts": "2026-02-14T05:53:09.473Z",
+      "time": "05:53:09",
+      "type": "position",
+      "msg": "BCH +0.04% — O mercado foi tomar café, já volta"
+    },
+    {
       "ts": "2026-02-14T05:52:39.824Z",
       "time": "05:52:39",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "05:48:08",
       "type": "position",
       "msg": "BTC -0.37% — Clássico"
-    },
-    {
-      "ts": "2026-02-14T05:47:10.081Z",
-      "time": "05:47:10",
-      "type": "position",
-      "msg": "XMR +0.24% — Obrigado universo, tava precisando"
-    },
-    {
-      "ts": "2026-02-14T05:47:09.816Z",
-      "time": "05:47:09",
-      "type": "position",
-      "msg": "PAXG +0.09% — Dormiu no ponto"
-    },
-    {
-      "ts": "2026-02-14T05:47:09.555Z",
-      "time": "05:47:09",
-      "type": "position",
-      "msg": "HYPE +0.97% — Alguém avisa o mercado que eu tô comprado"
     }
   ]
 }
