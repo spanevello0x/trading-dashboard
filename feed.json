@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T07:23:43.236Z",
+      "time": "07:23:43",
+      "type": "position",
+      "msg": "PAXG +0.11% — Quase consigo pagar o café de ontem"
+    },
+    {
+      "ts": "2026-02-14T07:23:42.971Z",
+      "time": "07:23:42",
+      "type": "position",
+      "msg": "AAVE +0.27% — Quem diria, acertei uma"
+    },
+    {
       "ts": "2026-02-14T07:23:12.746Z",
       "time": "07:23:12",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "07:15:12",
       "type": "position",
       "msg": "AAVE +0.26% — Obrigado universo, tava precisando"
-    },
-    {
-      "ts": "2026-02-14T07:15:12.374Z",
-      "time": "07:15:12",
-      "type": "position",
-      "msg": "BCH -0.34% — Vou culpar a lua, deve ser lua cheia"
-    },
-    {
-      "ts": "2026-02-14T07:14:41.897Z",
-      "time": "07:14:41",
-      "type": "position",
-      "msg": "SUI -0.40% — Minha análise era perfeita, o mercado que tá errado"
     }
   ]
 }
