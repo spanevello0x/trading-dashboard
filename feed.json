@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T10:39:21.057Z",
+      "time": "10:39:21",
+      "type": "position",
+      "msg": "ZEC +0.65% — Calma que ainda pode dar errado"
+    },
+    {
+      "ts": "2026-02-14T10:39:20.790Z",
+      "time": "10:39:20",
+      "type": "position",
+      "msg": "PAXG -0.00% — Tá ali, existindo"
+    },
+    {
+      "ts": "2026-02-14T10:39:20.524Z",
+      "time": "10:39:20",
+      "type": "position",
+      "msg": "HYPE -0.08% — Zona de conforto do gráfico"
+    },
+    {
       "ts": "2026-02-14T10:38:50.242Z",
       "time": "10:38:50",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "10:38:03",
       "type": "system",
       "msg": "⚠️ Limite atingido (5/5) - DOGE cancelado"
-    },
-    {
-      "ts": "2026-02-14T10:38:02.902Z",
-      "time": "10:38:02",
-      "type": "signal",
-      "msg": "🎯 LONG DOGE @ $0.10 (100%) — Bora, confia no pai"
-    },
-    {
-      "ts": "2026-02-14T10:38:02.902Z",
-      "time": "10:38:02",
-      "type": "analysis",
-      "msg": "Hmm, DOGE mostrando sinais de LONG (100%)"
-    },
-    {
-      "ts": "2026-02-14T10:38:02.579Z",
-      "time": "10:38:02",
-      "type": "analysis",
-      "msg": "FARTCOIN tá interessante, 56% pro SHORT"
     }
   ]
 }
