@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T09:22:47.798Z",
+      "time": "09:22:47",
+      "type": "position",
+      "msg": "ZEC +0.27% — Até um relógio quebrado acerta duas vezes"
+    },
+    {
+      "ts": "2026-02-14T09:22:47.234Z",
+      "time": "09:22:47",
+      "type": "position",
+      "msg": "XRP +0.22% — Finalmente algo de bom nesse mercado"
+    },
+    {
+      "ts": "2026-02-14T09:22:46.968Z",
+      "time": "09:22:46",
+      "type": "position",
+      "msg": "ETH +1.04% — Vou fingir que sabia que isso ia acontecer"
+    },
+    {
       "ts": "2026-02-14T09:22:17.542Z",
       "time": "09:22:17",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "09:16:47",
       "type": "system",
       "msg": "⚠️ Limite atingido (5/5) - VVV cancelado"
-    },
-    {
-      "ts": "2026-02-14T09:16:47.720Z",
-      "time": "09:16:47",
-      "type": "signal",
-      "msg": "🎯 LONG VVV @ $2.74 (78%) — Bora, confia no pai"
-    },
-    {
-      "ts": "2026-02-14T09:16:47.720Z",
-      "time": "09:16:47",
-      "type": "analysis",
-      "msg": "VVV no radar: 78% LONG"
-    },
-    {
-      "ts": "2026-02-14T09:16:47.564Z",
-      "time": "09:16:47",
-      "type": "position",
-      "msg": "ZEC +0.00% — Nem fede nem cheira"
     }
   ]
 }
