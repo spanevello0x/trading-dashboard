@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T14:49:29.559Z",
+      "time": "14:49:29",
+      "type": "position",
+      "msg": "ETH -0.09% — Tô aqui, olhando, esperando, sofrendo"
+    },
+    {
       "ts": "2026-02-14T14:48:59.986Z",
       "time": "14:48:59",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "14:39:47",
       "type": "signal",
       "msg": "🎯 LONG ARB @ $0.12 (100%) — Entrei. Arrependimento em 3, 2, 1..."
-    },
-    {
-      "ts": "2026-02-14T14:39:47.443Z",
-      "time": "14:39:47",
-      "type": "analysis",
-      "msg": "ARB no radar: 100% LONG"
     }
   ]
 }
