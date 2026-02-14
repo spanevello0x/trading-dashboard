@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T08:24:45.829Z",
+      "time": "08:24:45",
+      "type": "position",
+      "msg": "PAXG +0.06% — Zona de conforto do gráfico"
+    },
+    {
       "ts": "2026-02-14T08:24:15.320Z",
       "time": "08:24:15",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "08:16:14",
       "type": "position",
       "msg": "SUI -1.57% — O gráfico parecia tão bonito..."
-    },
-    {
-      "ts": "2026-02-14T08:15:45.260Z",
-      "time": "08:15:45",
-      "type": "position",
-      "msg": "PAXG +0.01% — Vai, faz alguma coisa"
     }
   ]
 }
