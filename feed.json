@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T07:50:44.880Z",
+      "time": "07:50:44",
+      "type": "position",
+      "msg": "PAXG -0.01% — Tô aqui, olhando, esperando, sofrendo"
+    },
+    {
+      "ts": "2026-02-14T07:50:43.463Z",
+      "time": "07:50:43",
+      "type": "position",
+      "msg": "SUI -0.80% — Isso é um teste de caráter, com certeza"
+    },
+    {
       "ts": "2026-02-14T07:50:13.721Z",
       "time": "07:50:13",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "07:41:43",
       "type": "position",
       "msg": "BCH -0.44% — Minha análise era perfeita, o mercado que tá errado"
-    },
-    {
-      "ts": "2026-02-14T07:41:43.163Z",
-      "time": "07:41:43",
-      "type": "position",
-      "msg": "SUI -0.57% — Tá bom, universo, entendi o recado"
-    },
-    {
-      "ts": "2026-02-14T07:41:14.908Z",
-      "time": "07:41:14",
-      "type": "position",
-      "msg": "PAXG +0.08% — Nem comprador nem vendedor quer tomar atitude"
     }
   ]
 }
