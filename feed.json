@@ -1,6 +1,36 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T07:06:42.628Z",
+      "time": "07:06:42",
+      "type": "position",
+      "msg": "PAXG +0.04% — Tédio lucrativo ou tédio prejuízo? A definir."
+    },
+    {
+      "ts": "2026-02-14T07:06:42.366Z",
+      "time": "07:06:42",
+      "type": "position",
+      "msg": "AAVE +0.12% — Calma que ainda pode dar errado"
+    },
+    {
+      "ts": "2026-02-14T07:06:42.097Z",
+      "time": "07:06:42",
+      "type": "position",
+      "msg": "BCH -0.33% — Ah sim, o famoso 'compra no topo'"
+    },
+    {
+      "ts": "2026-02-14T07:06:41.832Z",
+      "time": "07:06:41",
+      "type": "position",
+      "msg": "SUI -0.34% — Tá difícil defender essa entrada"
+    },
+    {
+      "ts": "2026-02-14T07:06:41.563Z",
+      "time": "07:06:41",
+      "type": "position",
+      "msg": "BTC -0.24% — Vermelho é a minha cor favorita agora"
+    },
+    {
       "ts": "2026-02-14T07:05:42.616Z",
       "time": "07:05:42",
       "type": "position",
@@ -149,36 +179,6 @@
       "time": "07:01:41",
       "type": "position",
       "msg": "BTC -0.23% — Não é prejuízo se eu não vender... ah, tem stop"
-    },
-    {
-      "ts": "2026-02-14T07:00:42.114Z",
-      "time": "07:00:42",
-      "type": "position",
-      "msg": "AAVE -0.03% — Pelo menos não tá caindo... ainda"
-    },
-    {
-      "ts": "2026-02-14T07:00:41.313Z",
-      "time": "07:00:41",
-      "type": "position",
-      "msg": "BTC -0.24% — Tá difícil defender essa entrada"
-    },
-    {
-      "ts": "2026-02-14T07:00:33.050Z",
-      "time": "07:00:33",
-      "type": "analysis",
-      "msg": "Olhando JUP... 56% LONG"
-    },
-    {
-      "ts": "2026-02-14T07:00:32.390Z",
-      "time": "07:00:32",
-      "type": "analysis",
-      "msg": "Hmm, LINK mostrando sinais de LONG (67%)"
-    },
-    {
-      "ts": "2026-02-14T07:00:32.086Z",
-      "time": "07:00:32",
-      "type": "analysis",
-      "msg": "MOODENG no radar: 56% LONG"
     }
   ]
 }
