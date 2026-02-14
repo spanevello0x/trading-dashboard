@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T06:16:11.385Z",
+      "time": "06:16:11",
+      "type": "position",
+      "msg": "XMR +0.52% — Print pra mostrar pros netos"
+    },
+    {
+      "ts": "2026-02-14T06:16:10.030Z",
+      "time": "06:16:10",
+      "type": "position",
+      "msg": "BTC -0.42% — Pelo menos o stop existe. Graças a Deus pelo stop."
+    },
+    {
       "ts": "2026-02-14T06:15:40.920Z",
       "time": "06:15:40",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "06:10:11",
       "type": "position",
       "msg": "PAXG +0.16% — O mercado me ama (por enquanto)"
-    },
-    {
-      "ts": "2026-02-14T06:10:11.513Z",
-      "time": "06:10:11",
-      "type": "position",
-      "msg": "HYPE +1.59% — Até um relógio quebrado acerta duas vezes"
-    },
-    {
-      "ts": "2026-02-14T06:10:10.149Z",
-      "time": "06:10:10",
-      "type": "position",
-      "msg": "BNB +0.09% — Nem fede nem cheira"
     }
   ]
 }
