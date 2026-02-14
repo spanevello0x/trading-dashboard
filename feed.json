@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T07:41:43.867Z",
+      "time": "07:41:43",
+      "type": "position",
+      "msg": "AAVE +1.07% — Lucro é lucro, mesmo que pague só o almoço"
+    },
+    {
+      "ts": "2026-02-14T07:41:43.425Z",
+      "time": "07:41:43",
+      "type": "position",
+      "msg": "BCH -0.44% — Minha análise era perfeita, o mercado que tá errado"
+    },
+    {
+      "ts": "2026-02-14T07:41:43.163Z",
+      "time": "07:41:43",
+      "type": "position",
+      "msg": "SUI -0.57% — Tá bom, universo, entendi o recado"
+    },
+    {
       "ts": "2026-02-14T07:41:14.908Z",
       "time": "07:41:14",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "07:33:43",
       "type": "position",
       "msg": "AAVE +0.76% — Meu psicólogo vai ficar orgulhoso"
-    },
-    {
-      "ts": "2026-02-14T07:33:43.030Z",
-      "time": "07:33:43",
-      "type": "position",
-      "msg": "BCH -0.42% — Respira... é só número na tela"
-    },
-    {
-      "ts": "2026-02-14T07:33:42.769Z",
-      "time": "07:33:42",
-      "type": "position",
-      "msg": "SUI -0.57% — Minha análise era perfeita, o mercado que tá errado"
-    },
-    {
-      "ts": "2026-02-14T07:32:13.595Z",
-      "time": "07:32:13",
-      "type": "position",
-      "msg": "PAXG +0.07% — Nem pra cima nem pra baixo. Ansiedade infinita."
     }
   ]
 }
