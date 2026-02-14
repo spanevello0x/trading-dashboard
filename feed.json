@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T11:10:51.296Z",
+      "time": "11:10:51",
+      "type": "position",
+      "msg": "XRP +0.06% — O mercado foi tomar café, já volta"
+    },
+    {
       "ts": "2026-02-14T11:10:22.299Z",
       "time": "11:10:22",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "11:02:22",
       "type": "position",
       "msg": "ZEC +0.26% — Melhor que Netflix isso aqui"
-    },
-    {
-      "ts": "2026-02-14T11:02:22.303Z",
-      "time": "11:02:22",
-      "type": "position",
-      "msg": "PAXG +0.02% — O mercado tá pensando..."
     }
   ]
 }
