@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T08:13:44.682Z",
+      "time": "08:13:44",
+      "type": "position",
+      "msg": "SUI -1.55% — Podia ser pior. Dá tempo ainda."
+    },
+    {
       "ts": "2026-02-14T08:13:14.357Z",
       "time": "08:13:14",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "08:05:44",
       "type": "position",
       "msg": "BCH +0.23% — Não sou eu, é o mercado que tá errado... ah não, dessa vez acertou"
-    },
-    {
-      "ts": "2026-02-14T08:05:14.275Z",
-      "time": "08:05:14",
-      "type": "position",
-      "msg": "SUI -1.06% — Isso é um teste de caráter, com certeza"
     }
   ]
 }
