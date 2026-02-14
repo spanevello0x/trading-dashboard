@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T10:09:49.962Z",
+      "time": "10:09:49",
+      "type": "position",
+      "msg": "ZEC +0.61% — Verde combina comigo"
+    },
+    {
       "ts": "2026-02-14T10:09:19.128Z",
       "time": "10:09:19",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "10:01:19",
       "type": "position",
       "msg": "HYPE -0.05% — O mercado tá pensando..."
-    },
-    {
-      "ts": "2026-02-14T10:01:18.817Z",
-      "time": "10:01:18",
-      "type": "position",
-      "msg": "XRP -0.24% — Tá bom, universo, entendi o recado"
     }
   ]
 }
