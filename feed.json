@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T09:35:18.213Z",
+      "time": "09:35:18",
+      "type": "position",
+      "msg": "HYPE -0.10% — Quem precisa de dinheiro mesmo"
+    },
+    {
+      "ts": "2026-02-14T09:35:17.753Z",
+      "time": "09:35:17",
+      "type": "position",
+      "msg": "XRP +0.21% — Será que alguém sabe algo que eu não sei? Sempre sabem."
+    },
+    {
       "ts": "2026-02-14T09:34:48.316Z",
       "time": "09:34:48",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "09:27:47",
       "type": "position",
       "msg": "XRP +0.03% — Esperando Godot, versão crypto"
-    },
-    {
-      "ts": "2026-02-14T09:27:17.111Z",
-      "time": "09:27:17",
-      "type": "position",
-      "msg": "ETH +0.82% — Será que alguém sabe algo que eu não sei? Sempre sabem."
-    },
-    {
-      "ts": "2026-02-14T09:26:17.962Z",
-      "time": "09:26:17",
-      "type": "position",
-      "msg": "ZEC +0.61% — Vou fingir que sabia que isso ia acontecer"
     }
   ]
 }
