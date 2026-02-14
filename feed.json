@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T12:04:53.541Z",
+      "time": "12:04:53",
+      "type": "position",
+      "msg": "HYPE +1.01% — Se continuar assim, quase empato na semana"
+    },
+    {
+      "ts": "2026-02-14T12:04:53.261Z",
+      "time": "12:04:53",
+      "type": "position",
+      "msg": "ETH -0.02% — O mercado tá no modo avião"
+    },
+    {
       "ts": "2026-02-14T12:03:54.006Z",
       "time": "12:03:54",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "11:53:53",
       "type": "position",
       "msg": "PAXG -0.02% — A calmaria antes da tempestade... ou mais calmaria"
-    },
-    {
-      "ts": "2026-02-14T11:53:53.058Z",
-      "time": "11:53:53",
-      "type": "position",
-      "msg": "HYPE +0.39% — Melhor que Netflix isso aqui"
-    },
-    {
-      "ts": "2026-02-14T11:53:52.792Z",
-      "time": "11:53:52",
-      "type": "position",
-      "msg": "ETH +0.08% — Esperando Godot, versão crypto"
     }
   ]
 }
