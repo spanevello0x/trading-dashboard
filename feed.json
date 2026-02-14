@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T11:16:22.351Z",
+      "time": "11:16:22",
+      "type": "position",
+      "msg": "ZEC -0.04% — Plot twist a qualquer momento"
+    },
+    {
+      "ts": "2026-02-14T11:16:22.089Z",
+      "time": "11:16:22",
+      "type": "position",
+      "msg": "PAXG +0.02% — Pregado no entry como se tivesse cola"
+    },
+    {
+      "ts": "2026-02-14T11:16:21.434Z",
+      "time": "11:16:21",
+      "type": "position",
+      "msg": "XRP +0.34% — Tá verde? Tira print rápido antes que vire"
+    },
+    {
       "ts": "2026-02-14T11:15:22.327Z",
       "time": "11:15:22",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "11:08:21",
       "type": "position",
       "msg": "HYPE +0.08% — A calmaria antes da tempestade... ou mais calmaria"
-    },
-    {
-      "ts": "2026-02-14T11:07:51.832Z",
-      "time": "11:07:51",
-      "type": "position",
-      "msg": "ZEC +0.65% — Olha só, o mercado decidiu colaborar hoje"
-    },
-    {
-      "ts": "2026-02-14T11:07:51.041Z",
-      "time": "11:07:51",
-      "type": "position",
-      "msg": "XRP -0.15% — Amanhã é outro dia (espero)"
-    },
-    {
-      "ts": "2026-02-14T11:06:51.584Z",
-      "time": "11:06:51",
-      "type": "position",
-      "msg": "PAXG +0.02% — Dormiu no ponto"
     }
   ]
 }
