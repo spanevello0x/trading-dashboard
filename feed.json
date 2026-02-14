@@ -1,6 +1,30 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T05:57:41.102Z",
+      "time": "05:57:41",
+      "type": "position",
+      "msg": "XMR +0.57% — Quem diria, acertei uma"
+    },
+    {
+      "ts": "2026-02-14T05:57:40.835Z",
+      "time": "05:57:40",
+      "type": "position",
+      "msg": "PAXG +0.09% — A calmaria antes da tempestade... ou mais calmaria"
+    },
+    {
+      "ts": "2026-02-14T05:57:40.432Z",
+      "time": "05:57:40",
+      "type": "position",
+      "msg": "HYPE +1.40% — Será que é armadilha? Provavelmente. Mas vou curtir enquanto dura"
+    },
+    {
+      "ts": "2026-02-14T05:57:40.151Z",
+      "time": "05:57:40",
+      "type": "position",
+      "msg": "BCH +0.47% — Não sou eu, é o mercado que tá errado... ah não, dessa vez acertou"
+    },
+    {
       "ts": "2026-02-14T05:57:09.597Z",
       "time": "05:57:09",
       "type": "position",
@@ -155,30 +179,6 @@
       "time": "05:52:09",
       "type": "position",
       "msg": "BCH +0.02% — Dormiu no ponto"
-    },
-    {
-      "ts": "2026-02-14T05:51:40.448Z",
-      "time": "05:51:40",
-      "type": "position",
-      "msg": "XMR +0.22% — Não sou eu, é o mercado que tá errado... ah não, dessa vez acertou"
-    },
-    {
-      "ts": "2026-02-14T05:51:39.666Z",
-      "time": "05:51:39",
-      "type": "position",
-      "msg": "HYPE +0.95% — Quem diria, acertei uma"
-    },
-    {
-      "ts": "2026-02-14T05:51:39.136Z",
-      "time": "05:51:39",
-      "type": "position",
-      "msg": "BNB -0.16% — Loss building character 💪"
-    },
-    {
-      "ts": "2026-02-14T05:51:38.871Z",
-      "time": "05:51:38",
-      "type": "position",
-      "msg": "BTC -0.35% — Quem inventou crypto? Preciso conversar"
     }
   ]
 }
