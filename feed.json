@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T08:50:46.065Z",
+      "time": "08:50:46",
+      "type": "position",
+      "msg": "SUI -2.43% — Prometo estudar mais... mentira, vou continuar igual"
+    },
+    {
+      "ts": "2026-02-14T08:50:45.795Z",
+      "time": "08:50:45",
+      "type": "position",
+      "msg": "ETH +0.99% — O mercado me ama (por enquanto)"
+    },
+    {
       "ts": "2026-02-14T08:49:46.613Z",
       "time": "08:49:46",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "08:42:15",
       "type": "position",
       "msg": "ETH +0.85% — Vou fingir que sabia que isso ia acontecer"
-    },
-    {
-      "ts": "2026-02-14T08:40:46.987Z",
-      "time": "08:40:46",
-      "type": "position",
-      "msg": "PAXG +0.08% — Dormiu no ponto"
-    },
-    {
-      "ts": "2026-02-14T08:40:46.264Z",
-      "time": "08:40:46",
-      "type": "position",
-      "msg": "BCH +0.68% — Meu psicólogo vai ficar orgulhoso"
     }
   ]
 }
