@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T12:42:55.286Z",
+      "time": "12:42:55",
+      "type": "position",
+      "msg": "ZEC -0.38% — Tá bom, universo, entendi o recado"
+    },
+    {
+      "ts": "2026-02-14T12:42:54.755Z",
+      "time": "12:42:54",
+      "type": "position",
+      "msg": "HYPE -0.71% — Não é prejuízo se eu não vender... ah, tem stop"
+    },
+    {
       "ts": "2026-02-14T12:42:25.000Z",
       "time": "12:42:25",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "12:40:06",
       "type": "system",
       "msg": "⚠️ Limite atingido (5/5) - MON cancelado"
-    },
-    {
-      "ts": "2026-02-14T12:40:06.479Z",
-      "time": "12:40:06",
-      "type": "signal",
-      "msg": "🎯 SHORT MON @ $0.02 (78%) — Entrei. Arrependimento em 3, 2, 1..."
-    },
-    {
-      "ts": "2026-02-14T12:40:06.479Z",
-      "time": "12:40:06",
-      "type": "analysis",
-      "msg": "MON no radar: 78% SHORT"
     }
   ]
 }
