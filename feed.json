@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T10:17:19.938Z",
+      "time": "10:17:19",
+      "type": "position",
+      "msg": "ZEC +0.79% — Lucro é lucro, mesmo que pague só o almoço"
+    },
+    {
       "ts": "2026-02-14T10:16:19.742Z",
       "time": "10:16:19",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "10:08:18",
       "type": "position",
       "msg": "ETH +0.69% — Não me acostumem com isso"
-    },
-    {
-      "ts": "2026-02-14T10:07:49.659Z",
-      "time": "10:07:49",
-      "type": "position",
-      "msg": "ZEC +0.98% — Vou fingir que sabia que isso ia acontecer"
     }
   ]
 }
