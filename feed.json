@@ -41,6 +41,42 @@
       "time": "04:41:45",
       "type": "position",
       "msg": "XMR +1.16% — Não é muito, mas é trabalho honesto"
+    },
+    {
+      "ts": "2026-02-14T04:42:45.763Z",
+      "time": "04:42:45",
+      "type": "position",
+      "msg": "BTC -0.32% — O mercado escolheu violência hoje"
+    },
+    {
+      "ts": "2026-02-14T04:42:46.023Z",
+      "time": "04:42:46",
+      "type": "position",
+      "msg": "BNB -0.07% — O mercado foi tomar café, já volta"
+    },
+    {
+      "ts": "2026-02-14T04:42:46.287Z",
+      "time": "04:42:46",
+      "type": "position",
+      "msg": "BCH +0.04% — Será que esqueceram dessa moeda?"
+    },
+    {
+      "ts": "2026-02-14T04:42:46.552Z",
+      "time": "04:42:46",
+      "type": "position",
+      "msg": "HYPE +1.10% — Isso aí, garoto. Vai, vai, vai..."
+    },
+    {
+      "ts": "2026-02-14T04:42:47.298Z",
+      "time": "04:42:47",
+      "type": "position",
+      "msg": "PAXG +0.18% — O mercado tá generoso hoje, desconfio"
+    },
+    {
+      "ts": "2026-02-14T04:42:47.567Z",
+      "time": "04:42:47",
+      "type": "position",
+      "msg": "XMR +1.12% — O mercado tá generoso hoje, desconfio"
     }
   ]
 }
