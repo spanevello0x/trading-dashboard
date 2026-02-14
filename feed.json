@@ -1,6 +1,30 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T05:05:38.243Z",
+      "time": "05:05:38",
+      "type": "position",
+      "msg": "PAXG +0.20% — Alguém avisa o mercado que eu tô comprado"
+    },
+    {
+      "ts": "2026-02-14T05:05:37.966Z",
+      "time": "05:05:37",
+      "type": "position",
+      "msg": "HYPE +1.20% — Calma que ainda pode dar errado"
+    },
+    {
+      "ts": "2026-02-14T05:05:37.427Z",
+      "time": "05:05:37",
+      "type": "position",
+      "msg": "BNB -0.02% — O gráfico tá meditando"
+    },
+    {
+      "ts": "2026-02-14T05:05:36.998Z",
+      "time": "05:05:36",
+      "type": "position",
+      "msg": "BTC -0.34% — Não é prejuízo se eu não vender... ah, tem stop"
+    },
+    {
       "ts": "2026-02-14T05:05:08.722Z",
       "time": "05:05:08",
       "type": "position",
@@ -155,30 +179,6 @@
       "time": "05:00:37",
       "type": "position",
       "msg": "BCH +0.01% — O mercado foi tomar café, já volta"
-    },
-    {
-      "ts": "2026-02-14T05:00:07.935Z",
-      "time": "05:00:07",
-      "type": "position",
-      "msg": "PAXG +0.23% — Alguém avisa o mercado que eu tô comprado"
-    },
-    {
-      "ts": "2026-02-14T05:00:07.666Z",
-      "time": "05:00:07",
-      "type": "position",
-      "msg": "HYPE +0.93% — Tá bom demais pra ser verdade... ops, não deveria falar isso"
-    },
-    {
-      "ts": "2026-02-14T05:00:07.062Z",
-      "time": "05:00:07",
-      "type": "position",
-      "msg": "BNB -0.06% — Pregado no entry como se tivesse cola"
-    },
-    {
-      "ts": "2026-02-14T05:00:06.801Z",
-      "time": "05:00:06",
-      "type": "position",
-      "msg": "BTC -0.42% — Ah sim, o famoso 'compra no topo'"
     }
   ]
 }
