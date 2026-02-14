@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T11:17:51.961Z",
+      "time": "11:17:51",
+      "type": "position",
+      "msg": "PAXG +0.03% — Dormiu no ponto"
+    },
+    {
       "ts": "2026-02-14T11:17:22.339Z",
       "time": "11:17:22",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "11:09:21",
       "type": "position",
       "msg": "HYPE +0.19% — Tá verde? Tira print rápido antes que vire"
-    },
-    {
-      "ts": "2026-02-14T11:08:51.871Z",
-      "time": "11:08:51",
-      "type": "position",
-      "msg": "ZEC +0.65% — Até um relógio quebrado acerta duas vezes"
     }
   ]
 }
