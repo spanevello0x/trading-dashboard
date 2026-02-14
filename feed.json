@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T07:23:12.746Z",
+      "time": "07:23:12",
+      "type": "position",
+      "msg": "BCH -0.41% — O gráfico parecia tão bonito..."
+    },
+    {
+      "ts": "2026-02-14T07:23:12.373Z",
+      "time": "07:23:12",
+      "type": "position",
+      "msg": "SUI -0.37% — O mercado acordou e escolheu me machucar"
+    },
+    {
       "ts": "2026-02-14T07:22:43.224Z",
       "time": "07:22:43",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "07:14:41",
       "type": "position",
       "msg": "SUI -0.40% — Minha análise era perfeita, o mercado que tá errado"
-    },
-    {
-      "ts": "2026-02-14T07:14:12.423Z",
-      "time": "07:14:12",
-      "type": "position",
-      "msg": "AAVE +0.25% — Respira... ainda não acabou"
-    },
-    {
-      "ts": "2026-02-14T07:14:12.160Z",
-      "time": "07:14:12",
-      "type": "position",
-      "msg": "BCH -0.34% — O gráfico parecia tão bonito..."
     }
   ]
 }
