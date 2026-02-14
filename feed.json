@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T14:34:29.548Z",
+      "time": "14:34:29",
+      "type": "position",
+      "msg": "HYPE +0.41% — Isso aí, garoto. Vai, vai, vai..."
+    },
+    {
+      "ts": "2026-02-14T14:34:29.287Z",
+      "time": "14:34:29",
+      "type": "position",
+      "msg": "SOL -0.91% — Clássico"
+    },
+    {
+      "ts": "2026-02-14T14:34:29.021Z",
+      "time": "14:34:29",
+      "type": "position",
+      "msg": "ETH -0.05% — Nem comprador nem vendedor quer tomar atitude"
+    },
+    {
       "ts": "2026-02-14T14:32:59.507Z",
       "time": "14:32:59",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "14:23:29",
       "type": "position",
       "msg": "HYPE +0.61% — Olha só, o mercado decidiu colaborar hoje"
-    },
-    {
-      "ts": "2026-02-14T14:22:58.758Z",
-      "time": "14:22:58",
-      "type": "position",
-      "msg": "SOL -0.70% — Minha análise era perfeita, o mercado que tá errado"
-    },
-    {
-      "ts": "2026-02-14T14:22:58.494Z",
-      "time": "14:22:58",
-      "type": "position",
-      "msg": "ETH -0.12% — Clássico"
-    },
-    {
-      "ts": "2026-02-14T14:21:59.054Z",
-      "time": "14:21:59",
-      "type": "position",
-      "msg": "HYPE +0.45% — Até um relógio quebrado acerta duas vezes"
     }
   ]
 }
