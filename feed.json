@@ -1,6 +1,42 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T06:07:41.323Z",
+      "time": "06:07:41",
+      "type": "position",
+      "msg": "XMR +0.50% — Stonks 📈 (desculpa, não resisti)"
+    },
+    {
+      "ts": "2026-02-14T06:07:41.061Z",
+      "time": "06:07:41",
+      "type": "position",
+      "msg": "PAXG +0.14% — O mercado me ama (por enquanto)"
+    },
+    {
+      "ts": "2026-02-14T06:07:40.794Z",
+      "time": "06:07:40",
+      "type": "position",
+      "msg": "HYPE +1.41% — Print pra mostrar pros netos"
+    },
+    {
+      "ts": "2026-02-14T06:07:40.260Z",
+      "time": "06:07:40",
+      "type": "position",
+      "msg": "BCH +0.57% — Se continuar assim, quase empato na semana"
+    },
+    {
+      "ts": "2026-02-14T06:07:39.997Z",
+      "time": "06:07:39",
+      "type": "position",
+      "msg": "BNB +0.02% — Enquanto não move, não perco. Stonks mental."
+    },
+    {
+      "ts": "2026-02-14T06:07:39.732Z",
+      "time": "06:07:39",
+      "type": "position",
+      "msg": "BTC -0.44% — Isso é um teste de caráter, com certeza"
+    },
+    {
       "ts": "2026-02-14T06:06:10.931Z",
       "time": "06:06:10",
       "type": "position",
@@ -143,42 +179,6 @@
       "time": "06:01:40",
       "type": "position",
       "msg": "HYPE +1.48% — Será que é armadilha? Provavelmente. Mas vou curtir enquanto dura"
-    },
-    {
-      "ts": "2026-02-14T06:01:39.797Z",
-      "time": "06:01:39",
-      "type": "position",
-      "msg": "BCH +0.40% — Print pra mostrar pros netos"
-    },
-    {
-      "ts": "2026-02-14T06:01:39.519Z",
-      "time": "06:01:39",
-      "type": "position",
-      "msg": "BNB +0.03% — Consolidação ou indecisão? Sim."
-    },
-    {
-      "ts": "2026-02-14T06:01:39.254Z",
-      "time": "06:01:39",
-      "type": "position",
-      "msg": "BTC -0.44% — O mercado escolheu violência hoje"
-    },
-    {
-      "ts": "2026-02-14T06:01:10.726Z",
-      "time": "06:01:10",
-      "type": "position",
-      "msg": "XMR +0.49% — Verde combina comigo"
-    },
-    {
-      "ts": "2026-02-14T06:00:39.518Z",
-      "time": "06:00:39",
-      "type": "position",
-      "msg": "BNB +0.02% — Dormiu no ponto"
-    },
-    {
-      "ts": "2026-02-14T06:00:39.222Z",
-      "time": "06:00:39",
-      "type": "position",
-      "msg": "BTC -0.44% — Quem precisa de dinheiro mesmo"
     }
   ]
 }
