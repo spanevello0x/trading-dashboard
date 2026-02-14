@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T12:51:25.493Z",
+      "time": "12:51:25",
+      "type": "position",
+      "msg": "PAXG -0.06% — O mercado decidiu tirar uma soneca"
+    },
+    {
       "ts": "2026-02-14T12:50:55.559Z",
       "time": "12:50:55",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "12:49:40",
       "type": "analysis",
       "msg": "Olhando BERA... 67% SHORT"
-    },
-    {
-      "ts": "2026-02-14T12:49:40.413Z",
-      "time": "12:49:40",
-      "type": "analysis",
-      "msg": "Analisando DOGE... parece SHORT (56%)"
     }
   ]
 }
