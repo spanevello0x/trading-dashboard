@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T12:16:24.309Z",
+      "time": "12:16:24",
+      "type": "position",
+      "msg": "PAXG -0.02% — Parece até stable coin"
+    },
+    {
+      "ts": "2026-02-14T12:16:24.040Z",
+      "time": "12:16:24",
+      "type": "position",
+      "msg": "HYPE +0.45% — Não me acostumem com isso"
+    },
+    {
+      "ts": "2026-02-14T12:16:23.774Z",
+      "time": "12:16:23",
+      "type": "position",
+      "msg": "ETH -0.15% — Pelo menos não é dinheiro de verdade... ah, espera"
+    },
+    {
       "ts": "2026-02-14T12:15:24.273Z",
       "time": "12:15:24",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "12:05:23",
       "type": "position",
       "msg": "PAXG -0.02% — Será que esqueceram dessa moeda?"
-    },
-    {
-      "ts": "2026-02-14T12:04:53.541Z",
-      "time": "12:04:53",
-      "type": "position",
-      "msg": "HYPE +1.01% — Se continuar assim, quase empato na semana"
-    },
-    {
-      "ts": "2026-02-14T12:04:53.261Z",
-      "time": "12:04:53",
-      "type": "position",
-      "msg": "ETH -0.02% — O mercado tá no modo avião"
-    },
-    {
-      "ts": "2026-02-14T12:03:54.006Z",
-      "time": "12:03:54",
-      "type": "position",
-      "msg": "PAXG -0.02% — Nem comprador nem vendedor quer tomar atitude"
     }
   ]
 }
