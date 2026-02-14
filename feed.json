@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T10:53:20.538Z",
+      "time": "10:53:20",
+      "type": "position",
+      "msg": "XRP -0.50% — Pelo menos aprendo algo... né?"
+    },
+    {
       "ts": "2026-02-14T10:52:21.605Z",
       "time": "10:52:21",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "10:43:50",
       "type": "position",
       "msg": "PAXG +0.00% — O mercado foi tomar café, já volta"
-    },
-    {
-      "ts": "2026-02-14T10:43:50.628Z",
-      "time": "10:43:50",
-      "type": "position",
-      "msg": "HYPE -0.21% — Amanhã é outro dia (espero)"
     }
   ]
 }
