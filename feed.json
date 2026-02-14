@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T09:12:16.901Z",
+      "time": "09:12:16",
+      "type": "position",
+      "msg": "SUI -2.50% — Prometo estudar mais... mentira, vou continuar igual"
+    },
+    {
       "ts": "2026-02-14T09:11:46.627Z",
       "time": "09:11:46",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "09:03:46",
       "type": "position",
       "msg": "SUI -2.94% — Não é prejuízo se eu não vender... ah, tem stop"
-    },
-    {
-      "ts": "2026-02-14T09:03:46.418Z",
-      "time": "09:03:46",
-      "type": "position",
-      "msg": "ETH +1.28% — Imagina se eu tivesse colocado mais..."
     }
   ]
 }
