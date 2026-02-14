@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T11:48:52.860Z",
+      "time": "11:48:52",
+      "type": "position",
+      "msg": "HYPE +0.45% — Será que alguém sabe algo que eu não sei? Sempre sabem."
+    },
+    {
+      "ts": "2026-02-14T11:48:52.590Z",
+      "time": "11:48:52",
+      "type": "position",
+      "msg": "ETH -0.07% — Tô aqui, olhando, esperando, sofrendo"
+    },
+    {
       "ts": "2026-02-14T11:47:53.149Z",
       "time": "11:47:53",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "11:47:06",
       "type": "signal",
       "msg": "🎯 LONG DOGE @ $0.10 (89%) — Bora, confia no pai"
-    },
-    {
-      "ts": "2026-02-14T11:47:06.980Z",
-      "time": "11:47:06",
-      "type": "analysis",
-      "msg": "DOGE no radar: 89% LONG"
-    },
-    {
-      "ts": "2026-02-14T11:47:06.670Z",
-      "time": "11:47:06",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - FARTCOIN cancelado"
     }
   ]
 }
