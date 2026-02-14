@@ -1,6 +1,30 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T07:32:13.595Z",
+      "time": "07:32:13",
+      "type": "position",
+      "msg": "PAXG +0.07% — Nem pra cima nem pra baixo. Ansiedade infinita."
+    },
+    {
+      "ts": "2026-02-14T07:32:13.324Z",
+      "time": "07:32:13",
+      "type": "position",
+      "msg": "AAVE +0.72% — Vou fingir que sabia que isso ia acontecer"
+    },
+    {
+      "ts": "2026-02-14T07:32:13.059Z",
+      "time": "07:32:13",
+      "type": "position",
+      "msg": "BCH -0.42% — O mercado acordou e escolheu me machucar"
+    },
+    {
+      "ts": "2026-02-14T07:32:12.794Z",
+      "time": "07:32:12",
+      "type": "position",
+      "msg": "SUI -0.54% — Quem mandou confiar em linha colorida"
+    },
+    {
       "ts": "2026-02-14T07:31:12.979Z",
       "time": "07:31:12",
       "type": "position",
@@ -155,30 +179,6 @@
       "time": "07:23:42",
       "type": "position",
       "msg": "AAVE +0.27% — Quem diria, acertei uma"
-    },
-    {
-      "ts": "2026-02-14T07:23:12.746Z",
-      "time": "07:23:12",
-      "type": "position",
-      "msg": "BCH -0.41% — O gráfico parecia tão bonito..."
-    },
-    {
-      "ts": "2026-02-14T07:23:12.373Z",
-      "time": "07:23:12",
-      "type": "position",
-      "msg": "SUI -0.37% — O mercado acordou e escolheu me machucar"
-    },
-    {
-      "ts": "2026-02-14T07:22:43.224Z",
-      "time": "07:22:43",
-      "type": "position",
-      "msg": "PAXG +0.11% — Quase consigo pagar o café de ontem"
-    },
-    {
-      "ts": "2026-02-14T07:22:42.960Z",
-      "time": "07:22:42",
-      "type": "position",
-      "msg": "AAVE +0.18% — Finalmente algo de bom nesse mercado"
     }
   ]
 }
