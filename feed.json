@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T05:59:09.700Z",
+      "time": "05:59:09",
+      "type": "position",
+      "msg": "BNB +0.03% — Esperando Godot, versão crypto"
+    },
+    {
+      "ts": "2026-02-14T05:59:09.434Z",
+      "time": "05:59:09",
+      "type": "position",
+      "msg": "BTC -0.44% — O stop tá ali por um motivo, né"
+    },
+    {
       "ts": "2026-02-14T05:58:41.268Z",
       "time": "05:58:41",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "05:53:38",
       "type": "position",
       "msg": "BTC -0.42% — Pelo menos aprendo algo... né?"
-    },
-    {
-      "ts": "2026-02-14T05:53:10.391Z",
-      "time": "05:53:10",
-      "type": "position",
-      "msg": "XMR +0.30% — Se continuar assim, quase empato na semana"
-    },
-    {
-      "ts": "2026-02-14T05:53:10.127Z",
-      "time": "05:53:10",
-      "type": "position",
-      "msg": "PAXG +0.09% — O mercado tá buffering"
     }
   ]
 }
