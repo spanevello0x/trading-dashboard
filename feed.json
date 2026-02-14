@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T09:17:17.576Z",
+      "time": "09:17:17",
+      "type": "position",
+      "msg": "ZEC +0.42% — Será que é armadilha? Provavelmente. Mas vou curtir enquanto dura"
+    },
+    {
+      "ts": "2026-02-14T09:17:16.755Z",
+      "time": "09:17:16",
+      "type": "position",
+      "msg": "ETH +0.96% — Vou comemorar quando fechar. Talvez."
+    },
+    {
       "ts": "2026-02-14T09:16:50.017Z",
       "time": "09:16:50",
       "type": "system",
@@ -167,18 +179,6 @@
       "time": "09:16:44",
       "type": "analysis",
       "msg": "Olhando BERA... 78% LONG"
-    },
-    {
-      "ts": "2026-02-14T09:16:43.835Z",
-      "time": "09:16:43",
-      "type": "analysis",
-      "msg": "Olhando DOGE... 67% LONG"
-    },
-    {
-      "ts": "2026-02-14T09:16:43.557Z",
-      "time": "09:16:43",
-      "type": "analysis",
-      "msg": "FARTCOIN no radar: 56% SHORT"
     }
   ]
 }
