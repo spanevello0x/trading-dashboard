@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T14:58:00.452Z",
+      "time": "14:58:00",
+      "type": "position",
+      "msg": "HYPE -0.08% — Enquanto não move, não perco. Stonks mental."
+    },
+    {
+      "ts": "2026-02-14T14:57:59.893Z",
+      "time": "14:57:59",
+      "type": "position",
+      "msg": "ETH -0.63% — Clássico"
+    },
+    {
       "ts": "2026-02-14T14:57:30.071Z",
       "time": "14:57:30",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "14:46:29",
       "type": "position",
       "msg": "SOL -0.08% — Lateral é o novo tendência"
-    },
-    {
-      "ts": "2026-02-14T14:45:59.390Z",
-      "time": "14:45:59",
-      "type": "position",
-      "msg": "ETH -0.11% — Respira... é só número na tela"
-    },
-    {
-      "ts": "2026-02-14T14:45:29.875Z",
-      "time": "14:45:29",
-      "type": "position",
-      "msg": "HYPE -0.09% — A calmaria antes da tempestade... ou mais calmaria"
     }
   ]
 }
