@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T09:04:17.071Z",
+      "time": "09:04:17",
+      "type": "position",
+      "msg": "PAXG +0.00% — Consolidação ou indecisão? Sim."
+    },
+    {
       "ts": "2026-02-14T09:03:46.946Z",
       "time": "09:03:46",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "08:55:46",
       "type": "position",
       "msg": "BCH +0.83% — Tá verde? Tira print rápido antes que vire"
-    },
-    {
-      "ts": "2026-02-14T08:55:46.253Z",
-      "time": "08:55:46",
-      "type": "position",
-      "msg": "SUI -2.62% — Tá bom, universo, entendi o recado"
     }
   ]
 }
