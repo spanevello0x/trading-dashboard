@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T15:18:31.036Z",
+      "time": "15:18:31",
+      "type": "position",
+      "msg": "SOL +0.29% — Melhor que Netflix isso aqui"
+    },
+    {
+      "ts": "2026-02-14T15:18:30.771Z",
+      "time": "15:18:30",
+      "type": "position",
+      "msg": "ETH -0.64% — Quem precisa de dinheiro mesmo"
+    },
+    {
       "ts": "2026-02-14T15:18:01.398Z",
       "time": "15:18:01",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "15:07:30",
       "type": "position",
       "msg": "HYPE -0.26% — Tá bom, universo, entendi o recado"
-    },
-    {
-      "ts": "2026-02-14T15:07:30.251Z",
-      "time": "15:07:30",
-      "type": "position",
-      "msg": "ETH -0.58% — Tá difícil defender essa entrada"
-    },
-    {
-      "ts": "2026-02-14T15:07:00.474Z",
-      "time": "15:07:00",
-      "type": "position",
-      "msg": "SOL +0.11% — Tá subindo? Deixa eu não olhar pra não dar azar"
     }
   ]
 }
