@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T12:50:25.215Z",
+      "time": "12:50:25",
+      "type": "position",
+      "msg": "PAXG -0.06% — Se mexer muito, assusta"
+    },
+    {
       "ts": "2026-02-14T12:49:55.643Z",
       "time": "12:49:55",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "12:49:39",
       "type": "signal",
       "msg": "🎯 SHORT FARTCOIN @ $0.19 (89%) — Nova aposta na mesa"
-    },
-    {
-      "ts": "2026-02-14T12:49:39.654Z",
-      "time": "12:49:39",
-      "type": "analysis",
-      "msg": "Hmm, FARTCOIN mostrando sinais de SHORT (89%)"
     }
   ]
 }
