@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T11:06:21.823Z",
+      "time": "11:06:21",
+      "type": "position",
+      "msg": "ZEC +0.54% — Imagina se eu tivesse colocado mais..."
+    },
+    {
       "ts": "2026-02-14T11:05:51.484Z",
       "time": "11:05:51",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "10:57:50",
       "type": "position",
       "msg": "XRP -0.36% — Não é prejuízo se eu não vender... ah, tem stop"
-    },
-    {
-      "ts": "2026-02-14T10:57:21.498Z",
-      "time": "10:57:21",
-      "type": "position",
-      "msg": "ZEC +0.42% — Não sou eu, é o mercado que tá errado... ah não, dessa vez acertou"
     }
   ]
 }
