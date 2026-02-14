@@ -149,6 +149,30 @@
       "time": "04:45:17",
       "type": "position",
       "msg": "XMR +0.87% — Quem diria, acertei uma"
+    },
+    {
+      "ts": "2026-02-14T04:46:15.899Z",
+      "time": "04:46:15",
+      "type": "position",
+      "msg": "BTC -0.36% — O stop tá ali por um motivo, né"
+    },
+    {
+      "ts": "2026-02-14T04:46:16.173Z",
+      "time": "04:46:16",
+      "type": "position",
+      "msg": "BNB -0.07% — Consolidação ou indecisão? Sim."
+    },
+    {
+      "ts": "2026-02-14T04:46:16.435Z",
+      "time": "04:46:16",
+      "type": "position",
+      "msg": "BCH -0.01% — Lateral é o novo tendência"
+    },
+    {
+      "ts": "2026-02-14T04:46:16.700Z",
+      "time": "04:46:16",
+      "type": "position",
+      "msg": "HYPE +1.14% — Meu psicólogo vai ficar orgulhoso"
     }
   ]
 }
