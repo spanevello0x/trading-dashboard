@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T11:22:52.200Z",
+      "time": "11:22:52",
+      "type": "position",
+      "msg": "PAXG -0.02% — Tédio lucrativo ou tédio prejuízo? A definir."
+    },
+    {
       "ts": "2026-02-14T11:22:22.698Z",
       "time": "11:22:22",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "11:13:55",
       "type": "position",
       "msg": "PAXG +0.02% — Dormiu no ponto"
-    },
-    {
-      "ts": "2026-02-14T11:13:55.586Z",
-      "time": "11:13:55",
-      "type": "position",
-      "msg": "HYPE +0.50% — Se continuar assim, quase empato na semana"
     }
   ]
 }
