@@ -1,6 +1,30 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T06:58:43.200Z",
+      "time": "06:58:43",
+      "type": "position",
+      "msg": "PAXG +0.04% — O gráfico tá meditando"
+    },
+    {
+      "ts": "2026-02-14T06:58:42.595Z",
+      "time": "06:58:42",
+      "type": "position",
+      "msg": "BCH -0.33% — Respira... é só número na tela"
+    },
+    {
+      "ts": "2026-02-14T06:58:42.206Z",
+      "time": "06:58:42",
+      "type": "position",
+      "msg": "SUI -0.18% — Pelo menos não apostei a casa... dessa vez"
+    },
+    {
+      "ts": "2026-02-14T06:58:41.266Z",
+      "time": "06:58:41",
+      "type": "position",
+      "msg": "BTC -0.21% — Mercado fazendo mercadisse"
+    },
+    {
       "ts": "2026-02-14T06:58:12.282Z",
       "time": "06:58:12",
       "type": "position",
@@ -155,30 +179,6 @@
       "time": "06:52:41",
       "type": "position",
       "msg": "BCH -0.16% — Calma que ainda tem o stop loss pra doer mais"
-    },
-    {
-      "ts": "2026-02-14T06:52:11.316Z",
-      "time": "06:52:11",
-      "type": "position",
-      "msg": "SUI -0.18% — O gráfico parecia tão bonito..."
-    },
-    {
-      "ts": "2026-02-14T06:52:11.046Z",
-      "time": "06:52:11",
-      "type": "position",
-      "msg": "BTC -0.23% — Prometo estudar mais... mentira, vou continuar igual"
-    },
-    {
-      "ts": "2026-02-14T06:51:42.069Z",
-      "time": "06:51:42",
-      "type": "position",
-      "msg": "PAXG -0.00% — Tô aqui, olhando, esperando, sofrendo"
-    },
-    {
-      "ts": "2026-02-14T06:51:41.809Z",
-      "time": "06:51:41",
-      "type": "position",
-      "msg": "TAO +0.93% — Calma que ainda pode dar errado"
     }
   ]
 }
