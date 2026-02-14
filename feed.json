@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T10:38:50.242Z",
+      "time": "10:38:50",
+      "type": "position",
+      "msg": "XRP -0.32% — O stop tá ali por um motivo, né"
+    },
+    {
       "ts": "2026-02-14T10:38:20.729Z",
       "time": "10:38:20",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "10:38:02",
       "type": "analysis",
       "msg": "FARTCOIN tá interessante, 56% pro SHORT"
-    },
-    {
-      "ts": "2026-02-14T10:38:02.213Z",
-      "time": "10:38:02",
-      "type": "analysis",
-      "msg": "Hmm, XPL mostrando sinais de LONG (56%)"
     }
   ]
 }
