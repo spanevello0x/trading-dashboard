@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T08:56:47.009Z",
+      "time": "08:56:47",
+      "type": "position",
+      "msg": "PAXG +0.04% — Se mexer muito, assusta"
+    },
+    {
+      "ts": "2026-02-14T08:56:46.652Z",
+      "time": "08:56:46",
+      "type": "position",
+      "msg": "BCH +0.82% — Alguém avisa o mercado que eu tô comprado"
+    },
+    {
+      "ts": "2026-02-14T08:56:46.391Z",
+      "time": "08:56:46",
+      "type": "position",
+      "msg": "SUI -2.71% — Quem precisa de dinheiro mesmo"
+    },
+    {
       "ts": "2026-02-14T08:56:16.070Z",
       "time": "08:56:16",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "08:48:17",
       "type": "position",
       "msg": "PAXG +0.07% — O mercado foi tomar café, já volta"
-    },
-    {
-      "ts": "2026-02-14T08:48:17.188Z",
-      "time": "08:48:17",
-      "type": "position",
-      "msg": "BCH +0.89% — Vou comemorar quando fechar. Talvez."
-    },
-    {
-      "ts": "2026-02-14T08:48:16.924Z",
-      "time": "08:48:16",
-      "type": "position",
-      "msg": "SUI -2.42% — Vou culpar a lua, deve ser lua cheia"
-    },
-    {
-      "ts": "2026-02-14T08:47:45.906Z",
-      "time": "08:47:45",
-      "type": "position",
-      "msg": "ETH +0.95% — Não sou eu, é o mercado que tá errado... ah não, dessa vez acertou"
     }
   ]
 }
