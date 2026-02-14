@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T11:10:22.299Z",
+      "time": "11:10:22",
+      "type": "position",
+      "msg": "PAXG +0.02% — Tick tock, mercado..."
+    },
+    {
+      "ts": "2026-02-14T11:10:22.040Z",
+      "time": "11:10:22",
+      "type": "position",
+      "msg": "HYPE +0.23% — Tá subindo? Deixa eu não olhar pra não dar azar"
+    },
+    {
       "ts": "2026-02-14T11:09:52.210Z",
       "time": "11:09:52",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "11:02:22",
       "type": "position",
       "msg": "PAXG +0.02% — O mercado tá pensando..."
-    },
-    {
-      "ts": "2026-02-14T11:02:21.023Z",
-      "time": "11:02:21",
-      "type": "position",
-      "msg": "XRP -0.22% — Podia ser pior. Dá tempo ainda."
-    },
-    {
-      "ts": "2026-02-14T11:01:51.076Z",
-      "time": "11:01:51",
-      "type": "position",
-      "msg": "HYPE -0.15% — Minha análise era perfeita, o mercado que tá errado"
     }
   ]
 }
