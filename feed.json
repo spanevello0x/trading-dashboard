@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T07:25:13.245Z",
+      "time": "07:25:13",
+      "type": "position",
+      "msg": "PAXG +0.11% — Respira... ainda não acabou"
+    },
+    {
+      "ts": "2026-02-14T07:25:12.981Z",
+      "time": "07:25:12",
+      "type": "position",
+      "msg": "AAVE +0.48% — Tá bom demais pra ser verdade... ops, não deveria falar isso"
+    },
+    {
       "ts": "2026-02-14T07:24:42.662Z",
       "time": "07:24:42",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "07:16:42",
       "type": "position",
       "msg": "BCH -0.42% — O stop tá ali por um motivo, né"
-    },
-    {
-      "ts": "2026-02-14T07:16:41.998Z",
-      "time": "07:16:41",
-      "type": "position",
-      "msg": "SUI -0.49% — Quem inventou crypto? Preciso conversar"
-    },
-    {
-      "ts": "2026-02-14T07:15:41.954Z",
-      "time": "07:15:41",
-      "type": "position",
-      "msg": "SUI -0.41% — Amanhã é outro dia (espero)"
     }
   ]
 }
