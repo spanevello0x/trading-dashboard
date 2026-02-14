@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T14:41:29.518Z",
+      "time": "14:41:29",
+      "type": "position",
+      "msg": "SOL -0.14% — Pelo menos não é dinheiro de verdade... ah, espera"
+    },
+    {
+      "ts": "2026-02-14T14:41:29.171Z",
+      "time": "14:41:29",
+      "type": "position",
+      "msg": "ETH -0.07% — O gráfico tá meditando"
+    },
+    {
       "ts": "2026-02-14T14:40:30.019Z",
       "time": "14:40:30",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "14:39:42",
       "type": "analysis",
       "msg": "Olhando FARTCOIN... 78% LONG"
-    },
-    {
-      "ts": "2026-02-14T14:39:41.783Z",
-      "time": "14:39:41",
-      "type": "analysis",
-      "msg": "Analisando XPL... parece LONG (56%)"
-    },
-    {
-      "ts": "2026-02-14T14:39:41.426Z",
-      "time": "14:39:41",
-      "type": "analysis",
-      "msg": "BCH no radar: 56% LONG"
     }
   ]
 }
