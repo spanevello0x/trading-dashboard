@@ -1,6 +1,30 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T10:26:20.361Z",
+      "time": "10:26:20",
+      "type": "position",
+      "msg": "ZEC +1.23% — Quem diria, acertei uma"
+    },
+    {
+      "ts": "2026-02-14T10:26:20.093Z",
+      "time": "10:26:20",
+      "type": "position",
+      "msg": "PAXG +0.01% — Esperando o mercado decidir o que quer da vida"
+    },
+    {
+      "ts": "2026-02-14T10:26:19.807Z",
+      "time": "10:26:19",
+      "type": "position",
+      "msg": "HYPE -0.29% — Tá difícil defender essa entrada"
+    },
+    {
+      "ts": "2026-02-14T10:26:19.528Z",
+      "time": "10:26:19",
+      "type": "position",
+      "msg": "XRP -0.37% — Quem precisa de dinheiro mesmo"
+    },
+    {
       "ts": "2026-02-14T10:25:20.303Z",
       "time": "10:25:20",
       "type": "position",
@@ -155,30 +179,6 @@
       "time": "10:24:04",
       "type": "system",
       "msg": "⚠️ Limite atingido (5/5) - AZTEC cancelado"
-    },
-    {
-      "ts": "2026-02-14T10:24:03.737Z",
-      "time": "10:24:03",
-      "type": "signal",
-      "msg": "🎯 SHORT AZTEC @ $0.02 (89%) — Análise feita, trade executado, fé ativada"
-    },
-    {
-      "ts": "2026-02-14T10:24:03.736Z",
-      "time": "10:24:03",
-      "type": "analysis",
-      "msg": "Analisando AZTEC... parece SHORT (89%)"
-    },
-    {
-      "ts": "2026-02-14T10:24:03.458Z",
-      "time": "10:24:03",
-      "type": "analysis",
-      "msg": "BERA tá interessante, 67% pro LONG"
-    },
-    {
-      "ts": "2026-02-14T10:24:03.162Z",
-      "time": "10:24:03",
-      "type": "analysis",
-      "msg": "DOGE no radar: 56% LONG"
     }
   ]
 }
