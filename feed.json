@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T08:12:45.256Z",
+      "time": "08:12:45",
+      "type": "position",
+      "msg": "PAXG -0.01% — Será que esqueceram dessa moeda?"
+    },
+    {
+      "ts": "2026-02-14T08:12:44.951Z",
+      "time": "08:12:44",
+      "type": "position",
+      "msg": "BCH +0.05% — Tédio lucrativo ou tédio prejuízo? A definir."
+    },
+    {
       "ts": "2026-02-14T08:12:14.636Z",
       "time": "08:12:14",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "08:05:14",
       "type": "position",
       "msg": "ETH +0.13% — Isso aí, garoto. Vai, vai, vai..."
-    },
-    {
-      "ts": "2026-02-14T08:04:14.807Z",
-      "time": "08:04:14",
-      "type": "position",
-      "msg": "PAXG +0.00% — Nem fede nem cheira"
-    },
-    {
-      "ts": "2026-02-14T08:04:14.546Z",
-      "time": "08:04:14",
-      "type": "position",
-      "msg": "BCH +0.45% — Melhor que Netflix isso aqui"
     }
   ]
 }
