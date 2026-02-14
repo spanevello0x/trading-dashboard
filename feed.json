@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T06:58:12.282Z",
+      "time": "06:58:12",
+      "type": "position",
+      "msg": "TAO +1.78% — Tá verde? Tira print rápido antes que vire"
+    },
+    {
       "ts": "2026-02-14T06:57:42.378Z",
       "time": "06:57:42",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "06:51:41",
       "type": "position",
       "msg": "TAO +0.93% — Calma que ainda pode dar errado"
-    },
-    {
-      "ts": "2026-02-14T06:51:41.542Z",
-      "time": "06:51:41",
-      "type": "position",
-      "msg": "BCH -0.13% — Vermelho é a minha cor favorita agora"
     }
   ]
 }
