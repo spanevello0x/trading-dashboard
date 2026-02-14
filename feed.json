@@ -1,18 +1,6 @@
 {
   "feed": [
     {
-      "ts": "2026-02-14T04:41:43.107Z",
-      "time": "04:41:43",
-      "type": "system",
-      "msg": "🤖 QuickBot V3 ativo. Watching: BTC, ETH, SOL, HYPE, XRP, ZEC, PAXG, LIT, ZRO, ASTER, AAVE, PUMP, SUI, UNI, MON, BCH, XPL, FARTCOIN, DOGE, BERA, AZTEC, VIRTUAL, AVAX, BNB, OM, TAO, VVV, XMR, kPEPE, ARB, MOODENG, LINK, JUP"
-    },
-    {
-      "ts": "2026-02-14T04:41:43.729Z",
-      "time": "04:41:43",
-      "type": "position",
-      "msg": "BTC -0.31% — Quem precisa de dinheiro mesmo"
-    },
-    {
       "ts": "2026-02-14T04:41:43.996Z",
       "time": "04:41:43",
       "type": "position",
@@ -173,6 +161,24 @@
       "time": "04:46:16",
       "type": "position",
       "msg": "HYPE +1.14% — Meu psicólogo vai ficar orgulhoso"
+    },
+    {
+      "ts": "2026-02-14T04:46:46.975Z",
+      "time": "04:46:46",
+      "type": "position",
+      "msg": "PAXG +0.19% — Meu psicólogo vai ficar orgulhoso"
+    },
+    {
+      "ts": "2026-02-14T04:46:47.237Z",
+      "time": "04:46:47",
+      "type": "position",
+      "msg": "XMR +0.88% — Calma que ainda pode dar errado"
+    },
+    {
+      "ts": "2026-02-14T04:47:15.909Z",
+      "time": "04:47:15",
+      "type": "position",
+      "msg": "BTC -0.36% — Respira... é só número na tela"
     }
   ]
 }
