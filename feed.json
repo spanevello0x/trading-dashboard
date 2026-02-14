@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T07:25:42.823Z",
+      "time": "07:25:42",
+      "type": "position",
+      "msg": "BCH -0.33% — Mercado fazendo mercadisse"
+    },
+    {
+      "ts": "2026-02-14T07:25:42.559Z",
+      "time": "07:25:42",
+      "type": "position",
+      "msg": "SUI -0.55% — Tá difícil defender essa entrada"
+    },
+    {
       "ts": "2026-02-14T07:25:13.245Z",
       "time": "07:25:13",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "07:16:42",
       "type": "position",
       "msg": "PAXG +0.06% — Esperando Godot, versão crypto"
-    },
-    {
-      "ts": "2026-02-14T07:16:42.632Z",
-      "time": "07:16:42",
-      "type": "position",
-      "msg": "AAVE +0.32% — Quase consigo pagar o café de ontem"
-    },
-    {
-      "ts": "2026-02-14T07:16:42.371Z",
-      "time": "07:16:42",
-      "type": "position",
-      "msg": "BCH -0.42% — O stop tá ali por um motivo, né"
     }
   ]
 }
