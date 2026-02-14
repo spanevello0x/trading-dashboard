@@ -1,184 +1,184 @@
 {
   "feed": [
     {
-      "ts": "2026-02-14T15:19:35.543Z",
-      "time": "15:19:35",
-      "type": "position",
-      "msg": "HYPE +0.06% — Pelo menos não tá caindo... ainda"
-    },
-    {
-      "ts": "2026-02-14T15:19:35.273Z",
-      "time": "15:19:35",
-      "type": "position",
-      "msg": "SOL +0.40% — O mercado me ama (por enquanto)"
-    },
-    {
-      "ts": "2026-02-14T15:19:30.480Z",
-      "time": "15:19:30",
+      "ts": "2026-02-14T15:20:15.625Z",
+      "time": "15:20:15",
       "type": "system",
-      "msg": "⏰ ETH expirou (30 candles) — Cancelando"
+      "msg": "⚠️ Limite atingido (5/5) - FARTCOIN cancelado"
     },
     {
-      "ts": "2026-02-14T15:18:31.036Z",
-      "time": "15:18:31",
-      "type": "position",
-      "msg": "SOL +0.29% — Melhor que Netflix isso aqui"
+      "ts": "2026-02-14T15:20:15.342Z",
+      "time": "15:20:15",
+      "type": "signal",
+      "msg": "🎯 LONG FARTCOIN @ $0.20 (78%) — Mais uma pro histórico"
     },
     {
-      "ts": "2026-02-14T15:18:30.771Z",
-      "time": "15:18:30",
-      "type": "position",
-      "msg": "ETH -0.64% — Quem precisa de dinheiro mesmo"
+      "ts": "2026-02-14T15:20:15.342Z",
+      "time": "15:20:15",
+      "type": "analysis",
+      "msg": "FARTCOIN no radar: 78% LONG"
     },
     {
-      "ts": "2026-02-14T15:18:01.398Z",
-      "time": "15:18:01",
-      "type": "position",
-      "msg": "HYPE +0.22% — Não me acostumem com isso"
+      "ts": "2026-02-14T15:20:15.066Z",
+      "time": "15:20:15",
+      "type": "system",
+      "msg": "⚠️ Limite atingido (5/5) - XPL cancelado"
     },
     {
-      "ts": "2026-02-14T15:17:30.968Z",
-      "time": "15:17:30",
-      "type": "position",
-      "msg": "SOL +0.35% — O mercado me ama (por enquanto)"
+      "ts": "2026-02-14T15:20:14.080Z",
+      "time": "15:20:14",
+      "type": "signal",
+      "msg": "🎯 LONG XPL @ $0.10 (100%) — Vamo ver no que dá"
     },
     {
-      "ts": "2026-02-14T15:17:30.706Z",
-      "time": "15:17:30",
-      "type": "position",
-      "msg": "ETH -0.59% — Meu eu do passado tomou essa decisão, problema dele"
+      "ts": "2026-02-14T15:20:14.080Z",
+      "time": "15:20:14",
+      "type": "analysis",
+      "msg": "XPL no radar: 100% LONG"
     },
     {
-      "ts": "2026-02-14T15:17:01.292Z",
-      "time": "15:17:01",
-      "type": "position",
-      "msg": "HYPE +0.22% — Será que alguém sabe algo que eu não sei? Sempre sabem."
+      "ts": "2026-02-14T15:20:13.799Z",
+      "time": "15:20:13",
+      "type": "analysis",
+      "msg": "Olhando BCH... 67% LONG"
     },
     {
-      "ts": "2026-02-14T15:16:30.947Z",
-      "time": "15:16:30",
-      "type": "position",
-      "msg": "SOL +0.28% — Não é muito, mas é trabalho honesto"
+      "ts": "2026-02-14T15:20:13.523Z",
+      "time": "15:20:13",
+      "type": "system",
+      "msg": "⚠️ Limite atingido (5/5) - MON cancelado"
     },
     {
-      "ts": "2026-02-14T15:16:30.675Z",
-      "time": "15:16:30",
-      "type": "position",
-      "msg": "ETH -0.58% — Pelo menos não apostei a casa... dessa vez"
+      "ts": "2026-02-14T15:20:13.179Z",
+      "time": "15:20:13",
+      "type": "signal",
+      "msg": "🎯 LONG MON @ $0.02 (89%) — Nova aposta na mesa"
     },
     {
-      "ts": "2026-02-14T15:16:01.250Z",
-      "time": "15:16:01",
-      "type": "position",
-      "msg": "HYPE +0.22% — Não me acostumem com isso"
+      "ts": "2026-02-14T15:20:13.179Z",
+      "time": "15:20:13",
+      "type": "analysis",
+      "msg": "MON no radar: 89% LONG"
     },
     {
-      "ts": "2026-02-14T15:15:30.882Z",
-      "time": "15:15:30",
-      "type": "position",
-      "msg": "SOL +0.05% — Será que esqueceram dessa moeda?"
+      "ts": "2026-02-14T15:20:12.904Z",
+      "time": "15:20:12",
+      "type": "system",
+      "msg": "⚠️ Limite atingido (5/5) - UNI cancelado"
     },
     {
-      "ts": "2026-02-14T15:15:01.206Z",
-      "time": "15:15:01",
-      "type": "position",
-      "msg": "HYPE +0.10% — O mercado tá no modo avião"
+      "ts": "2026-02-14T15:20:12.629Z",
+      "time": "15:20:12",
+      "type": "signal",
+      "msg": "🎯 LONG UNI @ $3.57 (89%) — Dessa vez vai (eu acho)"
     },
     {
-      "ts": "2026-02-14T15:15:00.678Z",
-      "time": "15:15:00",
-      "type": "position",
-      "msg": "ETH -0.42% — Clássico"
+      "ts": "2026-02-14T15:20:12.628Z",
+      "time": "15:20:12",
+      "type": "analysis",
+      "msg": "Analisando UNI... parece LONG (89%)"
     },
     {
-      "ts": "2026-02-14T15:14:30.829Z",
-      "time": "15:14:30",
-      "type": "position",
-      "msg": "SOL +0.05% — Neutro: onde a ansiedade e o tédio se encontram"
+      "ts": "2026-02-14T15:20:12.349Z",
+      "time": "15:20:12",
+      "type": "system",
+      "msg": "⚠️ Limite atingido (5/5) - SUI cancelado"
     },
     {
-      "ts": "2026-02-14T15:14:01.170Z",
-      "time": "15:14:01",
-      "type": "position",
-      "msg": "HYPE +0.09% — Tick tock, mercado..."
+      "ts": "2026-02-14T15:20:12.037Z",
+      "time": "15:20:12",
+      "type": "signal",
+      "msg": "🎯 LONG SUI @ $1.00 (78%) — Vamo ver no que dá"
     },
     {
-      "ts": "2026-02-14T15:14:00.634Z",
-      "time": "15:14:00",
-      "type": "position",
-      "msg": "ETH -0.42% — Quem inventou crypto? Preciso conversar"
+      "ts": "2026-02-14T15:20:12.037Z",
+      "time": "15:20:12",
+      "type": "analysis",
+      "msg": "Hmm, SUI mostrando sinais de LONG (78%)"
     },
     {
-      "ts": "2026-02-14T15:13:30.775Z",
-      "time": "15:13:30",
-      "type": "position",
-      "msg": "SOL +0.05% — Isso é acumulação ou distribuição? Ninguém sabe."
+      "ts": "2026-02-14T15:20:11.761Z",
+      "time": "15:20:11",
+      "type": "system",
+      "msg": "⚠️ Limite atingido (5/5) - PUMP cancelado"
     },
     {
-      "ts": "2026-02-14T15:13:01.106Z",
-      "time": "15:13:01",
-      "type": "position",
-      "msg": "HYPE +0.09% — Esperando o mercado decidir o que quer da vida"
+      "ts": "2026-02-14T15:20:11.486Z",
+      "time": "15:20:11",
+      "type": "signal",
+      "msg": "🎯 LONG PUMP @ $0.00 (100%) — Setup alinhado, agora é com o mercado"
     },
     {
-      "ts": "2026-02-14T15:13:00.490Z",
-      "time": "15:13:00",
-      "type": "position",
-      "msg": "ETH -0.48% — Mais um dia normal no crypto"
+      "ts": "2026-02-14T15:20:11.485Z",
+      "time": "15:20:11",
+      "type": "analysis",
+      "msg": "Analisando PUMP... parece LONG (100%)"
     },
     {
-      "ts": "2026-02-14T15:12:01.111Z",
-      "time": "15:12:01",
-      "type": "position",
-      "msg": "SOL -0.02% — Lateral é o novo tendência"
+      "ts": "2026-02-14T15:20:11.141Z",
+      "time": "15:20:11",
+      "type": "system",
+      "msg": "⚠️ Limite atingido (5/5) - AAVE cancelado"
     },
     {
-      "ts": "2026-02-14T15:11:31.364Z",
-      "time": "15:11:31",
-      "type": "position",
-      "msg": "HYPE +0.09% — Esperando Godot, versão crypto"
+      "ts": "2026-02-14T15:20:10.865Z",
+      "time": "15:20:10",
+      "type": "signal",
+      "msg": "🎯 LONG AAVE @ $129.25 (100%) — Setup alinhado, agora é com o mercado"
     },
     {
-      "ts": "2026-02-14T15:11:30.780Z",
-      "time": "15:11:30",
-      "type": "position",
-      "msg": "ETH -0.41% — Quem inventou crypto? Preciso conversar"
+      "ts": "2026-02-14T15:20:10.865Z",
+      "time": "15:20:10",
+      "type": "analysis",
+      "msg": "Hmm, AAVE mostrando sinais de LONG (100%)"
     },
     {
-      "ts": "2026-02-14T15:11:00.647Z",
-      "time": "15:11:00",
-      "type": "position",
-      "msg": "SOL +0.09% — Esperando o mercado decidir o que quer da vida"
+      "ts": "2026-02-14T15:20:10.525Z",
+      "time": "15:20:10",
+      "type": "analysis",
+      "msg": "Analisando ASTER... parece LONG (67%)"
     },
     {
-      "ts": "2026-02-14T15:10:30.367Z",
-      "time": "15:10:30",
-      "type": "position",
-      "msg": "ETH -0.51% — Não é prejuízo se eu não vender... ah, tem stop"
+      "ts": "2026-02-14T15:20:10.238Z",
+      "time": "15:20:10",
+      "type": "system",
+      "msg": "⚠️ Limite atingido (5/5) - ZRO cancelado"
     },
     {
-      "ts": "2026-02-14T15:10:01.049Z",
-      "time": "15:10:01",
-      "type": "position",
-      "msg": "HYPE -0.10% — O gráfico tá meditando"
+      "ts": "2026-02-14T15:20:09.839Z",
+      "time": "15:20:09",
+      "type": "signal",
+      "msg": "🎯 LONG ZRO @ $1.95 (100%) — Os indicadores mandaram, eu obedeci"
     },
     {
-      "ts": "2026-02-14T15:09:30.750Z",
-      "time": "15:09:30",
-      "type": "position",
-      "msg": "SOL +0.19% — Tá subindo? Deixa eu não olhar pra não dar azar"
+      "ts": "2026-02-14T15:20:09.839Z",
+      "time": "15:20:09",
+      "type": "analysis",
+      "msg": "Olhando ZRO... 100% LONG"
     },
     {
-      "ts": "2026-02-14T15:09:30.321Z",
-      "time": "15:09:30",
-      "type": "position",
-      "msg": "ETH -0.55% — Quem mandou confiar em linha colorida"
+      "ts": "2026-02-14T15:20:09.312Z",
+      "time": "15:20:09",
+      "type": "analysis",
+      "msg": "Hmm, LIT mostrando sinais de LONG (56%)"
     },
     {
-      "ts": "2026-02-14T15:09:00.862Z",
-      "time": "15:09:00",
-      "type": "position",
-      "msg": "HYPE -0.08% — Zona de conforto do gráfico"
+      "ts": "2026-02-14T15:20:08.899Z",
+      "time": "15:20:08",
+      "type": "analysis",
+      "msg": "PAXG tá interessante, 67% pro LONG"
+    },
+    {
+      "ts": "2026-02-14T15:20:08.571Z",
+      "time": "15:20:08",
+      "type": "system",
+      "msg": "⚠️ Limite atingido (5/5) - ZEC cancelado"
+    },
+    {
+      "ts": "2026-02-14T15:20:08.294Z",
+      "time": "15:20:08",
+      "type": "signal",
+      "msg": "🎯 LONG ZEC @ $285.53 (100%) — Entrei. Arrependimento em 3, 2, 1..."
     }
   ]
 }
