@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T06:27:11.611Z",
+      "time": "06:27:11",
+      "type": "position",
+      "msg": "XMR +0.38% — Vou fingir que sabia que isso ia acontecer"
+    },
+    {
       "ts": "2026-02-14T06:26:11.364Z",
       "time": "06:26:11",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "06:21:40",
       "type": "position",
       "msg": "BNB -0.05% — Consolidação ou indecisão? Sim."
-    },
-    {
-      "ts": "2026-02-14T06:21:40.052Z",
-      "time": "06:21:40",
-      "type": "position",
-      "msg": "BTC -0.34% — Tá bom, universo, entendi o recado"
     }
   ]
 }
