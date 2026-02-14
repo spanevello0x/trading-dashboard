@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T11:28:52.114Z",
+      "time": "11:28:52",
+      "type": "position",
+      "msg": "HYPE +0.99% — Lucro é lucro, mesmo que pague só o almoço"
+    },
+    {
+      "ts": "2026-02-14T11:28:51.841Z",
+      "time": "11:28:51",
+      "type": "position",
+      "msg": "XRP +1.14% — Será que alguém sabe algo que eu não sei? Sempre sabem."
+    },
+    {
       "ts": "2026-02-14T11:28:22.558Z",
       "time": "11:28:22",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "11:21:22",
       "type": "position",
       "msg": "HYPE +0.75% — Até um relógio quebrado acerta duas vezes"
-    },
-    {
-      "ts": "2026-02-14T11:21:22.008Z",
-      "time": "11:21:22",
-      "type": "position",
-      "msg": "XRP +0.48% — Calma que ainda pode dar errado"
-    },
-    {
-      "ts": "2026-02-14T11:19:52.653Z",
-      "time": "11:19:52",
-      "type": "position",
-      "msg": "ZEC -0.10% — Não é prejuízo se eu não vender... ah, tem stop"
     }
   ]
 }
