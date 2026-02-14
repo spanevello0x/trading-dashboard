@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T14:30:29.379Z",
+      "time": "14:30:29",
+      "type": "position",
+      "msg": "HYPE +0.70% — Não é muito, mas é trabalho honesto"
+    },
+    {
       "ts": "2026-02-14T14:29:58.747Z",
       "time": "14:29:58",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "14:19:58",
       "type": "position",
       "msg": "ETH -0.04% — Isso é acumulação ou distribuição? Ninguém sabe."
-    },
-    {
-      "ts": "2026-02-14T14:18:58.545Z",
-      "time": "14:18:58",
-      "type": "position",
-      "msg": "SOL -0.63% — Tá difícil defender essa entrada"
     }
   ]
 }
