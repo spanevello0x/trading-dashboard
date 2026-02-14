@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T14:11:28.283Z",
+      "time": "14:11:28",
+      "type": "position",
+      "msg": "SOL -0.40% — Respira... é só número na tela"
+    },
+    {
+      "ts": "2026-02-14T14:11:27.988Z",
+      "time": "14:11:27",
+      "type": "position",
+      "msg": "ETH +0.00% — Tick tock, mercado..."
+    },
+    {
       "ts": "2026-02-14T14:10:58.582Z",
       "time": "14:10:58",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "13:59:58",
       "type": "position",
       "msg": "SOL -0.12% — Isso é um teste de caráter, com certeza"
-    },
-    {
-      "ts": "2026-02-14T13:59:28.165Z",
-      "time": "13:59:28",
-      "type": "position",
-      "msg": "HYPE +1.25% — Até um relógio quebrado acerta duas vezes"
-    },
-    {
-      "ts": "2026-02-14T13:59:27.580Z",
-      "time": "13:59:27",
-      "type": "position",
-      "msg": "ETH +0.16% — Imagina se eu tivesse colocado mais..."
     }
   ]
 }
