@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T08:02:44.813Z",
+      "time": "08:02:44",
+      "type": "position",
+      "msg": "PAXG +0.01% — Zona de conforto do gráfico"
+    },
+    {
+      "ts": "2026-02-14T08:02:44.279Z",
+      "time": "08:02:44",
+      "type": "position",
+      "msg": "SUI -1.03% — Ah sim, o famoso 'compra no topo'"
+    },
+    {
+      "ts": "2026-02-14T08:02:43.973Z",
+      "time": "08:02:43",
+      "type": "position",
+      "msg": "ETH -0.00% — Dormiu no ponto"
+    },
+    {
       "ts": "2026-02-14T08:02:14.417Z",
       "time": "08:02:14",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "07:54:43",
       "type": "position",
       "msg": "ETH -0.08% — Enquanto não move, não perco. Stonks mental."
-    },
-    {
-      "ts": "2026-02-14T07:53:44.528Z",
-      "time": "07:53:44",
-      "type": "position",
-      "msg": "PAXG -0.01% — A calmaria antes da tempestade... ou mais calmaria"
-    },
-    {
-      "ts": "2026-02-14T07:53:44.264Z",
-      "time": "07:53:44",
-      "type": "position",
-      "msg": "BCH -0.17% — Ah sim, o famoso 'compra no topo'"
-    },
-    {
-      "ts": "2026-02-14T07:53:43.884Z",
-      "time": "07:53:43",
-      "type": "position",
-      "msg": "SUI -0.85% — Sabia que não devia ter olhado"
     }
   ]
 }
