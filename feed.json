@@ -1,6 +1,36 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T06:37:41.967Z",
+      "time": "06:37:41",
+      "type": "position",
+      "msg": "XMR -0.07% — Tédio lucrativo ou tédio prejuízo? A definir."
+    },
+    {
+      "ts": "2026-02-14T06:37:41.703Z",
+      "time": "06:37:41",
+      "type": "position",
+      "msg": "PAXG +0.15% — Melhor que Netflix isso aqui"
+    },
+    {
+      "ts": "2026-02-14T06:37:41.437Z",
+      "time": "06:37:41",
+      "type": "position",
+      "msg": "HYPE +1.36% — Será que alguém sabe algo que eu não sei? Sempre sabem."
+    },
+    {
+      "ts": "2026-02-14T06:37:41.173Z",
+      "time": "06:37:41",
+      "type": "position",
+      "msg": "BCH -0.26% — Sabia que não devia ter olhado"
+    },
+    {
+      "ts": "2026-02-14T06:37:40.908Z",
+      "time": "06:37:40",
+      "type": "position",
+      "msg": "BNB -0.17% — Amanhã é outro dia (espero)"
+    },
+    {
       "ts": "2026-02-14T06:37:10.622Z",
       "time": "06:37:10",
       "type": "position",
@@ -149,36 +179,6 @@
       "time": "06:32:10",
       "type": "position",
       "msg": "BTC -0.25% — Vermelho é a minha cor favorita agora"
-    },
-    {
-      "ts": "2026-02-14T06:31:41.867Z",
-      "time": "06:31:41",
-      "type": "position",
-      "msg": "XMR +0.32% — Não é muito, mas é trabalho honesto"
-    },
-    {
-      "ts": "2026-02-14T06:31:41.437Z",
-      "time": "06:31:41",
-      "type": "position",
-      "msg": "PAXG +0.16% — Tá bom demais pra ser verdade... ops, não deveria falar isso"
-    },
-    {
-      "ts": "2026-02-14T06:31:41.169Z",
-      "time": "06:31:41",
-      "type": "position",
-      "msg": "HYPE +1.23% — Olha só, o mercado decidiu colaborar hoje"
-    },
-    {
-      "ts": "2026-02-14T06:31:40.898Z",
-      "time": "06:31:40",
-      "type": "position",
-      "msg": "BCH -0.19% — Tá difícil defender essa entrada"
-    },
-    {
-      "ts": "2026-02-14T06:31:40.633Z",
-      "time": "06:31:40",
-      "type": "position",
-      "msg": "BNB -0.11% — Tá difícil defender essa entrada"
     }
   ]
 }
