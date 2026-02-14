@@ -1,6 +1,30 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T08:22:15.556Z",
+      "time": "08:22:15",
+      "type": "position",
+      "msg": "PAXG +0.06% — Tick tock, mercado..."
+    },
+    {
+      "ts": "2026-02-14T08:22:15.253Z",
+      "time": "08:22:15",
+      "type": "position",
+      "msg": "BCH +0.05% — Zona de conforto do gráfico"
+    },
+    {
+      "ts": "2026-02-14T08:22:14.959Z",
+      "time": "08:22:14",
+      "type": "position",
+      "msg": "SUI -1.40% — Não é prejuízo se eu não vender... ah, tem stop"
+    },
+    {
+      "ts": "2026-02-14T08:22:14.690Z",
+      "time": "08:22:14",
+      "type": "position",
+      "msg": "ETH +0.45% — Até um relógio quebrado acerta duas vezes"
+    },
+    {
       "ts": "2026-02-14T08:20:45.578Z",
       "time": "08:20:45",
       "type": "position",
@@ -155,30 +179,6 @@
       "time": "08:13:44",
       "type": "position",
       "msg": "SUI -1.55% — Podia ser pior. Dá tempo ainda."
-    },
-    {
-      "ts": "2026-02-14T08:13:14.357Z",
-      "time": "08:13:14",
-      "type": "position",
-      "msg": "ETH +0.60% — Obrigado universo, tava precisando"
-    },
-    {
-      "ts": "2026-02-14T08:12:45.256Z",
-      "time": "08:12:45",
-      "type": "position",
-      "msg": "PAXG -0.01% — Será que esqueceram dessa moeda?"
-    },
-    {
-      "ts": "2026-02-14T08:12:44.951Z",
-      "time": "08:12:44",
-      "type": "position",
-      "msg": "BCH +0.05% — Tédio lucrativo ou tédio prejuízo? A definir."
-    },
-    {
-      "ts": "2026-02-14T08:12:14.636Z",
-      "time": "08:12:14",
-      "type": "position",
-      "msg": "SUI -1.51% — Vou culpar a lua, deve ser lua cheia"
     }
   ]
 }
