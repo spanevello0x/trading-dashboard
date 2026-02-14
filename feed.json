@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T11:43:52.674Z",
+      "time": "11:43:52",
+      "type": "position",
+      "msg": "HYPE +0.52% — Stonks 📈 (desculpa, não resisti)"
+    },
+    {
       "ts": "2026-02-14T11:43:24.032Z",
       "time": "11:43:24",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "11:35:53",
       "type": "position",
       "msg": "ZEC +0.20% — Verde combina comigo"
-    },
-    {
-      "ts": "2026-02-14T11:35:52.734Z",
-      "time": "11:35:52",
-      "type": "position",
-      "msg": "PAXG +0.01% — Neutro: onde a ansiedade e o tédio se encontram"
     }
   ]
 }
