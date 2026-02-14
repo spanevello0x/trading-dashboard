@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T11:23:22.880Z",
+      "time": "11:23:22",
+      "type": "position",
+      "msg": "ZEC -0.38% — Vermelho é a minha cor favorita agora"
+    },
+    {
+      "ts": "2026-02-14T11:23:21.902Z",
+      "time": "11:23:21",
+      "type": "position",
+      "msg": "HYPE +0.95% — Não é muito, mas é trabalho honesto"
+    },
+    {
+      "ts": "2026-02-14T11:23:21.621Z",
+      "time": "11:23:21",
+      "type": "position",
+      "msg": "XRP +0.99% — Vou comemorar quando fechar. Talvez."
+    },
+    {
       "ts": "2026-02-14T11:22:52.200Z",
       "time": "11:22:52",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "11:15:21",
       "type": "position",
       "msg": "HYPE +0.54% — Tá subindo? Deixa eu não olhar pra não dar azar"
-    },
-    {
-      "ts": "2026-02-14T11:15:21.344Z",
-      "time": "11:15:21",
-      "type": "position",
-      "msg": "XRP +0.22% — Alguém avisa o mercado que eu tô comprado"
-    },
-    {
-      "ts": "2026-02-14T11:13:56.184Z",
-      "time": "11:13:56",
-      "type": "position",
-      "msg": "ZEC +0.30% — Será que alguém sabe algo que eu não sei? Sempre sabem."
-    },
-    {
-      "ts": "2026-02-14T11:13:55.846Z",
-      "time": "11:13:55",
-      "type": "position",
-      "msg": "PAXG +0.02% — Dormiu no ponto"
     }
   ]
 }
