@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T04:57:07.577Z",
+      "time": "04:57:07",
+      "type": "position",
+      "msg": "HYPE +0.87% — Tá subindo? Deixa eu não olhar pra não dar azar"
+    },
+    {
+      "ts": "2026-02-14T04:57:07.303Z",
+      "time": "04:57:07",
+      "type": "position",
+      "msg": "BCH +0.02% — Tô aqui, olhando, esperando, sofrendo"
+    },
+    {
+      "ts": "2026-02-14T04:57:07.041Z",
+      "time": "04:57:07",
+      "type": "position",
+      "msg": "BNB -0.07% — Isso é acumulação ou distribuição? Ninguém sabe."
+    },
+    {
       "ts": "2026-02-14T04:56:38.086Z",
       "time": "04:56:38",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "04:51:37",
       "type": "position",
       "msg": "HYPE +0.90% — Meu psicólogo vai ficar orgulhoso"
-    },
-    {
-      "ts": "2026-02-14T04:51:37.222Z",
-      "time": "04:51:37",
-      "type": "position",
-      "msg": "BCH -0.00% — Pelo menos não tá caindo... ainda"
-    },
-    {
-      "ts": "2026-02-14T04:51:36.955Z",
-      "time": "04:51:36",
-      "type": "position",
-      "msg": "BNB -0.10% — Lateral é o novo tendência"
-    },
-    {
-      "ts": "2026-02-14T04:51:36.666Z",
-      "time": "04:51:36",
-      "type": "position",
-      "msg": "BTC -0.37% — Tá difícil defender essa entrada"
     }
   ]
 }
