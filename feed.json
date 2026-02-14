@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T14:59:29.977Z",
+      "time": "14:59:29",
+      "type": "position",
+      "msg": "ETH -0.57% — Mais um dia normal no crypto"
+    },
+    {
       "ts": "2026-02-14T14:58:30.658Z",
       "time": "14:58:30",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "14:47:29",
       "type": "position",
       "msg": "SOL -0.12% — Vermelho é a minha cor favorita agora"
-    },
-    {
-      "ts": "2026-02-14T14:46:59.506Z",
-      "time": "14:46:59",
-      "type": "position",
-      "msg": "ETH -0.14% — Mais um dia normal no crypto"
     }
   ]
 }
