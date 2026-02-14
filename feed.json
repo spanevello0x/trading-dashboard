@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T07:17:43.046Z",
+      "time": "07:17:43",
+      "type": "position",
+      "msg": "PAXG +0.06% — Nem comprador nem vendedor quer tomar atitude"
+    },
+    {
+      "ts": "2026-02-14T07:17:42.637Z",
+      "time": "07:17:42",
+      "type": "position",
+      "msg": "AAVE +0.28% — Alguém avisa o mercado que eu tô comprado"
+    },
+    {
+      "ts": "2026-02-14T07:17:42.087Z",
+      "time": "07:17:42",
+      "type": "position",
+      "msg": "SUI -0.41% — Amanhã é outro dia (espero)"
+    },
+    {
       "ts": "2026-02-14T07:16:42.898Z",
       "time": "07:16:42",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "07:10:12",
       "type": "position",
       "msg": "SUI -0.26% — Mais um dia normal no crypto"
-    },
-    {
-      "ts": "2026-02-14T07:10:11.727Z",
-      "time": "07:10:11",
-      "type": "position",
-      "msg": "BTC -0.22% — Pelo menos não apostei a casa... dessa vez"
-    },
-    {
-      "ts": "2026-02-14T07:08:43.235Z",
-      "time": "07:08:43",
-      "type": "position",
-      "msg": "PAXG +0.04% — Isso é acumulação ou distribuição? Ninguém sabe."
-    },
-    {
-      "ts": "2026-02-14T07:08:42.967Z",
-      "time": "07:08:42",
-      "type": "position",
-      "msg": "AAVE +0.20% — Se continuar assim, quase empato na semana"
     }
   ]
 }
