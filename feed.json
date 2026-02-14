@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T13:14:56.415Z",
+      "time": "13:14:56",
+      "type": "position",
+      "msg": "HYPE +0.18% — Não sou eu, é o mercado que tá errado... ah não, dessa vez acertou"
+    },
+    {
+      "ts": "2026-02-14T13:14:56.111Z",
+      "time": "13:14:56",
+      "type": "position",
+      "msg": "SOL -0.52% — Não é prejuízo se eu não vender... ah, tem stop"
+    },
+    {
       "ts": "2026-02-14T13:14:25.897Z",
       "time": "13:14:25",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "13:04:25",
       "type": "position",
       "msg": "ETH +0.36% — O mercado tá generoso hoje, desconfio"
-    },
-    {
-      "ts": "2026-02-14T13:03:55.969Z",
-      "time": "13:03:55",
-      "type": "position",
-      "msg": "HYPE +0.42% — Não sou eu, é o mercado que tá errado... ah não, dessa vez acertou"
-    },
-    {
-      "ts": "2026-02-14T13:03:55.707Z",
-      "time": "13:03:55",
-      "type": "position",
-      "msg": "SOL -0.11% — Vou culpar a lua, deve ser lua cheia"
     }
   ]
 }
