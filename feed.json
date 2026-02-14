@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T15:41:01.974Z",
+      "time": "15:41:01",
+      "type": "position",
+      "msg": "SOL +0.10% — Olha só, o mercado decidiu colaborar hoje"
+    },
+    {
+      "ts": "2026-02-14T15:41:01.647Z",
+      "time": "15:41:01",
+      "type": "position",
+      "msg": "ETH -0.19% — O mercado escolheu violência hoje"
+    },
+    {
       "ts": "2026-02-14T15:40:32.062Z",
       "time": "15:40:32",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "15:30:31",
       "type": "position",
       "msg": "PAXG -0.02% — Será que esqueceram dessa moeda?"
-    },
-    {
-      "ts": "2026-02-14T15:30:01.397Z",
-      "time": "15:30:01",
-      "type": "position",
-      "msg": "SOL +0.34% — O mercado tá generoso hoje, desconfio"
-    },
-    {
-      "ts": "2026-02-14T15:30:01.128Z",
-      "time": "15:30:01",
-      "type": "position",
-      "msg": "ETH -0.06% — Vai, faz alguma coisa"
     }
   ]
 }
