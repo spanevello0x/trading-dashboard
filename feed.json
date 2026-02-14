@@ -1,6 +1,36 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T07:02:42.465Z",
+      "time": "07:02:42",
+      "type": "position",
+      "msg": "PAXG +0.04% — O mercado decidiu tirar uma soneca"
+    },
+    {
+      "ts": "2026-02-14T07:02:42.200Z",
+      "time": "07:02:42",
+      "type": "position",
+      "msg": "AAVE +0.10% — Será que esqueceram dessa moeda?"
+    },
+    {
+      "ts": "2026-02-14T07:02:41.939Z",
+      "time": "07:02:41",
+      "type": "position",
+      "msg": "BCH -0.30% — Minha análise era perfeita, o mercado que tá errado"
+    },
+    {
+      "ts": "2026-02-14T07:02:41.670Z",
+      "time": "07:02:41",
+      "type": "position",
+      "msg": "SUI -0.29% — Quem inventou crypto? Preciso conversar"
+    },
+    {
+      "ts": "2026-02-14T07:02:41.404Z",
+      "time": "07:02:41",
+      "type": "position",
+      "msg": "BTC -0.21% — O mercado escolheu violência hoje"
+    },
+    {
       "ts": "2026-02-14T07:01:42.460Z",
       "time": "07:01:42",
       "type": "position",
@@ -149,36 +179,6 @@
       "time": "07:00:27",
       "type": "analysis",
       "msg": "Analisando AZTEC... parece SHORT (100%)"
-    },
-    {
-      "ts": "2026-02-14T07:00:26.953Z",
-      "time": "07:00:26",
-      "type": "analysis",
-      "msg": "BERA tá interessante, 56% pro SHORT"
-    },
-    {
-      "ts": "2026-02-14T07:00:26.674Z",
-      "time": "07:00:26",
-      "type": "analysis",
-      "msg": "Olhando DOGE... 67% SHORT"
-    },
-    {
-      "ts": "2026-02-14T07:00:25.713Z",
-      "time": "07:00:25",
-      "type": "analysis",
-      "msg": "Analisando MON... parece SHORT (67%)"
-    },
-    {
-      "ts": "2026-02-14T07:00:25.435Z",
-      "time": "07:00:25",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - UNI cancelado"
-    },
-    {
-      "ts": "2026-02-14T07:00:25.149Z",
-      "time": "07:00:25",
-      "type": "signal",
-      "msg": "🎯 SHORT UNI @ $3.39 (78%) — Os indicadores mandaram, eu obedeci"
     }
   ]
 }
