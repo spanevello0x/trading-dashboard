@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T07:19:12.959Z",
+      "time": "07:19:12",
+      "type": "position",
+      "msg": "BCH -0.40% — Vermelho é a minha cor favorita agora"
+    },
+    {
       "ts": "2026-02-14T07:18:43.212Z",
       "time": "07:18:43",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "07:11:12",
       "type": "position",
       "msg": "SUI -0.31% — Quem mandou confiar em linha colorida"
-    },
-    {
-      "ts": "2026-02-14T07:11:11.920Z",
-      "time": "07:11:11",
-      "type": "position",
-      "msg": "BTC -0.24% — Prometo estudar mais... mentira, vou continuar igual"
     }
   ]
 }
