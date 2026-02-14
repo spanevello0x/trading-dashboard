@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T09:25:17.907Z",
+      "time": "09:25:17",
+      "type": "position",
+      "msg": "ZEC +0.41% — Vou fingir que sabia que isso ia acontecer"
+    },
+    {
       "ts": "2026-02-14T09:24:47.718Z",
       "time": "09:24:47",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "09:16:50",
       "type": "system",
       "msg": "⚠️ Limite atingido (5/5) - JUP cancelado"
-    },
-    {
-      "ts": "2026-02-14T09:16:49.742Z",
-      "time": "09:16:49",
-      "type": "signal",
-      "msg": "🎯 LONG JUP @ $0.16 (78%) — Dessa vez vai (eu acho)"
     }
   ]
 }
