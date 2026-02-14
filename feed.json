@@ -1,6 +1,30 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T06:56:12.271Z",
+      "time": "06:56:12",
+      "type": "position",
+      "msg": "PAXG +0.03% — Tá ali, existindo"
+    },
+    {
+      "ts": "2026-02-14T06:56:12.005Z",
+      "time": "06:56:12",
+      "type": "position",
+      "msg": "TAO +1.47% — Será que alguém sabe algo que eu não sei? Sempre sabem."
+    },
+    {
+      "ts": "2026-02-14T06:56:11.740Z",
+      "time": "06:56:11",
+      "type": "position",
+      "msg": "BCH -0.41% — Vermelho é a minha cor favorita agora"
+    },
+    {
+      "ts": "2026-02-14T06:56:11.475Z",
+      "time": "06:56:11",
+      "type": "position",
+      "msg": "SUI -0.11% — O mercado acordou e escolheu me machucar"
+    },
+    {
       "ts": "2026-02-14T06:55:42.045Z",
       "time": "06:55:42",
       "type": "position",
@@ -155,30 +179,6 @@
       "time": "06:49:41",
       "type": "position",
       "msg": "SUI -0.07% — Esperando Godot, versão crypto"
-    },
-    {
-      "ts": "2026-02-14T06:49:40.985Z",
-      "time": "06:49:40",
-      "type": "position",
-      "msg": "BTC -0.26% — Quem precisa de dinheiro mesmo"
-    },
-    {
-      "ts": "2026-02-14T06:49:12.720Z",
-      "time": "06:49:12",
-      "type": "position",
-      "msg": "TAO +0.15% — Até um relógio quebrado acerta duas vezes"
-    },
-    {
-      "ts": "2026-02-14T06:48:42.460Z",
-      "time": "06:48:42",
-      "type": "position",
-      "msg": "PAXG -0.00% — O mercado tá pensando..."
-    },
-    {
-      "ts": "2026-02-14T06:48:41.838Z",
-      "time": "06:48:41",
-      "type": "position",
-      "msg": "BCH -0.01% — O mercado tá buffering"
     }
   ]
 }
