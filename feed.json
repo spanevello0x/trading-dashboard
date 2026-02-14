@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T08:56:16.070Z",
+      "time": "08:56:16",
+      "type": "position",
+      "msg": "ETH +1.08% — Stonks 📈 (desculpa, não resisti)"
+    },
+    {
       "ts": "2026-02-14T08:55:46.784Z",
       "time": "08:55:46",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "08:47:45",
       "type": "position",
       "msg": "ETH +0.95% — Não sou eu, é o mercado que tá errado... ah não, dessa vez acertou"
-    },
-    {
-      "ts": "2026-02-14T08:47:16.299Z",
-      "time": "08:47:16",
-      "type": "position",
-      "msg": "BCH +0.89% — Quem diria, acertei uma"
     }
   ]
 }
