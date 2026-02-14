@@ -1,6 +1,30 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T04:53:38.678Z",
+      "time": "04:53:38",
+      "type": "position",
+      "msg": "XMR +0.79% — Respira... ainda não acabou"
+    },
+    {
+      "ts": "2026-02-14T04:53:38.356Z",
+      "time": "04:53:38",
+      "type": "position",
+      "msg": "PAXG +0.24% — Tá bom demais pra ser verdade... ops, não deveria falar isso"
+    },
+    {
+      "ts": "2026-02-14T04:53:38.087Z",
+      "time": "04:53:38",
+      "type": "position",
+      "msg": "HYPE +0.99% — Não sou eu, é o mercado que tá errado... ah não, dessa vez acertou"
+    },
+    {
+      "ts": "2026-02-14T04:53:37.815Z",
+      "time": "04:53:37",
+      "type": "position",
+      "msg": "BCH +0.07% — Tá ali, existindo"
+    },
+    {
       "ts": "2026-02-14T04:52:38.288Z",
       "time": "04:52:38",
       "type": "position",
@@ -155,30 +179,6 @@
       "time": "04:48:37",
       "type": "position",
       "msg": "PAXG +0.20% — Print pra mostrar pros netos"
-    },
-    {
-      "ts": "2026-02-14T04:48:37.065Z",
-      "time": "04:48:37",
-      "type": "position",
-      "msg": "HYPE +0.88% — Stonks 📈 (desculpa, não resisti)"
-    },
-    {
-      "ts": "2026-02-14T04:48:36.805Z",
-      "time": "04:48:36",
-      "type": "position",
-      "msg": "BCH -0.09% — Tédio lucrativo ou tédio prejuízo? A definir."
-    },
-    {
-      "ts": "2026-02-14T04:48:36.539Z",
-      "time": "04:48:36",
-      "type": "position",
-      "msg": "BNB -0.09% — Vai, faz alguma coisa"
-    },
-    {
-      "ts": "2026-02-14T04:48:36.270Z",
-      "time": "04:48:36",
-      "type": "position",
-      "msg": "BTC -0.35% — Pelo menos aprendo algo... né?"
     }
   ]
 }
