@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T15:15:30.882Z",
+      "time": "15:15:30",
+      "type": "position",
+      "msg": "SOL +0.05% — Será que esqueceram dessa moeda?"
+    },
+    {
       "ts": "2026-02-14T15:15:01.206Z",
       "time": "15:15:01",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "15:04:00",
       "type": "position",
       "msg": "ETH -0.63% — Minha análise era perfeita, o mercado que tá errado"
-    },
-    {
-      "ts": "2026-02-14T15:03:30.658Z",
-      "time": "15:03:30",
-      "type": "position",
-      "msg": "HYPE -0.15% — Vou culpar a lua, deve ser lua cheia"
     }
   ]
 }
