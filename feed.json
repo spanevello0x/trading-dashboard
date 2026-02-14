@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T08:15:15.025Z",
+      "time": "08:15:15",
+      "type": "position",
+      "msg": "BCH +0.24% — Isso aí, garoto. Vai, vai, vai..."
+    },
+    {
+      "ts": "2026-02-14T08:15:14.759Z",
+      "time": "08:15:14",
+      "type": "position",
+      "msg": "SUI -1.69% — Respira... é só número na tela"
+    },
+    {
       "ts": "2026-02-14T08:14:15.392Z",
       "time": "08:14:15",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "08:06:44",
       "type": "position",
       "msg": "SUI -1.23% — O gráfico parecia tão bonito..."
-    },
-    {
-      "ts": "2026-02-14T08:06:44.146Z",
-      "time": "08:06:44",
-      "type": "position",
-      "msg": "ETH +0.42% — Print pra mostrar pros netos"
-    },
-    {
-      "ts": "2026-02-14T08:06:14.383Z",
-      "time": "08:06:14",
-      "type": "position",
-      "msg": "SUI -1.01% — Clássico"
     }
   ]
 }
