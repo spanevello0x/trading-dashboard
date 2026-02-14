@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T06:55:42.045Z",
+      "time": "06:55:42",
+      "type": "position",
+      "msg": "TAO +1.16% — Melhor que Netflix isso aqui"
+    },
+    {
+      "ts": "2026-02-14T06:55:41.159Z",
+      "time": "06:55:41",
+      "type": "position",
+      "msg": "BTC -0.26% — Não é prejuízo se eu não vender... ah, tem stop"
+    },
+    {
       "ts": "2026-02-14T06:55:12.260Z",
       "time": "06:55:12",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "06:48:41",
       "type": "position",
       "msg": "BCH -0.01% — O mercado tá buffering"
-    },
-    {
-      "ts": "2026-02-14T06:48:41.234Z",
-      "time": "06:48:41",
-      "type": "position",
-      "msg": "SUI -0.02% — Vai, faz alguma coisa"
-    },
-    {
-      "ts": "2026-02-14T06:48:40.948Z",
-      "time": "06:48:40",
-      "type": "position",
-      "msg": "BTC -0.28% — Sabia que não devia ter olhado"
     }
   ]
 }
