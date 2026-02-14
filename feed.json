@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T13:54:28.012Z",
+      "time": "13:54:28",
+      "type": "position",
+      "msg": "HYPE +0.95% — Até um relógio quebrado acerta duas vezes"
+    },
+    {
+      "ts": "2026-02-14T13:54:27.421Z",
+      "time": "13:54:27",
+      "type": "position",
+      "msg": "ETH +0.14% — Olha só, o mercado decidiu colaborar hoje"
+    },
+    {
       "ts": "2026-02-14T13:53:27.978Z",
       "time": "13:53:27",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "13:42:57",
       "type": "position",
       "msg": "HYPE +1.27% — Verde combina comigo"
-    },
-    {
-      "ts": "2026-02-14T13:42:57.181Z",
-      "time": "13:42:57",
-      "type": "position",
-      "msg": "SOL -0.10% — Vermelho é a minha cor favorita agora"
-    },
-    {
-      "ts": "2026-02-14T13:42:56.911Z",
-      "time": "13:42:56",
-      "type": "position",
-      "msg": "ETH +0.16% — Tá subindo? Deixa eu não olhar pra não dar azar"
     }
   ]
 }
