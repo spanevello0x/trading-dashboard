@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T06:53:11.421Z",
+      "time": "06:53:11",
+      "type": "position",
+      "msg": "SUI -0.16% — Vermelho é a minha cor favorita agora"
+    },
+    {
+      "ts": "2026-02-14T06:53:11.150Z",
+      "time": "06:53:11",
+      "type": "position",
+      "msg": "BTC -0.23% — Pelo menos não é dinheiro de verdade... ah, espera"
+    },
+    {
       "ts": "2026-02-14T06:52:42.237Z",
       "time": "06:52:42",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "06:47:29",
       "type": "system",
       "msg": "⚠️ Limite atingido (5/5) - ARB cancelado"
-    },
-    {
-      "ts": "2026-02-14T06:47:28.933Z",
-      "time": "06:47:28",
-      "type": "signal",
-      "msg": "🎯 SHORT ARB @ $0.12 (89%) — Entrei. Arrependimento em 3, 2, 1..."
-    },
-    {
-      "ts": "2026-02-14T06:47:28.933Z",
-      "time": "06:47:28",
-      "type": "analysis",
-      "msg": "Olhando ARB... 89% SHORT"
     }
   ]
 }
