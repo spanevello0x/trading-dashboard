@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T08:29:15.463Z",
+      "time": "08:29:15",
+      "type": "position",
+      "msg": "BCH +0.13% — Vou fingir que sabia que isso ia acontecer"
+    },
+    {
+      "ts": "2026-02-14T08:29:15.195Z",
+      "time": "08:29:15",
+      "type": "position",
+      "msg": "SUI -1.61% — O mercado acordou e escolheu me machucar"
+    },
+    {
+      "ts": "2026-02-14T08:29:14.931Z",
+      "time": "08:29:14",
+      "type": "position",
+      "msg": "ETH +0.40% — Print pra mostrar pros netos"
+    },
+    {
       "ts": "2026-02-14T08:28:16.264Z",
       "time": "08:28:16",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "08:20:45",
       "type": "position",
       "msg": "SUI -1.45% — Quem precisa de dinheiro mesmo"
-    },
-    {
-      "ts": "2026-02-14T08:20:44.742Z",
-      "time": "08:20:44",
-      "type": "position",
-      "msg": "ETH +0.51% — Será que é armadilha? Provavelmente. Mas vou curtir enquanto dura"
-    },
-    {
-      "ts": "2026-02-14T08:19:45.158Z",
-      "time": "08:19:45",
-      "type": "position",
-      "msg": "BCH +0.17% — Tá bom demais pra ser verdade... ops, não deveria falar isso"
-    },
-    {
-      "ts": "2026-02-14T08:19:44.894Z",
-      "time": "08:19:44",
-      "type": "position",
-      "msg": "SUI -1.61% — O mercado escolheu violência hoje"
     }
   ]
 }
