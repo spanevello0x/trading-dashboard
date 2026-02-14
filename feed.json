@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T06:02:10.994Z",
+      "time": "06:02:10",
+      "type": "position",
+      "msg": "XMR +0.44% — Calma que ainda pode dar errado"
+    },
+    {
       "ts": "2026-02-14T06:01:40.358Z",
       "time": "06:01:40",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "05:56:10",
       "type": "position",
       "msg": "HYPE +1.26% — Tá verde? Tira print rápido antes que vire"
-    },
-    {
-      "ts": "2026-02-14T05:56:09.921Z",
-      "time": "05:56:09",
-      "type": "position",
-      "msg": "BCH +0.43% — Não é muito, mas é trabalho honesto"
     }
   ]
 }
