@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T14:24:29.224Z",
+      "time": "14:24:29",
+      "type": "position",
+      "msg": "HYPE +0.70% — Lucro é lucro, mesmo que pague só o almoço"
+    },
+    {
       "ts": "2026-02-14T14:23:58.766Z",
       "time": "14:23:58",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "14:13:58",
       "type": "position",
       "msg": "HYPE +0.84% — Vou fingir que sabia que isso ia acontecer"
-    },
-    {
-      "ts": "2026-02-14T14:13:28.052Z",
-      "time": "14:13:28",
-      "type": "position",
-      "msg": "ETH +0.04% — O mercado decidiu tirar uma soneca"
     }
   ]
 }
