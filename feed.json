@@ -1,6 +1,36 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T06:41:12.589Z",
+      "time": "06:41:12",
+      "type": "position",
+      "msg": "XMR -0.11% — Sabia que não devia ter olhado"
+    },
+    {
+      "ts": "2026-02-14T06:41:12.208Z",
+      "time": "06:41:12",
+      "type": "position",
+      "msg": "PAXG +0.15% — Alguém avisa o mercado que eu tô comprado"
+    },
+    {
+      "ts": "2026-02-14T06:41:11.924Z",
+      "time": "06:41:11",
+      "type": "position",
+      "msg": "HYPE +1.29% — Imagina se eu tivesse colocado mais..."
+    },
+    {
+      "ts": "2026-02-14T06:41:11.417Z",
+      "time": "06:41:11",
+      "type": "position",
+      "msg": "BCH -0.24% — Sabia que não devia ter olhado"
+    },
+    {
+      "ts": "2026-02-14T06:41:11.144Z",
+      "time": "06:41:11",
+      "type": "position",
+      "msg": "BNB -0.19% — Quem inventou crypto? Preciso conversar"
+    },
+    {
       "ts": "2026-02-14T06:40:40.768Z",
       "time": "06:40:40",
       "type": "position",
@@ -149,36 +179,6 @@
       "time": "06:35:40",
       "type": "position",
       "msg": "BTC -0.32% — Pelo menos não é dinheiro de verdade... ah, espera"
-    },
-    {
-      "ts": "2026-02-14T06:35:11.920Z",
-      "time": "06:35:11",
-      "type": "position",
-      "msg": "XMR +0.17% — Não é muito, mas é trabalho honesto"
-    },
-    {
-      "ts": "2026-02-14T06:35:11.655Z",
-      "time": "06:35:11",
-      "type": "position",
-      "msg": "PAXG +0.15% — Finalmente algo de bom nesse mercado"
-    },
-    {
-      "ts": "2026-02-14T06:35:11.382Z",
-      "time": "06:35:11",
-      "type": "position",
-      "msg": "HYPE +1.37% — Verde combina comigo"
-    },
-    {
-      "ts": "2026-02-14T06:35:11.116Z",
-      "time": "06:35:11",
-      "type": "position",
-      "msg": "BCH -0.17% — Mais um dia normal no crypto"
-    },
-    {
-      "ts": "2026-02-14T06:35:10.815Z",
-      "time": "06:35:10",
-      "type": "position",
-      "msg": "BNB -0.10% — Tédio lucrativo ou tédio prejuízo? A definir."
     }
   ]
 }
