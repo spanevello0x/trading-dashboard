@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T11:26:22.057Z",
+      "time": "11:26:22",
+      "type": "position",
+      "msg": "HYPE +1.05% — Olha só, o mercado decidiu colaborar hoje"
+    },
+    {
+      "ts": "2026-02-14T11:26:21.774Z",
+      "time": "11:26:21",
+      "type": "position",
+      "msg": "XRP +1.18% — Meu psicólogo vai ficar orgulhoso"
+    },
+    {
       "ts": "2026-02-14T11:25:52.497Z",
       "time": "11:25:52",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "11:18:21",
       "type": "position",
       "msg": "XRP +0.36% — Meu psicólogo vai ficar orgulhoso"
-    },
-    {
-      "ts": "2026-02-14T11:17:51.961Z",
-      "time": "11:17:51",
-      "type": "position",
-      "msg": "PAXG +0.03% — Dormiu no ponto"
-    },
-    {
-      "ts": "2026-02-14T11:17:22.339Z",
-      "time": "11:17:22",
-      "type": "position",
-      "msg": "ZEC +0.16% — Não me acostumem com isso"
     }
   ]
 }
