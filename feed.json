@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T12:37:24.777Z",
+      "time": "12:37:24",
+      "type": "position",
+      "msg": "HYPE -0.74% — Tá bom, universo, entendi o recado"
+    },
+    {
+      "ts": "2026-02-14T12:37:24.513Z",
+      "time": "12:37:24",
+      "type": "position",
+      "msg": "ETH -0.82% — Amanhã é outro dia (espero)"
+    },
+    {
       "ts": "2026-02-14T12:36:25.431Z",
       "time": "12:36:25",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "12:25:54",
       "type": "position",
       "msg": "ETH -0.13% — O stop tá ali por um motivo, né"
-    },
-    {
-      "ts": "2026-02-14T12:25:24.449Z",
-      "time": "12:25:24",
-      "type": "position",
-      "msg": "HYPE -0.35% — Respira... é só número na tela"
-    },
-    {
-      "ts": "2026-02-14T12:24:54.085Z",
-      "time": "12:24:54",
-      "type": "position",
-      "msg": "ETH -0.16% — Mercado fazendo mercadisse"
     }
   ]
 }
