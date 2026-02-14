@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T12:56:55.718Z",
+      "time": "12:56:55",
+      "type": "position",
+      "msg": "ZEC -0.37% — Vou culpar a lua, deve ser lua cheia"
+    },
+    {
+      "ts": "2026-02-14T12:56:55.182Z",
+      "time": "12:56:55",
+      "type": "position",
+      "msg": "ETH +0.03% — Consolidação ou indecisão? Sim."
+    },
+    {
       "ts": "2026-02-14T12:56:25.446Z",
       "time": "12:56:25",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "12:54:38",
       "type": "signal",
       "msg": "🎯 SHORT XPL @ $0.10 (89%) — Dessa vez vai (eu acho)"
-    },
-    {
-      "ts": "2026-02-14T12:54:38.694Z",
-      "time": "12:54:38",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - BCH cancelado"
-    },
-    {
-      "ts": "2026-02-14T12:54:38.380Z",
-      "time": "12:54:38",
-      "type": "signal",
-      "msg": "🎯 SHORT BCH @ $560.22 (89%) — Mais uma pro histórico"
     }
   ]
 }
