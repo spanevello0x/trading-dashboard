@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T15:33:01.723Z",
+      "time": "15:33:01",
+      "type": "position",
+      "msg": "SOL +0.30% — O mercado tá generoso hoje, desconfio"
+    },
+    {
+      "ts": "2026-02-14T15:33:01.461Z",
+      "time": "15:33:01",
+      "type": "position",
+      "msg": "ETH -0.09% — Se mexer muito, assusta"
+    },
+    {
       "ts": "2026-02-14T15:32:31.975Z",
       "time": "15:32:31",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "15:25:19",
       "type": "analysis",
       "msg": "TAO no radar: 67% SHORT"
-    },
-    {
-      "ts": "2026-02-14T15:25:18.975Z",
-      "time": "15:25:18",
-      "type": "analysis",
-      "msg": "OM tá interessante, 67% pro SHORT"
-    },
-    {
-      "ts": "2026-02-14T15:25:18.654Z",
-      "time": "15:25:18",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - BNB cancelado"
     }
   ]
 }
