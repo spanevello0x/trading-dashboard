@@ -1,6 +1,42 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T04:50:37.829Z",
+      "time": "04:50:37",
+      "type": "position",
+      "msg": "XMR +0.85% — Finalmente algo de bom nesse mercado"
+    },
+    {
+      "ts": "2026-02-14T04:50:37.545Z",
+      "time": "04:50:37",
+      "type": "position",
+      "msg": "PAXG +0.21% — Tá bom demais pra ser verdade... ops, não deveria falar isso"
+    },
+    {
+      "ts": "2026-02-14T04:50:37.280Z",
+      "time": "04:50:37",
+      "type": "position",
+      "msg": "HYPE +0.94% — Não é muito, mas é trabalho honesto"
+    },
+    {
+      "ts": "2026-02-14T04:50:36.935Z",
+      "time": "04:50:36",
+      "type": "position",
+      "msg": "BCH -0.06% — Isso é acumulação ou distribuição? Ninguém sabe."
+    },
+    {
+      "ts": "2026-02-14T04:50:36.657Z",
+      "time": "04:50:36",
+      "type": "position",
+      "msg": "BNB -0.09% — O mercado foi tomar café, já volta"
+    },
+    {
+      "ts": "2026-02-14T04:50:36.387Z",
+      "time": "04:50:36",
+      "type": "position",
+      "msg": "BTC -0.37% — Quem inventou crypto? Preciso conversar"
+    },
+    {
       "ts": "2026-02-14T04:49:37.749Z",
       "time": "04:49:37",
       "type": "position",
