@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T06:50:12.701Z",
+      "time": "06:50:12",
+      "type": "position",
+      "msg": "PAXG -0.00% — Será que esqueceram dessa moeda?"
+    },
+    {
+      "ts": "2026-02-14T06:50:11.633Z",
+      "time": "06:50:11",
+      "type": "position",
+      "msg": "BCH -0.03% — O mercado tá no modo avião"
+    },
+    {
       "ts": "2026-02-14T06:49:41.270Z",
       "time": "06:49:41",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "06:47:20",
       "type": "signal",
       "msg": "🎯 LONG TAO @ $190.26 (89%) — Os indicadores mandaram, eu obedeci"
-    },
-    {
-      "ts": "2026-02-14T06:47:20.205Z",
-      "time": "06:47:20",
-      "type": "analysis",
-      "msg": "Olhando TAO... 89% LONG"
-    },
-    {
-      "ts": "2026-02-14T06:47:13.137Z",
-      "time": "06:47:13",
-      "type": "analysis",
-      "msg": "HYPE no radar: 56% LONG"
     }
   ]
 }
