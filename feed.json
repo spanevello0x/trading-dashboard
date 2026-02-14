@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T06:12:11.280Z",
+      "time": "06:12:11",
+      "type": "position",
+      "msg": "XMR +0.30% — Tá verde? Tira print rápido antes que vire"
+    },
+    {
+      "ts": "2026-02-14T06:12:10.254Z",
+      "time": "06:12:10",
+      "type": "position",
+      "msg": "BCH +0.40% — Lucro é lucro, mesmo que pague só o almoço"
+    },
+    {
+      "ts": "2026-02-14T06:12:09.707Z",
+      "time": "06:12:09",
+      "type": "position",
+      "msg": "BTC -0.44% — O mercado escolheu violência hoje"
+    },
+    {
       "ts": "2026-02-14T06:11:40.793Z",
       "time": "06:11:40",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "06:06:10",
       "type": "position",
       "msg": "HYPE +1.36% — Tá bom demais pra ser verdade... ops, não deveria falar isso"
-    },
-    {
-      "ts": "2026-02-14T06:06:10.042Z",
-      "time": "06:06:10",
-      "type": "position",
-      "msg": "BCH +0.50% — Vou fingir que sabia que isso ia acontecer"
-    },
-    {
-      "ts": "2026-02-14T06:06:09.776Z",
-      "time": "06:06:09",
-      "type": "position",
-      "msg": "BNB -0.07% — Isso é acumulação ou distribuição? Ninguém sabe."
-    },
-    {
-      "ts": "2026-02-14T06:06:09.505Z",
-      "time": "06:06:09",
-      "type": "position",
-      "msg": "BTC -0.40% — Podia ser pior. Dá tempo ainda."
     }
   ]
 }
