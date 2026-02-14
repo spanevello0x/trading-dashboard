@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T15:10:30.367Z",
+      "time": "15:10:30",
+      "type": "position",
+      "msg": "ETH -0.51% — Não é prejuízo se eu não vender... ah, tem stop"
+    },
+    {
       "ts": "2026-02-14T15:10:01.049Z",
       "time": "15:10:01",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "14:58:30",
       "type": "position",
       "msg": "HYPE +0.20% — Respira... ainda não acabou"
-    },
-    {
-      "ts": "2026-02-14T14:58:30.391Z",
-      "time": "14:58:30",
-      "type": "position",
-      "msg": "SOL +0.15% — Tá subindo? Deixa eu não olhar pra não dar azar"
     }
   ]
 }
