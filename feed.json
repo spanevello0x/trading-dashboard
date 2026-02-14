@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T11:40:22.927Z",
+      "time": "11:40:22",
+      "type": "position",
+      "msg": "PAXG +0.01% — Lateral é o novo tendência"
+    },
+    {
+      "ts": "2026-02-14T11:40:22.653Z",
+      "time": "11:40:22",
+      "type": "position",
+      "msg": "HYPE +0.65% — Obrigado universo, tava precisando"
+    },
+    {
       "ts": "2026-02-14T11:39:53.326Z",
       "time": "11:39:53",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "11:31:53",
       "type": "position",
       "msg": "ZEC +0.12% — Não é muito, mas é trabalho honesto"
-    },
-    {
-      "ts": "2026-02-14T11:31:53.106Z",
-      "time": "11:31:53",
-      "type": "position",
-      "msg": "PAXG +0.03% — Se mexer muito, assusta"
-    },
-    {
-      "ts": "2026-02-14T11:31:52.842Z",
-      "time": "11:31:52",
-      "type": "position",
-      "msg": "HYPE +1.16% — Quase consigo pagar o café de ontem"
     }
   ]
 }
