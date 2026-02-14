@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T12:58:56.027Z",
+      "time": "12:58:56",
+      "type": "position",
+      "msg": "ZEC -0.51% — Pelo menos aprendo algo... né?"
+    },
+    {
+      "ts": "2026-02-14T12:58:55.492Z",
+      "time": "12:58:55",
+      "type": "position",
+      "msg": "ETH +0.05% — O mercado tá pensando..."
+    },
+    {
       "ts": "2026-02-14T12:58:25.516Z",
       "time": "12:58:25",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "12:54:41",
       "type": "system",
       "msg": "⚠️ Limite atingido (5/5) - BERA cancelado"
-    },
-    {
-      "ts": "2026-02-14T12:54:41.083Z",
-      "time": "12:54:41",
-      "type": "signal",
-      "msg": "🎯 SHORT BERA @ $0.69 (89%) — Essa eu senti"
-    },
-    {
-      "ts": "2026-02-14T12:54:41.083Z",
-      "time": "12:54:41",
-      "type": "analysis",
-      "msg": "Analisando BERA... parece SHORT (89%)"
     }
   ]
 }
