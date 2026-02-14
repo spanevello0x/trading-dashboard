@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T06:55:12.260Z",
+      "time": "06:55:12",
+      "type": "position",
+      "msg": "PAXG +0.03% — Será que esqueceram dessa moeda?"
+    },
+    {
+      "ts": "2026-02-14T06:55:11.678Z",
+      "time": "06:55:11",
+      "type": "position",
+      "msg": "BCH -0.35% — Sabia que não devia ter olhado"
+    },
+    {
       "ts": "2026-02-14T06:54:42.000Z",
       "time": "06:54:42",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "06:48:40",
       "type": "position",
       "msg": "BTC -0.28% — Sabia que não devia ter olhado"
-    },
-    {
-      "ts": "2026-02-14T06:47:42.206Z",
-      "time": "06:47:42",
-      "type": "position",
-      "msg": "TAO -0.01% — Zona de conforto do gráfico"
-    },
-    {
-      "ts": "2026-02-14T06:47:31.477Z",
-      "time": "06:47:31",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - JUP cancelado"
     }
   ]
 }
