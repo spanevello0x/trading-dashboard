@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T10:59:20.963Z",
+      "time": "10:59:20",
+      "type": "position",
+      "msg": "HYPE -0.16% — O stop tá ali por um motivo, né"
+    },
+    {
       "ts": "2026-02-14T10:58:50.685Z",
       "time": "10:58:50",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "10:50:51",
       "type": "position",
       "msg": "XRP -0.51% — Sabia que não devia ter olhado"
-    },
-    {
-      "ts": "2026-02-14T10:49:51.675Z",
-      "time": "10:49:51",
-      "type": "position",
-      "msg": "ZEC +0.70% — Vou comemorar quando fechar. Talvez."
     }
   ]
 }
