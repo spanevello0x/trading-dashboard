@@ -1,6 +1,30 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T07:58:44.820Z",
+      "time": "07:58:44",
+      "type": "position",
+      "msg": "PAXG -0.01% — Isso é acumulação ou distribuição? Ninguém sabe."
+    },
+    {
+      "ts": "2026-02-14T07:58:44.553Z",
+      "time": "07:58:44",
+      "type": "position",
+      "msg": "BCH -0.08% — A calmaria antes da tempestade... ou mais calmaria"
+    },
+    {
+      "ts": "2026-02-14T07:58:44.283Z",
+      "time": "07:58:44",
+      "type": "position",
+      "msg": "SUI -0.99% — Quem precisa de dinheiro mesmo"
+    },
+    {
+      "ts": "2026-02-14T07:58:44.015Z",
+      "time": "07:58:44",
+      "type": "position",
+      "msg": "ETH -0.15% — Mais um dia normal no crypto"
+    },
+    {
       "ts": "2026-02-14T07:57:44.567Z",
       "time": "07:57:44",
       "type": "position",
@@ -155,30 +179,6 @@
       "time": "07:53:32",
       "type": "analysis",
       "msg": "Hmm, XMR mostrando sinais de SHORT (89%)"
-    },
-    {
-      "ts": "2026-02-14T07:53:32.580Z",
-      "time": "07:53:32",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - VVV cancelado"
-    },
-    {
-      "ts": "2026-02-14T07:53:32.302Z",
-      "time": "07:53:32",
-      "type": "signal",
-      "msg": "🎯 SHORT VVV @ $2.62 (78%) — Essa eu senti"
-    },
-    {
-      "ts": "2026-02-14T07:53:32.301Z",
-      "time": "07:53:32",
-      "type": "analysis",
-      "msg": "Olhando VVV... 78% SHORT"
-    },
-    {
-      "ts": "2026-02-14T07:53:32.025Z",
-      "time": "07:53:32",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - TAO cancelado"
     }
   ]
 }
