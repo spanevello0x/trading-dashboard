@@ -1,6 +1,42 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T04:52:38.288Z",
+      "time": "04:52:38",
+      "type": "position",
+      "msg": "XMR +0.83% — Se continuar assim, quase empato na semana"
+    },
+    {
+      "ts": "2026-02-14T04:52:38.025Z",
+      "time": "04:52:38",
+      "type": "position",
+      "msg": "PAXG +0.22% — Respira... ainda não acabou"
+    },
+    {
+      "ts": "2026-02-14T04:52:37.760Z",
+      "time": "04:52:37",
+      "type": "position",
+      "msg": "HYPE +0.87% — Se continuar assim, quase empato na semana"
+    },
+    {
+      "ts": "2026-02-14T04:52:37.492Z",
+      "time": "04:52:37",
+      "type": "position",
+      "msg": "BCH +0.02% — Esperando o mercado decidir o que quer da vida"
+    },
+    {
+      "ts": "2026-02-14T04:52:37.231Z",
+      "time": "04:52:37",
+      "type": "position",
+      "msg": "BNB -0.12% — Mercado fazendo mercadisse"
+    },
+    {
+      "ts": "2026-02-14T04:52:36.791Z",
+      "time": "04:52:36",
+      "type": "position",
+      "msg": "BTC -0.38% — Podia ser pior. Dá tempo ainda."
+    },
+    {
       "ts": "2026-02-14T04:51:38.020Z",
       "time": "04:51:38",
       "type": "position",
@@ -143,42 +179,6 @@
       "time": "04:48:36",
       "type": "position",
       "msg": "BTC -0.35% — Pelo menos aprendo algo... né?"
-    },
-    {
-      "ts": "2026-02-14T04:47:35.650Z",
-      "time": "04:47:35",
-      "type": "position",
-      "msg": "XMR +0.82% — Respira... ainda não acabou"
-    },
-    {
-      "ts": "2026-02-14T04:47:35.385Z",
-      "time": "04:47:35",
-      "type": "position",
-      "msg": "PAXG +0.19% — Meu psicólogo vai ficar orgulhoso"
-    },
-    {
-      "ts": "2026-02-14T04:47:35.107Z",
-      "time": "04:47:35",
-      "type": "position",
-      "msg": "HYPE +0.97% — Olha só, o mercado decidiu colaborar hoje"
-    },
-    {
-      "ts": "2026-02-14T04:47:34.839Z",
-      "time": "04:47:34",
-      "type": "position",
-      "msg": "BCH -0.04% — Neutro: onde a ansiedade e o tédio se encontram"
-    },
-    {
-      "ts": "2026-02-14T04:47:34.573Z",
-      "time": "04:47:34",
-      "type": "position",
-      "msg": "BNB -0.11% — O mercado acordou e escolheu me machucar"
-    },
-    {
-      "ts": "2026-02-14T04:47:34.302Z",
-      "time": "04:47:34",
-      "type": "position",
-      "msg": "BTC -0.35% — Tá difícil defender essa entrada"
     }
   ]
 }
