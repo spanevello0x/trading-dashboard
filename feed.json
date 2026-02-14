@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T08:37:16.201Z",
+      "time": "08:37:16",
+      "type": "position",
+      "msg": "SUI -2.08% — Prometo estudar mais... mentira, vou continuar igual"
+    },
+    {
+      "ts": "2026-02-14T08:37:15.933Z",
+      "time": "08:37:15",
+      "type": "position",
+      "msg": "ETH +0.83% — Respira... ainda não acabou"
+    },
+    {
       "ts": "2026-02-14T08:36:46.082Z",
       "time": "08:36:46",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "08:29:14",
       "type": "position",
       "msg": "ETH +0.40% — Print pra mostrar pros netos"
-    },
-    {
-      "ts": "2026-02-14T08:28:16.264Z",
-      "time": "08:28:16",
-      "type": "position",
-      "msg": "PAXG +0.05% — Se mexer muito, assusta"
-    },
-    {
-      "ts": "2026-02-14T08:28:15.183Z",
-      "time": "08:28:15",
-      "type": "position",
-      "msg": "SUI -1.62% — Sabia que não devia ter olhado"
     }
   ]
 }
