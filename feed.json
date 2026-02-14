@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T11:56:53.492Z",
+      "time": "11:56:53",
+      "type": "position",
+      "msg": "PAXG -0.07% — O mercado tá buffering"
+    },
+    {
+      "ts": "2026-02-14T11:56:53.163Z",
+      "time": "11:56:53",
+      "type": "position",
+      "msg": "HYPE +0.90% — Quase consigo pagar o café de ontem"
+    },
+    {
+      "ts": "2026-02-14T11:56:52.891Z",
+      "time": "11:56:52",
+      "type": "position",
+      "msg": "ETH -0.01% — Dormiu no ponto"
+    },
+    {
       "ts": "2026-02-14T11:55:53.370Z",
       "time": "11:55:53",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "11:47:13",
       "type": "signal",
       "msg": "🎯 LONG JUP @ $0.16 (100%) — Dessa vez vai (eu acho)"
-    },
-    {
-      "ts": "2026-02-14T11:47:13.236Z",
-      "time": "11:47:13",
-      "type": "analysis",
-      "msg": "JUP tá interessante, 100% pro LONG"
-    },
-    {
-      "ts": "2026-02-14T11:47:12.847Z",
-      "time": "11:47:12",
-      "type": "analysis",
-      "msg": "Hmm, LINK mostrando sinais de LONG (67%)"
-    },
-    {
-      "ts": "2026-02-14T11:47:12.495Z",
-      "time": "11:47:12",
-      "type": "analysis",
-      "msg": "Hmm, MOODENG mostrando sinais de LONG (56%)"
     }
   ]
 }
