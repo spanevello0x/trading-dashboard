@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T08:18:14.546Z",
+      "time": "08:18:14",
+      "type": "position",
+      "msg": "ETH +0.71% — O mercado tá generoso hoje, desconfio"
+    },
+    {
       "ts": "2026-02-14T08:17:45.390Z",
       "time": "08:17:45",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "08:08:45",
       "type": "position",
       "msg": "PAXG -0.03% — Nem pra cima nem pra baixo. Ansiedade infinita."
-    },
-    {
-      "ts": "2026-02-14T08:08:45.286Z",
-      "time": "08:08:45",
-      "type": "position",
-      "msg": "BCH -0.02% — Parece até stable coin"
     }
   ]
 }
