@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T12:21:54.737Z",
+      "time": "12:21:54",
+      "type": "position",
+      "msg": "PAXG -0.02% — Plot twist a qualquer momento"
+    },
+    {
+      "ts": "2026-02-14T12:21:54.168Z",
+      "time": "12:21:54",
+      "type": "position",
+      "msg": "ETH -0.10% — Quem mandou confiar em linha colorida"
+    },
+    {
       "ts": "2026-02-14T12:21:24.224Z",
       "time": "12:21:24",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "12:10:54",
       "type": "position",
       "msg": "PAXG -0.04% — Isso é acumulação ou distribuição? Ninguém sabe."
-    },
-    {
-      "ts": "2026-02-14T12:10:23.784Z",
-      "time": "12:10:23",
-      "type": "position",
-      "msg": "HYPE +0.65% — Meu psicólogo vai ficar orgulhoso"
-    },
-    {
-      "ts": "2026-02-14T12:10:23.515Z",
-      "time": "12:10:23",
-      "type": "position",
-      "msg": "ETH -0.12% — Loss building character 💪"
     }
   ]
 }
