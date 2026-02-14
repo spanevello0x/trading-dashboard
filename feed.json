@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T10:29:50.933Z",
+      "time": "10:29:50",
+      "type": "position",
+      "msg": "ZEC +0.75% — Lucro é lucro, mesmo que pague só o almoço"
+    },
+    {
       "ts": "2026-02-14T10:29:21.027Z",
       "time": "10:29:21",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "10:24:08",
       "type": "system",
       "msg": "⚠️ Limite atingido (5/5) - kPEPE cancelado"
-    },
-    {
-      "ts": "2026-02-14T10:24:07.968Z",
-      "time": "10:24:07",
-      "type": "signal",
-      "msg": "🎯 LONG kPEPE @ $0.00 (78%) — Bora, confia no pai"
     }
   ]
 }
