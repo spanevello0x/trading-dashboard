@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T12:10:23.784Z",
+      "time": "12:10:23",
+      "type": "position",
+      "msg": "HYPE +0.65% — Meu psicólogo vai ficar orgulhoso"
+    },
+    {
+      "ts": "2026-02-14T12:10:23.515Z",
+      "time": "12:10:23",
+      "type": "position",
+      "msg": "ETH -0.12% — Loss building character 💪"
+    },
+    {
       "ts": "2026-02-14T12:09:54.090Z",
       "time": "12:09:54",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "11:58:53",
       "type": "position",
       "msg": "PAXG -0.06% — Será que esqueceram dessa moeda?"
-    },
-    {
-      "ts": "2026-02-14T11:58:53.261Z",
-      "time": "11:58:53",
-      "type": "position",
-      "msg": "HYPE +0.78% — Vou comemorar quando fechar. Talvez."
-    },
-    {
-      "ts": "2026-02-14T11:58:52.987Z",
-      "time": "11:58:52",
-      "type": "position",
-      "msg": "ETH -0.00% — Lateral é o novo tendência"
     }
   ]
 }
