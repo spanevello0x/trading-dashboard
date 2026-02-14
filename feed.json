@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T09:50:49.593Z",
+      "time": "09:50:49",
+      "type": "position",
+      "msg": "ZEC +0.36% — Até um relógio quebrado acerta duas vezes"
+    },
+    {
       "ts": "2026-02-14T09:49:49.434Z",
       "time": "09:49:49",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "09:41:48",
       "type": "position",
       "msg": "ZEC -0.00% — Esperando Godot, versão crypto"
-    },
-    {
-      "ts": "2026-02-14T09:41:18.280Z",
-      "time": "09:41:18",
-      "type": "position",
-      "msg": "HYPE -0.32% — O stop tá ali por um motivo, né"
     }
   ]
 }
