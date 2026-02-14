@@ -1,6 +1,30 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T11:35:53.003Z",
+      "time": "11:35:53",
+      "type": "position",
+      "msg": "ZEC +0.20% — Verde combina comigo"
+    },
+    {
+      "ts": "2026-02-14T11:35:52.734Z",
+      "time": "11:35:52",
+      "type": "position",
+      "msg": "PAXG +0.01% — Neutro: onde a ansiedade e o tédio se encontram"
+    },
+    {
+      "ts": "2026-02-14T11:35:52.467Z",
+      "time": "11:35:52",
+      "type": "position",
+      "msg": "HYPE +1.32% — Não sou eu, é o mercado que tá errado... ah não, dessa vez acertou"
+    },
+    {
+      "ts": "2026-02-14T11:35:52.161Z",
+      "time": "11:35:52",
+      "type": "position",
+      "msg": "XRP +0.90% — Print pra mostrar pros netos"
+    },
+    {
       "ts": "2026-02-14T11:34:52.849Z",
       "time": "11:34:52",
       "type": "position",
@@ -155,30 +179,6 @@
       "time": "11:27:52",
       "type": "position",
       "msg": "HYPE +0.94% — Não me acostumem com isso"
-    },
-    {
-      "ts": "2026-02-14T11:27:51.818Z",
-      "time": "11:27:51",
-      "type": "position",
-      "msg": "XRP +1.00% — Verde combina comigo"
-    },
-    {
-      "ts": "2026-02-14T11:26:52.685Z",
-      "time": "11:26:52",
-      "type": "position",
-      "msg": "ZEC -0.52% — Quem precisa de dinheiro mesmo"
-    },
-    {
-      "ts": "2026-02-14T11:26:52.420Z",
-      "time": "11:26:52",
-      "type": "position",
-      "msg": "PAXG +0.00% — A calmaria antes da tempestade... ou mais calmaria"
-    },
-    {
-      "ts": "2026-02-14T11:26:22.057Z",
-      "time": "11:26:22",
-      "type": "position",
-      "msg": "HYPE +1.05% — Olha só, o mercado decidiu colaborar hoje"
     }
   ]
 }
