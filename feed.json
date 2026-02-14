@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T06:38:10.670Z",
+      "time": "06:38:10",
+      "type": "position",
+      "msg": "BTC -0.26% — Calma que ainda tem o stop loss pra doer mais"
+    },
+    {
       "ts": "2026-02-14T06:37:41.967Z",
       "time": "06:37:41",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "06:32:40",
       "type": "position",
       "msg": "BNB -0.11% — Clássico"
-    },
-    {
-      "ts": "2026-02-14T06:32:10.405Z",
-      "time": "06:32:10",
-      "type": "position",
-      "msg": "BTC -0.25% — Vermelho é a minha cor favorita agora"
     }
   ]
 }
