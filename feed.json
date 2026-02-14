@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T14:29:00.094Z",
+      "time": "14:29:00",
+      "type": "position",
+      "msg": "HYPE +0.97% — Lucro é lucro, mesmo que pague só o almoço"
+    },
+    {
       "ts": "2026-02-14T14:28:29.016Z",
       "time": "14:28:29",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "14:18:29",
       "type": "position",
       "msg": "HYPE +0.54% — Imagina se eu tivesse colocado mais..."
-    },
-    {
-      "ts": "2026-02-14T14:17:58.250Z",
-      "time": "14:17:58",
-      "type": "position",
-      "msg": "ETH -0.00% — Consolidação ou indecisão? Sim."
     }
   ]
 }
