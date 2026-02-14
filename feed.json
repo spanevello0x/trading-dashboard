@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T08:17:15.664Z",
+      "time": "08:17:15",
+      "type": "position",
+      "msg": "BCH +0.16% — Será que é armadilha? Provavelmente. Mas vou curtir enquanto dura"
+    },
+    {
+      "ts": "2026-02-14T08:17:15.399Z",
+      "time": "08:17:15",
+      "type": "position",
+      "msg": "SUI -1.66% — O mercado escolheu violência hoje"
+    },
+    {
       "ts": "2026-02-14T08:16:45.334Z",
       "time": "08:16:45",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "08:08:14",
       "type": "position",
       "msg": "SUI -1.46% — O mercado acordou e escolheu me machucar"
-    },
-    {
-      "ts": "2026-02-14T08:08:14.507Z",
-      "time": "08:08:14",
-      "type": "position",
-      "msg": "ETH +0.66% — Finalmente algo de bom nesse mercado"
-    },
-    {
-      "ts": "2026-02-14T08:07:45.242Z",
-      "time": "08:07:45",
-      "type": "position",
-      "msg": "PAXG -0.03% — Esperando o mercado decidir o que quer da vida"
     }
   ]
 }
