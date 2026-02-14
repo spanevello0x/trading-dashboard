@@ -1,6 +1,30 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T05:01:07.942Z",
+      "time": "05:01:07",
+      "type": "position",
+      "msg": "PAXG +0.20% — Não me acostumem com isso"
+    },
+    {
+      "ts": "2026-02-14T05:01:07.668Z",
+      "time": "05:01:07",
+      "type": "position",
+      "msg": "HYPE +0.99% — Não me acostumem com isso"
+    },
+    {
+      "ts": "2026-02-14T05:01:07.134Z",
+      "time": "05:01:07",
+      "type": "position",
+      "msg": "BNB +0.03% — Isso é acumulação ou distribuição? Ninguém sabe."
+    },
+    {
+      "ts": "2026-02-14T05:01:06.865Z",
+      "time": "05:01:06",
+      "type": "position",
+      "msg": "BTC -0.44% — Pelo menos não é dinheiro de verdade... ah, espera"
+    },
+    {
       "ts": "2026-02-14T05:00:38.201Z",
       "time": "05:00:38",
       "type": "position",
@@ -155,30 +179,6 @@
       "time": "04:56:06",
       "type": "position",
       "msg": "BNB -0.08% — Vai, faz alguma coisa"
-    },
-    {
-      "ts": "2026-02-14T04:55:08.813Z",
-      "time": "04:55:08",
-      "type": "position",
-      "msg": "XMR +0.69% — Quem diria, acertei uma"
-    },
-    {
-      "ts": "2026-02-14T04:55:08.543Z",
-      "time": "04:55:08",
-      "type": "position",
-      "msg": "PAXG +0.21% — Isso aí, garoto. Vai, vai, vai..."
-    },
-    {
-      "ts": "2026-02-14T04:55:07.463Z",
-      "time": "04:55:07",
-      "type": "position",
-      "msg": "HYPE +1.00% — Obrigado universo, tava precisando"
-    },
-    {
-      "ts": "2026-02-14T04:55:07.197Z",
-      "time": "04:55:07",
-      "type": "position",
-      "msg": "BCH +0.06% — O mercado tá no modo avião"
     }
   ]
 }
