@@ -1,6 +1,36 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T07:04:42.567Z",
+      "time": "07:04:42",
+      "type": "position",
+      "msg": "PAXG +0.04% — Esperando Godot, versão crypto"
+    },
+    {
+      "ts": "2026-02-14T07:04:42.303Z",
+      "time": "07:04:42",
+      "type": "position",
+      "msg": "AAVE +0.07% — Neutro: onde a ansiedade e o tédio se encontram"
+    },
+    {
+      "ts": "2026-02-14T07:04:42.034Z",
+      "time": "07:04:42",
+      "type": "position",
+      "msg": "BCH -0.31% — O mercado acordou e escolheu me machucar"
+    },
+    {
+      "ts": "2026-02-14T07:04:41.758Z",
+      "time": "07:04:41",
+      "type": "position",
+      "msg": "SUI -0.30% — Prometo estudar mais... mentira, vou continuar igual"
+    },
+    {
+      "ts": "2026-02-14T07:04:41.478Z",
+      "time": "07:04:41",
+      "type": "position",
+      "msg": "BTC -0.22% — O mercado escolheu violência hoje"
+    },
+    {
       "ts": "2026-02-14T07:03:42.545Z",
       "time": "07:03:42",
       "type": "position",
@@ -149,36 +179,6 @@
       "time": "07:00:30",
       "type": "system",
       "msg": "⚠️ Limite atingido (5/5) - OM cancelado"
-    },
-    {
-      "ts": "2026-02-14T07:00:29.526Z",
-      "time": "07:00:29",
-      "type": "signal",
-      "msg": "🎯 SHORT OM @ $0.05 (89%) — Setup alinhado, agora é com o mercado"
-    },
-    {
-      "ts": "2026-02-14T07:00:29.526Z",
-      "time": "07:00:29",
-      "type": "analysis",
-      "msg": "OM no radar: 89% SHORT"
-    },
-    {
-      "ts": "2026-02-14T07:00:29.247Z",
-      "time": "07:00:29",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - BNB cancelado"
-    },
-    {
-      "ts": "2026-02-14T07:00:28.968Z",
-      "time": "07:00:28",
-      "type": "signal",
-      "msg": "🎯 LONG BNB @ $619.14 (78%) — Os indicadores mandaram, eu obedeci"
-    },
-    {
-      "ts": "2026-02-14T07:00:28.967Z",
-      "time": "07:00:28",
-      "type": "analysis",
-      "msg": "BNB tá interessante, 78% pro LONG"
     }
   ]
 }
