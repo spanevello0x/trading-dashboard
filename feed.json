@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T05:52:09.956Z",
+      "time": "05:52:09",
+      "type": "position",
+      "msg": "PAXG +0.09% — A calmaria antes da tempestade... ou mais calmaria"
+    },
+    {
+      "ts": "2026-02-14T05:52:09.427Z",
+      "time": "05:52:09",
+      "type": "position",
+      "msg": "BCH +0.02% — Dormiu no ponto"
+    },
+    {
       "ts": "2026-02-14T05:51:40.448Z",
       "time": "05:51:40",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "05:47:08",
       "type": "position",
       "msg": "BTC -0.36% — Quem inventou crypto? Preciso conversar"
-    },
-    {
-      "ts": "2026-02-14T05:45:40.083Z",
-      "time": "05:45:40",
-      "type": "position",
-      "msg": "XMR +0.14% — Obrigado universo, tava precisando"
-    },
-    {
-      "ts": "2026-02-14T05:45:39.823Z",
-      "time": "05:45:39",
-      "type": "position",
-      "msg": "PAXG +0.09% — O gráfico tá meditando"
     }
   ]
 }
