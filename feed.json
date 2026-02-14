@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T10:42:50.636Z",
+      "time": "10:42:50",
+      "type": "position",
+      "msg": "PAXG +0.00% — Consolidação ou indecisão? Sim."
+    },
+    {
+      "ts": "2026-02-14T10:42:50.366Z",
+      "time": "10:42:50",
+      "type": "position",
+      "msg": "HYPE -0.19% — Mais um dia normal no crypto"
+    },
+    {
+      "ts": "2026-02-14T10:42:50.081Z",
+      "time": "10:42:50",
+      "type": "position",
+      "msg": "XRP -0.41% — Clássico"
+    },
+    {
       "ts": "2026-02-14T10:41:50.942Z",
       "time": "10:41:50",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "10:38:06",
       "type": "analysis",
       "msg": "Hmm, BNB mostrando sinais de LONG (67%)"
-    },
-    {
-      "ts": "2026-02-14T10:38:06.023Z",
-      "time": "10:38:06",
-      "type": "analysis",
-      "msg": "Hmm, AVAX mostrando sinais de LONG (56%)"
-    },
-    {
-      "ts": "2026-02-14T10:38:05.746Z",
-      "time": "10:38:05",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - VIRTUAL cancelado"
-    },
-    {
-      "ts": "2026-02-14T10:38:05.472Z",
-      "time": "10:38:05",
-      "type": "signal",
-      "msg": "🎯 LONG VIRTUAL @ $0.69 (100%) — Mais uma pro histórico"
     }
   ]
 }
