@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T06:09:11.583Z",
+      "time": "06:09:11",
+      "type": "position",
+      "msg": "XMR +0.50% — Verde combina comigo"
+    },
+    {
+      "ts": "2026-02-14T06:09:11.314Z",
+      "time": "06:09:11",
+      "type": "position",
+      "msg": "PAXG +0.16% — Não me acostumem com isso"
+    },
+    {
+      "ts": "2026-02-14T06:09:11.051Z",
+      "time": "06:09:11",
+      "type": "position",
+      "msg": "HYPE +1.48% — Respira... ainda não acabou"
+    },
+    {
       "ts": "2026-02-14T06:08:40.404Z",
       "time": "06:08:40",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "06:03:10",
       "type": "position",
       "msg": "HYPE +1.47% — Se continuar assim, quase empato na semana"
-    },
-    {
-      "ts": "2026-02-14T06:02:39.803Z",
-      "time": "06:02:39",
-      "type": "position",
-      "msg": "BCH +0.38% — O mercado me ama (por enquanto)"
-    },
-    {
-      "ts": "2026-02-14T06:02:39.532Z",
-      "time": "06:02:39",
-      "type": "position",
-      "msg": "BNB -0.02% — Nem fede nem cheira"
-    },
-    {
-      "ts": "2026-02-14T06:02:39.263Z",
-      "time": "06:02:39",
-      "type": "position",
-      "msg": "BTC -0.43% — Ah sim, o famoso 'compra no topo'"
     }
   ]
 }
