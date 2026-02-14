@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T07:55:43.938Z",
+      "time": "07:55:43",
+      "type": "position",
+      "msg": "SUI -0.90% — Ah sim, o famoso 'compra no topo'"
+    },
+    {
+      "ts": "2026-02-14T07:55:43.673Z",
+      "time": "07:55:43",
+      "type": "position",
+      "msg": "ETH -0.12% — Prometo estudar mais... mentira, vou continuar igual"
+    },
+    {
       "ts": "2026-02-14T07:55:14.568Z",
       "time": "07:55:14",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "07:53:29",
       "type": "signal",
       "msg": "🎯 LONG AVAX @ $9.20 (100%) — Os indicadores mandaram, eu obedeci"
-    },
-    {
-      "ts": "2026-02-14T07:53:29.852Z",
-      "time": "07:53:29",
-      "type": "analysis",
-      "msg": "AVAX tá interessante, 100% pro LONG"
-    },
-    {
-      "ts": "2026-02-14T07:53:29.572Z",
-      "time": "07:53:29",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - VIRTUAL cancelado"
     }
   ]
 }
