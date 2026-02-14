@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T06:31:10.335Z",
+      "time": "06:31:10",
+      "type": "position",
+      "msg": "BTC -0.27% — Mais um dia normal no crypto"
+    },
+    {
       "ts": "2026-02-14T06:30:12.124Z",
       "time": "06:30:12",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "06:25:10",
       "type": "position",
       "msg": "BTC -0.35% — Pelo menos o stop existe. Graças a Deus pelo stop."
-    },
-    {
-      "ts": "2026-02-14T06:24:41.529Z",
-      "time": "06:24:41",
-      "type": "position",
-      "msg": "XMR +0.57% — Será que é armadilha? Provavelmente. Mas vou curtir enquanto dura"
     }
   ]
 }
