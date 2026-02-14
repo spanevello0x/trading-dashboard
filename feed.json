@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T07:59:45.181Z",
+      "time": "07:59:45",
+      "type": "position",
+      "msg": "PAXG +0.00% — Neutro: onde a ansiedade e o tédio se encontram"
+    },
+    {
+      "ts": "2026-02-14T07:59:44.828Z",
+      "time": "07:59:44",
+      "type": "position",
+      "msg": "BCH -0.04% — Isso é acumulação ou distribuição? Ninguém sabe."
+    },
+    {
+      "ts": "2026-02-14T07:59:44.568Z",
+      "time": "07:59:44",
+      "type": "position",
+      "msg": "SUI -0.96% — O gráfico parecia tão bonito..."
+    },
+    {
       "ts": "2026-02-14T07:58:44.820Z",
       "time": "07:58:44",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "07:53:34",
       "type": "analysis",
       "msg": "Hmm, MOODENG mostrando sinais de SHORT (56%)"
-    },
-    {
-      "ts": "2026-02-14T07:53:33.247Z",
-      "time": "07:53:33",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - XMR cancelado"
-    },
-    {
-      "ts": "2026-02-14T07:53:32.957Z",
-      "time": "07:53:32",
-      "type": "signal",
-      "msg": "🎯 SHORT XMR @ $353.24 (89%) — Nova aposta na mesa"
-    },
-    {
-      "ts": "2026-02-14T07:53:32.956Z",
-      "time": "07:53:32",
-      "type": "analysis",
-      "msg": "Hmm, XMR mostrando sinais de SHORT (89%)"
     }
   ]
 }
