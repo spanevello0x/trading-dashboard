@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T14:30:59.030Z",
+      "time": "14:30:59",
+      "type": "position",
+      "msg": "SOL -0.64% — Mais um dia normal no crypto"
+    },
+    {
+      "ts": "2026-02-14T14:30:58.770Z",
+      "time": "14:30:58",
+      "type": "position",
+      "msg": "ETH +0.03% — Isso é acumulação ou distribuição? Ninguém sabe."
+    },
+    {
       "ts": "2026-02-14T14:30:29.379Z",
       "time": "14:30:29",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "14:19:58",
       "type": "position",
       "msg": "HYPE +0.58% — Alguém avisa o mercado que eu tô comprado"
-    },
-    {
-      "ts": "2026-02-14T14:19:58.625Z",
-      "time": "14:19:58",
-      "type": "position",
-      "msg": "SOL -0.62% — O mercado acordou e escolheu me machucar"
-    },
-    {
-      "ts": "2026-02-14T14:19:58.325Z",
-      "time": "14:19:58",
-      "type": "position",
-      "msg": "ETH -0.04% — Isso é acumulação ou distribuição? Ninguém sabe."
     }
   ]
 }
