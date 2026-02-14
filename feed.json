@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T08:12:14.636Z",
+      "time": "08:12:14",
+      "type": "position",
+      "msg": "SUI -1.51% — Vou culpar a lua, deve ser lua cheia"
+    },
+    {
+      "ts": "2026-02-14T08:12:14.349Z",
+      "time": "08:12:14",
+      "type": "position",
+      "msg": "ETH +0.58% — Se continuar assim, quase empato na semana"
+    },
+    {
       "ts": "2026-02-14T08:11:45.189Z",
       "time": "08:11:45",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "08:04:14",
       "type": "position",
       "msg": "BCH +0.45% — Melhor que Netflix isso aqui"
-    },
-    {
-      "ts": "2026-02-14T08:04:14.244Z",
-      "time": "08:04:14",
-      "type": "position",
-      "msg": "SUI -1.05% — Quem inventou crypto? Preciso conversar"
-    },
-    {
-      "ts": "2026-02-14T08:04:13.976Z",
-      "time": "08:04:13",
-      "type": "position",
-      "msg": "ETH +0.07% — Esperando Godot, versão crypto"
     }
   ]
 }
