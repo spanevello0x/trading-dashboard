@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T15:22:31.513Z",
+      "time": "15:22:31",
+      "type": "position",
+      "msg": "ETH -0.04% — O mercado tá pensando..."
+    },
+    {
       "ts": "2026-02-14T15:22:01.894Z",
       "time": "15:22:01",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "15:20:15",
       "type": "signal",
       "msg": "🎯 LONG DOGE @ $0.10 (100%) — Os indicadores mandaram, eu obedeci"
-    },
-    {
-      "ts": "2026-02-14T15:20:15.908Z",
-      "time": "15:20:15",
-      "type": "analysis",
-      "msg": "DOGE tá interessante, 100% pro LONG"
     }
   ]
 }
