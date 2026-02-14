@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T12:45:55.327Z",
+      "time": "12:45:55",
+      "type": "position",
+      "msg": "ZEC +0.19% — Quem diria, acertei uma"
+    },
+    {
       "ts": "2026-02-14T12:45:25.690Z",
       "time": "12:45:25",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "12:40:09",
       "type": "signal",
       "msg": "🎯 SHORT BERA @ $0.69 (78%) — Dessa vez vai (eu acho)"
-    },
-    {
-      "ts": "2026-02-14T12:40:09.504Z",
-      "time": "12:40:09",
-      "type": "analysis",
-      "msg": "Hmm, BERA mostrando sinais de SHORT (78%)"
     }
   ]
 }
