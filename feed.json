@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T12:37:55.136Z",
+      "time": "12:37:55",
+      "type": "position",
+      "msg": "PAXG -0.05% — Vai, faz alguma coisa"
+    },
+    {
       "ts": "2026-02-14T12:37:24.777Z",
       "time": "12:37:24",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "12:25:54",
       "type": "position",
       "msg": "PAXG -0.06% — Enquanto não move, não perco. Stonks mental."
-    },
-    {
-      "ts": "2026-02-14T12:25:54.142Z",
-      "time": "12:25:54",
-      "type": "position",
-      "msg": "ETH -0.13% — O stop tá ali por um motivo, né"
     }
   ]
 }
