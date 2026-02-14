@@ -1,6 +1,30 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T10:41:50.942Z",
+      "time": "10:41:50",
+      "type": "position",
+      "msg": "ZEC +0.70% — Tá bom demais pra ser verdade... ops, não deveria falar isso"
+    },
+    {
+      "ts": "2026-02-14T10:41:50.605Z",
+      "time": "10:41:50",
+      "type": "position",
+      "msg": "PAXG +0.00% — Tick tock, mercado..."
+    },
+    {
+      "ts": "2026-02-14T10:41:50.327Z",
+      "time": "10:41:50",
+      "type": "position",
+      "msg": "HYPE -0.35% — Loss building character 💪"
+    },
+    {
+      "ts": "2026-02-14T10:41:50.062Z",
+      "time": "10:41:50",
+      "type": "position",
+      "msg": "XRP -0.37% — Quem mandou confiar em linha colorida"
+    },
+    {
       "ts": "2026-02-14T10:40:50.842Z",
       "time": "10:40:50",
       "type": "position",
@@ -155,30 +179,6 @@
       "time": "10:38:05",
       "type": "signal",
       "msg": "🎯 LONG VIRTUAL @ $0.69 (100%) — Mais uma pro histórico"
-    },
-    {
-      "ts": "2026-02-14T10:38:05.471Z",
-      "time": "10:38:05",
-      "type": "analysis",
-      "msg": "Olhando VIRTUAL... 100% LONG"
-    },
-    {
-      "ts": "2026-02-14T10:38:05.175Z",
-      "time": "10:38:05",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - AZTEC cancelado"
-    },
-    {
-      "ts": "2026-02-14T10:38:04.889Z",
-      "time": "10:38:04",
-      "type": "signal",
-      "msg": "🎯 SHORT AZTEC @ $0.02 (89%) — Mais uma pro histórico"
-    },
-    {
-      "ts": "2026-02-14T10:38:04.889Z",
-      "time": "10:38:04",
-      "type": "analysis",
-      "msg": "Hmm, AZTEC mostrando sinais de SHORT (89%)"
     }
   ]
 }
