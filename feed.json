@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T11:36:52.924Z",
+      "time": "11:36:52",
+      "type": "position",
+      "msg": "ZEC +0.64% — O mercado me ama (por enquanto)"
+    },
+    {
       "ts": "2026-02-14T11:36:22.381Z",
       "time": "11:36:22",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "11:28:22",
       "type": "position",
       "msg": "PAXG +0.00% — Tick tock, mercado..."
-    },
-    {
-      "ts": "2026-02-14T11:27:52.636Z",
-      "time": "11:27:52",
-      "type": "position",
-      "msg": "ZEC -0.20% — Amanhã é outro dia (espero)"
     }
   ]
 }
