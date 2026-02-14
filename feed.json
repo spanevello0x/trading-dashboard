@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T10:58:21.512Z",
+      "time": "10:58:21",
+      "type": "position",
+      "msg": "ZEC +0.41% — Obrigado universo, tava precisando"
+    },
+    {
+      "ts": "2026-02-14T10:58:21.248Z",
+      "time": "10:58:21",
+      "type": "position",
+      "msg": "PAXG +0.02% — Nem comprador nem vendedor quer tomar atitude"
+    },
+    {
+      "ts": "2026-02-14T10:58:20.950Z",
+      "time": "10:58:20",
+      "type": "position",
+      "msg": "HYPE -0.12% — Tá bom, universo, entendi o recado"
+    },
+    {
       "ts": "2026-02-14T10:57:50.659Z",
       "time": "10:57:50",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "10:49:51",
       "type": "position",
       "msg": "PAXG +0.02% — Zona de conforto do gráfico"
-    },
-    {
-      "ts": "2026-02-14T10:49:51.017Z",
-      "time": "10:49:51",
-      "type": "position",
-      "msg": "HYPE +0.11% — Isso aí, garoto. Vai, vai, vai..."
-    },
-    {
-      "ts": "2026-02-14T10:49:50.753Z",
-      "time": "10:49:50",
-      "type": "position",
-      "msg": "XRP -0.49% — Pelo menos aprendo algo... né?"
-    },
-    {
-      "ts": "2026-02-14T10:48:51.214Z",
-      "time": "10:48:51",
-      "type": "position",
-      "msg": "ZEC +0.62% — Não sou eu, é o mercado que tá errado... ah não, dessa vez acertou"
     }
   ]
 }
