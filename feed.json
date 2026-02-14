@@ -1,6 +1,36 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T06:24:11.278Z",
+      "time": "06:24:11",
+      "type": "position",
+      "msg": "PAXG +0.16% — Stonks 📈 (desculpa, não resisti)"
+    },
+    {
+      "ts": "2026-02-14T06:24:11.013Z",
+      "time": "06:24:11",
+      "type": "position",
+      "msg": "HYPE +1.48% — Vou comemorar quando fechar. Talvez."
+    },
+    {
+      "ts": "2026-02-14T06:24:10.748Z",
+      "time": "06:24:10",
+      "type": "position",
+      "msg": "BCH +0.12% — Não me acostumem com isso"
+    },
+    {
+      "ts": "2026-02-14T06:24:10.429Z",
+      "time": "06:24:10",
+      "type": "position",
+      "msg": "BNB +0.01% — Nem fede nem cheira"
+    },
+    {
+      "ts": "2026-02-14T06:24:10.102Z",
+      "time": "06:24:10",
+      "type": "position",
+      "msg": "BTC -0.35% — Mais um dia normal no crypto"
+    },
+    {
       "ts": "2026-02-14T06:23:41.410Z",
       "time": "06:23:41",
       "type": "position",
@@ -149,36 +179,6 @@
       "time": "06:19:09",
       "type": "position",
       "msg": "BTC -0.34% — Amanhã é outro dia (espero)"
-    },
-    {
-      "ts": "2026-02-14T06:17:41.513Z",
-      "time": "06:17:41",
-      "type": "position",
-      "msg": "XMR +0.49% — Meu psicólogo vai ficar orgulhoso"
-    },
-    {
-      "ts": "2026-02-14T06:17:41.246Z",
-      "time": "06:17:41",
-      "type": "position",
-      "msg": "PAXG +0.16% — Alguém avisa o mercado que eu tô comprado"
-    },
-    {
-      "ts": "2026-02-14T06:17:40.984Z",
-      "time": "06:17:40",
-      "type": "position",
-      "msg": "HYPE +1.26% — Vou comemorar quando fechar. Talvez."
-    },
-    {
-      "ts": "2026-02-14T06:17:40.719Z",
-      "time": "06:17:40",
-      "type": "position",
-      "msg": "BCH +0.34% — Não sou eu, é o mercado que tá errado... ah não, dessa vez acertou"
-    },
-    {
-      "ts": "2026-02-14T06:17:40.453Z",
-      "time": "06:17:40",
-      "type": "position",
-      "msg": "BNB -0.02% — Se mexer muito, assusta"
     }
   ]
 }
