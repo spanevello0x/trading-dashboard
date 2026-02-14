@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T14:22:58.758Z",
+      "time": "14:22:58",
+      "type": "position",
+      "msg": "SOL -0.70% — Minha análise era perfeita, o mercado que tá errado"
+    },
+    {
+      "ts": "2026-02-14T14:22:58.494Z",
+      "time": "14:22:58",
+      "type": "position",
+      "msg": "ETH -0.12% — Clássico"
+    },
+    {
       "ts": "2026-02-14T14:21:59.054Z",
       "time": "14:21:59",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "14:12:28",
       "type": "position",
       "msg": "ETH +0.05% — Isso é acumulação ou distribuição? Ninguém sabe."
-    },
-    {
-      "ts": "2026-02-14T14:11:28.283Z",
-      "time": "14:11:28",
-      "type": "position",
-      "msg": "SOL -0.40% — Respira... é só número na tela"
-    },
-    {
-      "ts": "2026-02-14T14:11:27.988Z",
-      "time": "14:11:27",
-      "type": "position",
-      "msg": "ETH +0.00% — Tick tock, mercado..."
     }
   ]
 }
