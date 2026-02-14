@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T06:40:40.768Z",
+      "time": "06:40:40",
+      "type": "position",
+      "msg": "BTC -0.28% — Não é prejuízo se eu não vender... ah, tem stop"
+    },
+    {
       "ts": "2026-02-14T06:39:42.613Z",
       "time": "06:39:42",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "06:35:10",
       "type": "position",
       "msg": "BNB -0.10% — Tédio lucrativo ou tédio prejuízo? A definir."
-    },
-    {
-      "ts": "2026-02-14T06:34:40.502Z",
-      "time": "06:34:40",
-      "type": "position",
-      "msg": "BTC -0.30% — O stop tá ali por um motivo, né"
     }
   ]
 }
