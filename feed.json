@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T07:47:13.314Z",
+      "time": "07:47:13",
+      "type": "position",
+      "msg": "SUI -0.77% — O mercado escolheu violência hoje"
+    },
+    {
       "ts": "2026-02-14T07:46:44.231Z",
       "time": "07:46:44",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "07:38:13",
       "type": "position",
       "msg": "PAXG +0.08% — Enquanto não move, não perco. Stonks mental."
-    },
-    {
-      "ts": "2026-02-14T07:38:13.511Z",
-      "time": "07:38:13",
-      "type": "position",
-      "msg": "AAVE +1.03% — Quase consigo pagar o café de ontem"
     }
   ]
 }
