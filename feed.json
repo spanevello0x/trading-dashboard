@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T11:43:24.032Z",
+      "time": "11:43:24",
+      "type": "position",
+      "msg": "ZEC +0.67% — Stonks 📈 (desculpa, não resisti)"
+    },
+    {
+      "ts": "2026-02-14T11:43:23.763Z",
+      "time": "11:43:23",
+      "type": "position",
+      "msg": "PAXG +0.01% — Enquanto não move, não perco. Stonks mental."
+    },
+    {
+      "ts": "2026-02-14T11:43:22.529Z",
+      "time": "11:43:22",
+      "type": "position",
+      "msg": "XRP +0.90% — Alguém avisa o mercado que eu tô comprado"
+    },
+    {
       "ts": "2026-02-14T11:42:23.394Z",
       "time": "11:42:23",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "11:35:52",
       "type": "position",
       "msg": "PAXG +0.01% — Neutro: onde a ansiedade e o tédio se encontram"
-    },
-    {
-      "ts": "2026-02-14T11:35:52.467Z",
-      "time": "11:35:52",
-      "type": "position",
-      "msg": "HYPE +1.32% — Não sou eu, é o mercado que tá errado... ah não, dessa vez acertou"
-    },
-    {
-      "ts": "2026-02-14T11:35:52.161Z",
-      "time": "11:35:52",
-      "type": "position",
-      "msg": "XRP +0.90% — Print pra mostrar pros netos"
-    },
-    {
-      "ts": "2026-02-14T11:34:52.849Z",
-      "time": "11:34:52",
-      "type": "position",
-      "msg": "ZEC +0.29% — Stonks 📈 (desculpa, não resisti)"
     }
   ]
 }
