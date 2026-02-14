@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T14:42:59.782Z",
+      "time": "14:42:59",
+      "type": "position",
+      "msg": "HYPE +0.26% — Calma que ainda pode dar errado"
+    },
+    {
+      "ts": "2026-02-14T14:42:59.522Z",
+      "time": "14:42:59",
+      "type": "position",
+      "msg": "SOL -0.21% — Mercado fazendo mercadisse"
+    },
+    {
       "ts": "2026-02-14T14:42:29.230Z",
       "time": "14:42:29",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "14:39:42",
       "type": "signal",
       "msg": "🎯 LONG DOGE @ $0.10 (89%) — Setup alinhado, agora é com o mercado"
-    },
-    {
-      "ts": "2026-02-14T14:39:42.647Z",
-      "time": "14:39:42",
-      "type": "analysis",
-      "msg": "DOGE tá interessante, 89% pro LONG"
-    },
-    {
-      "ts": "2026-02-14T14:39:42.347Z",
-      "time": "14:39:42",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - FARTCOIN cancelado"
     }
   ]
 }
