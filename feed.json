@@ -1,6 +1,36 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T06:57:42.378Z",
+      "time": "06:57:42",
+      "type": "position",
+      "msg": "PAXG +0.04% — Esperando Godot, versão crypto"
+    },
+    {
+      "ts": "2026-02-14T06:57:42.115Z",
+      "time": "06:57:42",
+      "type": "position",
+      "msg": "TAO +1.50% — Tá bom demais pra ser verdade... ops, não deveria falar isso"
+    },
+    {
+      "ts": "2026-02-14T06:57:41.846Z",
+      "time": "06:57:41",
+      "type": "position",
+      "msg": "BCH -0.35% — Vou culpar a lua, deve ser lua cheia"
+    },
+    {
+      "ts": "2026-02-14T06:57:41.579Z",
+      "time": "06:57:41",
+      "type": "position",
+      "msg": "SUI -0.14% — Pelo menos não apostei a casa... dessa vez"
+    },
+    {
+      "ts": "2026-02-14T06:57:41.210Z",
+      "time": "06:57:41",
+      "type": "position",
+      "msg": "BTC -0.24% — Ah sim, o famoso 'compra no topo'"
+    },
+    {
       "ts": "2026-02-14T06:56:41.190Z",
       "time": "06:56:41",
       "type": "position",
@@ -149,36 +179,6 @@
       "time": "06:51:41",
       "type": "position",
       "msg": "BCH -0.13% — Vermelho é a minha cor favorita agora"
-    },
-    {
-      "ts": "2026-02-14T06:50:41.822Z",
-      "time": "06:50:41",
-      "type": "position",
-      "msg": "TAO +0.56% — Finalmente algo de bom nesse mercado"
-    },
-    {
-      "ts": "2026-02-14T06:50:41.292Z",
-      "time": "06:50:41",
-      "type": "position",
-      "msg": "SUI -0.10% — Esperando o mercado decidir o que quer da vida"
-    },
-    {
-      "ts": "2026-02-14T06:50:41.029Z",
-      "time": "06:50:41",
-      "type": "position",
-      "msg": "BTC -0.27% — Clássico"
-    },
-    {
-      "ts": "2026-02-14T06:50:12.701Z",
-      "time": "06:50:12",
-      "type": "position",
-      "msg": "PAXG -0.00% — Será que esqueceram dessa moeda?"
-    },
-    {
-      "ts": "2026-02-14T06:50:11.633Z",
-      "time": "06:50:11",
-      "type": "position",
-      "msg": "BCH -0.03% — O mercado tá no modo avião"
     }
   ]
 }
