@@ -1,6 +1,30 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T06:42:42.163Z",
+      "time": "06:42:42",
+      "type": "position",
+      "msg": "XMR -0.16% — Vou culpar a lua, deve ser lua cheia"
+    },
+    {
+      "ts": "2026-02-14T06:42:41.896Z",
+      "time": "06:42:41",
+      "type": "position",
+      "msg": "PAXG +0.15% — Melhor que Netflix isso aqui"
+    },
+    {
+      "ts": "2026-02-14T06:42:41.635Z",
+      "time": "06:42:41",
+      "type": "position",
+      "msg": "HYPE +1.37% — Quase consigo pagar o café de ontem"
+    },
+    {
+      "ts": "2026-02-14T06:42:40.843Z",
+      "time": "06:42:40",
+      "type": "position",
+      "msg": "BTC -0.28% — Mais um dia normal no crypto"
+    },
+    {
       "ts": "2026-02-14T06:42:11.423Z",
       "time": "06:42:11",
       "type": "position",
@@ -155,30 +179,6 @@
       "time": "06:37:40",
       "type": "position",
       "msg": "BNB -0.17% — Amanhã é outro dia (espero)"
-    },
-    {
-      "ts": "2026-02-14T06:37:10.622Z",
-      "time": "06:37:10",
-      "type": "position",
-      "msg": "BTC -0.26% — Calma que ainda tem o stop loss pra doer mais"
-    },
-    {
-      "ts": "2026-02-14T06:36:12.072Z",
-      "time": "06:36:12",
-      "type": "position",
-      "msg": "XMR +0.06% — O mercado decidiu tirar uma soneca"
-    },
-    {
-      "ts": "2026-02-14T06:36:11.810Z",
-      "time": "06:36:11",
-      "type": "position",
-      "msg": "PAXG +0.15% — Melhor que Netflix isso aqui"
-    },
-    {
-      "ts": "2026-02-14T06:36:11.543Z",
-      "time": "06:36:11",
-      "type": "position",
-      "msg": "HYPE +1.43% — Alguém avisa o mercado que eu tô comprado"
     }
   ]
 }
