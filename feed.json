@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T08:11:45.189Z",
+      "time": "08:11:45",
+      "type": "position",
+      "msg": "PAXG -0.01% — Nem pra cima nem pra baixo. Ansiedade infinita."
+    },
+    {
+      "ts": "2026-02-14T08:11:44.901Z",
+      "time": "08:11:44",
+      "type": "position",
+      "msg": "BCH +0.06% — O mercado tá pensando..."
+    },
+    {
       "ts": "2026-02-14T08:10:44.733Z",
       "time": "08:10:44",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "08:04:13",
       "type": "position",
       "msg": "ETH +0.07% — Esperando Godot, versão crypto"
-    },
-    {
-      "ts": "2026-02-14T08:03:14.561Z",
-      "time": "08:03:14",
-      "type": "position",
-      "msg": "BCH +0.09% — Plot twist a qualquer momento"
-    },
-    {
-      "ts": "2026-02-14T08:02:44.813Z",
-      "time": "08:02:44",
-      "type": "position",
-      "msg": "PAXG +0.01% — Zona de conforto do gráfico"
     }
   ]
 }
