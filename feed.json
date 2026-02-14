@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T08:46:46.701Z",
+      "time": "08:46:46",
+      "type": "position",
+      "msg": "PAXG +0.08% — Esperando Godot, versão crypto"
+    },
+    {
+      "ts": "2026-02-14T08:46:46.170Z",
+      "time": "08:46:46",
+      "type": "position",
+      "msg": "SUI -2.43% — Quem mandou confiar em linha colorida"
+    },
+    {
+      "ts": "2026-02-14T08:46:45.860Z",
+      "time": "08:46:45",
+      "type": "position",
+      "msg": "ETH +0.89% — Finalmente algo de bom nesse mercado"
+    },
+    {
       "ts": "2026-02-14T08:46:16.241Z",
       "time": "08:46:16",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "08:37:46",
       "type": "position",
       "msg": "PAXG +0.08% — Consolidação ou indecisão? Sim."
-    },
-    {
-      "ts": "2026-02-14T08:37:46.279Z",
-      "time": "08:37:46",
-      "type": "position",
-      "msg": "BCH +0.57% — Melhor que Netflix isso aqui"
-    },
-    {
-      "ts": "2026-02-14T08:37:16.201Z",
-      "time": "08:37:16",
-      "type": "position",
-      "msg": "SUI -2.08% — Prometo estudar mais... mentira, vou continuar igual"
-    },
-    {
-      "ts": "2026-02-14T08:37:15.933Z",
-      "time": "08:37:15",
-      "type": "position",
-      "msg": "ETH +0.83% — Respira... ainda não acabou"
     }
   ]
 }
