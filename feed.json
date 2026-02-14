@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T10:55:20.843Z",
+      "time": "10:55:20",
+      "type": "position",
+      "msg": "HYPE -0.06% — O mercado tá buffering"
+    },
+    {
       "ts": "2026-02-14T10:54:51.476Z",
       "time": "10:54:51",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "10:46:20",
       "type": "position",
       "msg": "HYPE -0.19% — Isso é um teste de caráter, com certeza"
-    },
-    {
-      "ts": "2026-02-14T10:46:20.228Z",
-      "time": "10:46:20",
-      "type": "position",
-      "msg": "XRP -0.46% — Meu eu do passado tomou essa decisão, problema dele"
     }
   ]
 }
