@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T06:51:42.069Z",
+      "time": "06:51:42",
+      "type": "position",
+      "msg": "PAXG -0.00% — Tô aqui, olhando, esperando, sofrendo"
+    },
+    {
+      "ts": "2026-02-14T06:51:41.809Z",
+      "time": "06:51:41",
+      "type": "position",
+      "msg": "TAO +0.93% — Calma que ainda pode dar errado"
+    },
+    {
+      "ts": "2026-02-14T06:51:41.542Z",
+      "time": "06:51:41",
+      "type": "position",
+      "msg": "BCH -0.13% — Vermelho é a minha cor favorita agora"
+    },
+    {
       "ts": "2026-02-14T06:50:41.822Z",
       "time": "06:50:41",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "06:47:27",
       "type": "result",
       "msg": "🏁 Trade completo: LONG TAO @ $190.29 | RR 2:1"
-    },
-    {
-      "ts": "2026-02-14T06:47:27.456Z",
-      "time": "06:47:27",
-      "type": "execution",
-      "msg": "🎯 Take Profit: $194.07"
-    },
-    {
-      "ts": "2026-02-14T06:47:25.787Z",
-      "time": "06:47:25",
-      "type": "execution",
-      "msg": "🛡️ Stop Loss: $188.36"
-    },
-    {
-      "ts": "2026-02-14T06:47:23.894Z",
-      "time": "06:47:23",
-      "type": "execution",
-      "msg": "✅ Filled: 0.081000 TAO @ $190.29"
     }
   ]
 }
