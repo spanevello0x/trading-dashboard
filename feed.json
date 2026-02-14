@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T06:08:40.404Z",
+      "time": "06:08:40",
+      "type": "position",
+      "msg": "BCH +0.43% — O mercado tá generoso hoje, desconfio"
+    },
+    {
+      "ts": "2026-02-14T06:08:40.127Z",
+      "time": "06:08:40",
+      "type": "position",
+      "msg": "BNB +0.10% — Será que alguém sabe algo que eu não sei? Sempre sabem."
+    },
+    {
+      "ts": "2026-02-14T06:08:39.847Z",
+      "time": "06:08:39",
+      "type": "position",
+      "msg": "BTC -0.49% — Mercado fazendo mercadisse"
+    },
+    {
       "ts": "2026-02-14T06:07:41.323Z",
       "time": "06:07:41",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "06:02:39",
       "type": "position",
       "msg": "BTC -0.43% — Ah sim, o famoso 'compra no topo'"
-    },
-    {
-      "ts": "2026-02-14T06:02:10.994Z",
-      "time": "06:02:10",
-      "type": "position",
-      "msg": "XMR +0.44% — Calma que ainda pode dar errado"
-    },
-    {
-      "ts": "2026-02-14T06:01:40.358Z",
-      "time": "06:01:40",
-      "type": "position",
-      "msg": "PAXG +0.09% — Plot twist a qualquer momento"
-    },
-    {
-      "ts": "2026-02-14T06:01:40.091Z",
-      "time": "06:01:40",
-      "type": "position",
-      "msg": "HYPE +1.48% — Será que é armadilha? Provavelmente. Mas vou curtir enquanto dura"
     }
   ]
 }
