@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T11:26:52.685Z",
+      "time": "11:26:52",
+      "type": "position",
+      "msg": "ZEC -0.52% — Quem precisa de dinheiro mesmo"
+    },
+    {
+      "ts": "2026-02-14T11:26:52.420Z",
+      "time": "11:26:52",
+      "type": "position",
+      "msg": "PAXG +0.00% — A calmaria antes da tempestade... ou mais calmaria"
+    },
+    {
       "ts": "2026-02-14T11:26:22.057Z",
       "time": "11:26:22",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "11:18:22",
       "type": "position",
       "msg": "ZEC -0.08% — O mercado tá no modo avião"
-    },
-    {
-      "ts": "2026-02-14T11:18:21.804Z",
-      "time": "11:18:21",
-      "type": "position",
-      "msg": "HYPE +0.51% — Obrigado universo, tava precisando"
-    },
-    {
-      "ts": "2026-02-14T11:18:21.539Z",
-      "time": "11:18:21",
-      "type": "position",
-      "msg": "XRP +0.36% — Meu psicólogo vai ficar orgulhoso"
     }
   ]
 }
