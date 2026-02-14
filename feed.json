@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T07:31:12.979Z",
+      "time": "07:31:12",
+      "type": "position",
+      "msg": "BCH -0.37% — Vermelho é a minha cor favorita agora"
+    },
+    {
+      "ts": "2026-02-14T07:31:12.692Z",
+      "time": "07:31:12",
+      "type": "position",
+      "msg": "SUI -0.55% — O stop tá ali por um motivo, né"
+    },
+    {
       "ts": "2026-02-14T07:30:44.278Z",
       "time": "07:30:44",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "07:22:42",
       "type": "position",
       "msg": "AAVE +0.18% — Finalmente algo de bom nesse mercado"
-    },
-    {
-      "ts": "2026-02-14T07:22:12.520Z",
-      "time": "07:22:12",
-      "type": "position",
-      "msg": "BCH -0.42% — Pelo menos o stop existe. Graças a Deus pelo stop."
-    },
-    {
-      "ts": "2026-02-14T07:22:12.257Z",
-      "time": "07:22:12",
-      "type": "position",
-      "msg": "SUI -0.35% — Meu eu do passado tomou essa decisão, problema dele"
     }
   ]
 }
