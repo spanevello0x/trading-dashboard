@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T14:27:28.953Z",
+      "time": "14:27:28",
+      "type": "position",
+      "msg": "SOL -0.32% — Tá difícil defender essa entrada"
+    },
+    {
+      "ts": "2026-02-14T14:27:28.685Z",
+      "time": "14:27:28",
+      "type": "position",
+      "msg": "ETH +0.21% — Verde combina comigo"
+    },
+    {
       "ts": "2026-02-14T14:26:59.208Z",
       "time": "14:26:59",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "14:16:28",
       "type": "position",
       "msg": "SOL -0.67% — Amanhã é outro dia (espero)"
-    },
-    {
-      "ts": "2026-02-14T14:16:28.404Z",
-      "time": "14:16:28",
-      "type": "position",
-      "msg": "ETH -0.05% — Lateral é o novo tendência"
-    },
-    {
-      "ts": "2026-02-14T14:15:58.937Z",
-      "time": "14:15:58",
-      "type": "position",
-      "msg": "HYPE +0.78% — Obrigado universo, tava precisando"
     }
   ]
 }
