@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T14:01:58.357Z",
+      "time": "14:01:58",
+      "type": "position",
+      "msg": "HYPE +0.94% — O mercado tá generoso hoje, desconfio"
+    },
+    {
       "ts": "2026-02-14T14:01:27.691Z",
       "time": "14:01:27",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "13:50:57",
       "type": "position",
       "msg": "ETH -0.02% — Plot twist a qualquer momento"
-    },
-    {
-      "ts": "2026-02-14T13:49:57.830Z",
-      "time": "13:49:57",
-      "type": "position",
-      "msg": "HYPE +0.77% — Não me acostumem com isso"
     }
   ]
 }
