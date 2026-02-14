@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T11:52:23.811Z",
+      "time": "11:52:23",
+      "type": "position",
+      "msg": "PAXG -0.02% — O mercado tá buffering"
+    },
+    {
+      "ts": "2026-02-14T11:52:23.545Z",
+      "time": "11:52:23",
+      "type": "position",
+      "msg": "HYPE +0.40% — Será que alguém sabe algo que eu não sei? Sempre sabem."
+    },
+    {
+      "ts": "2026-02-14T11:52:22.775Z",
+      "time": "11:52:22",
+      "type": "position",
+      "msg": "ETH +0.13% — O mercado tá generoso hoje, desconfio"
+    },
+    {
       "ts": "2026-02-14T11:51:23.507Z",
       "time": "11:51:23",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "11:47:10",
       "type": "system",
       "msg": "⚠️ Limite atingido (5/5) - TAO cancelado"
-    },
-    {
-      "ts": "2026-02-14T11:47:10.032Z",
-      "time": "11:47:10",
-      "type": "signal",
-      "msg": "🎯 SHORT TAO @ $193.53 (89%) — Dessa vez vai (eu acho)"
-    },
-    {
-      "ts": "2026-02-14T11:47:10.031Z",
-      "time": "11:47:10",
-      "type": "analysis",
-      "msg": "Hmm, TAO mostrando sinais de SHORT (89%)"
-    },
-    {
-      "ts": "2026-02-14T11:47:09.754Z",
-      "time": "11:47:09",
-      "type": "analysis",
-      "msg": "Hmm, OM mostrando sinais de SHORT (67%)"
     }
   ]
 }
