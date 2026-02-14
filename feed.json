@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T08:43:46.306Z",
+      "time": "08:43:46",
+      "type": "position",
+      "msg": "PAXG +0.09% — Pelo menos não tá caindo... ainda"
+    },
+    {
+      "ts": "2026-02-14T08:43:46.046Z",
+      "time": "08:43:46",
+      "type": "position",
+      "msg": "BCH +0.56% — Não sou eu, é o mercado que tá errado... ah não, dessa vez acertou"
+    },
+    {
       "ts": "2026-02-14T08:43:15.741Z",
       "time": "08:43:15",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "08:35:15",
       "type": "position",
       "msg": "ETH +0.70% — Tá verde? Tira print rápido antes que vire"
-    },
-    {
-      "ts": "2026-02-14T08:34:45.884Z",
-      "time": "08:34:45",
-      "type": "position",
-      "msg": "PAXG +0.08% — O mercado decidiu tirar uma soneca"
-    },
-    {
-      "ts": "2026-02-14T08:34:15.695Z",
-      "time": "08:34:15",
-      "type": "position",
-      "msg": "BCH +0.46% — Não sou eu, é o mercado que tá errado... ah não, dessa vez acertou"
     }
   ]
 }
