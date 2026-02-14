@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T12:47:55.272Z",
+      "time": "12:47:55",
+      "type": "position",
+      "msg": "PAXG -0.06% — A calmaria antes da tempestade... ou mais calmaria"
+    },
+    {
       "ts": "2026-02-14T12:47:25.891Z",
       "time": "12:47:25",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "12:40:11",
       "type": "analysis",
       "msg": "AVAX no radar: 56% SHORT"
-    },
-    {
-      "ts": "2026-02-14T12:40:10.733Z",
-      "time": "12:40:10",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - VIRTUAL cancelado"
     }
   ]
 }
