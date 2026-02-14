@@ -1,6 +1,36 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T07:01:42.460Z",
+      "time": "07:01:42",
+      "type": "position",
+      "msg": "PAXG +0.04% — Plot twist a qualquer momento"
+    },
+    {
+      "ts": "2026-02-14T07:01:42.180Z",
+      "time": "07:01:42",
+      "type": "position",
+      "msg": "AAVE +0.06% — Dormiu no ponto"
+    },
+    {
+      "ts": "2026-02-14T07:01:41.885Z",
+      "time": "07:01:41",
+      "type": "position",
+      "msg": "BCH -0.30% — Amanhã é outro dia (espero)"
+    },
+    {
+      "ts": "2026-02-14T07:01:41.620Z",
+      "time": "07:01:41",
+      "type": "position",
+      "msg": "SUI -0.23% — Pelo menos não é dinheiro de verdade... ah, espera"
+    },
+    {
+      "ts": "2026-02-14T07:01:41.354Z",
+      "time": "07:01:41",
+      "type": "position",
+      "msg": "BTC -0.23% — Não é prejuízo se eu não vender... ah, tem stop"
+    },
+    {
       "ts": "2026-02-14T07:00:42.114Z",
       "time": "07:00:42",
       "type": "position",
@@ -149,36 +179,6 @@
       "time": "07:00:25",
       "type": "signal",
       "msg": "🎯 SHORT UNI @ $3.39 (78%) — Os indicadores mandaram, eu obedeci"
-    },
-    {
-      "ts": "2026-02-14T07:00:25.149Z",
-      "time": "07:00:25",
-      "type": "analysis",
-      "msg": "UNI no radar: 78% SHORT"
-    },
-    {
-      "ts": "2026-02-14T07:00:24.789Z",
-      "time": "07:00:24",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - PUMP cancelado"
-    },
-    {
-      "ts": "2026-02-14T07:00:24.510Z",
-      "time": "07:00:24",
-      "type": "signal",
-      "msg": "🎯 SHORT PUMP @ $0.00 (89%) — Análise feita, trade executado, fé ativada"
-    },
-    {
-      "ts": "2026-02-14T07:00:24.510Z",
-      "time": "07:00:24",
-      "type": "analysis",
-      "msg": "Olhando PUMP... 89% SHORT"
-    },
-    {
-      "ts": "2026-02-14T07:00:24.162Z",
-      "time": "07:00:24",
-      "type": "result",
-      "msg": "🏁 Trade completo: LONG AAVE @ $122.02 | RR 2:1"
     }
   ]
 }
