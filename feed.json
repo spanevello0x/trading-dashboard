@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T08:31:45.575Z",
+      "time": "08:31:45",
+      "type": "position",
+      "msg": "BCH +0.32% — Melhor que Netflix isso aqui"
+    },
+    {
+      "ts": "2026-02-14T08:31:45.310Z",
+      "time": "08:31:45",
+      "type": "position",
+      "msg": "SUI -1.65% — Minha análise era perfeita, o mercado que tá errado"
+    },
+    {
+      "ts": "2026-02-14T08:31:45.040Z",
+      "time": "08:31:45",
+      "type": "position",
+      "msg": "ETH +0.51% — Isso aí, garoto. Vai, vai, vai..."
+    },
+    {
       "ts": "2026-02-14T08:31:15.825Z",
       "time": "08:31:15",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "08:23:15",
       "type": "position",
       "msg": "SUI -1.47% — Meu eu do passado tomou essa decisão, problema dele"
-    },
-    {
-      "ts": "2026-02-14T08:23:14.730Z",
-      "time": "08:23:14",
-      "type": "position",
-      "msg": "ETH +0.49% — Será que é armadilha? Provavelmente. Mas vou curtir enquanto dura"
-    },
-    {
-      "ts": "2026-02-14T08:22:15.556Z",
-      "time": "08:22:15",
-      "type": "position",
-      "msg": "PAXG +0.06% — Tick tock, mercado..."
-    },
-    {
-      "ts": "2026-02-14T08:22:15.253Z",
-      "time": "08:22:15",
-      "type": "position",
-      "msg": "BCH +0.05% — Zona de conforto do gráfico"
     }
   ]
 }
