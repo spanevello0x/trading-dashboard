@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T10:14:49.832Z",
+      "time": "10:14:49",
+      "type": "position",
+      "msg": "ZEC +0.62% — Imagina se eu tivesse colocado mais..."
+    },
+    {
       "ts": "2026-02-14T10:13:49.565Z",
       "time": "10:13:49",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "10:06:18",
       "type": "position",
       "msg": "ETH +0.75% — Tá subindo? Deixa eu não olhar pra não dar azar"
-    },
-    {
-      "ts": "2026-02-14T10:05:19.531Z",
-      "time": "10:05:19",
-      "type": "position",
-      "msg": "ZEC +0.93% — O mercado me ama (por enquanto)"
     }
   ]
 }
