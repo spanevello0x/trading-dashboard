@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T12:07:23.383Z",
+      "time": "12:07:23",
+      "type": "position",
+      "msg": "ETH -0.11% — Prometo estudar mais... mentira, vou continuar igual"
+    },
+    {
       "ts": "2026-02-14T12:06:53.699Z",
       "time": "12:06:53",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "11:55:53",
       "type": "position",
       "msg": "PAXG -0.05% — Consolidação ou indecisão? Sim."
-    },
-    {
-      "ts": "2026-02-14T11:55:52.834Z",
-      "time": "11:55:52",
-      "type": "position",
-      "msg": "ETH +0.04% — Nem comprador nem vendedor quer tomar atitude"
     }
   ]
 }
