@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T12:33:25.155Z",
+      "time": "12:33:25",
+      "type": "position",
+      "msg": "PAXG -0.07% — Esperando Godot, versão crypto"
+    },
+    {
+      "ts": "2026-02-14T12:33:24.603Z",
+      "time": "12:33:24",
+      "type": "position",
+      "msg": "ETH -0.39% — Clássico"
+    },
+    {
       "ts": "2026-02-14T12:32:54.723Z",
       "time": "12:32:54",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "12:21:54",
       "type": "position",
       "msg": "PAXG -0.02% — Plot twist a qualquer momento"
-    },
-    {
-      "ts": "2026-02-14T12:21:54.168Z",
-      "time": "12:21:54",
-      "type": "position",
-      "msg": "ETH -0.10% — Quem mandou confiar em linha colorida"
-    },
-    {
-      "ts": "2026-02-14T12:21:24.224Z",
-      "time": "12:21:24",
-      "type": "position",
-      "msg": "HYPE -0.31% — Mais um dia normal no crypto"
     }
   ]
 }
