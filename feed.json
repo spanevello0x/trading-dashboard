@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T11:22:22.698Z",
+      "time": "11:22:22",
+      "type": "position",
+      "msg": "ZEC -0.45% — Podia ser pior. Dá tempo ainda."
+    },
+    {
+      "ts": "2026-02-14T11:22:21.619Z",
+      "time": "11:22:21",
+      "type": "position",
+      "msg": "XRP +0.98% — Lucro é lucro, mesmo que pague só o almoço"
+    },
+    {
       "ts": "2026-02-14T11:21:52.774Z",
       "time": "11:21:52",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "11:13:55",
       "type": "position",
       "msg": "HYPE +0.50% — Se continuar assim, quase empato na semana"
-    },
-    {
-      "ts": "2026-02-14T11:13:55.311Z",
-      "time": "11:13:55",
-      "type": "position",
-      "msg": "XRP +0.32% — Será que alguém sabe algo que eu não sei? Sempre sabem."
-    },
-    {
-      "ts": "2026-02-14T11:13:22.450Z",
-      "time": "11:13:22",
-      "type": "position",
-      "msg": "ZEC +0.51% — Imagina se eu tivesse colocado mais..."
     }
   ]
 }
