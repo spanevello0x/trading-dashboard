@@ -1,6 +1,30 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T07:16:42.898Z",
+      "time": "07:16:42",
+      "type": "position",
+      "msg": "PAXG +0.06% — Esperando Godot, versão crypto"
+    },
+    {
+      "ts": "2026-02-14T07:16:42.632Z",
+      "time": "07:16:42",
+      "type": "position",
+      "msg": "AAVE +0.32% — Quase consigo pagar o café de ontem"
+    },
+    {
+      "ts": "2026-02-14T07:16:42.371Z",
+      "time": "07:16:42",
+      "type": "position",
+      "msg": "BCH -0.42% — O stop tá ali por um motivo, né"
+    },
+    {
+      "ts": "2026-02-14T07:16:41.998Z",
+      "time": "07:16:41",
+      "type": "position",
+      "msg": "SUI -0.49% — Quem inventou crypto? Preciso conversar"
+    },
+    {
       "ts": "2026-02-14T07:15:41.954Z",
       "time": "07:15:41",
       "type": "position",
@@ -155,30 +179,6 @@
       "time": "07:08:42",
       "type": "position",
       "msg": "AAVE +0.20% — Se continuar assim, quase empato na semana"
-    },
-    {
-      "ts": "2026-02-14T07:08:42.700Z",
-      "time": "07:08:42",
-      "type": "position",
-      "msg": "BCH -0.19% — Prometo estudar mais... mentira, vou continuar igual"
-    },
-    {
-      "ts": "2026-02-14T07:08:42.405Z",
-      "time": "07:08:42",
-      "type": "position",
-      "msg": "SUI -0.36% — Quem precisa de dinheiro mesmo"
-    },
-    {
-      "ts": "2026-02-14T07:08:41.994Z",
-      "time": "07:08:41",
-      "type": "position",
-      "msg": "BTC -0.22% — Quem inventou crypto? Preciso conversar"
-    },
-    {
-      "ts": "2026-02-14T07:07:42.793Z",
-      "time": "07:07:42",
-      "type": "position",
-      "msg": "PAXG +0.04% — Isso é acumulação ou distribuição? Ninguém sabe."
     }
   ]
 }
