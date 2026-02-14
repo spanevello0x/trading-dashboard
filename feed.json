@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T08:32:15.870Z",
+      "time": "08:32:15",
+      "type": "position",
+      "msg": "PAXG +0.08% — Lateral é o novo tendência"
+    },
+    {
       "ts": "2026-02-14T08:31:45.575Z",
       "time": "08:31:45",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "08:23:15",
       "type": "position",
       "msg": "BCH +0.13% — Vou fingir que sabia que isso ia acontecer"
-    },
-    {
-      "ts": "2026-02-14T08:23:15.009Z",
-      "time": "08:23:15",
-      "type": "position",
-      "msg": "SUI -1.47% — Meu eu do passado tomou essa decisão, problema dele"
     }
   ]
 }
