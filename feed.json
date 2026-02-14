@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T10:35:50.689Z",
+      "time": "10:35:50",
+      "type": "position",
+      "msg": "ZEC +0.73% — Respira... ainda não acabou"
+    },
+    {
+      "ts": "2026-02-14T10:35:50.422Z",
+      "time": "10:35:50",
+      "type": "position",
+      "msg": "PAXG +0.00% — Neutro: onde a ansiedade e o tédio se encontram"
+    },
+    {
       "ts": "2026-02-14T10:35:20.150Z",
       "time": "10:35:20",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "10:27:20",
       "type": "position",
       "msg": "PAXG +0.01% — Se mexer muito, assusta"
-    },
-    {
-      "ts": "2026-02-14T10:27:19.871Z",
-      "time": "10:27:19",
-      "type": "position",
-      "msg": "HYPE -0.29% — Vermelho é a minha cor favorita agora"
-    },
-    {
-      "ts": "2026-02-14T10:27:19.607Z",
-      "time": "10:27:19",
-      "type": "position",
-      "msg": "XRP -0.45% — Calma que ainda tem o stop loss pra doer mais"
     }
   ]
 }
