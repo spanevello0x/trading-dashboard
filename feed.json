@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T15:34:32.492Z",
+      "time": "15:34:32",
+      "type": "position",
+      "msg": "PAXG -0.01% — Pelo menos não tá caindo... ainda"
+    },
+    {
       "ts": "2026-02-14T15:34:02.350Z",
       "time": "15:34:02",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "15:25:21",
       "type": "signal",
       "msg": "🎯 LONG LINK @ $9.04 (100%) — Vamo ver no que dá"
-    },
-    {
-      "ts": "2026-02-14T15:25:20.512Z",
-      "time": "15:25:20",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - kPEPE cancelado"
     }
   ]
 }
