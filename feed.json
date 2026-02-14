@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T08:29:45.872Z",
+      "time": "08:29:45",
+      "type": "position",
+      "msg": "PAXG +0.06% — Vai, faz alguma coisa"
+    },
+    {
       "ts": "2026-02-14T08:29:15.463Z",
       "time": "08:29:15",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "08:20:45",
       "type": "position",
       "msg": "BCH +0.08% — Nem fede nem cheira"
-    },
-    {
-      "ts": "2026-02-14T08:20:45.010Z",
-      "time": "08:20:45",
-      "type": "position",
-      "msg": "SUI -1.45% — Quem precisa de dinheiro mesmo"
     }
   ]
 }
