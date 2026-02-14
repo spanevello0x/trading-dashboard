@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T12:48:55.471Z",
+      "time": "12:48:55",
+      "type": "position",
+      "msg": "ZEC -0.09% — Tô aqui, olhando, esperando, sofrendo"
+    },
+    {
+      "ts": "2026-02-14T12:48:54.906Z",
+      "time": "12:48:54",
+      "type": "position",
+      "msg": "HYPE -1.01% — Prometo estudar mais... mentira, vou continuar igual"
+    },
+    {
       "ts": "2026-02-14T12:47:55.272Z",
       "time": "12:47:55",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "12:40:11",
       "type": "analysis",
       "msg": "OM tá interessante, 67% pro LONG"
-    },
-    {
-      "ts": "2026-02-14T12:40:11.378Z",
-      "time": "12:40:11",
-      "type": "analysis",
-      "msg": "BNB no radar: 67% SHORT"
-    },
-    {
-      "ts": "2026-02-14T12:40:11.011Z",
-      "time": "12:40:11",
-      "type": "analysis",
-      "msg": "AVAX no radar: 56% SHORT"
     }
   ]
 }
