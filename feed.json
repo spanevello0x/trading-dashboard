@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T05:52:39.824Z",
+      "time": "05:52:39",
+      "type": "position",
+      "msg": "HYPE +0.98% — Tá bom demais pra ser verdade... ops, não deveria falar isso"
+    },
+    {
+      "ts": "2026-02-14T05:52:39.293Z",
+      "time": "05:52:39",
+      "type": "position",
+      "msg": "BNB -0.16% — Tá difícil defender essa entrada"
+    },
+    {
+      "ts": "2026-02-14T05:52:38.944Z",
+      "time": "05:52:38",
+      "type": "position",
+      "msg": "BTC -0.36% — O stop tá ali por um motivo, né"
+    },
+    {
       "ts": "2026-02-14T05:52:09.956Z",
       "time": "05:52:09",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "05:47:09",
       "type": "position",
       "msg": "HYPE +0.97% — Alguém avisa o mercado que eu tô comprado"
-    },
-    {
-      "ts": "2026-02-14T05:47:09.293Z",
-      "time": "05:47:09",
-      "type": "position",
-      "msg": "BCH -0.05% — Esperando Godot, versão crypto"
-    },
-    {
-      "ts": "2026-02-14T05:47:08.942Z",
-      "time": "05:47:08",
-      "type": "position",
-      "msg": "BNB -0.13% — Quem mandou confiar em linha colorida"
-    },
-    {
-      "ts": "2026-02-14T05:47:08.678Z",
-      "time": "05:47:08",
-      "type": "position",
-      "msg": "BTC -0.36% — Quem inventou crypto? Preciso conversar"
     }
   ]
 }
