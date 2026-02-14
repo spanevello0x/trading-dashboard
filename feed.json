@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T13:13:56.335Z",
+      "time": "13:13:56",
+      "type": "position",
+      "msg": "HYPE +0.14% — O mercado me ama (por enquanto)"
+    },
+    {
+      "ts": "2026-02-14T13:13:56.069Z",
+      "time": "13:13:56",
+      "type": "position",
+      "msg": "SOL -0.59% — Quem inventou crypto? Preciso conversar"
+    },
+    {
       "ts": "2026-02-14T13:13:25.888Z",
       "time": "13:13:25",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "13:03:48",
       "type": "analysis",
       "msg": "Hmm, JUP mostrando sinais de SHORT (56%)"
-    },
-    {
-      "ts": "2026-02-14T13:03:48.674Z",
-      "time": "13:03:48",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - LINK cancelado"
-    },
-    {
-      "ts": "2026-02-14T13:03:48.401Z",
-      "time": "13:03:48",
-      "type": "signal",
-      "msg": "🎯 SHORT LINK @ $8.93 (78%) — Dessa vez vai (eu acho)"
     }
   ]
 }
