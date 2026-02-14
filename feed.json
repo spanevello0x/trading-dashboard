@@ -1,6 +1,36 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T05:48:10.122Z",
+      "time": "05:48:10",
+      "type": "position",
+      "msg": "XMR +0.26% — Será que é armadilha? Provavelmente. Mas vou curtir enquanto dura"
+    },
+    {
+      "ts": "2026-02-14T05:48:09.854Z",
+      "time": "05:48:09",
+      "type": "position",
+      "msg": "PAXG +0.09% — O gráfico tá meditando"
+    },
+    {
+      "ts": "2026-02-14T05:48:09.590Z",
+      "time": "05:48:09",
+      "type": "position",
+      "msg": "HYPE +1.00% — Se continuar assim, quase empato na semana"
+    },
+    {
+      "ts": "2026-02-14T05:48:09.006Z",
+      "time": "05:48:09",
+      "type": "position",
+      "msg": "BNB -0.14% — Respira... é só número na tela"
+    },
+    {
+      "ts": "2026-02-14T05:48:08.735Z",
+      "time": "05:48:08",
+      "type": "position",
+      "msg": "BTC -0.37% — Clássico"
+    },
+    {
       "ts": "2026-02-14T05:47:10.081Z",
       "time": "05:47:10",
       "type": "position",
@@ -149,36 +179,6 @@
       "time": "05:42:09",
       "type": "position",
       "msg": "PAXG +0.09% — Nem fede nem cheira"
-    },
-    {
-      "ts": "2026-02-14T05:42:09.588Z",
-      "time": "05:42:09",
-      "type": "position",
-      "msg": "HYPE +0.78% — Quase consigo pagar o café de ontem"
-    },
-    {
-      "ts": "2026-02-14T05:42:09.324Z",
-      "time": "05:42:09",
-      "type": "position",
-      "msg": "BCH -0.10% — Enquanto não move, não perco. Stonks mental."
-    },
-    {
-      "ts": "2026-02-14T05:42:08.785Z",
-      "time": "05:42:08",
-      "type": "position",
-      "msg": "BNB -0.12% — Vou culpar a lua, deve ser lua cheia"
-    },
-    {
-      "ts": "2026-02-14T05:42:08.511Z",
-      "time": "05:42:08",
-      "type": "position",
-      "msg": "BTC -0.39% — Quem mandou confiar em linha colorida"
-    },
-    {
-      "ts": "2026-02-14T05:41:40.685Z",
-      "time": "05:41:40",
-      "type": "position",
-      "msg": "XMR +0.18% — Melhor que Netflix isso aqui"
     }
   ]
 }
