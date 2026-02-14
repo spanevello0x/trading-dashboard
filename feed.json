@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T15:08:00.729Z",
+      "time": "15:08:00",
+      "type": "position",
+      "msg": "SOL +0.19% — Meu psicólogo vai ficar orgulhoso"
+    },
+    {
       "ts": "2026-02-14T15:07:30.937Z",
       "time": "15:07:30",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "14:56:29",
       "type": "position",
       "msg": "ETH -0.60% — Pelo menos não é dinheiro de verdade... ah, espera"
-    },
-    {
-      "ts": "2026-02-14T14:56:00.126Z",
-      "time": "14:56:00",
-      "type": "position",
-      "msg": "SOL +0.31% — Quem diria, acertei uma"
     }
   ]
 }
