@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T06:03:10.620Z",
+      "time": "06:03:10",
+      "type": "position",
+      "msg": "PAXG +0.09% — O mercado tá no modo avião"
+    },
+    {
+      "ts": "2026-02-14T06:03:10.353Z",
+      "time": "06:03:10",
+      "type": "position",
+      "msg": "HYPE +1.47% — Se continuar assim, quase empato na semana"
+    },
+    {
       "ts": "2026-02-14T06:02:39.803Z",
       "time": "06:02:39",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "05:57:40",
       "type": "position",
       "msg": "BCH +0.47% — Não sou eu, é o mercado que tá errado... ah não, dessa vez acertou"
-    },
-    {
-      "ts": "2026-02-14T05:57:09.597Z",
-      "time": "05:57:09",
-      "type": "position",
-      "msg": "BNB -0.00% — O mercado foi tomar café, já volta"
-    },
-    {
-      "ts": "2026-02-14T05:57:09.329Z",
-      "time": "05:57:09",
-      "type": "position",
-      "msg": "BTC -0.43% — O mercado escolheu violência hoje"
     }
   ]
 }
