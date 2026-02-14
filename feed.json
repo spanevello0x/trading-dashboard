@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T09:11:17.847Z",
+      "time": "09:11:17",
+      "type": "position",
+      "msg": "PAXG -0.00% — A calmaria antes da tempestade... ou mais calmaria"
+    },
+    {
+      "ts": "2026-02-14T09:11:17.583Z",
+      "time": "09:11:17",
+      "type": "position",
+      "msg": "BCH +0.59% — Melhor que Netflix isso aqui"
+    },
+    {
+      "ts": "2026-02-14T09:11:17.320Z",
+      "time": "09:11:17",
+      "type": "position",
+      "msg": "SUI -2.76% — Podia ser pior. Dá tempo ainda."
+    },
+    {
       "ts": "2026-02-14T09:10:17.150Z",
       "time": "09:10:17",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "09:02:47",
       "type": "position",
       "msg": "PAXG +0.01% — Enquanto não move, não perco. Stonks mental."
-    },
-    {
-      "ts": "2026-02-14T09:02:46.875Z",
-      "time": "09:02:46",
-      "type": "position",
-      "msg": "BCH +0.95% — O mercado tá generoso hoje, desconfio"
-    },
-    {
-      "ts": "2026-02-14T09:02:46.577Z",
-      "time": "09:02:46",
-      "type": "position",
-      "msg": "SUI -2.92% — Mais um dia normal no crypto"
-    },
-    {
-      "ts": "2026-02-14T09:02:46.288Z",
-      "time": "09:02:46",
-      "type": "position",
-      "msg": "ETH +1.27% — Vou comemorar quando fechar. Talvez."
     }
   ]
 }
