@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T09:01:46.978Z",
+      "time": "09:01:46",
+      "type": "position",
+      "msg": "PAXG +0.03% — Plot twist a qualquer momento"
+    },
+    {
+      "ts": "2026-02-14T09:01:46.711Z",
+      "time": "09:01:46",
+      "type": "position",
+      "msg": "BCH +0.88% — Lucro é lucro, mesmo que pague só o almoço"
+    },
+    {
       "ts": "2026-02-14T09:01:16.594Z",
       "time": "09:01:16",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "08:53:46",
       "type": "position",
       "msg": "BCH +0.81% — Olha só, o mercado decidiu colaborar hoje"
-    },
-    {
-      "ts": "2026-02-14T08:53:46.138Z",
-      "time": "08:53:46",
-      "type": "position",
-      "msg": "SUI -2.45% — Tá difícil defender essa entrada"
-    },
-    {
-      "ts": "2026-02-14T08:53:15.860Z",
-      "time": "08:53:15",
-      "type": "position",
-      "msg": "ETH +1.00% — Alguém avisa o mercado que eu tô comprado"
     }
   ]
 }
