@@ -1,6 +1,30 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T07:56:44.479Z",
+      "time": "07:56:44",
+      "type": "position",
+      "msg": "PAXG -0.01% — Consolidação ou indecisão? Sim."
+    },
+    {
+      "ts": "2026-02-14T07:56:44.211Z",
+      "time": "07:56:44",
+      "type": "position",
+      "msg": "BCH -0.15% — O stop tá ali por um motivo, né"
+    },
+    {
+      "ts": "2026-02-14T07:56:43.947Z",
+      "time": "07:56:43",
+      "type": "position",
+      "msg": "SUI -0.89% — Clássico"
+    },
+    {
+      "ts": "2026-02-14T07:56:43.685Z",
+      "time": "07:56:43",
+      "type": "position",
+      "msg": "ETH -0.18% — Pelo menos o stop existe. Graças a Deus pelo stop."
+    },
+    {
       "ts": "2026-02-14T07:55:43.938Z",
       "time": "07:55:43",
       "type": "position",
@@ -155,30 +179,6 @@
       "time": "07:53:30",
       "type": "system",
       "msg": "⚠️ Limite atingido (5/5) - BNB cancelado"
-    },
-    {
-      "ts": "2026-02-14T07:53:30.403Z",
-      "time": "07:53:30",
-      "type": "signal",
-      "msg": "🎯 LONG BNB @ $621.57 (89%) — Essa eu senti"
-    },
-    {
-      "ts": "2026-02-14T07:53:30.403Z",
-      "time": "07:53:30",
-      "type": "analysis",
-      "msg": "Olhando BNB... 89% LONG"
-    },
-    {
-      "ts": "2026-02-14T07:53:30.126Z",
-      "time": "07:53:30",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - AVAX cancelado"
-    },
-    {
-      "ts": "2026-02-14T07:53:29.853Z",
-      "time": "07:53:29",
-      "type": "signal",
-      "msg": "🎯 LONG AVAX @ $9.20 (100%) — Os indicadores mandaram, eu obedeci"
     }
   ]
 }
