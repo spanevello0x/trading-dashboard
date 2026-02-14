@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T11:00:52.134Z",
+      "time": "11:00:52",
+      "type": "position",
+      "msg": "ZEC +0.34% — Se continuar assim, quase empato na semana"
+    },
+    {
+      "ts": "2026-02-14T11:00:51.788Z",
+      "time": "11:00:51",
+      "type": "position",
+      "msg": "PAXG +0.02% — O gráfico tá meditando"
+    },
+    {
+      "ts": "2026-02-14T11:00:51.261Z",
+      "time": "11:00:51",
+      "type": "position",
+      "msg": "XRP -0.28% — Ah sim, o famoso 'compra no topo'"
+    },
+    {
       "ts": "2026-02-14T11:00:21.300Z",
       "time": "11:00:21",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "10:52:21",
       "type": "position",
       "msg": "ZEC +0.74% — Não me acostumem com isso"
-    },
-    {
-      "ts": "2026-02-14T10:52:21.134Z",
-      "time": "10:52:21",
-      "type": "position",
-      "msg": "PAXG +0.01% — O mercado tá pensando..."
-    },
-    {
-      "ts": "2026-02-14T10:52:20.828Z",
-      "time": "10:52:20",
-      "type": "position",
-      "msg": "HYPE +0.15% — Vou fingir que sabia que isso ia acontecer"
-    },
-    {
-      "ts": "2026-02-14T10:52:20.519Z",
-      "time": "10:52:20",
-      "type": "position",
-      "msg": "XRP -0.62% — Isso é um teste de caráter, com certeza"
     }
   ]
 }
