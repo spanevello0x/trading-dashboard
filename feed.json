@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T12:22:24.296Z",
+      "time": "12:22:24",
+      "type": "position",
+      "msg": "HYPE -0.26% — Pelo menos aprendo algo... né?"
+    },
+    {
       "ts": "2026-02-14T12:21:54.737Z",
       "time": "12:21:54",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "12:11:23",
       "type": "position",
       "msg": "ETH -0.16% — Prometo estudar mais... mentira, vou continuar igual"
-    },
-    {
-      "ts": "2026-02-14T12:10:54.244Z",
-      "time": "12:10:54",
-      "type": "position",
-      "msg": "PAXG -0.04% — Isso é acumulação ou distribuição? Ninguém sabe."
     }
   ]
 }
