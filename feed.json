@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T09:23:17.619Z",
+      "time": "09:23:17",
+      "type": "position",
+      "msg": "HYPE -0.04% — Nem comprador nem vendedor quer tomar atitude"
+    },
+    {
       "ts": "2026-02-14T09:22:47.798Z",
       "time": "09:22:47",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "09:16:48",
       "type": "analysis",
       "msg": "Olhando XMR... 56% SHORT"
-    },
-    {
-      "ts": "2026-02-14T09:16:47.993Z",
-      "time": "09:16:47",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - VVV cancelado"
     }
   ]
 }
