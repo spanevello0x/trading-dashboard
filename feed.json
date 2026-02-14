@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T09:08:16.693Z",
+      "time": "09:08:16",
+      "type": "position",
+      "msg": "SUI -2.75% — Vou culpar a lua, deve ser lua cheia"
+    },
+    {
+      "ts": "2026-02-14T09:08:16.432Z",
+      "time": "09:08:16",
+      "type": "position",
+      "msg": "ETH +1.22% — Verde combina comigo"
+    },
+    {
       "ts": "2026-02-14T09:07:47.243Z",
       "time": "09:07:47",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "09:00:16",
       "type": "position",
       "msg": "ETH +1.10% — Alguém avisa o mercado que eu tô comprado"
-    },
-    {
-      "ts": "2026-02-14T08:58:47.638Z",
-      "time": "08:58:47",
-      "type": "position",
-      "msg": "PAXG +0.03% — Plot twist a qualquer momento"
-    },
-    {
-      "ts": "2026-02-14T08:58:47.338Z",
-      "time": "08:58:47",
-      "type": "position",
-      "msg": "BCH +0.81% — Não é muito, mas é trabalho honesto"
     }
   ]
 }
