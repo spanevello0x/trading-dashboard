@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T12:56:25.446Z",
+      "time": "12:56:25",
+      "type": "position",
+      "msg": "HYPE -0.00% — Pelo menos não tá caindo... ainda"
+    },
+    {
       "ts": "2026-02-14T12:55:55.512Z",
       "time": "12:55:55",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "12:54:38",
       "type": "signal",
       "msg": "🎯 SHORT BCH @ $560.22 (89%) — Mais uma pro histórico"
-    },
-    {
-      "ts": "2026-02-14T12:54:37.769Z",
-      "time": "12:54:37",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - UNI cancelado"
     }
   ]
 }
