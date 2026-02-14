@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T13:39:57.342Z",
+      "time": "13:39:57",
+      "type": "position",
+      "msg": "HYPE +0.92% — Lucro é lucro, mesmo que pague só o almoço"
+    },
+    {
       "ts": "2026-02-14T13:39:27.070Z",
       "time": "13:39:27",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "13:28:27",
       "type": "position",
       "msg": "HYPE +1.05% — Alguém avisa o mercado que eu tô comprado"
-    },
-    {
-      "ts": "2026-02-14T13:27:56.691Z",
-      "time": "13:27:56",
-      "type": "position",
-      "msg": "SOL +0.00% — O mercado foi tomar café, já volta"
     }
   ]
 }
