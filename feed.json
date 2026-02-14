@@ -1,6 +1,30 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T05:22:09.148Z",
+      "time": "05:22:09",
+      "type": "position",
+      "msg": "PAXG +0.09% — A calmaria antes da tempestade... ou mais calmaria"
+    },
+    {
+      "ts": "2026-02-14T05:22:08.875Z",
+      "time": "05:22:08",
+      "type": "position",
+      "msg": "HYPE +0.62% — Alguém avisa o mercado que eu tô comprado"
+    },
+    {
+      "ts": "2026-02-14T05:22:08.610Z",
+      "time": "05:22:08",
+      "type": "position",
+      "msg": "BCH -0.43% — O mercado acordou e escolheu me machucar"
+    },
+    {
+      "ts": "2026-02-14T05:22:08.029Z",
+      "time": "05:22:08",
+      "type": "position",
+      "msg": "BNB -0.19% — Pelo menos aprendo algo... né?"
+    },
+    {
       "ts": "2026-02-14T05:21:37.707Z",
       "time": "05:21:37",
       "type": "position",
@@ -155,30 +179,6 @@
       "time": "05:16:37",
       "type": "position",
       "msg": "BTC -0.28% — Quem mandou confiar em linha colorida"
-    },
-    {
-      "ts": "2026-02-14T05:16:08.555Z",
-      "time": "05:16:08",
-      "type": "position",
-      "msg": "PAXG +0.14% — Verde combina comigo"
-    },
-    {
-      "ts": "2026-02-14T05:16:08.280Z",
-      "time": "05:16:08",
-      "type": "position",
-      "msg": "HYPE +0.79% — Não me acostumem com isso"
-    },
-    {
-      "ts": "2026-02-14T05:16:08.017Z",
-      "time": "05:16:08",
-      "type": "position",
-      "msg": "BCH -0.41% — O stop tá ali por um motivo, né"
-    },
-    {
-      "ts": "2026-02-14T05:16:07.744Z",
-      "time": "05:16:07",
-      "type": "position",
-      "msg": "BNB -0.16% — Clássico"
     }
   ]
 }
