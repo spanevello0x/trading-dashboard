@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T15:30:01.397Z",
+      "time": "15:30:01",
+      "type": "position",
+      "msg": "SOL +0.34% — O mercado tá generoso hoje, desconfio"
+    },
+    {
+      "ts": "2026-02-14T15:30:01.128Z",
+      "time": "15:30:01",
+      "type": "position",
+      "msg": "ETH -0.06% — Vai, faz alguma coisa"
+    },
+    {
       "ts": "2026-02-14T15:29:01.793Z",
       "time": "15:29:01",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "15:25:15",
       "type": "signal",
       "msg": "🎯 LONG DOGE @ $0.10 (89%) — Dessa vez vai (eu acho)"
-    },
-    {
-      "ts": "2026-02-14T15:25:15.346Z",
-      "time": "15:25:15",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - FARTCOIN cancelado"
-    },
-    {
-      "ts": "2026-02-14T15:25:15.069Z",
-      "time": "15:25:15",
-      "type": "signal",
-      "msg": "🎯 LONG FARTCOIN @ $0.20 (89%) — Entrei. Arrependimento em 3, 2, 1..."
     }
   ]
 }
