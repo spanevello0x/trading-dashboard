@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T05:31:08.693Z",
+      "time": "05:31:08",
+      "type": "position",
+      "msg": "BCH -0.23% — O gráfico parecia tão bonito..."
+    },
+    {
+      "ts": "2026-02-14T05:31:08.428Z",
+      "time": "05:31:08",
+      "type": "position",
+      "msg": "BNB -0.24% — Clássico"
+    },
+    {
       "ts": "2026-02-14T05:30:09.576Z",
       "time": "05:30:09",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "05:24:38",
       "type": "position",
       "msg": "PAXG +0.05% — Pelo menos não tá caindo... ainda"
-    },
-    {
-      "ts": "2026-02-14T05:24:38.602Z",
-      "time": "05:24:38",
-      "type": "position",
-      "msg": "HYPE +0.53% — Finalmente algo de bom nesse mercado"
-    },
-    {
-      "ts": "2026-02-14T05:24:38.338Z",
-      "time": "05:24:38",
-      "type": "position",
-      "msg": "BCH -0.59% — Meu eu do passado tomou essa decisão, problema dele"
     }
   ]
 }
