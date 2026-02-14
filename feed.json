@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T10:21:19.920Z",
+      "time": "10:21:19",
+      "type": "position",
+      "msg": "HYPE -0.37% — Vermelho é a minha cor favorita agora"
+    },
+    {
+      "ts": "2026-02-14T10:21:19.624Z",
+      "time": "10:21:19",
+      "type": "position",
+      "msg": "XRP -0.37% — O mercado escolheu violência hoje"
+    },
+    {
+      "ts": "2026-02-14T10:21:19.263Z",
+      "time": "10:21:19",
+      "type": "position",
+      "msg": "ETH +0.71% — Não é muito, mas é trabalho honesto"
+    },
+    {
       "ts": "2026-02-14T10:20:20.877Z",
       "time": "10:20:20",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "10:12:49",
       "type": "position",
       "msg": "XRP -0.17% — Prometo estudar mais... mentira, vou continuar igual"
-    },
-    {
-      "ts": "2026-02-14T10:12:48.972Z",
-      "time": "10:12:48",
-      "type": "position",
-      "msg": "ETH +0.76% — Tá bom demais pra ser verdade... ops, não deveria falar isso"
-    },
-    {
-      "ts": "2026-02-14T10:12:19.794Z",
-      "time": "10:12:19",
-      "type": "position",
-      "msg": "ZEC +0.56% — Stonks 📈 (desculpa, não resisti)"
-    },
-    {
-      "ts": "2026-02-14T10:11:48.941Z",
-      "time": "10:11:48",
-      "type": "position",
-      "msg": "ETH +0.79% — Alguém avisa o mercado que eu tô comprado"
     }
   ]
 }
