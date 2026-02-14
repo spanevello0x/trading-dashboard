@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T08:44:46.496Z",
+      "time": "08:44:46",
+      "type": "position",
+      "msg": "PAXG +0.09% — Tick tock, mercado..."
+    },
+    {
+      "ts": "2026-02-14T08:44:46.219Z",
+      "time": "08:44:46",
+      "type": "position",
+      "msg": "BCH +0.86% — Tá bom demais pra ser verdade... ops, não deveria falar isso"
+    },
+    {
       "ts": "2026-02-14T08:44:15.909Z",
       "time": "08:44:15",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "08:36:15",
       "type": "position",
       "msg": "ETH +0.74% — Não é muito, mas é trabalho honesto"
-    },
-    {
-      "ts": "2026-02-14T08:35:46.020Z",
-      "time": "08:35:46",
-      "type": "position",
-      "msg": "PAXG +0.08% — A calmaria antes da tempestade... ou mais calmaria"
-    },
-    {
-      "ts": "2026-02-14T08:35:45.746Z",
-      "time": "08:35:45",
-      "type": "position",
-      "msg": "BCH +0.48% — Meu psicólogo vai ficar orgulhoso"
     }
   ]
 }
