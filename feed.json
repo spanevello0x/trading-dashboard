@@ -1,6 +1,30 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T11:30:52.990Z",
+      "time": "11:30:52",
+      "type": "position",
+      "msg": "ZEC +0.38% — Print pra mostrar pros netos"
+    },
+    {
+      "ts": "2026-02-14T11:30:52.648Z",
+      "time": "11:30:52",
+      "type": "position",
+      "msg": "PAXG +0.01% — Nem pra cima nem pra baixo. Ansiedade infinita."
+    },
+    {
+      "ts": "2026-02-14T11:30:52.313Z",
+      "time": "11:30:52",
+      "type": "position",
+      "msg": "HYPE +1.20% — Finalmente algo de bom nesse mercado"
+    },
+    {
+      "ts": "2026-02-14T11:30:52.038Z",
+      "time": "11:30:52",
+      "type": "position",
+      "msg": "XRP +0.99% — Vou fingir que sabia que isso ia acontecer"
+    },
+    {
       "ts": "2026-02-14T11:29:52.125Z",
       "time": "11:29:52",
       "type": "position",
@@ -155,30 +179,6 @@
       "time": "11:23:21",
       "type": "position",
       "msg": "XRP +0.99% — Vou comemorar quando fechar. Talvez."
-    },
-    {
-      "ts": "2026-02-14T11:22:52.200Z",
-      "time": "11:22:52",
-      "type": "position",
-      "msg": "PAXG -0.02% — Tédio lucrativo ou tédio prejuízo? A definir."
-    },
-    {
-      "ts": "2026-02-14T11:22:22.698Z",
-      "time": "11:22:22",
-      "type": "position",
-      "msg": "ZEC -0.45% — Podia ser pior. Dá tempo ainda."
-    },
-    {
-      "ts": "2026-02-14T11:22:21.619Z",
-      "time": "11:22:21",
-      "type": "position",
-      "msg": "XRP +0.98% — Lucro é lucro, mesmo que pague só o almoço"
-    },
-    {
-      "ts": "2026-02-14T11:21:52.774Z",
-      "time": "11:21:52",
-      "type": "position",
-      "msg": "HYPE +1.03% — Finalmente algo de bom nesse mercado"
     }
   ]
 }
