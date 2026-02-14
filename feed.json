@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T11:00:21.300Z",
+      "time": "11:00:21",
+      "type": "position",
+      "msg": "HYPE -0.14% — Vou culpar a lua, deve ser lua cheia"
+    },
+    {
       "ts": "2026-02-14T10:59:51.615Z",
       "time": "10:59:51",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "10:52:20",
       "type": "position",
       "msg": "XRP -0.62% — Isso é um teste de caráter, com certeza"
-    },
-    {
-      "ts": "2026-02-14T10:50:51.814Z",
-      "time": "10:50:51",
-      "type": "position",
-      "msg": "ZEC +0.74% — Alguém avisa o mercado que eu tô comprado"
     }
   ]
 }
