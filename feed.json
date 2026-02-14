@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T06:43:11.529Z",
+      "time": "06:43:11",
+      "type": "position",
+      "msg": "BCH -0.30% — Sabia que não devia ter olhado"
+    },
+    {
+      "ts": "2026-02-14T06:43:11.268Z",
+      "time": "06:43:11",
+      "type": "position",
+      "msg": "BNB -0.18% — Amanhã é outro dia (espero)"
+    },
+    {
       "ts": "2026-02-14T06:42:42.163Z",
       "time": "06:42:42",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "06:37:41",
       "type": "position",
       "msg": "HYPE +1.36% — Será que alguém sabe algo que eu não sei? Sempre sabem."
-    },
-    {
-      "ts": "2026-02-14T06:37:41.173Z",
-      "time": "06:37:41",
-      "type": "position",
-      "msg": "BCH -0.26% — Sabia que não devia ter olhado"
-    },
-    {
-      "ts": "2026-02-14T06:37:40.908Z",
-      "time": "06:37:40",
-      "type": "position",
-      "msg": "BNB -0.17% — Amanhã é outro dia (espero)"
     }
   ]
 }
