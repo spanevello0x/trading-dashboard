@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T06:44:41.433Z",
+      "time": "06:44:41",
+      "type": "position",
+      "msg": "BCH -0.28% — Loss building character 💪"
+    },
+    {
+      "ts": "2026-02-14T06:44:41.174Z",
+      "time": "06:44:41",
+      "type": "position",
+      "msg": "BNB -0.19% — Não é prejuízo se eu não vender... ah, tem stop"
+    },
+    {
       "ts": "2026-02-14T06:44:10.868Z",
       "time": "06:44:10",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "06:38:41",
       "type": "position",
       "msg": "HYPE +1.28% — Tá subindo? Deixa eu não olhar pra não dar azar"
-    },
-    {
-      "ts": "2026-02-14T06:38:41.287Z",
-      "time": "06:38:41",
-      "type": "position",
-      "msg": "BCH -0.27% — Não é prejuízo se eu não vender... ah, tem stop"
-    },
-    {
-      "ts": "2026-02-14T06:38:41.022Z",
-      "time": "06:38:41",
-      "type": "position",
-      "msg": "BNB -0.20% — Quem mandou confiar em linha colorida"
     }
   ]
 }
