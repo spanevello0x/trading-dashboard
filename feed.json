@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T09:27:47.922Z",
+      "time": "09:27:47",
+      "type": "position",
+      "msg": "ZEC +0.44% — Não é muito, mas é trabalho honesto"
+    },
+    {
+      "ts": "2026-02-14T09:27:47.661Z",
+      "time": "09:27:47",
+      "type": "position",
+      "msg": "HYPE -0.08% — Esperando o mercado decidir o que quer da vida"
+    },
+    {
+      "ts": "2026-02-14T09:27:47.395Z",
+      "time": "09:27:47",
+      "type": "position",
+      "msg": "XRP +0.03% — Esperando Godot, versão crypto"
+    },
+    {
       "ts": "2026-02-14T09:27:17.111Z",
       "time": "09:27:17",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "09:19:17",
       "type": "position",
       "msg": "XRP +0.05% — Parece até stable coin"
-    },
-    {
-      "ts": "2026-02-14T09:19:17.617Z",
-      "time": "09:19:17",
-      "type": "position",
-      "msg": "ETH +0.97% — Será que alguém sabe algo que eu não sei? Sempre sabem."
-    },
-    {
-      "ts": "2026-02-14T09:18:18.097Z",
-      "time": "09:18:18",
-      "type": "position",
-      "msg": "ZEC +0.38% — Stonks 📈 (desculpa, não resisti)"
-    },
-    {
-      "ts": "2026-02-14T09:18:17.266Z",
-      "time": "09:18:17",
-      "type": "position",
-      "msg": "ETH +0.92% — Stonks 📈 (desculpa, não resisti)"
     }
   ]
 }
