@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T07:22:12.520Z",
+      "time": "07:22:12",
+      "type": "position",
+      "msg": "BCH -0.42% — Pelo menos o stop existe. Graças a Deus pelo stop."
+    },
+    {
+      "ts": "2026-02-14T07:22:12.257Z",
+      "time": "07:22:12",
+      "type": "position",
+      "msg": "SUI -0.35% — Meu eu do passado tomou essa decisão, problema dele"
+    },
+    {
       "ts": "2026-02-14T07:21:13.588Z",
       "time": "07:21:13",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "07:13:41",
       "type": "position",
       "msg": "SUI -0.44% — Loss building character 💪"
-    },
-    {
-      "ts": "2026-02-14T07:12:42.767Z",
-      "time": "07:12:42",
-      "type": "position",
-      "msg": "PAXG +0.04% — Nem comprador nem vendedor quer tomar atitude"
-    },
-    {
-      "ts": "2026-02-14T07:12:42.398Z",
-      "time": "07:12:42",
-      "type": "position",
-      "msg": "AAVE +0.24% — Meu psicólogo vai ficar orgulhoso"
     }
   ]
 }
