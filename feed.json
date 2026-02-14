@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T12:55:55.512Z",
+      "time": "12:55:55",
+      "type": "position",
+      "msg": "HYPE -0.24% — Isso é um teste de caráter, com certeza"
+    },
+    {
       "ts": "2026-02-14T12:55:26.357Z",
       "time": "12:55:26",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "12:54:37",
       "type": "system",
       "msg": "⚠️ Limite atingido (5/5) - UNI cancelado"
-    },
-    {
-      "ts": "2026-02-14T12:54:37.499Z",
-      "time": "12:54:37",
-      "type": "signal",
-      "msg": "🎯 SHORT UNI @ $3.46 (78%) — Entrei. Arrependimento em 3, 2, 1..."
     }
   ]
 }
