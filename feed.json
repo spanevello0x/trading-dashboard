@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T11:50:23.390Z",
+      "time": "11:50:23",
+      "type": "position",
+      "msg": "PAXG -0.02% — Lateral é o novo tendência"
+    },
+    {
+      "ts": "2026-02-14T11:50:23.005Z",
+      "time": "11:50:23",
+      "type": "position",
+      "msg": "HYPE +0.19% — Não é muito, mas é trabalho honesto"
+    },
+    {
       "ts": "2026-02-14T11:49:53.090Z",
       "time": "11:49:53",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "11:47:09",
       "type": "analysis",
       "msg": "BNB tá interessante, 100% pro LONG"
-    },
-    {
-      "ts": "2026-02-14T11:47:08.921Z",
-      "time": "11:47:08",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - AVAX cancelado"
-    },
-    {
-      "ts": "2026-02-14T11:47:08.646Z",
-      "time": "11:47:08",
-      "type": "signal",
-      "msg": "🎯 LONG AVAX @ $9.35 (89%) — Análise feita, trade executado, fé ativada"
     }
   ]
 }
