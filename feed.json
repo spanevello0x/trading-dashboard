@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T15:09:30.750Z",
+      "time": "15:09:30",
+      "type": "position",
+      "msg": "SOL +0.19% — Tá subindo? Deixa eu não olhar pra não dar azar"
+    },
+    {
+      "ts": "2026-02-14T15:09:30.321Z",
+      "time": "15:09:30",
+      "type": "position",
+      "msg": "ETH -0.55% — Quem mandou confiar em linha colorida"
+    },
+    {
       "ts": "2026-02-14T15:09:00.862Z",
       "time": "15:09:00",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "14:58:00",
       "type": "position",
       "msg": "HYPE -0.08% — Enquanto não move, não perco. Stonks mental."
-    },
-    {
-      "ts": "2026-02-14T14:57:59.893Z",
-      "time": "14:57:59",
-      "type": "position",
-      "msg": "ETH -0.63% — Clássico"
-    },
-    {
-      "ts": "2026-02-14T14:57:30.071Z",
-      "time": "14:57:30",
-      "type": "position",
-      "msg": "SOL +0.30% — Verde combina comigo"
     }
   ]
 }
