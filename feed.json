@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T08:00:13.824Z",
+      "time": "08:00:13",
+      "type": "position",
+      "msg": "ETH -0.14% — O mercado acordou e escolheu me machucar"
+    },
+    {
       "ts": "2026-02-14T07:59:45.181Z",
       "time": "07:59:45",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "07:53:34",
       "type": "analysis",
       "msg": "LINK no radar: 100% LONG"
-    },
-    {
-      "ts": "2026-02-14T07:53:34.197Z",
-      "time": "07:53:34",
-      "type": "analysis",
-      "msg": "Hmm, MOODENG mostrando sinais de SHORT (56%)"
     }
   ]
 }
