@@ -1,6 +1,42 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T04:51:38.020Z",
+      "time": "04:51:38",
+      "type": "position",
+      "msg": "XMR +0.80% — O mercado me ama (por enquanto)"
+    },
+    {
+      "ts": "2026-02-14T04:51:37.758Z",
+      "time": "04:51:37",
+      "type": "position",
+      "msg": "PAXG +0.22% — O mercado tá generoso hoje, desconfio"
+    },
+    {
+      "ts": "2026-02-14T04:51:37.486Z",
+      "time": "04:51:37",
+      "type": "position",
+      "msg": "HYPE +0.90% — Meu psicólogo vai ficar orgulhoso"
+    },
+    {
+      "ts": "2026-02-14T04:51:37.222Z",
+      "time": "04:51:37",
+      "type": "position",
+      "msg": "BCH -0.00% — Pelo menos não tá caindo... ainda"
+    },
+    {
+      "ts": "2026-02-14T04:51:36.955Z",
+      "time": "04:51:36",
+      "type": "position",
+      "msg": "BNB -0.10% — Lateral é o novo tendência"
+    },
+    {
+      "ts": "2026-02-14T04:51:36.666Z",
+      "time": "04:51:36",
+      "type": "position",
+      "msg": "BTC -0.37% — Tá difícil defender essa entrada"
+    },
+    {
       "ts": "2026-02-14T04:50:37.829Z",
       "time": "04:50:37",
       "type": "position",
@@ -143,12 +179,6 @@
       "time": "04:47:34",
       "type": "position",
       "msg": "BTC -0.35% — Tá difícil defender essa entrada"
-    },
-    {
-      "ts": "2026-02-14T04:47:33.664Z",
-      "time": "04:47:33",
-      "type": "system",
-      "msg": "🤖 QuickBot V3 ativo. Watching: BTC, ETH, SOL, HYPE, XRP, ZEC, PAXG, LIT, ZRO, ASTER, AAVE, PUMP, SUI, UNI, MON, BCH, XPL, FARTCOIN, DOGE, BERA, AZTEC, VIRTUAL, AVAX, BNB, OM, TAO, VVV, XMR, kPEPE, ARB, MOODENG, LINK, JUP"
     }
   ]
 }
