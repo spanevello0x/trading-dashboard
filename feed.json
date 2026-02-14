@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T07:15:12.903Z",
+      "time": "07:15:12",
+      "type": "position",
+      "msg": "PAXG +0.06% — Será que esqueceram dessa moeda?"
+    },
+    {
+      "ts": "2026-02-14T07:15:12.642Z",
+      "time": "07:15:12",
+      "type": "position",
+      "msg": "AAVE +0.26% — Obrigado universo, tava precisando"
+    },
+    {
+      "ts": "2026-02-14T07:15:12.374Z",
+      "time": "07:15:12",
+      "type": "position",
+      "msg": "BCH -0.34% — Vou culpar a lua, deve ser lua cheia"
+    },
+    {
       "ts": "2026-02-14T07:14:41.897Z",
       "time": "07:14:41",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "07:07:42",
       "type": "position",
       "msg": "AAVE +0.16% — Print pra mostrar pros netos"
-    },
-    {
-      "ts": "2026-02-14T07:07:42.257Z",
-      "time": "07:07:42",
-      "type": "position",
-      "msg": "BCH -0.33% — O mercado escolheu violência hoje"
-    },
-    {
-      "ts": "2026-02-14T07:07:41.988Z",
-      "time": "07:07:41",
-      "type": "position",
-      "msg": "SUI -0.38% — Pelo menos aprendo algo... né?"
-    },
-    {
-      "ts": "2026-02-14T07:07:41.707Z",
-      "time": "07:07:41",
-      "type": "position",
-      "msg": "BTC -0.23% — Vou culpar a lua, deve ser lua cheia"
     }
   ]
 }
