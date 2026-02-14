@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T10:02:18.827Z",
+      "time": "10:02:18",
+      "type": "position",
+      "msg": "XRP -0.28% — Loss building character 💪"
+    },
+    {
       "ts": "2026-02-14T10:01:50.057Z",
       "time": "10:01:50",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "09:54:18",
       "type": "position",
       "msg": "ETH +0.93% — Será que alguém sabe algo que eu não sei? Sempre sabem."
-    },
-    {
-      "ts": "2026-02-14T09:53:19.020Z",
-      "time": "09:53:19",
-      "type": "position",
-      "msg": "ZEC +0.52% — O mercado tá generoso hoje, desconfio"
     }
   ]
 }
