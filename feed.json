@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T14:29:58.747Z",
+      "time": "14:29:58",
+      "type": "position",
+      "msg": "ETH +0.11% — Isso aí, garoto. Vai, vai, vai..."
+    },
+    {
       "ts": "2026-02-14T14:29:29.367Z",
       "time": "14:29:29",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "14:18:58",
       "type": "position",
       "msg": "SOL -0.63% — Tá difícil defender essa entrada"
-    },
-    {
-      "ts": "2026-02-14T14:18:58.277Z",
-      "time": "14:18:58",
-      "type": "position",
-      "msg": "ETH -0.01% — O gráfico tá meditando"
     }
   ]
 }
