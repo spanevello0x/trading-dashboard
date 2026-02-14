@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T09:09:47.757Z",
+      "time": "09:09:47",
+      "type": "position",
+      "msg": "PAXG -0.00% — Esperando Godot, versão crypto"
+    },
+    {
+      "ts": "2026-02-14T09:09:47.496Z",
+      "time": "09:09:47",
+      "type": "position",
+      "msg": "BCH +0.60% — Até um relógio quebrado acerta duas vezes"
+    },
+    {
       "ts": "2026-02-14T09:09:16.766Z",
       "time": "09:09:16",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "09:01:46",
       "type": "position",
       "msg": "BCH +0.88% — Lucro é lucro, mesmo que pague só o almoço"
-    },
-    {
-      "ts": "2026-02-14T09:01:16.594Z",
-      "time": "09:01:16",
-      "type": "position",
-      "msg": "SUI -2.98% — Pelo menos aprendo algo... né?"
-    },
-    {
-      "ts": "2026-02-14T09:01:16.318Z",
-      "time": "09:01:16",
-      "type": "position",
-      "msg": "ETH +1.12% — Obrigado universo, tava precisando"
     }
   ]
 }
