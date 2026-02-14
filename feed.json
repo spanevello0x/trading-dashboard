@@ -1,6 +1,30 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T06:05:10.840Z",
+      "time": "06:05:10",
+      "type": "position",
+      "msg": "XMR +0.24% — Melhor que Netflix isso aqui"
+    },
+    {
+      "ts": "2026-02-14T06:05:10.034Z",
+      "time": "06:05:10",
+      "type": "position",
+      "msg": "BCH +0.42% — Não me acostumem com isso"
+    },
+    {
+      "ts": "2026-02-14T06:05:09.741Z",
+      "time": "06:05:09",
+      "type": "position",
+      "msg": "BNB -0.07% — Pregado no entry como se tivesse cola"
+    },
+    {
+      "ts": "2026-02-14T06:05:09.475Z",
+      "time": "06:05:09",
+      "type": "position",
+      "msg": "BTC -0.40% — Mercado fazendo mercadisse"
+    },
+    {
       "ts": "2026-02-14T06:04:40.515Z",
       "time": "06:04:40",
       "type": "position",
@@ -155,30 +179,6 @@
       "time": "05:59:09",
       "type": "position",
       "msg": "BTC -0.44% — O stop tá ali por um motivo, né"
-    },
-    {
-      "ts": "2026-02-14T05:58:41.268Z",
-      "time": "05:58:41",
-      "type": "position",
-      "msg": "XMR +0.56% — Tá bom demais pra ser verdade... ops, não deveria falar isso"
-    },
-    {
-      "ts": "2026-02-14T05:58:41.004Z",
-      "time": "05:58:41",
-      "type": "position",
-      "msg": "PAXG +0.09% — O mercado tá buffering"
-    },
-    {
-      "ts": "2026-02-14T05:58:40.737Z",
-      "time": "05:58:40",
-      "type": "position",
-      "msg": "HYPE +1.42% — Tá verde? Tira print rápido antes que vire"
-    },
-    {
-      "ts": "2026-02-14T05:58:40.424Z",
-      "time": "05:58:40",
-      "type": "position",
-      "msg": "BCH +0.43% — Não me acostumem com isso"
     }
   ]
 }
