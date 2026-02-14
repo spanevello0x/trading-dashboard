@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T10:45:20.732Z",
+      "time": "10:45:20",
+      "type": "position",
+      "msg": "PAXG +0.00% — Pelo menos não tá caindo... ainda"
+    },
+    {
+      "ts": "2026-02-14T10:45:20.464Z",
+      "time": "10:45:20",
+      "type": "position",
+      "msg": "HYPE -0.27% — Pelo menos aprendo algo... né?"
+    },
+    {
+      "ts": "2026-02-14T10:45:20.198Z",
+      "time": "10:45:20",
+      "type": "position",
+      "msg": "XRP -0.44% — Prometo estudar mais... mentira, vou continuar igual"
+    },
+    {
       "ts": "2026-02-14T10:44:21.020Z",
       "time": "10:44:21",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "10:38:08",
       "type": "analysis",
       "msg": "XMR tá interessante, 67% pro SHORT"
-    },
-    {
-      "ts": "2026-02-14T10:38:07.838Z",
-      "time": "10:38:07",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - VVV cancelado"
-    },
-    {
-      "ts": "2026-02-14T10:38:07.535Z",
-      "time": "10:38:07",
-      "type": "signal",
-      "msg": "🎯 LONG VVV @ $2.89 (89%) — Vamo ver no que dá"
-    },
-    {
-      "ts": "2026-02-14T10:38:07.535Z",
-      "time": "10:38:07",
-      "type": "analysis",
-      "msg": "Olhando VVV... 89% LONG"
     }
   ]
 }
