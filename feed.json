@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T04:56:38.086Z",
+      "time": "04:56:38",
+      "type": "position",
+      "msg": "XMR +0.63% — Não me acostumem com isso"
+    },
+    {
+      "ts": "2026-02-14T04:56:37.825Z",
+      "time": "04:56:37",
+      "type": "position",
+      "msg": "PAXG +0.22% — Tá verde? Tira print rápido antes que vire"
+    },
+    {
+      "ts": "2026-02-14T04:56:36.757Z",
+      "time": "04:56:36",
+      "type": "position",
+      "msg": "BTC -0.39% — Tá bom, universo, entendi o recado"
+    },
+    {
       "ts": "2026-02-14T04:56:07.490Z",
       "time": "04:56:07",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "04:51:36",
       "type": "position",
       "msg": "BTC -0.37% — Tá difícil defender essa entrada"
-    },
-    {
-      "ts": "2026-02-14T04:50:37.829Z",
-      "time": "04:50:37",
-      "type": "position",
-      "msg": "XMR +0.85% — Finalmente algo de bom nesse mercado"
-    },
-    {
-      "ts": "2026-02-14T04:50:37.545Z",
-      "time": "04:50:37",
-      "type": "position",
-      "msg": "PAXG +0.21% — Tá bom demais pra ser verdade... ops, não deveria falar isso"
-    },
-    {
-      "ts": "2026-02-14T04:50:37.280Z",
-      "time": "04:50:37",
-      "type": "position",
-      "msg": "HYPE +0.94% — Não é muito, mas é trabalho honesto"
     }
   ]
 }
