@@ -1,6 +1,30 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T09:02:47.227Z",
+      "time": "09:02:47",
+      "type": "position",
+      "msg": "PAXG +0.01% — Enquanto não move, não perco. Stonks mental."
+    },
+    {
+      "ts": "2026-02-14T09:02:46.875Z",
+      "time": "09:02:46",
+      "type": "position",
+      "msg": "BCH +0.95% — O mercado tá generoso hoje, desconfio"
+    },
+    {
+      "ts": "2026-02-14T09:02:46.577Z",
+      "time": "09:02:46",
+      "type": "position",
+      "msg": "SUI -2.92% — Mais um dia normal no crypto"
+    },
+    {
+      "ts": "2026-02-14T09:02:46.288Z",
+      "time": "09:02:46",
+      "type": "position",
+      "msg": "ETH +1.27% — Vou comemorar quando fechar. Talvez."
+    },
+    {
       "ts": "2026-02-14T09:01:46.978Z",
       "time": "09:01:46",
       "type": "position",
@@ -155,30 +179,6 @@
       "time": "08:54:46",
       "type": "position",
       "msg": "BCH +0.84% — Tá bom demais pra ser verdade... ops, não deveria falar isso"
-    },
-    {
-      "ts": "2026-02-14T08:54:46.238Z",
-      "time": "08:54:46",
-      "type": "position",
-      "msg": "SUI -2.48% — O mercado escolheu violência hoje"
-    },
-    {
-      "ts": "2026-02-14T08:54:15.900Z",
-      "time": "08:54:15",
-      "type": "position",
-      "msg": "ETH +1.09% — Vou fingir que sabia que isso ia acontecer"
-    },
-    {
-      "ts": "2026-02-14T08:53:46.702Z",
-      "time": "08:53:46",
-      "type": "position",
-      "msg": "PAXG +0.03% — Se mexer muito, assusta"
-    },
-    {
-      "ts": "2026-02-14T08:53:46.437Z",
-      "time": "08:53:46",
-      "type": "position",
-      "msg": "BCH +0.81% — Olha só, o mercado decidiu colaborar hoje"
     }
   ]
 }
