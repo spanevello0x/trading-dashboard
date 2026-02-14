@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T10:31:20.544Z",
+      "time": "10:31:20",
+      "type": "position",
+      "msg": "ZEC +0.80% — Vou fingir que sabia que isso ia acontecer"
+    },
+    {
       "ts": "2026-02-14T10:30:50.453Z",
       "time": "10:30:50",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "10:24:09",
       "type": "analysis",
       "msg": "Olhando JUP... 56% LONG"
-    },
-    {
-      "ts": "2026-02-14T10:24:09.447Z",
-      "time": "10:24:09",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - LINK cancelado"
     }
   ]
 }
