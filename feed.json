@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T07:40:43.316Z",
+      "time": "07:40:43",
+      "type": "position",
+      "msg": "BCH -0.48% — Meu eu do passado tomou essa decisão, problema dele"
+    },
+    {
+      "ts": "2026-02-14T07:40:43.052Z",
+      "time": "07:40:43",
+      "type": "position",
+      "msg": "SUI -0.56% — O mercado acordou e escolheu me machucar"
+    },
+    {
       "ts": "2026-02-14T07:40:14.544Z",
       "time": "07:40:14",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "07:32:13",
       "type": "position",
       "msg": "AAVE +0.72% — Vou fingir que sabia que isso ia acontecer"
-    },
-    {
-      "ts": "2026-02-14T07:32:13.059Z",
-      "time": "07:32:13",
-      "type": "position",
-      "msg": "BCH -0.42% — O mercado acordou e escolheu me machucar"
-    },
-    {
-      "ts": "2026-02-14T07:32:12.794Z",
-      "time": "07:32:12",
-      "type": "position",
-      "msg": "SUI -0.54% — Quem mandou confiar em linha colorida"
     }
   ]
 }
