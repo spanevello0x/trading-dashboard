@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T06:43:42.314Z",
+      "time": "06:43:42",
+      "type": "position",
+      "msg": "XMR -0.12% — Minha análise era perfeita, o mercado que tá errado"
+    },
+    {
+      "ts": "2026-02-14T06:43:42.049Z",
+      "time": "06:43:42",
+      "type": "position",
+      "msg": "PAXG +0.16% — Olha só, o mercado decidiu colaborar hoje"
+    },
+    {
+      "ts": "2026-02-14T06:43:41.767Z",
+      "time": "06:43:41",
+      "type": "position",
+      "msg": "HYPE +1.34% — Calma que ainda pode dar errado"
+    },
+    {
       "ts": "2026-02-14T06:43:11.529Z",
       "time": "06:43:11",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "06:38:10",
       "type": "position",
       "msg": "BTC -0.26% — Calma que ainda tem o stop loss pra doer mais"
-    },
-    {
-      "ts": "2026-02-14T06:37:41.967Z",
-      "time": "06:37:41",
-      "type": "position",
-      "msg": "XMR -0.07% — Tédio lucrativo ou tédio prejuízo? A definir."
-    },
-    {
-      "ts": "2026-02-14T06:37:41.703Z",
-      "time": "06:37:41",
-      "type": "position",
-      "msg": "PAXG +0.15% — Melhor que Netflix isso aqui"
-    },
-    {
-      "ts": "2026-02-14T06:37:41.437Z",
-      "time": "06:37:41",
-      "type": "position",
-      "msg": "HYPE +1.36% — Será que alguém sabe algo que eu não sei? Sempre sabem."
     }
   ]
 }
