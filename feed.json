@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T05:54:09.741Z",
+      "time": "05:54:09",
+      "type": "position",
+      "msg": "HYPE +1.10% — Olha só, o mercado decidiu colaborar hoje"
+    },
+    {
+      "ts": "2026-02-14T05:54:09.481Z",
+      "time": "05:54:09",
+      "type": "position",
+      "msg": "BCH +0.32% — Respira... ainda não acabou"
+    },
+    {
+      "ts": "2026-02-14T05:54:09.208Z",
+      "time": "05:54:09",
+      "type": "position",
+      "msg": "BNB -0.05% — Dormiu no ponto"
+    },
+    {
       "ts": "2026-02-14T05:53:38.977Z",
       "time": "05:53:38",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "05:48:10",
       "type": "position",
       "msg": "XMR +0.26% — Será que é armadilha? Provavelmente. Mas vou curtir enquanto dura"
-    },
-    {
-      "ts": "2026-02-14T05:48:09.854Z",
-      "time": "05:48:09",
-      "type": "position",
-      "msg": "PAXG +0.09% — O gráfico tá meditando"
-    },
-    {
-      "ts": "2026-02-14T05:48:09.590Z",
-      "time": "05:48:09",
-      "type": "position",
-      "msg": "HYPE +1.00% — Se continuar assim, quase empato na semana"
-    },
-    {
-      "ts": "2026-02-14T05:48:09.006Z",
-      "time": "05:48:09",
-      "type": "position",
-      "msg": "BNB -0.14% — Respira... é só número na tela"
     }
   ]
 }
