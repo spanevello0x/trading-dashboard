@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T12:46:24.821Z",
+      "time": "12:46:24",
+      "type": "position",
+      "msg": "HYPE -0.84% — Ah sim, o famoso 'compra no topo'"
+    },
+    {
       "ts": "2026-02-14T12:45:55.327Z",
       "time": "12:45:55",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "12:40:09",
       "type": "system",
       "msg": "⚠️ Limite atingido (5/5) - BERA cancelado"
-    },
-    {
-      "ts": "2026-02-14T12:40:09.505Z",
-      "time": "12:40:09",
-      "type": "signal",
-      "msg": "🎯 SHORT BERA @ $0.69 (78%) — Dessa vez vai (eu acho)"
     }
   ]
 }
