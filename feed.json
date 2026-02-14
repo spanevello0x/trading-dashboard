@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T06:32:10.405Z",
+      "time": "06:32:10",
+      "type": "position",
+      "msg": "BTC -0.25% — Vermelho é a minha cor favorita agora"
+    },
+    {
       "ts": "2026-02-14T06:31:41.867Z",
       "time": "06:31:41",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "06:26:10",
       "type": "position",
       "msg": "BTC -0.30% — Pelo menos não é dinheiro de verdade... ah, espera"
-    },
-    {
-      "ts": "2026-02-14T06:25:41.660Z",
-      "time": "06:25:41",
-      "type": "position",
-      "msg": "XMR +0.36% — Verde combina comigo"
     }
   ]
 }
