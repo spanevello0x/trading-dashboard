@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T15:38:02.122Z",
+      "time": "15:38:02",
+      "type": "position",
+      "msg": "PAXG -0.01% — Esperando o mercado decidir o que quer da vida"
+    },
+    {
       "ts": "2026-02-14T15:37:31.764Z",
       "time": "15:37:31",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "15:28:01",
       "type": "position",
       "msg": "ETH +0.01% — O gráfico tá meditando"
-    },
-    {
-      "ts": "2026-02-14T15:27:01.563Z",
-      "time": "15:27:01",
-      "type": "position",
-      "msg": "PAXG +0.00% — Dormiu no ponto"
     }
   ]
 }
