@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T09:37:17.622Z",
+      "time": "09:37:17",
+      "type": "position",
+      "msg": "ETH +0.92% — Tá verde? Tira print rápido antes que vire"
+    },
+    {
       "ts": "2026-02-14T09:36:48.387Z",
       "time": "09:36:48",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "09:28:48",
       "type": "position",
       "msg": "ZEC +0.54% — Quem diria, acertei uma"
-    },
-    {
-      "ts": "2026-02-14T09:28:47.829Z",
-      "time": "09:28:47",
-      "type": "position",
-      "msg": "HYPE -0.17% — Pelo menos aprendo algo... né?"
     }
   ]
 }
