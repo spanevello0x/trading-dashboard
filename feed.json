@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T12:51:55.711Z",
+      "time": "12:51:55",
+      "type": "position",
+      "msg": "ZEC -0.49% — Tá bom, universo, entendi o recado"
+    },
+    {
+      "ts": "2026-02-14T12:51:55.142Z",
+      "time": "12:51:55",
+      "type": "position",
+      "msg": "ETH -0.01% — Se mexer muito, assusta"
+    },
+    {
       "ts": "2026-02-14T12:51:25.493Z",
       "time": "12:51:25",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "12:49:41",
       "type": "analysis",
       "msg": "Hmm, VIRTUAL mostrando sinais de SHORT (89%)"
-    },
-    {
-      "ts": "2026-02-14T12:49:41.053Z",
-      "time": "12:49:41",
-      "type": "analysis",
-      "msg": "Olhando AZTEC... 56% LONG"
-    },
-    {
-      "ts": "2026-02-14T12:49:40.727Z",
-      "time": "12:49:40",
-      "type": "analysis",
-      "msg": "Olhando BERA... 67% SHORT"
     }
   ]
 }
