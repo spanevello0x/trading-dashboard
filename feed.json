@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T06:56:41.190Z",
+      "time": "06:56:41",
+      "type": "position",
+      "msg": "BTC -0.25% — Minha análise era perfeita, o mercado que tá errado"
+    },
+    {
       "ts": "2026-02-14T06:56:12.271Z",
       "time": "06:56:12",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "06:50:11",
       "type": "position",
       "msg": "BCH -0.03% — O mercado tá no modo avião"
-    },
-    {
-      "ts": "2026-02-14T06:49:41.270Z",
-      "time": "06:49:41",
-      "type": "position",
-      "msg": "SUI -0.07% — Esperando Godot, versão crypto"
     }
   ]
 }
