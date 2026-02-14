@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T15:36:01.944Z",
+      "time": "15:36:01",
+      "type": "position",
+      "msg": "PAXG -0.01% — Plot twist a qualquer momento"
+    },
+    {
       "ts": "2026-02-14T15:35:31.661Z",
       "time": "15:35:31",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "15:25:23",
       "type": "system",
       "msg": "⚠️ Limite atingido (5/5) - JUP cancelado"
-    },
-    {
-      "ts": "2026-02-14T15:25:22.378Z",
-      "time": "15:25:22",
-      "type": "signal",
-      "msg": "🎯 LONG JUP @ $0.16 (100%) — Bora, confia no pai"
     }
   ]
 }
