@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T05:36:09.572Z",
+      "time": "05:36:09",
+      "type": "position",
+      "msg": "PAXG +0.04% — Tick tock, mercado..."
+    },
+    {
       "ts": "2026-02-14T05:35:39.846Z",
       "time": "05:35:39",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "05:30:08",
       "type": "position",
       "msg": "BCH -0.24% — Loss building character 💪"
-    },
-    {
-      "ts": "2026-02-14T05:30:08.425Z",
-      "time": "05:30:08",
-      "type": "position",
-      "msg": "BNB -0.23% — Pelo menos aprendo algo... né?"
     }
   ]
 }
