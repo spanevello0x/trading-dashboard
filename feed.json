@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T12:46:55.688Z",
+      "time": "12:46:55",
+      "type": "position",
+      "msg": "ZEC +0.22% — Print pra mostrar pros netos"
+    },
+    {
+      "ts": "2026-02-14T12:46:55.158Z",
+      "time": "12:46:55",
+      "type": "position",
+      "msg": "PAXG -0.06% — Tá ali, existindo"
+    },
+    {
       "ts": "2026-02-14T12:46:24.821Z",
       "time": "12:46:24",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "12:40:10",
       "type": "analysis",
       "msg": "Hmm, VIRTUAL mostrando sinais de SHORT (78%)"
-    },
-    {
-      "ts": "2026-02-14T12:40:10.123Z",
-      "time": "12:40:10",
-      "type": "analysis",
-      "msg": "AZTEC tá interessante, 67% pro LONG"
-    },
-    {
-      "ts": "2026-02-14T12:40:09.819Z",
-      "time": "12:40:09",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - BERA cancelado"
     }
   ]
 }
