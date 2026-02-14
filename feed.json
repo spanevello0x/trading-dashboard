@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T11:57:53.508Z",
+      "time": "11:57:53",
+      "type": "position",
+      "msg": "PAXG -0.06% — O mercado tá pensando..."
+    },
+    {
+      "ts": "2026-02-14T11:57:53.234Z",
+      "time": "11:57:53",
+      "type": "position",
+      "msg": "HYPE +0.87% — Quase consigo pagar o café de ontem"
+    },
+    {
+      "ts": "2026-02-14T11:57:52.967Z",
+      "time": "11:57:52",
+      "type": "position",
+      "msg": "ETH -0.04% — Esperando o mercado decidir o que quer da vida"
+    },
+    {
       "ts": "2026-02-14T11:56:53.492Z",
       "time": "11:56:53",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "11:47:23",
       "type": "position",
       "msg": "HYPE +0.34% — Quem diria, acertei uma"
-    },
-    {
-      "ts": "2026-02-14T11:47:22.699Z",
-      "time": "11:47:22",
-      "type": "position",
-      "msg": "ETH -0.02% — O mercado tá pensando..."
-    },
-    {
-      "ts": "2026-02-14T11:47:13.514Z",
-      "time": "11:47:13",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - JUP cancelado"
-    },
-    {
-      "ts": "2026-02-14T11:47:13.236Z",
-      "time": "11:47:13",
-      "type": "signal",
-      "msg": "🎯 LONG JUP @ $0.16 (100%) — Dessa vez vai (eu acho)"
     }
   ]
 }
