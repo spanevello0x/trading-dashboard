@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T11:49:53.090Z",
+      "time": "11:49:53",
+      "type": "position",
+      "msg": "HYPE +0.42% — Lucro é lucro, mesmo que pague só o almoço"
+    },
+    {
+      "ts": "2026-02-14T11:49:52.826Z",
+      "time": "11:49:52",
+      "type": "position",
+      "msg": "ETH -0.00% — Esperando o mercado decidir o que quer da vida"
+    },
+    {
       "ts": "2026-02-14T11:49:23.339Z",
       "time": "11:49:23",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "11:47:08",
       "type": "signal",
       "msg": "🎯 LONG AVAX @ $9.35 (89%) — Análise feita, trade executado, fé ativada"
-    },
-    {
-      "ts": "2026-02-14T11:47:08.646Z",
-      "time": "11:47:08",
-      "type": "analysis",
-      "msg": "Analisando AVAX... parece LONG (89%)"
-    },
-    {
-      "ts": "2026-02-14T11:47:07.264Z",
-      "time": "11:47:07",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - DOGE cancelado"
     }
   ]
 }
