@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T13:07:56.127Z",
+      "time": "13:07:56",
+      "type": "position",
+      "msg": "HYPE +0.12% — Tá verde? Tira print rápido antes que vire"
+    },
+    {
+      "ts": "2026-02-14T13:07:55.861Z",
+      "time": "13:07:55",
+      "type": "position",
+      "msg": "SOL -0.56% — Mercado fazendo mercadisse"
+    },
+    {
+      "ts": "2026-02-14T13:07:55.543Z",
+      "time": "13:07:55",
+      "type": "position",
+      "msg": "ETH +0.14% — Melhor que Netflix isso aqui"
+    },
+    {
       "ts": "2026-02-14T13:06:26.704Z",
       "time": "13:06:26",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "13:03:45",
       "type": "analysis",
       "msg": "Analisando OM... parece LONG (56%)"
-    },
-    {
-      "ts": "2026-02-14T13:03:45.132Z",
-      "time": "13:03:45",
-      "type": "analysis",
-      "msg": "Analisando BNB... parece SHORT (67%)"
-    },
-    {
-      "ts": "2026-02-14T13:03:44.272Z",
-      "time": "13:03:44",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - AVAX cancelado"
-    },
-    {
-      "ts": "2026-02-14T13:03:43.994Z",
-      "time": "13:03:43",
-      "type": "signal",
-      "msg": "🎯 SHORT AVAX @ $9.28 (89%) — Setup alinhado, agora é com o mercado"
     }
   ]
 }
