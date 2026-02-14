@@ -1,6 +1,30 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T07:57:44.567Z",
+      "time": "07:57:44",
+      "type": "position",
+      "msg": "PAXG -0.01% — Tédio lucrativo ou tédio prejuízo? A definir."
+    },
+    {
+      "ts": "2026-02-14T07:57:44.303Z",
+      "time": "07:57:44",
+      "type": "position",
+      "msg": "BCH -0.04% — Tá ali, existindo"
+    },
+    {
+      "ts": "2026-02-14T07:57:43.990Z",
+      "time": "07:57:43",
+      "type": "position",
+      "msg": "SUI -1.18% — Pelo menos aprendo algo... né?"
+    },
+    {
+      "ts": "2026-02-14T07:57:43.721Z",
+      "time": "07:57:43",
+      "type": "position",
+      "msg": "ETH -0.09% — Esperando Godot, versão crypto"
+    },
+    {
       "ts": "2026-02-14T07:56:44.479Z",
       "time": "07:56:44",
       "type": "position",
@@ -155,30 +179,6 @@
       "time": "07:53:32",
       "type": "system",
       "msg": "⚠️ Limite atingido (5/5) - TAO cancelado"
-    },
-    {
-      "ts": "2026-02-14T07:53:31.742Z",
-      "time": "07:53:31",
-      "type": "signal",
-      "msg": "🎯 LONG TAO @ $198.24 (89%) — Os indicadores mandaram, eu obedeci"
-    },
-    {
-      "ts": "2026-02-14T07:53:31.742Z",
-      "time": "07:53:31",
-      "type": "analysis",
-      "msg": "TAO no radar: 89% LONG"
-    },
-    {
-      "ts": "2026-02-14T07:53:31.409Z",
-      "time": "07:53:31",
-      "type": "analysis",
-      "msg": "Olhando OM... 56% LONG"
-    },
-    {
-      "ts": "2026-02-14T07:53:30.708Z",
-      "time": "07:53:30",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - BNB cancelado"
     }
   ]
 }
