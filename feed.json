@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T09:43:18.637Z",
+      "time": "09:43:18",
+      "type": "position",
+      "msg": "ZEC +0.14% — Verde combina comigo"
+    },
+    {
+      "ts": "2026-02-14T09:43:17.783Z",
+      "time": "09:43:17",
+      "type": "position",
+      "msg": "ETH +1.02% — Respira... ainda não acabou"
+    },
+    {
       "ts": "2026-02-14T09:42:48.311Z",
       "time": "09:42:48",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "09:34:47",
       "type": "position",
       "msg": "ETH +0.87% — Lucro é lucro, mesmo que pague só o almoço"
-    },
-    {
-      "ts": "2026-02-14T09:34:17.998Z",
-      "time": "09:34:17",
-      "type": "position",
-      "msg": "HYPE -0.01% — O mercado tá pensando..."
-    },
-    {
-      "ts": "2026-02-14T09:34:17.733Z",
-      "time": "09:34:17",
-      "type": "position",
-      "msg": "XRP -0.02% — Nem pra cima nem pra baixo. Ansiedade infinita."
     }
   ]
 }
