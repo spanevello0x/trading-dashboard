@@ -1,6 +1,30 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T10:52:21.605Z",
+      "time": "10:52:21",
+      "type": "position",
+      "msg": "ZEC +0.74% — Não me acostumem com isso"
+    },
+    {
+      "ts": "2026-02-14T10:52:21.134Z",
+      "time": "10:52:21",
+      "type": "position",
+      "msg": "PAXG +0.01% — O mercado tá pensando..."
+    },
+    {
+      "ts": "2026-02-14T10:52:20.828Z",
+      "time": "10:52:20",
+      "type": "position",
+      "msg": "HYPE +0.15% — Vou fingir que sabia que isso ia acontecer"
+    },
+    {
+      "ts": "2026-02-14T10:52:20.519Z",
+      "time": "10:52:20",
+      "type": "position",
+      "msg": "XRP -0.62% — Isso é um teste de caráter, com certeza"
+    },
+    {
       "ts": "2026-02-14T10:50:51.814Z",
       "time": "10:50:51",
       "type": "position",
@@ -155,30 +179,6 @@
       "time": "10:43:50",
       "type": "position",
       "msg": "HYPE -0.21% — Amanhã é outro dia (espero)"
-    },
-    {
-      "ts": "2026-02-14T10:43:50.366Z",
-      "time": "10:43:50",
-      "type": "position",
-      "msg": "XRP -0.41% — Quem precisa de dinheiro mesmo"
-    },
-    {
-      "ts": "2026-02-14T10:43:20.885Z",
-      "time": "10:43:20",
-      "type": "position",
-      "msg": "ZEC +0.62% — Respira... ainda não acabou"
-    },
-    {
-      "ts": "2026-02-14T10:42:50.636Z",
-      "time": "10:42:50",
-      "type": "position",
-      "msg": "PAXG +0.00% — Consolidação ou indecisão? Sim."
-    },
-    {
-      "ts": "2026-02-14T10:42:50.366Z",
-      "time": "10:42:50",
-      "type": "position",
-      "msg": "HYPE -0.19% — Mais um dia normal no crypto"
     }
   ]
 }
