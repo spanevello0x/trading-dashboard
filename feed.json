@@ -1,6 +1,30 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T05:04:38.152Z",
+      "time": "05:04:38",
+      "type": "position",
+      "msg": "PAXG +0.20% — Meu psicólogo vai ficar orgulhoso"
+    },
+    {
+      "ts": "2026-02-14T05:04:37.835Z",
+      "time": "05:04:37",
+      "type": "position",
+      "msg": "HYPE +1.17% — Print pra mostrar pros netos"
+    },
+    {
+      "ts": "2026-02-14T05:04:37.230Z",
+      "time": "05:04:37",
+      "type": "position",
+      "msg": "BNB -0.04% — O mercado tá buffering"
+    },
+    {
+      "ts": "2026-02-14T05:04:36.962Z",
+      "time": "05:04:36",
+      "type": "position",
+      "msg": "BTC -0.35% — Pelo menos o stop existe. Graças a Deus pelo stop."
+    },
+    {
       "ts": "2026-02-14T05:04:08.266Z",
       "time": "05:04:08",
       "type": "position",
@@ -155,30 +179,6 @@
       "time": "04:59:37",
       "type": "position",
       "msg": "BCH +0.00% — Esperando o mercado decidir o que quer da vida"
-    },
-    {
-      "ts": "2026-02-14T04:59:08.152Z",
-      "time": "04:59:08",
-      "type": "position",
-      "msg": "XMR +0.45% — Obrigado universo, tava precisando"
-    },
-    {
-      "ts": "2026-02-14T04:59:07.862Z",
-      "time": "04:59:07",
-      "type": "position",
-      "msg": "PAXG +0.24% — Olha só, o mercado decidiu colaborar hoje"
-    },
-    {
-      "ts": "2026-02-14T04:59:06.754Z",
-      "time": "04:59:06",
-      "type": "position",
-      "msg": "BTC -0.41% — O stop tá ali por um motivo, né"
-    },
-    {
-      "ts": "2026-02-14T04:58:37.670Z",
-      "time": "04:58:37",
-      "type": "position",
-      "msg": "HYPE +0.95% — Isso aí, garoto. Vai, vai, vai..."
     }
   ]
 }
