@@ -1,184 +1,184 @@
 {
   "feed": [
     {
-      "ts": "2026-02-14T12:48:55.471Z",
-      "time": "12:48:55",
-      "type": "position",
-      "msg": "ZEC -0.09% — Tô aqui, olhando, esperando, sofrendo"
+      "ts": "2026-02-14T12:49:38.463Z",
+      "time": "12:49:38",
+      "type": "signal",
+      "msg": "🎯 SHORT BCH @ $560.70 (100%) — Análise feita, trade executado, fé ativada"
     },
     {
-      "ts": "2026-02-14T12:48:54.906Z",
-      "time": "12:48:54",
-      "type": "position",
-      "msg": "HYPE -1.01% — Prometo estudar mais... mentira, vou continuar igual"
-    },
-    {
-      "ts": "2026-02-14T12:47:55.272Z",
-      "time": "12:47:55",
-      "type": "position",
-      "msg": "PAXG -0.06% — A calmaria antes da tempestade... ou mais calmaria"
-    },
-    {
-      "ts": "2026-02-14T12:47:25.891Z",
-      "time": "12:47:25",
-      "type": "position",
-      "msg": "ZEC -0.05% — Isso é acumulação ou distribuição? Ninguém sabe."
-    },
-    {
-      "ts": "2026-02-14T12:47:25.131Z",
-      "time": "12:47:25",
-      "type": "position",
-      "msg": "HYPE -0.97% — Loss building character 💪"
-    },
-    {
-      "ts": "2026-02-14T12:46:55.688Z",
-      "time": "12:46:55",
-      "type": "position",
-      "msg": "ZEC +0.22% — Print pra mostrar pros netos"
-    },
-    {
-      "ts": "2026-02-14T12:46:55.158Z",
-      "time": "12:46:55",
-      "type": "position",
-      "msg": "PAXG -0.06% — Tá ali, existindo"
-    },
-    {
-      "ts": "2026-02-14T12:46:24.821Z",
-      "time": "12:46:24",
-      "type": "position",
-      "msg": "HYPE -0.84% — Ah sim, o famoso 'compra no topo'"
-    },
-    {
-      "ts": "2026-02-14T12:45:55.327Z",
-      "time": "12:45:55",
-      "type": "position",
-      "msg": "ZEC +0.19% — Quem diria, acertei uma"
-    },
-    {
-      "ts": "2026-02-14T12:45:25.690Z",
-      "time": "12:45:25",
-      "type": "position",
-      "msg": "ZEC -0.16% — Vermelho é a minha cor favorita agora"
-    },
-    {
-      "ts": "2026-02-14T12:45:25.426Z",
-      "time": "12:45:25",
-      "type": "position",
-      "msg": "PAXG -0.05% — Será que esqueceram dessa moeda?"
-    },
-    {
-      "ts": "2026-02-14T12:45:24.789Z",
-      "time": "12:45:24",
-      "type": "position",
-      "msg": "HYPE -0.85% — Podia ser pior. Dá tempo ainda."
-    },
-    {
-      "ts": "2026-02-14T12:44:25.304Z",
-      "time": "12:44:25",
-      "type": "position",
-      "msg": "ZEC +0.06% — O gráfico tá meditando"
-    },
-    {
-      "ts": "2026-02-14T12:44:25.035Z",
-      "time": "12:44:25",
-      "type": "position",
-      "msg": "PAXG -0.02% — O mercado tá pensando..."
-    },
-    {
-      "ts": "2026-02-14T12:43:54.831Z",
-      "time": "12:43:54",
-      "type": "position",
-      "msg": "HYPE -0.78% — Mercado fazendo mercadisse"
-    },
-    {
-      "ts": "2026-02-14T12:43:25.274Z",
-      "time": "12:43:25",
-      "type": "position",
-      "msg": "ZEC +0.06% — O mercado tá buffering"
-    },
-    {
-      "ts": "2026-02-14T12:43:25.010Z",
-      "time": "12:43:25",
-      "type": "position",
-      "msg": "PAXG -0.03% — Plot twist a qualquer momento"
-    },
-    {
-      "ts": "2026-02-14T12:42:55.286Z",
-      "time": "12:42:55",
-      "type": "position",
-      "msg": "ZEC -0.38% — Tá bom, universo, entendi o recado"
-    },
-    {
-      "ts": "2026-02-14T12:42:54.755Z",
-      "time": "12:42:54",
-      "type": "position",
-      "msg": "HYPE -0.71% — Não é prejuízo se eu não vender... ah, tem stop"
-    },
-    {
-      "ts": "2026-02-14T12:42:25.000Z",
-      "time": "12:42:25",
-      "type": "position",
-      "msg": "PAXG -0.02% — Nem fede nem cheira"
-    },
-    {
-      "ts": "2026-02-14T12:41:55.199Z",
-      "time": "12:41:55",
-      "type": "position",
-      "msg": "ZEC -0.18% — Loss building character 💪"
-    },
-    {
-      "ts": "2026-02-14T12:41:54.656Z",
-      "time": "12:41:54",
-      "type": "position",
-      "msg": "HYPE -0.74% — Tá difícil defender essa entrada"
-    },
-    {
-      "ts": "2026-02-14T12:40:54.942Z",
-      "time": "12:40:54",
-      "type": "position",
-      "msg": "PAXG -0.02% — Parece até stable coin"
-    },
-    {
-      "ts": "2026-02-14T12:40:54.633Z",
-      "time": "12:40:54",
-      "type": "position",
-      "msg": "HYPE -0.68% — Vou culpar a lua, deve ser lua cheia"
-    },
-    {
-      "ts": "2026-02-14T12:40:25.335Z",
-      "time": "12:40:25",
-      "type": "position",
-      "msg": "ZEC +0.03% — Tá ali, existindo"
-    },
-    {
-      "ts": "2026-02-14T12:40:14.566Z",
-      "time": "12:40:14",
+      "ts": "2026-02-14T12:49:38.463Z",
+      "time": "12:49:38",
       "type": "analysis",
-      "msg": "Analisando LINK... parece SHORT (56%)"
+      "msg": "BCH tá interessante, 100% pro SHORT"
     },
     {
-      "ts": "2026-02-14T12:40:14.286Z",
-      "time": "12:40:14",
+      "ts": "2026-02-14T12:49:38.171Z",
+      "time": "12:49:38",
       "type": "analysis",
-      "msg": "Olhando MOODENG... 67% SHORT"
+      "msg": "MON no radar: 67% SHORT"
     },
     {
-      "ts": "2026-02-14T12:40:13.696Z",
-      "time": "12:40:13",
-      "type": "analysis",
-      "msg": "kPEPE tá interessante, 56% pro SHORT"
+      "ts": "2026-02-14T12:49:37.867Z",
+      "time": "12:49:37",
+      "type": "system",
+      "msg": "⚠️ Limite atingido (5/5) - UNI cancelado"
     },
     {
-      "ts": "2026-02-14T12:40:13.025Z",
-      "time": "12:40:13",
-      "type": "analysis",
-      "msg": "Olhando VVV... 67% SHORT"
+      "ts": "2026-02-14T12:49:36.879Z",
+      "time": "12:49:36",
+      "type": "signal",
+      "msg": "🎯 SHORT UNI @ $3.46 (89%) — Os indicadores mandaram, eu obedeci"
     },
     {
-      "ts": "2026-02-14T12:40:11.788Z",
-      "time": "12:40:11",
+      "ts": "2026-02-14T12:49:36.878Z",
+      "time": "12:49:36",
       "type": "analysis",
-      "msg": "OM tá interessante, 67% pro LONG"
+      "msg": "Olhando UNI... 89% SHORT"
+    },
+    {
+      "ts": "2026-02-14T12:49:36.412Z",
+      "time": "12:49:36",
+      "type": "analysis",
+      "msg": "Hmm, SUI mostrando sinais de SHORT (67%)"
+    },
+    {
+      "ts": "2026-02-14T12:49:35.797Z",
+      "time": "12:49:35",
+      "type": "system",
+      "msg": "⚠️ Limite atingido (5/5) - AAVE cancelado"
+    },
+    {
+      "ts": "2026-02-14T12:49:35.502Z",
+      "time": "12:49:35",
+      "type": "signal",
+      "msg": "🎯 SHORT AAVE @ $126.14 (78%) — Bora, confia no pai"
+    },
+    {
+      "ts": "2026-02-14T12:49:35.501Z",
+      "time": "12:49:35",
+      "type": "analysis",
+      "msg": "Analisando AAVE... parece SHORT (78%)"
+    },
+    {
+      "ts": "2026-02-14T12:49:35.176Z",
+      "time": "12:49:35",
+      "type": "system",
+      "msg": "⚠️ Limite atingido (5/5) - ASTER cancelado"
+    },
+    {
+      "ts": "2026-02-14T12:49:34.902Z",
+      "time": "12:49:34",
+      "type": "signal",
+      "msg": "🎯 SHORT ASTER @ $0.71 (89%) — Entrei. Arrependimento em 3, 2, 1..."
+    },
+    {
+      "ts": "2026-02-14T12:49:34.902Z",
+      "time": "12:49:34",
+      "type": "analysis",
+      "msg": "ASTER tá interessante, 89% pro SHORT"
+    },
+    {
+      "ts": "2026-02-14T12:49:34.345Z",
+      "time": "12:49:34",
+      "type": "system",
+      "msg": "⚠️ Limite atingido (5/5) - ZRO cancelado"
+    },
+    {
+      "ts": "2026-02-14T12:49:34.070Z",
+      "time": "12:49:34",
+      "type": "signal",
+      "msg": "🎯 SHORT ZRO @ $1.85 (78%) — Setup alinhado, agora é com o mercado"
+    },
+    {
+      "ts": "2026-02-14T12:49:34.070Z",
+      "time": "12:49:34",
+      "type": "analysis",
+      "msg": "ZRO tá interessante, 78% pro SHORT"
+    },
+    {
+      "ts": "2026-02-14T12:49:33.729Z",
+      "time": "12:49:33",
+      "type": "analysis",
+      "msg": "Hmm, LIT mostrando sinais de SHORT (56%)"
+    },
+    {
+      "ts": "2026-02-14T12:49:33.447Z",
+      "time": "12:49:33",
+      "type": "system",
+      "msg": "⚠️ Limite atingido (5/5) - HYPE cancelado"
+    },
+    {
+      "ts": "2026-02-14T12:49:33.170Z",
+      "time": "12:49:33",
+      "type": "signal",
+      "msg": "🎯 SHORT HYPE @ $31.51 (78%) — Mais uma pro histórico"
+    },
+    {
+      "ts": "2026-02-14T12:49:33.170Z",
+      "time": "12:49:33",
+      "type": "analysis",
+      "msg": "Hmm, HYPE mostrando sinais de SHORT (78%)"
+    },
+    {
+      "ts": "2026-02-14T12:49:32.846Z",
+      "time": "12:49:32",
+      "type": "analysis",
+      "msg": "Olhando SOL... 56% SHORT"
+    },
+    {
+      "ts": "2026-02-14T12:49:32.510Z",
+      "time": "12:49:32",
+      "type": "result",
+      "msg": "🏁 Trade completo: SHORT ETH @ $2072.90 | RR 2:1"
+    },
+    {
+      "ts": "2026-02-14T12:49:32.510Z",
+      "time": "12:49:32",
+      "type": "execution",
+      "msg": "🎯 Take Profit: $2032.03"
+    },
+    {
+      "ts": "2026-02-14T12:49:30.570Z",
+      "time": "12:49:30",
+      "type": "execution",
+      "msg": "🛡️ Stop Loss: $2094.24"
+    },
+    {
+      "ts": "2026-02-14T12:49:28.907Z",
+      "time": "12:49:28",
+      "type": "execution",
+      "msg": "✅ Filled: 0.007500 ETH @ $2072.90"
+    },
+    {
+      "ts": "2026-02-14T12:49:26.994Z",
+      "time": "12:49:26",
+      "type": "execution",
+      "msg": "📤 Abrindo SHORT em ETH..."
+    },
+    {
+      "ts": "2026-02-14T12:49:25.794Z",
+      "time": "12:49:25",
+      "type": "execution",
+      "msg": "⚙️ Leverage: 5x"
+    },
+    {
+      "ts": "2026-02-14T12:49:25.518Z",
+      "time": "12:49:25",
+      "type": "signal",
+      "msg": "🎯 SHORT ETH @ $2073.50 (78%) — Essa eu senti"
+    },
+    {
+      "ts": "2026-02-14T12:49:25.517Z",
+      "time": "12:49:25",
+      "type": "analysis",
+      "msg": "Hmm, ETH mostrando sinais de SHORT (78%)"
+    },
+    {
+      "ts": "2026-02-14T12:49:24.913Z",
+      "time": "12:49:24",
+      "type": "position",
+      "msg": "PAXG -0.06% — Nem comprador nem vendedor quer tomar atitude"
     }
   ]
 }
