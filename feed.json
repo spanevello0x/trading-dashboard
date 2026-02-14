@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T07:52:43.536Z",
+      "time": "07:52:43",
+      "type": "position",
+      "msg": "SUI -0.93% — Ah sim, o famoso 'compra no topo'"
+    },
+    {
       "ts": "2026-02-14T07:52:14.332Z",
       "time": "07:52:14",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "07:44:13",
       "type": "position",
       "msg": "BCH -0.26% — Respira... é só número na tela"
-    },
-    {
-      "ts": "2026-02-14T07:44:13.189Z",
-      "time": "07:44:13",
-      "type": "position",
-      "msg": "SUI -0.73% — Mais um dia normal no crypto"
     }
   ]
 }
