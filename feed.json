@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T09:53:19.020Z",
+      "time": "09:53:19",
+      "type": "position",
+      "msg": "ZEC +0.52% — O mercado tá generoso hoje, desconfio"
+    },
+    {
+      "ts": "2026-02-14T09:53:18.496Z",
+      "time": "09:53:18",
+      "type": "position",
+      "msg": "XRP +0.01% — Pelo menos não tá caindo... ainda"
+    },
+    {
+      "ts": "2026-02-14T09:53:18.219Z",
+      "time": "09:53:18",
+      "type": "position",
+      "msg": "ETH +0.94% — Quem diria, acertei uma"
+    },
+    {
       "ts": "2026-02-14T09:52:48.856Z",
       "time": "09:52:48",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "09:44:48",
       "type": "position",
       "msg": "HYPE -0.30% — Prometo estudar mais... mentira, vou continuar igual"
-    },
-    {
-      "ts": "2026-02-14T09:44:48.233Z",
-      "time": "09:44:48",
-      "type": "position",
-      "msg": "XRP +0.43% — Isso aí, garoto. Vai, vai, vai..."
-    },
-    {
-      "ts": "2026-02-14T09:44:17.795Z",
-      "time": "09:44:17",
-      "type": "position",
-      "msg": "ETH +1.06% — Vou fingir que sabia que isso ia acontecer"
-    },
-    {
-      "ts": "2026-02-14T09:43:48.338Z",
-      "time": "09:43:48",
-      "type": "position",
-      "msg": "HYPE -0.30% — Minha análise era perfeita, o mercado que tá errado"
     }
   ]
 }
