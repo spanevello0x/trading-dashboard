@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T15:24:00.881Z",
+      "time": "15:24:00",
+      "type": "position",
+      "msg": "ETH +0.01% — O gráfico tá meditando"
+    },
+    {
       "ts": "2026-02-14T15:23:31.932Z",
       "time": "15:23:31",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "15:20:16",
       "type": "signal",
       "msg": "🎯 LONG AZTEC @ $0.02 (89%) — Dessa vez vai (eu acho)"
-    },
-    {
-      "ts": "2026-02-14T15:20:16.802Z",
-      "time": "15:20:16",
-      "type": "analysis",
-      "msg": "AZTEC no radar: 89% LONG"
     }
   ]
 }
