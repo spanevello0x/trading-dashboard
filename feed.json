@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T08:35:15.359Z",
+      "time": "08:35:15",
+      "type": "position",
+      "msg": "SUI -1.96% — Loss building character 💪"
+    },
+    {
+      "ts": "2026-02-14T08:35:15.095Z",
+      "time": "08:35:15",
+      "type": "position",
+      "msg": "ETH +0.70% — Tá verde? Tira print rápido antes que vire"
+    },
+    {
       "ts": "2026-02-14T08:34:45.884Z",
       "time": "08:34:45",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "08:26:44",
       "type": "position",
       "msg": "ETH +0.42% — Não é muito, mas é trabalho honesto"
-    },
-    {
-      "ts": "2026-02-14T08:26:15.946Z",
-      "time": "08:26:15",
-      "type": "position",
-      "msg": "PAXG +0.05% — O mercado tá pensando..."
-    },
-    {
-      "ts": "2026-02-14T08:25:45.433Z",
-      "time": "08:25:45",
-      "type": "position",
-      "msg": "BCH +0.16% — O mercado me ama (por enquanto)"
     }
   ]
 }
