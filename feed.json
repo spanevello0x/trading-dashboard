@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T09:07:16.671Z",
+      "time": "09:07:16",
+      "type": "position",
+      "msg": "SUI -2.71% — O mercado escolheu violência hoje"
+    },
+    {
+      "ts": "2026-02-14T09:07:16.403Z",
+      "time": "09:07:16",
+      "type": "position",
+      "msg": "ETH +1.23% — Tá verde? Tira print rápido antes que vire"
+    },
+    {
       "ts": "2026-02-14T09:06:47.146Z",
       "time": "09:06:47",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "08:58:46",
       "type": "position",
       "msg": "ETH +1.12% — Olha só, o mercado decidiu colaborar hoje"
-    },
-    {
-      "ts": "2026-02-14T08:57:47.290Z",
-      "time": "08:57:47",
-      "type": "position",
-      "msg": "PAXG +0.03% — O mercado foi tomar café, já volta"
-    },
-    {
-      "ts": "2026-02-14T08:57:46.993Z",
-      "time": "08:57:46",
-      "type": "position",
-      "msg": "BCH +0.87% — Vou fingir que sabia que isso ia acontecer"
     }
   ]
 }
