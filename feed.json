@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T05:50:09.363Z",
+      "time": "05:50:09",
+      "type": "position",
+      "msg": "BCH +0.00% — Lateral é o novo tendência"
+    },
+    {
       "ts": "2026-02-14T05:49:10.617Z",
       "time": "05:49:10",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "05:44:08",
       "type": "position",
       "msg": "BTC -0.35% — Vou culpar a lua, deve ser lua cheia"
-    },
-    {
-      "ts": "2026-02-14T05:43:39.622Z",
-      "time": "05:43:39",
-      "type": "position",
-      "msg": "PAXG +0.09% — Nem fede nem cheira"
     }
   ]
 }
