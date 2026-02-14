@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T08:51:45.897Z",
+      "time": "08:51:45",
+      "type": "position",
+      "msg": "ETH +0.92% — Quase consigo pagar o café de ontem"
+    },
+    {
       "ts": "2026-02-14T08:51:16.679Z",
       "time": "08:51:16",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "08:43:15",
       "type": "position",
       "msg": "ETH +0.74% — Será que alguém sabe algo que eu não sei? Sempre sabem."
-    },
-    {
-      "ts": "2026-02-14T08:42:16.292Z",
-      "time": "08:42:16",
-      "type": "position",
-      "msg": "PAXG +0.09% — Será que esqueceram dessa moeda?"
     }
   ]
 }
