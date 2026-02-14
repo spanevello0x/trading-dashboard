@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T14:43:59.925Z",
+      "time": "14:43:59",
+      "type": "position",
+      "msg": "HYPE +0.21% — Será que alguém sabe algo que eu não sei? Sempre sabem."
+    },
+    {
+      "ts": "2026-02-14T14:43:59.661Z",
+      "time": "14:43:59",
+      "type": "position",
+      "msg": "SOL -0.17% — Calma que ainda tem o stop loss pra doer mais"
+    },
+    {
       "ts": "2026-02-14T14:43:29.260Z",
       "time": "14:43:29",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "14:39:44",
       "type": "analysis",
       "msg": "Hmm, AVAX mostrando sinais de LONG (100%)"
-    },
-    {
-      "ts": "2026-02-14T14:39:43.490Z",
-      "time": "14:39:43",
-      "type": "analysis",
-      "msg": "AZTEC no radar: 67% LONG"
-    },
-    {
-      "ts": "2026-02-14T14:39:42.932Z",
-      "time": "14:39:42",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - DOGE cancelado"
     }
   ]
 }
