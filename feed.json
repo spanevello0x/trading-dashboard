@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T15:30:31.682Z",
+      "time": "15:30:31",
+      "type": "position",
+      "msg": "PAXG -0.02% — Será que esqueceram dessa moeda?"
+    },
+    {
       "ts": "2026-02-14T15:30:01.397Z",
       "time": "15:30:01",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "15:25:15",
       "type": "system",
       "msg": "⚠️ Limite atingido (5/5) - DOGE cancelado"
-    },
-    {
-      "ts": "2026-02-14T15:25:15.624Z",
-      "time": "15:25:15",
-      "type": "signal",
-      "msg": "🎯 LONG DOGE @ $0.10 (89%) — Dessa vez vai (eu acho)"
     }
   ]
 }
