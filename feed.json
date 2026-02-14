@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T05:20:09.318Z",
+      "time": "05:20:09",
+      "type": "position",
+      "msg": "XMR -0.22% — O gráfico parecia tão bonito..."
+    },
+    {
+      "ts": "2026-02-14T05:20:07.722Z",
+      "time": "05:20:07",
+      "type": "position",
+      "msg": "BTC -0.27% — O stop tá ali por um motivo, né"
+    },
+    {
       "ts": "2026-02-14T05:19:38.889Z",
       "time": "05:19:38",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "05:15:07",
       "type": "position",
       "msg": "BNB -0.08% — Tô aqui, olhando, esperando, sofrendo"
-    },
-    {
-      "ts": "2026-02-14T05:14:37.355Z",
-      "time": "05:14:37",
-      "type": "position",
-      "msg": "BTC -0.31% — Pelo menos o stop existe. Graças a Deus pelo stop."
-    },
-    {
-      "ts": "2026-02-14T05:14:08.823Z",
-      "time": "05:14:08",
-      "type": "position",
-      "msg": "XMR -0.14% — Tá difícil defender essa entrada"
     }
   ]
 }
