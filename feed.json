@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T13:20:56.271Z",
+      "time": "13:20:56",
+      "type": "position",
+      "msg": "ETH +0.15% — Se continuar assim, quase empato na semana"
+    },
+    {
       "ts": "2026-02-14T13:20:26.727Z",
       "time": "13:20:26",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "13:09:55",
       "type": "position",
       "msg": "ETH +0.05% — O mercado tá no modo avião"
-    },
-    {
-      "ts": "2026-02-14T13:09:26.145Z",
-      "time": "13:09:26",
-      "type": "position",
-      "msg": "HYPE +0.10% — O mercado decidiu tirar uma soneca"
     }
   ]
 }
