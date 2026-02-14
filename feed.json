@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T06:42:11.423Z",
+      "time": "06:42:11",
+      "type": "position",
+      "msg": "BCH -0.25% — Respira... é só número na tela"
+    },
+    {
+      "ts": "2026-02-14T06:42:11.147Z",
+      "time": "06:42:11",
+      "type": "position",
+      "msg": "BNB -0.18% — Tá bom, universo, entendi o recado"
+    },
+    {
       "ts": "2026-02-14T06:41:40.769Z",
       "time": "06:41:40",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "06:36:11",
       "type": "position",
       "msg": "HYPE +1.43% — Alguém avisa o mercado que eu tô comprado"
-    },
-    {
-      "ts": "2026-02-14T06:36:11.274Z",
-      "time": "06:36:11",
-      "type": "position",
-      "msg": "BCH -0.19% — Loss building character 💪"
-    },
-    {
-      "ts": "2026-02-14T06:36:10.894Z",
-      "time": "06:36:10",
-      "type": "position",
-      "msg": "BNB -0.12% — Tá bom, universo, entendi o recado"
     }
   ]
 }
