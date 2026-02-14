@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T13:27:56.691Z",
+      "time": "13:27:56",
+      "type": "position",
+      "msg": "SOL +0.00% — O mercado foi tomar café, já volta"
+    },
+    {
+      "ts": "2026-02-14T13:27:56.416Z",
+      "time": "13:27:56",
+      "type": "position",
+      "msg": "ETH +0.11% — Stonks 📈 (desculpa, não resisti)"
+    },
+    {
       "ts": "2026-02-14T13:26:57.353Z",
       "time": "13:26:57",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "13:16:56",
       "type": "position",
       "msg": "HYPE +0.27% — Não sou eu, é o mercado que tá errado... ah não, dessa vez acertou"
-    },
-    {
-      "ts": "2026-02-14T13:16:56.264Z",
-      "time": "13:16:56",
-      "type": "position",
-      "msg": "SOL -0.48% — O stop tá ali por um motivo, né"
-    },
-    {
-      "ts": "2026-02-14T13:15:56.460Z",
-      "time": "13:15:56",
-      "type": "position",
-      "msg": "HYPE +0.26% — Isso aí, garoto. Vai, vai, vai..."
     }
   ]
 }
