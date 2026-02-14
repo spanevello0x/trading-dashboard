@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T15:26:31.024Z",
+      "time": "15:26:31",
+      "type": "position",
+      "msg": "ETH +0.03% — Tô aqui, olhando, esperando, sofrendo"
+    },
+    {
       "ts": "2026-02-14T15:26:01.225Z",
       "time": "15:26:01",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "15:25:13",
       "type": "signal",
       "msg": "🎯 LONG MON @ $0.02 (89%) — Os indicadores mandaram, eu obedeci"
-    },
-    {
-      "ts": "2026-02-14T15:25:13.192Z",
-      "time": "15:25:13",
-      "type": "analysis",
-      "msg": "MON tá interessante, 89% pro LONG"
     }
   ]
 }
