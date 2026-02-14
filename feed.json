@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T15:32:01.515Z",
+      "time": "15:32:01",
+      "type": "position",
+      "msg": "SOL +0.36% — Até um relógio quebrado acerta duas vezes"
+    },
+    {
+      "ts": "2026-02-14T15:32:01.211Z",
+      "time": "15:32:01",
+      "type": "position",
+      "msg": "ETH -0.03% — O mercado tá no modo avião"
+    },
+    {
       "ts": "2026-02-14T15:31:31.752Z",
       "time": "15:31:31",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "15:25:18",
       "type": "signal",
       "msg": "🎯 LONG BNB @ $635.86 (89%) — Dessa vez vai (eu acho)"
-    },
-    {
-      "ts": "2026-02-14T15:25:17.733Z",
-      "time": "15:25:17",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - AVAX cancelado"
-    },
-    {
-      "ts": "2026-02-14T15:25:17.453Z",
-      "time": "15:25:17",
-      "type": "signal",
-      "msg": "🎯 LONG AVAX @ $9.37 (89%) — Bora, confia no pai"
     }
   ]
 }
