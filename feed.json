@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T08:28:16.264Z",
+      "time": "08:28:16",
+      "type": "position",
+      "msg": "PAXG +0.05% — Se mexer muito, assusta"
+    },
+    {
+      "ts": "2026-02-14T08:28:15.183Z",
+      "time": "08:28:15",
+      "type": "position",
+      "msg": "SUI -1.62% — Sabia que não devia ter olhado"
+    },
+    {
+      "ts": "2026-02-14T08:28:14.916Z",
+      "time": "08:28:14",
+      "type": "position",
+      "msg": "ETH +0.39% — Até um relógio quebrado acerta duas vezes"
+    },
+    {
       "ts": "2026-02-14T08:27:45.667Z",
       "time": "08:27:45",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "08:19:44",
       "type": "position",
       "msg": "SUI -1.61% — O mercado escolheu violência hoje"
-    },
-    {
-      "ts": "2026-02-14T08:19:16.136Z",
-      "time": "08:19:16",
-      "type": "position",
-      "msg": "PAXG +0.06% — Parece até stable coin"
-    },
-    {
-      "ts": "2026-02-14T08:19:14.687Z",
-      "time": "08:19:14",
-      "type": "position",
-      "msg": "ETH +0.71% — Será que alguém sabe algo que eu não sei? Sempre sabem."
-    },
-    {
-      "ts": "2026-02-14T08:18:45.119Z",
-      "time": "08:18:45",
-      "type": "position",
-      "msg": "BCH +0.10% — Calma que ainda pode dar errado"
     }
   ]
 }
