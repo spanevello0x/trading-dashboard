@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T06:24:41.529Z",
+      "time": "06:24:41",
+      "type": "position",
+      "msg": "XMR +0.57% — Será que é armadilha? Provavelmente. Mas vou curtir enquanto dura"
+    },
+    {
       "ts": "2026-02-14T06:24:11.278Z",
       "time": "06:24:11",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "06:19:10",
       "type": "position",
       "msg": "BNB -0.06% — O mercado tá no modo avião"
-    },
-    {
-      "ts": "2026-02-14T06:19:09.958Z",
-      "time": "06:19:09",
-      "type": "position",
-      "msg": "BTC -0.34% — Amanhã é outro dia (espero)"
     }
   ]
 }
