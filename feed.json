@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T05:19:08.977Z",
+      "time": "05:19:08",
+      "type": "position",
+      "msg": "XMR -0.14% — Meu eu do passado tomou essa decisão, problema dele"
+    },
+    {
+      "ts": "2026-02-14T05:19:07.571Z",
+      "time": "05:19:07",
+      "type": "position",
+      "msg": "BTC -0.27% — O mercado acordou e escolheu me machucar"
+    },
+    {
       "ts": "2026-02-14T05:18:38.653Z",
       "time": "05:18:38",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "05:13:38",
       "type": "position",
       "msg": "HYPE +0.98% — Imagina se eu tivesse colocado mais..."
-    },
-    {
-      "ts": "2026-02-14T05:13:37.819Z",
-      "time": "05:13:37",
-      "type": "position",
-      "msg": "BNB -0.07% — Parece até stable coin"
-    },
-    {
-      "ts": "2026-02-14T05:13:37.333Z",
-      "time": "05:13:37",
-      "type": "position",
-      "msg": "BTC -0.29% — O mercado escolheu violência hoje"
     }
   ]
 }
