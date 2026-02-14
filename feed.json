@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T08:46:16.241Z",
+      "time": "08:46:16",
+      "type": "position",
+      "msg": "BCH +0.98% — O mercado me ama (por enquanto)"
+    },
+    {
       "ts": "2026-02-14T08:45:46.499Z",
       "time": "08:45:46",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "08:37:15",
       "type": "position",
       "msg": "ETH +0.83% — Respira... ainda não acabou"
-    },
-    {
-      "ts": "2026-02-14T08:36:46.082Z",
-      "time": "08:36:46",
-      "type": "position",
-      "msg": "PAXG +0.08% — Consolidação ou indecisão? Sim."
     }
   ]
 }
