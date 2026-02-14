@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T09:14:47.791Z",
+      "time": "09:14:47",
+      "type": "position",
+      "msg": "PAXG +0.03% — A calmaria antes da tempestade... ou mais calmaria"
+    },
+    {
+      "ts": "2026-02-14T09:14:47.515Z",
+      "time": "09:14:47",
+      "type": "position",
+      "msg": "BCH +0.49% — Não me acostumem com isso"
+    },
+    {
+      "ts": "2026-02-14T09:14:46.929Z",
+      "time": "09:14:46",
+      "type": "position",
+      "msg": "ETH +0.98% — Não me acostumem com isso"
+    },
+    {
       "ts": "2026-02-14T09:14:17.014Z",
       "time": "09:14:17",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "09:07:16",
       "type": "position",
       "msg": "ETH +1.23% — Tá verde? Tira print rápido antes que vire"
-    },
-    {
-      "ts": "2026-02-14T09:06:47.146Z",
-      "time": "09:06:47",
-      "type": "position",
-      "msg": "PAXG -0.00% — Nem fede nem cheira"
-    },
-    {
-      "ts": "2026-02-14T09:06:46.883Z",
-      "time": "09:06:46",
-      "type": "position",
-      "msg": "BCH +0.86% — Respira... ainda não acabou"
-    },
-    {
-      "ts": "2026-02-14T09:06:16.640Z",
-      "time": "09:06:16",
-      "type": "position",
-      "msg": "SUI -2.73% — Quem mandou confiar em linha colorida"
     }
   ]
 }
