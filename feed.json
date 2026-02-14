@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T09:24:47.718Z",
+      "time": "09:24:47",
+      "type": "position",
+      "msg": "HYPE +0.01% — Parece até stable coin"
+    },
+    {
+      "ts": "2026-02-14T09:24:47.450Z",
+      "time": "09:24:47",
+      "type": "position",
+      "msg": "XRP +0.02% — Nem fede nem cheira"
+    },
+    {
+      "ts": "2026-02-14T09:24:47.089Z",
+      "time": "09:24:47",
+      "type": "position",
+      "msg": "ETH +0.83% — O mercado me ama (por enquanto)"
+    },
+    {
       "ts": "2026-02-14T09:24:17.861Z",
       "time": "09:24:17",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "09:16:49",
       "type": "signal",
       "msg": "🎯 LONG JUP @ $0.16 (78%) — Dessa vez vai (eu acho)"
-    },
-    {
-      "ts": "2026-02-14T09:16:49.741Z",
-      "time": "09:16:49",
-      "type": "analysis",
-      "msg": "Olhando JUP... 78% LONG"
-    },
-    {
-      "ts": "2026-02-14T09:16:49.419Z",
-      "time": "09:16:49",
-      "type": "analysis",
-      "msg": "Hmm, LINK mostrando sinais de SHORT (56%)"
-    },
-    {
-      "ts": "2026-02-14T09:16:49.108Z",
-      "time": "09:16:49",
-      "type": "analysis",
-      "msg": "Olhando MOODENG... 56% SHORT"
     }
   ]
 }
