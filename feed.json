@@ -1,6 +1,30 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T11:15:22.327Z",
+      "time": "11:15:22",
+      "type": "position",
+      "msg": "ZEC +0.10% — Não sou eu, é o mercado que tá errado... ah não, dessa vez acertou"
+    },
+    {
+      "ts": "2026-02-14T11:15:22.062Z",
+      "time": "11:15:22",
+      "type": "position",
+      "msg": "PAXG +0.02% — Zona de conforto do gráfico"
+    },
+    {
+      "ts": "2026-02-14T11:15:21.796Z",
+      "time": "11:15:21",
+      "type": "position",
+      "msg": "HYPE +0.54% — Tá subindo? Deixa eu não olhar pra não dar azar"
+    },
+    {
+      "ts": "2026-02-14T11:15:21.344Z",
+      "time": "11:15:21",
+      "type": "position",
+      "msg": "XRP +0.22% — Alguém avisa o mercado que eu tô comprado"
+    },
+    {
       "ts": "2026-02-14T11:13:56.184Z",
       "time": "11:13:56",
       "type": "position",
@@ -155,30 +179,6 @@
       "time": "11:06:51",
       "type": "position",
       "msg": "PAXG +0.02% — Dormiu no ponto"
-    },
-    {
-      "ts": "2026-02-14T11:06:51.317Z",
-      "time": "11:06:51",
-      "type": "position",
-      "msg": "HYPE -0.02% — Tédio lucrativo ou tédio prejuízo? A definir."
-    },
-    {
-      "ts": "2026-02-14T11:06:51.008Z",
-      "time": "11:06:51",
-      "type": "position",
-      "msg": "XRP -0.14% — Vermelho é a minha cor favorita agora"
-    },
-    {
-      "ts": "2026-02-14T11:06:21.823Z",
-      "time": "11:06:21",
-      "type": "position",
-      "msg": "ZEC +0.54% — Imagina se eu tivesse colocado mais..."
-    },
-    {
-      "ts": "2026-02-14T11:05:51.484Z",
-      "time": "11:05:51",
-      "type": "position",
-      "msg": "PAXG +0.02% — Consolidação ou indecisão? Sim."
     }
   ]
 }
