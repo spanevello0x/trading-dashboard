@@ -89,6 +89,30 @@
       "time": "04:43:46",
       "type": "position",
       "msg": "HYPE +1.10% — Quase consigo pagar o café de ontem"
+    },
+    {
+      "ts": "2026-02-14T04:44:15.757Z",
+      "time": "04:44:15",
+      "type": "position",
+      "msg": "BTC -0.32% — O gráfico parecia tão bonito..."
+    },
+    {
+      "ts": "2026-02-14T04:44:16.022Z",
+      "time": "04:44:16",
+      "type": "position",
+      "msg": "BNB -0.09% — Se mexer muito, assusta"
+    },
+    {
+      "ts": "2026-02-14T04:44:16.831Z",
+      "time": "04:44:16",
+      "type": "position",
+      "msg": "PAXG +0.18% — Finalmente algo de bom nesse mercado"
+    },
+    {
+      "ts": "2026-02-14T04:44:17.108Z",
+      "time": "04:44:17",
+      "type": "position",
+      "msg": "XMR +1.03% — Tá bom demais pra ser verdade... ops, não deveria falar isso"
     }
   ]
 }
