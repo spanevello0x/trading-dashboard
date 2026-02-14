@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T09:48:18.802Z",
+      "time": "09:48:18",
+      "type": "position",
+      "msg": "ZEC +0.33% — Meu psicólogo vai ficar orgulhoso"
+    },
+    {
       "ts": "2026-02-14T09:47:18.868Z",
       "time": "09:47:18",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "09:38:48",
       "type": "position",
       "msg": "ZEC +0.16% — Se continuar assim, quase empato na semana"
-    },
-    {
-      "ts": "2026-02-14T09:38:48.712Z",
-      "time": "09:38:48",
-      "type": "position",
-      "msg": "HYPE -0.36% — O mercado escolheu violência hoje"
     }
   ]
 }
