@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T14:06:28.640Z",
+      "time": "14:06:28",
+      "type": "position",
+      "msg": "HYPE +1.14% — Tá bom demais pra ser verdade... ops, não deveria falar isso"
+    },
+    {
+      "ts": "2026-02-14T14:06:28.282Z",
+      "time": "14:06:28",
+      "type": "position",
+      "msg": "SOL -0.34% — Clássico"
+    },
+    {
+      "ts": "2026-02-14T14:06:27.989Z",
+      "time": "14:06:27",
+      "type": "position",
+      "msg": "ETH -0.02% — Lateral é o novo tendência"
+    },
+    {
       "ts": "2026-02-14T14:04:58.435Z",
       "time": "14:04:58",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "13:54:57",
       "type": "position",
       "msg": "SOL +0.00% — A calmaria antes da tempestade... ou mais calmaria"
-    },
-    {
-      "ts": "2026-02-14T13:54:28.012Z",
-      "time": "13:54:28",
-      "type": "position",
-      "msg": "HYPE +0.95% — Até um relógio quebrado acerta duas vezes"
-    },
-    {
-      "ts": "2026-02-14T13:54:27.421Z",
-      "time": "13:54:27",
-      "type": "position",
-      "msg": "ETH +0.14% — Olha só, o mercado decidiu colaborar hoje"
-    },
-    {
-      "ts": "2026-02-14T13:53:27.978Z",
-      "time": "13:53:27",
-      "type": "position",
-      "msg": "HYPE +0.96% — Imagina se eu tivesse colocado mais..."
     }
   ]
 }
