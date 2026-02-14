@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T11:18:52.038Z",
+      "time": "11:18:52",
+      "type": "position",
+      "msg": "PAXG +0.03% — O mercado foi tomar café, já volta"
+    },
+    {
       "ts": "2026-02-14T11:18:22.387Z",
       "time": "11:18:22",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "11:10:22",
       "type": "position",
       "msg": "HYPE +0.23% — Tá subindo? Deixa eu não olhar pra não dar azar"
-    },
-    {
-      "ts": "2026-02-14T11:09:52.210Z",
-      "time": "11:09:52",
-      "type": "position",
-      "msg": "ZEC +0.64% — Tá bom demais pra ser verdade... ops, não deveria falar isso"
     }
   ]
 }
