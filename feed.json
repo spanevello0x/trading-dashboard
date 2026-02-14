@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T11:34:22.449Z",
+      "time": "11:34:22",
+      "type": "position",
+      "msg": "HYPE +1.25% — Tá subindo? Deixa eu não olhar pra não dar azar"
+    },
+    {
+      "ts": "2026-02-14T11:34:22.179Z",
+      "time": "11:34:22",
+      "type": "position",
+      "msg": "XRP +0.82% — Vou comemorar quando fechar. Talvez."
+    },
+    {
       "ts": "2026-02-14T11:33:23.428Z",
       "time": "11:33:23",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "11:25:52",
       "type": "position",
       "msg": "ZEC -0.53% — Podia ser pior. Dá tempo ainda."
-    },
-    {
-      "ts": "2026-02-14T11:25:22.325Z",
-      "time": "11:25:22",
-      "type": "position",
-      "msg": "PAXG -0.01% — Nem fede nem cheira"
-    },
-    {
-      "ts": "2026-02-14T11:25:21.962Z",
-      "time": "11:25:21",
-      "type": "position",
-      "msg": "HYPE +1.00% — O mercado tá generoso hoje, desconfio"
     }
   ]
 }
