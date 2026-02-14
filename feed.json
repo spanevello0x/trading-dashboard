@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T07:11:41.507Z",
+      "time": "07:11:41",
+      "type": "system",
+      "msg": "⏰ BTC expirou (30 candles) — Cancelando"
+    },
+    {
       "ts": "2026-02-14T07:11:13.672Z",
       "time": "07:11:13",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "07:05:41",
       "type": "position",
       "msg": "SUI -0.34% — Loss building character 💪"
-    },
-    {
-      "ts": "2026-02-14T07:05:41.559Z",
-      "time": "07:05:41",
-      "type": "position",
-      "msg": "BTC -0.23% — Vou culpar a lua, deve ser lua cheia"
     }
   ]
 }
