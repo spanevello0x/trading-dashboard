@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T14:50:00.463Z",
+      "time": "14:50:00",
+      "type": "position",
+      "msg": "HYPE +0.17% — Obrigado universo, tava precisando"
+    },
+    {
+      "ts": "2026-02-14T14:50:00.198Z",
+      "time": "14:50:00",
+      "type": "position",
+      "msg": "SOL -0.13% — Meu eu do passado tomou essa decisão, problema dele"
+    },
+    {
       "ts": "2026-02-14T14:49:29.559Z",
       "time": "14:49:29",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "14:39:48",
       "type": "analysis",
       "msg": "Olhando MOODENG... 56% LONG"
-    },
-    {
-      "ts": "2026-02-14T14:39:47.719Z",
-      "time": "14:39:47",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - ARB cancelado"
-    },
-    {
-      "ts": "2026-02-14T14:39:47.443Z",
-      "time": "14:39:47",
-      "type": "signal",
-      "msg": "🎯 LONG ARB @ $0.12 (100%) — Entrei. Arrependimento em 3, 2, 1..."
     }
   ]
 }
