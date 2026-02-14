@@ -1,6 +1,78 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T06:45:50.540Z",
+      "time": "06:45:50",
+      "type": "execution",
+      "msg": "✅ Filled: 0.003000 PAXG @ $5030.20"
+    },
+    {
+      "ts": "2026-02-14T06:45:48.593Z",
+      "time": "06:45:48",
+      "type": "execution",
+      "msg": "📤 Abrindo SHORT em PAXG..."
+    },
+    {
+      "ts": "2026-02-14T06:45:47.473Z",
+      "time": "06:45:47",
+      "type": "execution",
+      "msg": "⚙️ Leverage: 5x"
+    },
+    {
+      "ts": "2026-02-14T06:45:47.172Z",
+      "time": "06:45:47",
+      "type": "signal",
+      "msg": "🎯 SHORT PAXG @ $5030.30 (100%) — Dessa vez vai (eu acho)"
+    },
+    {
+      "ts": "2026-02-14T06:45:47.171Z",
+      "time": "06:45:47",
+      "type": "analysis",
+      "msg": "Olhando PAXG... 100% SHORT"
+    },
+    {
+      "ts": "2026-02-14T06:45:46.837Z",
+      "time": "06:45:46",
+      "type": "analysis",
+      "msg": "ZEC tá interessante, 56% pro LONG"
+    },
+    {
+      "ts": "2026-02-14T06:45:46.545Z",
+      "time": "06:45:46",
+      "type": "analysis",
+      "msg": "Analisando XRP... parece LONG (67%)"
+    },
+    {
+      "ts": "2026-02-14T06:45:45.922Z",
+      "time": "06:45:45",
+      "type": "analysis",
+      "msg": "Analisando ETH... parece LONG (56%)"
+    },
+    {
+      "ts": "2026-02-14T06:45:40.624Z",
+      "time": "06:45:40",
+      "type": "system",
+      "msg": "⏰ HYPE expirou (30 candles) — Cancelando"
+    },
+    {
+      "ts": "2026-02-14T06:45:29.556Z",
+      "time": "06:45:29",
+      "type": "position",
+      "msg": "HYPE +1.29% — Respira... ainda não acabou"
+    },
+    {
+      "ts": "2026-02-14T06:45:29.148Z",
+      "time": "06:45:29",
+      "type": "position",
+      "msg": "BTC -0.29% — Clássico"
+    },
+    {
+      "ts": "2026-02-14T06:45:24.382Z",
+      "time": "06:45:24",
+      "type": "system",
+      "msg": "⏰ PAXG expirou (30 candles) — Cancelando"
+    },
+    {
       "ts": "2026-02-14T06:45:19.517Z",
       "time": "06:45:19",
       "type": "system",
@@ -107,78 +179,6 @@
       "time": "06:41:40",
       "type": "position",
       "msg": "BTC -0.27% — Tá difícil defender essa entrada"
-    },
-    {
-      "ts": "2026-02-14T06:41:12.589Z",
-      "time": "06:41:12",
-      "type": "position",
-      "msg": "XMR -0.11% — Sabia que não devia ter olhado"
-    },
-    {
-      "ts": "2026-02-14T06:41:12.208Z",
-      "time": "06:41:12",
-      "type": "position",
-      "msg": "PAXG +0.15% — Alguém avisa o mercado que eu tô comprado"
-    },
-    {
-      "ts": "2026-02-14T06:41:11.924Z",
-      "time": "06:41:11",
-      "type": "position",
-      "msg": "HYPE +1.29% — Imagina se eu tivesse colocado mais..."
-    },
-    {
-      "ts": "2026-02-14T06:41:11.417Z",
-      "time": "06:41:11",
-      "type": "position",
-      "msg": "BCH -0.24% — Sabia que não devia ter olhado"
-    },
-    {
-      "ts": "2026-02-14T06:41:11.144Z",
-      "time": "06:41:11",
-      "type": "position",
-      "msg": "BNB -0.19% — Quem inventou crypto? Preciso conversar"
-    },
-    {
-      "ts": "2026-02-14T06:40:40.768Z",
-      "time": "06:40:40",
-      "type": "position",
-      "msg": "BTC -0.28% — Não é prejuízo se eu não vender... ah, tem stop"
-    },
-    {
-      "ts": "2026-02-14T06:39:42.613Z",
-      "time": "06:39:42",
-      "type": "position",
-      "msg": "XMR -0.19% — Pelo menos não é dinheiro de verdade... ah, espera"
-    },
-    {
-      "ts": "2026-02-14T06:39:42.346Z",
-      "time": "06:39:42",
-      "type": "position",
-      "msg": "PAXG +0.15% — Isso aí, garoto. Vai, vai, vai..."
-    },
-    {
-      "ts": "2026-02-14T06:39:42.081Z",
-      "time": "06:39:42",
-      "type": "position",
-      "msg": "HYPE +1.34% — Melhor que Netflix isso aqui"
-    },
-    {
-      "ts": "2026-02-14T06:39:41.814Z",
-      "time": "06:39:41",
-      "type": "position",
-      "msg": "BCH -0.28% — Prometo estudar mais... mentira, vou continuar igual"
-    },
-    {
-      "ts": "2026-02-14T06:39:41.543Z",
-      "time": "06:39:41",
-      "type": "position",
-      "msg": "BNB -0.20% — Pelo menos o stop existe. Graças a Deus pelo stop."
-    },
-    {
-      "ts": "2026-02-14T06:39:11.079Z",
-      "time": "06:39:11",
-      "type": "position",
-      "msg": "BTC -0.26% — Vou culpar a lua, deve ser lua cheia"
     }
   ]
 }
