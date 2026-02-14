@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T10:55:50.562Z",
+      "time": "10:55:50",
+      "type": "position",
+      "msg": "XRP -0.46% — Minha análise era perfeita, o mercado que tá errado"
+    },
+    {
       "ts": "2026-02-14T10:55:20.843Z",
       "time": "10:55:20",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "10:46:20",
       "type": "position",
       "msg": "PAXG +0.00% — Enquanto não move, não perco. Stonks mental."
-    },
-    {
-      "ts": "2026-02-14T10:46:20.493Z",
-      "time": "10:46:20",
-      "type": "position",
-      "msg": "HYPE -0.19% — Isso é um teste de caráter, com certeza"
     }
   ]
 }
