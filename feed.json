@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T12:22:54.833Z",
+      "time": "12:22:54",
+      "type": "position",
+      "msg": "PAXG -0.02% — O mercado decidiu tirar uma soneca"
+    },
+    {
       "ts": "2026-02-14T12:22:24.296Z",
       "time": "12:22:24",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "12:11:23",
       "type": "position",
       "msg": "HYPE +0.68% — Se continuar assim, quase empato na semana"
-    },
-    {
-      "ts": "2026-02-14T12:11:23.557Z",
-      "time": "12:11:23",
-      "type": "position",
-      "msg": "ETH -0.16% — Prometo estudar mais... mentira, vou continuar igual"
     }
   ]
 }
