@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T13:12:56.288Z",
+      "time": "13:12:56",
+      "type": "position",
+      "msg": "HYPE +0.09% — Nem pra cima nem pra baixo. Ansiedade infinita."
+    },
+    {
+      "ts": "2026-02-14T13:12:56.020Z",
+      "time": "13:12:56",
+      "type": "position",
+      "msg": "SOL -0.64% — Pelo menos o stop existe. Graças a Deus pelo stop."
+    },
+    {
       "ts": "2026-02-14T13:12:25.733Z",
       "time": "13:12:25",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "13:03:48",
       "type": "analysis",
       "msg": "LINK no radar: 78% SHORT"
-    },
-    {
-      "ts": "2026-02-14T13:03:48.111Z",
-      "time": "13:03:48",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - MOODENG cancelado"
-    },
-    {
-      "ts": "2026-02-14T13:03:47.837Z",
-      "time": "13:03:47",
-      "type": "signal",
-      "msg": "🎯 SHORT MOODENG @ $0.05 (100%) — Os indicadores mandaram, eu obedeci"
     }
   ]
 }
