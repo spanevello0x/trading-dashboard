@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T09:21:47.213Z",
+      "time": "09:21:47",
+      "type": "position",
+      "msg": "XRP +0.28% — Não sou eu, é o mercado que tá errado... ah não, dessa vez acertou"
+    },
+    {
+      "ts": "2026-02-14T09:21:46.953Z",
+      "time": "09:21:46",
+      "type": "position",
+      "msg": "ETH +1.06% — O mercado me ama (por enquanto)"
+    },
+    {
       "ts": "2026-02-14T09:21:18.402Z",
       "time": "09:21:18",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "09:16:47",
       "type": "system",
       "msg": "⚠️ Limite atingido (5/5) - TAO cancelado"
-    },
-    {
-      "ts": "2026-02-14T09:16:47.299Z",
-      "time": "09:16:47",
-      "type": "position",
-      "msg": "HYPE -0.03% — Lateral é o novo tendência"
-    },
-    {
-      "ts": "2026-02-14T09:16:47.132Z",
-      "time": "09:16:47",
-      "type": "signal",
-      "msg": "🎯 LONG TAO @ $205.66 (100%) — Vamo ver no que dá"
     }
   ]
 }
