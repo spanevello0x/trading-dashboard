@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T09:41:18.280Z",
+      "time": "09:41:18",
+      "type": "position",
+      "msg": "HYPE -0.32% — O stop tá ali por um motivo, né"
+    },
+    {
+      "ts": "2026-02-14T09:41:18.018Z",
+      "time": "09:41:18",
+      "type": "position",
+      "msg": "XRP +0.52% — Finalmente algo de bom nesse mercado"
+    },
+    {
       "ts": "2026-02-14T09:40:47.796Z",
       "time": "09:40:47",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "09:33:17",
       "type": "position",
       "msg": "XRP -0.02% — Dormiu no ponto"
-    },
-    {
-      "ts": "2026-02-14T09:32:48.008Z",
-      "time": "09:32:48",
-      "type": "position",
-      "msg": "HYPE -0.03% — O mercado tá buffering"
-    },
-    {
-      "ts": "2026-02-14T09:32:47.397Z",
-      "time": "09:32:47",
-      "type": "position",
-      "msg": "ETH +0.94% — Tá subindo? Deixa eu não olhar pra não dar azar"
     }
   ]
 }
