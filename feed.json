@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T05:08:38.555Z",
+      "time": "05:08:38",
+      "type": "position",
+      "msg": "XMR +0.18% — Stonks 📈 (desculpa, não resisti)"
+    },
+    {
+      "ts": "2026-02-14T05:08:37.114Z",
+      "time": "05:08:37",
+      "type": "position",
+      "msg": "BTC -0.35% — O mercado acordou e escolheu me machucar"
+    },
+    {
       "ts": "2026-02-14T05:08:08.305Z",
       "time": "05:08:08",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "05:03:08",
       "type": "position",
       "msg": "HYPE +1.09% — Print pra mostrar pros netos"
-    },
-    {
-      "ts": "2026-02-14T05:02:38.433Z",
-      "time": "05:02:38",
-      "type": "position",
-      "msg": "XMR +0.09% — Tick tock, mercado..."
-    },
-    {
-      "ts": "2026-02-14T05:02:37.618Z",
-      "time": "05:02:37",
-      "type": "position",
-      "msg": "BCH +0.09% — O mercado tá no modo avião"
     }
   ]
 }
