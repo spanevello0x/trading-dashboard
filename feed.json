@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T11:28:22.558Z",
+      "time": "11:28:22",
+      "type": "position",
+      "msg": "ZEC +0.15% — Quase consigo pagar o café de ontem"
+    },
+    {
+      "ts": "2026-02-14T11:28:22.288Z",
+      "time": "11:28:22",
+      "type": "position",
+      "msg": "PAXG +0.00% — Tick tock, mercado..."
+    },
+    {
       "ts": "2026-02-14T11:27:52.636Z",
       "time": "11:27:52",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "11:19:52",
       "type": "position",
       "msg": "ZEC -0.10% — Não é prejuízo se eu não vender... ah, tem stop"
-    },
-    {
-      "ts": "2026-02-14T11:19:52.389Z",
-      "time": "11:19:52",
-      "type": "position",
-      "msg": "PAXG +0.03% — Será que esqueceram dessa moeda?"
-    },
-    {
-      "ts": "2026-02-14T11:19:52.110Z",
-      "time": "11:19:52",
-      "type": "position",
-      "msg": "HYPE +0.52% — Respira... ainda não acabou"
     }
   ]
 }
