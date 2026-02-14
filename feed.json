@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T07:51:14.006Z",
+      "time": "07:51:14",
+      "type": "position",
+      "msg": "AAVE +1.36% — Se continuar assim, quase empato na semana"
+    },
+    {
+      "ts": "2026-02-14T07:51:13.741Z",
+      "time": "07:51:13",
+      "type": "position",
+      "msg": "BCH +0.18% — Meu psicólogo vai ficar orgulhoso"
+    },
+    {
       "ts": "2026-02-14T07:50:44.880Z",
       "time": "07:50:44",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "07:42:43",
       "type": "position",
       "msg": "SUI -0.56% — Meu eu do passado tomou essa decisão, problema dele"
-    },
-    {
-      "ts": "2026-02-14T07:41:43.867Z",
-      "time": "07:41:43",
-      "type": "position",
-      "msg": "AAVE +1.07% — Lucro é lucro, mesmo que pague só o almoço"
-    },
-    {
-      "ts": "2026-02-14T07:41:43.425Z",
-      "time": "07:41:43",
-      "type": "position",
-      "msg": "BCH -0.44% — Minha análise era perfeita, o mercado que tá errado"
     }
   ]
 }
