@@ -1,184 +1,46 @@
 {
   "feed": [
     {
-      "ts": "2026-02-14T04:41:43.996Z",
-      "time": "04:41:43",
+      "ts": "2026-02-14T04:47:35.650Z",
+      "time": "04:47:35",
       "type": "position",
-      "msg": "BNB -0.10% — Nem comprador nem vendedor quer tomar atitude"
+      "msg": "XMR +0.82% — Respira... ainda não acabou"
     },
     {
-      "ts": "2026-02-14T04:41:44.266Z",
-      "time": "04:41:44",
-      "type": "position",
-      "msg": "BCH +0.03% — Lateral é o novo tendência"
-    },
-    {
-      "ts": "2026-02-14T04:41:44.529Z",
-      "time": "04:41:44",
-      "type": "position",
-      "msg": "HYPE +1.08% — Print pra mostrar pros netos"
-    },
-    {
-      "ts": "2026-02-14T04:41:44.796Z",
-      "time": "04:41:44",
-      "type": "position",
-      "msg": "PAXG +0.18% — Olha só, o mercado decidiu colaborar hoje"
-    },
-    {
-      "ts": "2026-02-14T04:41:45.065Z",
-      "time": "04:41:45",
-      "type": "position",
-      "msg": "XMR +1.16% — Não é muito, mas é trabalho honesto"
-    },
-    {
-      "ts": "2026-02-14T04:42:45.763Z",
-      "time": "04:42:45",
-      "type": "position",
-      "msg": "BTC -0.32% — O mercado escolheu violência hoje"
-    },
-    {
-      "ts": "2026-02-14T04:42:46.023Z",
-      "time": "04:42:46",
-      "type": "position",
-      "msg": "BNB -0.07% — O mercado foi tomar café, já volta"
-    },
-    {
-      "ts": "2026-02-14T04:42:46.287Z",
-      "time": "04:42:46",
-      "type": "position",
-      "msg": "BCH +0.04% — Será que esqueceram dessa moeda?"
-    },
-    {
-      "ts": "2026-02-14T04:42:46.552Z",
-      "time": "04:42:46",
-      "type": "position",
-      "msg": "HYPE +1.10% — Isso aí, garoto. Vai, vai, vai..."
-    },
-    {
-      "ts": "2026-02-14T04:42:47.298Z",
-      "time": "04:42:47",
-      "type": "position",
-      "msg": "PAXG +0.18% — O mercado tá generoso hoje, desconfio"
-    },
-    {
-      "ts": "2026-02-14T04:42:47.567Z",
-      "time": "04:42:47",
-      "type": "position",
-      "msg": "XMR +1.12% — O mercado tá generoso hoje, desconfio"
-    },
-    {
-      "ts": "2026-02-14T04:43:46.325Z",
-      "time": "04:43:46",
-      "type": "position",
-      "msg": "BCH +0.02% — Se mexer muito, assusta"
-    },
-    {
-      "ts": "2026-02-14T04:43:46.586Z",
-      "time": "04:43:46",
-      "type": "position",
-      "msg": "HYPE +1.10% — Quase consigo pagar o café de ontem"
-    },
-    {
-      "ts": "2026-02-14T04:44:15.757Z",
-      "time": "04:44:15",
-      "type": "position",
-      "msg": "BTC -0.32% — O gráfico parecia tão bonito..."
-    },
-    {
-      "ts": "2026-02-14T04:44:16.022Z",
-      "time": "04:44:16",
-      "type": "position",
-      "msg": "BNB -0.09% — Se mexer muito, assusta"
-    },
-    {
-      "ts": "2026-02-14T04:44:16.831Z",
-      "time": "04:44:16",
-      "type": "position",
-      "msg": "PAXG +0.18% — Finalmente algo de bom nesse mercado"
-    },
-    {
-      "ts": "2026-02-14T04:44:17.108Z",
-      "time": "04:44:17",
-      "type": "position",
-      "msg": "XMR +1.03% — Tá bom demais pra ser verdade... ops, não deveria falar isso"
-    },
-    {
-      "ts": "2026-02-14T04:44:46.385Z",
-      "time": "04:44:46",
-      "type": "position",
-      "msg": "BCH +0.02% — O mercado tá pensando..."
-    },
-    {
-      "ts": "2026-02-14T04:44:46.653Z",
-      "time": "04:44:46",
-      "type": "position",
-      "msg": "HYPE +1.17% — Respira... ainda não acabou"
-    },
-    {
-      "ts": "2026-02-14T04:45:15.815Z",
-      "time": "04:45:15",
-      "type": "position",
-      "msg": "BTC -0.33% — Podia ser pior. Dá tempo ainda."
-    },
-    {
-      "ts": "2026-02-14T04:45:16.091Z",
-      "time": "04:45:16",
-      "type": "position",
-      "msg": "BNB -0.08% — Dormiu no ponto"
-    },
-    {
-      "ts": "2026-02-14T04:45:17.068Z",
-      "time": "04:45:17",
-      "type": "position",
-      "msg": "PAXG +0.18% — Será que é armadilha? Provavelmente. Mas vou curtir enquanto dura"
-    },
-    {
-      "ts": "2026-02-14T04:45:17.333Z",
-      "time": "04:45:17",
-      "type": "position",
-      "msg": "XMR +0.87% — Quem diria, acertei uma"
-    },
-    {
-      "ts": "2026-02-14T04:46:15.899Z",
-      "time": "04:46:15",
-      "type": "position",
-      "msg": "BTC -0.36% — O stop tá ali por um motivo, né"
-    },
-    {
-      "ts": "2026-02-14T04:46:16.173Z",
-      "time": "04:46:16",
-      "type": "position",
-      "msg": "BNB -0.07% — Consolidação ou indecisão? Sim."
-    },
-    {
-      "ts": "2026-02-14T04:46:16.435Z",
-      "time": "04:46:16",
-      "type": "position",
-      "msg": "BCH -0.01% — Lateral é o novo tendência"
-    },
-    {
-      "ts": "2026-02-14T04:46:16.700Z",
-      "time": "04:46:16",
-      "type": "position",
-      "msg": "HYPE +1.14% — Meu psicólogo vai ficar orgulhoso"
-    },
-    {
-      "ts": "2026-02-14T04:46:46.975Z",
-      "time": "04:46:46",
+      "ts": "2026-02-14T04:47:35.385Z",
+      "time": "04:47:35",
       "type": "position",
       "msg": "PAXG +0.19% — Meu psicólogo vai ficar orgulhoso"
     },
     {
-      "ts": "2026-02-14T04:46:47.237Z",
-      "time": "04:46:47",
+      "ts": "2026-02-14T04:47:35.107Z",
+      "time": "04:47:35",
       "type": "position",
-      "msg": "XMR +0.88% — Calma que ainda pode dar errado"
+      "msg": "HYPE +0.97% — Olha só, o mercado decidiu colaborar hoje"
     },
     {
-      "ts": "2026-02-14T04:47:15.909Z",
-      "time": "04:47:15",
+      "ts": "2026-02-14T04:47:34.839Z",
+      "time": "04:47:34",
       "type": "position",
-      "msg": "BTC -0.36% — Respira... é só número na tela"
+      "msg": "BCH -0.04% — Neutro: onde a ansiedade e o tédio se encontram"
+    },
+    {
+      "ts": "2026-02-14T04:47:34.573Z",
+      "time": "04:47:34",
+      "type": "position",
+      "msg": "BNB -0.11% — O mercado acordou e escolheu me machucar"
+    },
+    {
+      "ts": "2026-02-14T04:47:34.302Z",
+      "time": "04:47:34",
+      "type": "position",
+      "msg": "BTC -0.35% — Tá difícil defender essa entrada"
+    },
+    {
+      "ts": "2026-02-14T04:47:33.664Z",
+      "time": "04:47:33",
+      "type": "system",
+      "msg": "🤖 QuickBot V3 ativo. Watching: BTC, ETH, SOL, HYPE, XRP, ZEC, PAXG, LIT, ZRO, ASTER, AAVE, PUMP, SUI, UNI, MON, BCH, XPL, FARTCOIN, DOGE, BERA, AZTEC, VIRTUAL, AVAX, BNB, OM, TAO, VVV, XMR, kPEPE, ARB, MOODENG, LINK, JUP"
     }
   ]
 }
