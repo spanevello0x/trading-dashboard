@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T11:46:32.116Z",
+      "time": "11:46:32",
+      "type": "position",
+      "msg": "PAXG -0.02% — Nem pra cima nem pra baixo. Ansiedade infinita."
+    },
+    {
+      "ts": "2026-02-14T11:46:26.994Z",
+      "time": "11:46:26",
+      "type": "system",
+      "msg": "⏰ XRP expirou (30 candles) — Cancelando"
+    },
+    {
+      "ts": "2026-02-14T11:46:22.215Z",
+      "time": "11:46:22",
+      "type": "system",
+      "msg": "⏰ ZEC expirou (30 candles) — Cancelando"
+    },
+    {
       "ts": "2026-02-14T11:45:52.787Z",
       "time": "11:45:52",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "11:38:22",
       "type": "position",
       "msg": "PAXG +0.01% — Tick tock, mercado..."
-    },
-    {
-      "ts": "2026-02-14T11:38:22.493Z",
-      "time": "11:38:22",
-      "type": "position",
-      "msg": "HYPE +0.89% — Melhor que Netflix isso aqui"
-    },
-    {
-      "ts": "2026-02-14T11:37:53.055Z",
-      "time": "11:37:53",
-      "type": "position",
-      "msg": "ZEC +0.56% — Stonks 📈 (desculpa, não resisti)"
-    },
-    {
-      "ts": "2026-02-14T11:37:52.232Z",
-      "time": "11:37:52",
-      "type": "position",
-      "msg": "XRP +1.03% — Tá bom demais pra ser verdade... ops, não deveria falar isso"
     }
   ]
 }
