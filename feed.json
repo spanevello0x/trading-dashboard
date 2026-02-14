@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T07:51:43.514Z",
+      "time": "07:51:43",
+      "type": "position",
+      "msg": "SUI -0.97% — Sabia que não devia ter olhado"
+    },
+    {
       "ts": "2026-02-14T07:51:14.006Z",
       "time": "07:51:14",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "07:42:43",
       "type": "position",
       "msg": "BCH -0.43% — O mercado acordou e escolheu me machucar"
-    },
-    {
-      "ts": "2026-02-14T07:42:43.337Z",
-      "time": "07:42:43",
-      "type": "position",
-      "msg": "SUI -0.56% — Meu eu do passado tomou essa decisão, problema dele"
     }
   ]
 }
