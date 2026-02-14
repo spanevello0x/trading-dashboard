@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T14:47:59.601Z",
+      "time": "14:47:59",
+      "type": "position",
+      "msg": "ETH -0.12% — Pelo menos o stop existe. Graças a Deus pelo stop."
+    },
+    {
       "ts": "2026-02-14T14:47:29.993Z",
       "time": "14:47:29",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "14:39:46",
       "type": "signal",
       "msg": "🎯 LONG kPEPE @ $0.00 (89%) — Bora, confia no pai"
-    },
-    {
-      "ts": "2026-02-14T14:39:46.840Z",
-      "time": "14:39:46",
-      "type": "analysis",
-      "msg": "Analisando kPEPE... parece LONG (89%)"
     }
   ]
 }
