@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T07:52:14.332Z",
+      "time": "07:52:14",
+      "type": "position",
+      "msg": "PAXG -0.02% — Consolidação ou indecisão? Sim."
+    },
+    {
+      "ts": "2026-02-14T07:52:14.072Z",
+      "time": "07:52:14",
+      "type": "position",
+      "msg": "AAVE +1.29% — Se continuar assim, quase empato na semana"
+    },
+    {
+      "ts": "2026-02-14T07:52:13.803Z",
+      "time": "07:52:13",
+      "type": "position",
+      "msg": "BCH +0.16% — Até um relógio quebrado acerta duas vezes"
+    },
+    {
       "ts": "2026-02-14T07:51:43.514Z",
       "time": "07:51:43",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "07:44:13",
       "type": "position",
       "msg": "SUI -0.73% — Mais um dia normal no crypto"
-    },
-    {
-      "ts": "2026-02-14T07:43:13.733Z",
-      "time": "07:43:13",
-      "type": "position",
-      "msg": "AAVE +1.32% — Imagina se eu tivesse colocado mais..."
-    },
-    {
-      "ts": "2026-02-14T07:42:44.154Z",
-      "time": "07:42:44",
-      "type": "position",
-      "msg": "PAXG +0.05% — Enquanto não move, não perco. Stonks mental."
-    },
-    {
-      "ts": "2026-02-14T07:42:43.598Z",
-      "time": "07:42:43",
-      "type": "position",
-      "msg": "BCH -0.43% — O mercado acordou e escolheu me machucar"
     }
   ]
 }
