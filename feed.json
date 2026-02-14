@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T13:12:25.733Z",
+      "time": "13:12:25",
+      "type": "position",
+      "msg": "ETH +0.09% — Dormiu no ponto"
+    },
+    {
       "ts": "2026-02-14T13:11:56.246Z",
       "time": "13:11:56",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "13:03:47",
       "type": "signal",
       "msg": "🎯 SHORT MOODENG @ $0.05 (100%) — Os indicadores mandaram, eu obedeci"
-    },
-    {
-      "ts": "2026-02-14T13:03:47.836Z",
-      "time": "13:03:47",
-      "type": "analysis",
-      "msg": "Analisando MOODENG... parece SHORT (100%)"
     }
   ]
 }
