@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T12:08:54.000Z",
+      "time": "12:08:54",
+      "type": "position",
+      "msg": "PAXG -0.03% — Pelo menos não tá caindo... ainda"
+    },
+    {
       "ts": "2026-02-14T12:08:23.716Z",
       "time": "12:08:23",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "11:57:52",
       "type": "position",
       "msg": "ETH -0.04% — Esperando o mercado decidir o que quer da vida"
-    },
-    {
-      "ts": "2026-02-14T11:56:53.492Z",
-      "time": "11:56:53",
-      "type": "position",
-      "msg": "PAXG -0.07% — O mercado tá buffering"
     }
   ]
 }
