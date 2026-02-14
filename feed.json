@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T12:25:24.449Z",
+      "time": "12:25:24",
+      "type": "position",
+      "msg": "HYPE -0.35% — Respira... é só número na tela"
+    },
+    {
       "ts": "2026-02-14T12:24:54.085Z",
       "time": "12:24:54",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "12:13:55",
       "type": "position",
       "msg": "PAXG -0.04% — Parece até stable coin"
-    },
-    {
-      "ts": "2026-02-14T12:13:54.628Z",
-      "time": "12:13:54",
-      "type": "position",
-      "msg": "HYPE +0.48% — Não sou eu, é o mercado que tá errado... ah não, dessa vez acertou"
     }
   ]
 }
