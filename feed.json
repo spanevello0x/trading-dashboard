@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T10:30:50.453Z",
+      "time": "10:30:50",
+      "type": "position",
+      "msg": "PAXG -0.00% — Consolidação ou indecisão? Sim."
+    },
+    {
+      "ts": "2026-02-14T10:30:50.188Z",
+      "time": "10:30:50",
+      "type": "position",
+      "msg": "HYPE -0.46% — Amanhã é outro dia (espero)"
+    },
+    {
+      "ts": "2026-02-14T10:30:49.921Z",
+      "time": "10:30:49",
+      "type": "position",
+      "msg": "XRP -0.32% — O mercado escolheu violência hoje"
+    },
+    {
       "ts": "2026-02-14T10:29:50.933Z",
       "time": "10:29:50",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "10:24:09",
       "type": "system",
       "msg": "⚠️ Limite atingido (5/5) - LINK cancelado"
-    },
-    {
-      "ts": "2026-02-14T10:24:09.106Z",
-      "time": "10:24:09",
-      "type": "signal",
-      "msg": "🎯 SHORT LINK @ $8.92 (78%) — Vamo ver no que dá"
-    },
-    {
-      "ts": "2026-02-14T10:24:09.106Z",
-      "time": "10:24:09",
-      "type": "analysis",
-      "msg": "Hmm, LINK mostrando sinais de SHORT (78%)"
-    },
-    {
-      "ts": "2026-02-14T10:24:08.255Z",
-      "time": "10:24:08",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - kPEPE cancelado"
     }
   ]
 }
