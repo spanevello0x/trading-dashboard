@@ -77,6 +77,18 @@
       "time": "04:42:47",
       "type": "position",
       "msg": "XMR +1.12% — O mercado tá generoso hoje, desconfio"
+    },
+    {
+      "ts": "2026-02-14T04:43:46.325Z",
+      "time": "04:43:46",
+      "type": "position",
+      "msg": "BCH +0.02% — Se mexer muito, assusta"
+    },
+    {
+      "ts": "2026-02-14T04:43:46.586Z",
+      "time": "04:43:46",
+      "type": "position",
+      "msg": "HYPE +1.10% — Quase consigo pagar o café de ontem"
     }
   ]
 }
