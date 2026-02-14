@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T13:32:26.739Z",
+      "time": "13:32:26",
+      "type": "position",
+      "msg": "SOL +0.18% — Respira... ainda não acabou"
+    },
+    {
+      "ts": "2026-02-14T13:32:26.472Z",
+      "time": "13:32:26",
+      "type": "position",
+      "msg": "ETH +0.26% — Não é muito, mas é trabalho honesto"
+    },
+    {
       "ts": "2026-02-14T13:31:57.039Z",
       "time": "13:31:57",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "13:21:26",
       "type": "position",
       "msg": "HYPE +0.67% — O mercado tá generoso hoje, desconfio"
-    },
-    {
-      "ts": "2026-02-14T13:21:26.658Z",
-      "time": "13:21:26",
-      "type": "position",
-      "msg": "SOL -0.05% — Pelo menos não tá caindo... ainda"
-    },
-    {
-      "ts": "2026-02-14T13:20:56.271Z",
-      "time": "13:20:56",
-      "type": "position",
-      "msg": "ETH +0.15% — Se continuar assim, quase empato na semana"
     }
   ]
 }
