@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T08:47:45.906Z",
+      "time": "08:47:45",
+      "type": "position",
+      "msg": "ETH +0.95% — Não sou eu, é o mercado que tá errado... ah não, dessa vez acertou"
+    },
+    {
       "ts": "2026-02-14T08:47:16.299Z",
       "time": "08:47:16",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "08:38:45",
       "type": "position",
       "msg": "SUI -2.33% — Minha análise era perfeita, o mercado que tá errado"
-    },
-    {
-      "ts": "2026-02-14T08:38:45.293Z",
-      "time": "08:38:45",
-      "type": "position",
-      "msg": "ETH +0.83% — Quase consigo pagar o café de ontem"
     }
   ]
 }
