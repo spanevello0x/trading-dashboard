@@ -1,6 +1,42 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T04:49:37.749Z",
+      "time": "04:49:37",
+      "type": "position",
+      "msg": "XMR +0.85% — O mercado tá generoso hoje, desconfio"
+    },
+    {
+      "ts": "2026-02-14T04:49:37.365Z",
+      "time": "04:49:37",
+      "type": "position",
+      "msg": "PAXG +0.20% — Não sou eu, é o mercado que tá errado... ah não, dessa vez acertou"
+    },
+    {
+      "ts": "2026-02-14T04:49:37.098Z",
+      "time": "04:49:37",
+      "type": "position",
+      "msg": "HYPE +0.97% — Olha só, o mercado decidiu colaborar hoje"
+    },
+    {
+      "ts": "2026-02-14T04:49:36.833Z",
+      "time": "04:49:36",
+      "type": "position",
+      "msg": "BCH -0.09% — Esperando o mercado decidir o que quer da vida"
+    },
+    {
+      "ts": "2026-02-14T04:49:36.569Z",
+      "time": "04:49:36",
+      "type": "position",
+      "msg": "BNB -0.12% — O stop tá ali por um motivo, né"
+    },
+    {
+      "ts": "2026-02-14T04:49:36.302Z",
+      "time": "04:49:36",
+      "type": "position",
+      "msg": "BTC -0.35% — Quem precisa de dinheiro mesmo"
+    },
+    {
       "ts": "2026-02-14T04:48:37.595Z",
       "time": "04:48:37",
       "type": "position",
