@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T11:40:53.469Z",
+      "time": "11:40:53",
+      "type": "position",
+      "msg": "ZEC +0.74% — Melhor que Netflix isso aqui"
+    },
+    {
+      "ts": "2026-02-14T11:40:52.670Z",
+      "time": "11:40:52",
+      "type": "position",
+      "msg": "XRP +0.89% — Não sou eu, é o mercado que tá errado... ah não, dessa vez acertou"
+    },
+    {
       "ts": "2026-02-14T11:40:22.927Z",
       "time": "11:40:22",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "11:33:22",
       "type": "position",
       "msg": "HYPE +1.23% — Tá bom demais pra ser verdade... ops, não deveria falar isso"
-    },
-    {
-      "ts": "2026-02-14T11:33:22.080Z",
-      "time": "11:33:22",
-      "type": "position",
-      "msg": "XRP +0.94% — Tá verde? Tira print rápido antes que vire"
-    },
-    {
-      "ts": "2026-02-14T11:31:53.376Z",
-      "time": "11:31:53",
-      "type": "position",
-      "msg": "ZEC +0.12% — Não é muito, mas é trabalho honesto"
     }
   ]
 }
