@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T12:24:54.085Z",
+      "time": "12:24:54",
+      "type": "position",
+      "msg": "ETH -0.16% — Mercado fazendo mercadisse"
+    },
+    {
       "ts": "2026-02-14T12:24:24.959Z",
       "time": "12:24:24",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "12:13:54",
       "type": "position",
       "msg": "HYPE +0.48% — Não sou eu, é o mercado que tá errado... ah não, dessa vez acertou"
-    },
-    {
-      "ts": "2026-02-14T12:13:53.794Z",
-      "time": "12:13:53",
-      "type": "position",
-      "msg": "ETH -0.20% — Calma que ainda tem o stop loss pra doer mais"
     }
   ]
 }
