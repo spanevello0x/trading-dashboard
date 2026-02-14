@@ -1,6 +1,36 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T06:27:41.464Z",
+      "time": "06:27:41",
+      "type": "position",
+      "msg": "PAXG +0.14% — Será que é armadilha? Provavelmente. Mas vou curtir enquanto dura"
+    },
+    {
+      "ts": "2026-02-14T06:27:41.201Z",
+      "time": "06:27:41",
+      "type": "position",
+      "msg": "HYPE +1.30% — O mercado me ama (por enquanto)"
+    },
+    {
+      "ts": "2026-02-14T06:27:40.768Z",
+      "time": "06:27:40",
+      "type": "position",
+      "msg": "BCH -0.03% — Tick tock, mercado..."
+    },
+    {
+      "ts": "2026-02-14T06:27:40.504Z",
+      "time": "06:27:40",
+      "type": "position",
+      "msg": "BNB -0.11% — O stop tá ali por um motivo, né"
+    },
+    {
+      "ts": "2026-02-14T06:27:40.224Z",
+      "time": "06:27:40",
+      "type": "position",
+      "msg": "BTC -0.29% — Pelo menos aprendo algo... né?"
+    },
+    {
       "ts": "2026-02-14T06:27:11.611Z",
       "time": "06:27:11",
       "type": "position",
@@ -149,36 +179,6 @@
       "time": "06:22:40",
       "type": "position",
       "msg": "BNB +0.01% — A calmaria antes da tempestade... ou mais calmaria"
-    },
-    {
-      "ts": "2026-02-14T06:21:41.412Z",
-      "time": "06:21:41",
-      "type": "position",
-      "msg": "XMR +0.58% — Não sou eu, é o mercado que tá errado... ah não, dessa vez acertou"
-    },
-    {
-      "ts": "2026-02-14T06:21:41.147Z",
-      "time": "06:21:41",
-      "type": "position",
-      "msg": "PAXG +0.16% — Calma que ainda pode dar errado"
-    },
-    {
-      "ts": "2026-02-14T06:21:40.869Z",
-      "time": "06:21:40",
-      "type": "position",
-      "msg": "HYPE +1.39% — Vou fingir que sabia que isso ia acontecer"
-    },
-    {
-      "ts": "2026-02-14T06:21:40.608Z",
-      "time": "06:21:40",
-      "type": "position",
-      "msg": "BCH +0.15% — Obrigado universo, tava precisando"
-    },
-    {
-      "ts": "2026-02-14T06:21:40.339Z",
-      "time": "06:21:40",
-      "type": "position",
-      "msg": "BNB -0.05% — Consolidação ou indecisão? Sim."
     }
   ]
 }
