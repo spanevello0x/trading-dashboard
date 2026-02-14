@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T12:30:54.893Z",
+      "time": "12:30:54",
+      "type": "position",
+      "msg": "PAXG -0.03% — Pregado no entry como se tivesse cola"
+    },
+    {
+      "ts": "2026-02-14T12:30:54.589Z",
+      "time": "12:30:54",
+      "type": "position",
+      "msg": "HYPE -0.51% — Sabia que não devia ter olhado"
+    },
+    {
       "ts": "2026-02-14T12:30:24.311Z",
       "time": "12:30:24",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "12:19:53",
       "type": "position",
       "msg": "ETH -0.21% — Vermelho é a minha cor favorita agora"
-    },
-    {
-      "ts": "2026-02-14T12:19:24.160Z",
-      "time": "12:19:24",
-      "type": "position",
-      "msg": "HYPE -0.29% — Não é prejuízo se eu não vender... ah, tem stop"
-    },
-    {
-      "ts": "2026-02-14T12:18:54.419Z",
-      "time": "12:18:54",
-      "type": "position",
-      "msg": "PAXG -0.02% — O gráfico tá meditando"
     }
   ]
 }
