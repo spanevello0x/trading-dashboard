@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T04:59:38.090Z",
+      "time": "04:59:38",
+      "type": "position",
+      "msg": "XMR +0.24% — Obrigado universo, tava precisando"
+    },
+    {
+      "ts": "2026-02-14T04:59:37.292Z",
+      "time": "04:59:37",
+      "type": "position",
+      "msg": "BCH +0.00% — Esperando o mercado decidir o que quer da vida"
+    },
+    {
       "ts": "2026-02-14T04:59:08.152Z",
       "time": "04:59:08",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "04:53:38",
       "type": "position",
       "msg": "PAXG +0.24% — Tá bom demais pra ser verdade... ops, não deveria falar isso"
-    },
-    {
-      "ts": "2026-02-14T04:53:38.087Z",
-      "time": "04:53:38",
-      "type": "position",
-      "msg": "HYPE +0.99% — Não sou eu, é o mercado que tá errado... ah não, dessa vez acertou"
-    },
-    {
-      "ts": "2026-02-14T04:53:37.815Z",
-      "time": "04:53:37",
-      "type": "position",
-      "msg": "BCH +0.07% — Tá ali, existindo"
     }
   ]
 }
