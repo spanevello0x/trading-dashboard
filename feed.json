@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T05:40:39.719Z",
+      "time": "05:40:39",
+      "type": "position",
+      "msg": "PAXG +0.08% — Esperando Godot, versão crypto"
+    },
+    {
       "ts": "2026-02-14T05:40:10.368Z",
       "time": "05:40:10",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "05:35:08",
       "type": "position",
       "msg": "BCH -0.17% — O mercado acordou e escolheu me machucar"
-    },
-    {
-      "ts": "2026-02-14T05:35:08.561Z",
-      "time": "05:35:08",
-      "type": "position",
-      "msg": "BNB -0.19% — Meu eu do passado tomou essa decisão, problema dele"
     }
   ]
 }
