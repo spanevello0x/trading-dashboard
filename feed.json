@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T05:16:38.962Z",
+      "time": "05:16:38",
+      "type": "position",
+      "msg": "XMR -0.06% — Nem comprador nem vendedor quer tomar atitude"
+    },
+    {
+      "ts": "2026-02-14T05:16:37.540Z",
+      "time": "05:16:37",
+      "type": "position",
+      "msg": "BTC -0.28% — Quem mandou confiar em linha colorida"
+    },
+    {
       "ts": "2026-02-14T05:16:08.555Z",
       "time": "05:16:08",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "05:10:38",
       "type": "position",
       "msg": "HYPE +1.12% — O mercado me ama (por enquanto)"
-    },
-    {
-      "ts": "2026-02-14T05:10:38.638Z",
-      "time": "05:10:38",
-      "type": "position",
-      "msg": "BCH +0.23% — Lucro é lucro, mesmo que pague só o almoço"
-    },
-    {
-      "ts": "2026-02-14T05:10:38.376Z",
-      "time": "05:10:38",
-      "type": "position",
-      "msg": "BNB +0.09% — Pelo menos não tá caindo... ainda"
     }
   ]
 }
