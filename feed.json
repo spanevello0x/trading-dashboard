@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T14:15:28.382Z",
+      "time": "14:15:28",
+      "type": "position",
+      "msg": "SOL -0.62% — Mais um dia normal no crypto"
+    },
+    {
+      "ts": "2026-02-14T14:15:28.116Z",
+      "time": "14:15:28",
+      "type": "position",
+      "msg": "ETH -0.03% — Tá ali, existindo"
+    },
+    {
       "ts": "2026-02-14T14:14:58.883Z",
       "time": "14:14:58",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "14:03:28",
       "type": "position",
       "msg": "SOL -0.31% — Pelo menos não é dinheiro de verdade... ah, espera"
-    },
-    {
-      "ts": "2026-02-14T14:03:27.870Z",
-      "time": "14:03:27",
-      "type": "position",
-      "msg": "ETH +0.03% — O mercado decidiu tirar uma soneca"
-    },
-    {
-      "ts": "2026-02-14T14:02:28.073Z",
-      "time": "14:02:28",
-      "type": "position",
-      "msg": "SOL -0.09% — Nem comprador nem vendedor quer tomar atitude"
     }
   ]
 }
