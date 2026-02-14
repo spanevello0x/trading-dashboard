@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T08:18:45.119Z",
+      "time": "08:18:45",
+      "type": "position",
+      "msg": "BCH +0.10% — Calma que ainda pode dar errado"
+    },
+    {
+      "ts": "2026-02-14T08:18:44.823Z",
+      "time": "08:18:44",
+      "type": "position",
+      "msg": "SUI -1.67% — Podia ser pior. Dá tempo ainda."
+    },
+    {
       "ts": "2026-02-14T08:18:14.546Z",
       "time": "08:18:14",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "08:09:44",
       "type": "position",
       "msg": "ETH +0.71% — Melhor que Netflix isso aqui"
-    },
-    {
-      "ts": "2026-02-14T08:09:14.888Z",
-      "time": "08:09:14",
-      "type": "position",
-      "msg": "SUI -1.44% — Pelo menos o stop existe. Graças a Deus pelo stop."
-    },
-    {
-      "ts": "2026-02-14T08:08:45.557Z",
-      "time": "08:08:45",
-      "type": "position",
-      "msg": "PAXG -0.03% — Nem pra cima nem pra baixo. Ansiedade infinita."
     }
   ]
 }
