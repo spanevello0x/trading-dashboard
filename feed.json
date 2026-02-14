@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T15:24:36.303Z",
+      "time": "15:24:36",
+      "type": "position",
+      "msg": "SOL +0.42% — Finalmente algo de bom nesse mercado"
+    },
+    {
+      "ts": "2026-02-14T15:24:30.676Z",
+      "time": "15:24:30",
+      "type": "system",
+      "msg": "⏰ HYPE expirou (30 candles) — Cancelando"
+    },
+    {
       "ts": "2026-02-14T15:24:00.881Z",
       "time": "15:24:00",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "15:20:17",
       "type": "analysis",
       "msg": "Hmm, AVAX mostrando sinais de LONG (89%)"
-    },
-    {
-      "ts": "2026-02-14T15:20:17.221Z",
-      "time": "15:20:17",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - AZTEC cancelado"
-    },
-    {
-      "ts": "2026-02-14T15:20:16.803Z",
-      "time": "15:20:16",
-      "type": "signal",
-      "msg": "🎯 LONG AZTEC @ $0.02 (89%) — Dessa vez vai (eu acho)"
     }
   ]
 }
