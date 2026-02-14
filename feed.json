@@ -1,6 +1,30 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T07:37:13.757Z",
+      "time": "07:37:13",
+      "type": "position",
+      "msg": "PAXG +0.08% — Esperando Godot, versão crypto"
+    },
+    {
+      "ts": "2026-02-14T07:37:13.416Z",
+      "time": "07:37:13",
+      "type": "position",
+      "msg": "AAVE +1.01% — Será que é armadilha? Provavelmente. Mas vou curtir enquanto dura"
+    },
+    {
+      "ts": "2026-02-14T07:37:13.144Z",
+      "time": "07:37:13",
+      "type": "position",
+      "msg": "BCH -0.42% — Quem mandou confiar em linha colorida"
+    },
+    {
+      "ts": "2026-02-14T07:37:12.882Z",
+      "time": "07:37:12",
+      "type": "position",
+      "msg": "SUI -0.77% — Pelo menos não apostei a casa... dessa vez"
+    },
+    {
       "ts": "2026-02-14T07:35:43.843Z",
       "time": "07:35:43",
       "type": "position",
@@ -155,30 +179,6 @@
       "time": "07:28:13",
       "type": "position",
       "msg": "AAVE +0.65% — Tá bom demais pra ser verdade... ops, não deveria falar isso"
-    },
-    {
-      "ts": "2026-02-14T07:28:13.320Z",
-      "time": "07:28:13",
-      "type": "position",
-      "msg": "BCH -0.33% — Mercado fazendo mercadisse"
-    },
-    {
-      "ts": "2026-02-14T07:28:12.969Z",
-      "time": "07:28:12",
-      "type": "position",
-      "msg": "SUI -0.53% — Loss building character 💪"
-    },
-    {
-      "ts": "2026-02-14T07:27:13.280Z",
-      "time": "07:27:13",
-      "type": "position",
-      "msg": "PAXG +0.11% — Stonks 📈 (desculpa, não resisti)"
-    },
-    {
-      "ts": "2026-02-14T07:27:13.017Z",
-      "time": "07:27:13",
-      "type": "position",
-      "msg": "AAVE +0.62% — Será que alguém sabe algo que eu não sei? Sempre sabem."
     }
   ]
 }
