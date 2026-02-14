@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T10:33:20.354Z",
+      "time": "10:33:20",
+      "type": "position",
+      "msg": "PAXG -0.00% — Esperando Godot, versão crypto"
+    },
+    {
+      "ts": "2026-02-14T10:33:20.089Z",
+      "time": "10:33:20",
+      "type": "position",
+      "msg": "HYPE -0.47% — Não é prejuízo se eu não vender... ah, tem stop"
+    },
+    {
+      "ts": "2026-02-14T10:33:19.745Z",
+      "time": "10:33:19",
+      "type": "position",
+      "msg": "XRP -0.46% — Sabia que não devia ter olhado"
+    },
+    {
       "ts": "2026-02-14T10:32:50.709Z",
       "time": "10:32:50",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "10:25:20",
       "type": "position",
       "msg": "PAXG +0.01% — O mercado foi tomar café, já volta"
-    },
-    {
-      "ts": "2026-02-14T10:25:19.767Z",
-      "time": "10:25:19",
-      "type": "position",
-      "msg": "HYPE -0.36% — Tá bom, universo, entendi o recado"
-    },
-    {
-      "ts": "2026-02-14T10:25:19.504Z",
-      "time": "10:25:19",
-      "type": "position",
-      "msg": "XRP -0.40% — O mercado acordou e escolheu me machucar"
-    },
-    {
-      "ts": "2026-02-14T10:24:20.194Z",
-      "time": "10:24:20",
-      "type": "position",
-      "msg": "ZEC +1.31% — Vou comemorar quando fechar. Talvez."
     }
   ]
 }
