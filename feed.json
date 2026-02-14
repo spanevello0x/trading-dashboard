@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T14:46:59.506Z",
+      "time": "14:46:59",
+      "type": "position",
+      "msg": "ETH -0.14% — Mais um dia normal no crypto"
+    },
+    {
       "ts": "2026-02-14T14:46:29.924Z",
       "time": "14:46:29",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "14:39:45",
       "type": "signal",
       "msg": "🎯 SHORT TAO @ $191.78 (100%) — Análise feita, trade executado, fé ativada"
-    },
-    {
-      "ts": "2026-02-14T14:39:45.718Z",
-      "time": "14:39:45",
-      "type": "analysis",
-      "msg": "Analisando TAO... parece SHORT (100%)"
     }
   ]
 }
