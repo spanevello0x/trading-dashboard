@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T07:24:42.662Z",
+      "time": "07:24:42",
+      "type": "position",
+      "msg": "BCH -0.37% — Amanhã é outro dia (espero)"
+    },
+    {
+      "ts": "2026-02-14T07:24:42.378Z",
+      "time": "07:24:42",
+      "type": "position",
+      "msg": "SUI -0.46% — Meu eu do passado tomou essa decisão, problema dele"
+    },
+    {
       "ts": "2026-02-14T07:23:43.236Z",
       "time": "07:23:43",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "07:15:41",
       "type": "position",
       "msg": "SUI -0.41% — Amanhã é outro dia (espero)"
-    },
-    {
-      "ts": "2026-02-14T07:15:12.903Z",
-      "time": "07:15:12",
-      "type": "position",
-      "msg": "PAXG +0.06% — Será que esqueceram dessa moeda?"
-    },
-    {
-      "ts": "2026-02-14T07:15:12.642Z",
-      "time": "07:15:12",
-      "type": "position",
-      "msg": "AAVE +0.26% — Obrigado universo, tava precisando"
     }
   ]
 }
