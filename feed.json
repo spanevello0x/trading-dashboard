@@ -1,6 +1,30 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T08:20:45.578Z",
+      "time": "08:20:45",
+      "type": "position",
+      "msg": "PAXG +0.06% — Enquanto não move, não perco. Stonks mental."
+    },
+    {
+      "ts": "2026-02-14T08:20:45.313Z",
+      "time": "08:20:45",
+      "type": "position",
+      "msg": "BCH +0.08% — Nem fede nem cheira"
+    },
+    {
+      "ts": "2026-02-14T08:20:45.010Z",
+      "time": "08:20:45",
+      "type": "position",
+      "msg": "SUI -1.45% — Quem precisa de dinheiro mesmo"
+    },
+    {
+      "ts": "2026-02-14T08:20:44.742Z",
+      "time": "08:20:44",
+      "type": "position",
+      "msg": "ETH +0.51% — Será que é armadilha? Provavelmente. Mas vou curtir enquanto dura"
+    },
+    {
       "ts": "2026-02-14T08:19:45.158Z",
       "time": "08:19:45",
       "type": "position",
@@ -155,30 +179,6 @@
       "time": "08:12:14",
       "type": "position",
       "msg": "SUI -1.51% — Vou culpar a lua, deve ser lua cheia"
-    },
-    {
-      "ts": "2026-02-14T08:12:14.349Z",
-      "time": "08:12:14",
-      "type": "position",
-      "msg": "ETH +0.58% — Se continuar assim, quase empato na semana"
-    },
-    {
-      "ts": "2026-02-14T08:11:45.189Z",
-      "time": "08:11:45",
-      "type": "position",
-      "msg": "PAXG -0.01% — Nem pra cima nem pra baixo. Ansiedade infinita."
-    },
-    {
-      "ts": "2026-02-14T08:11:44.901Z",
-      "time": "08:11:44",
-      "type": "position",
-      "msg": "BCH +0.06% — O mercado tá pensando..."
-    },
-    {
-      "ts": "2026-02-14T08:10:44.733Z",
-      "time": "08:10:44",
-      "type": "position",
-      "msg": "SUI -1.39% — Loss building character 💪"
     }
   ]
 }
