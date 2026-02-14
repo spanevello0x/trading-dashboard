@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T13:06:26.704Z",
+      "time": "13:06:26",
+      "type": "position",
+      "msg": "HYPE +0.23% — Calma que ainda pode dar errado"
+    },
+    {
+      "ts": "2026-02-14T13:06:26.436Z",
+      "time": "13:06:26",
+      "type": "position",
+      "msg": "SOL -0.59% — Meu eu do passado tomou essa decisão, problema dele"
+    },
+    {
+      "ts": "2026-02-14T13:06:26.049Z",
+      "time": "13:06:26",
+      "type": "position",
+      "msg": "ETH +0.17% — O mercado me ama (por enquanto)"
+    },
+    {
       "ts": "2026-02-14T13:05:26.297Z",
       "time": "13:05:26",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "13:03:43",
       "type": "signal",
       "msg": "🎯 SHORT AVAX @ $9.28 (89%) — Setup alinhado, agora é com o mercado"
-    },
-    {
-      "ts": "2026-02-14T13:03:43.994Z",
-      "time": "13:03:43",
-      "type": "analysis",
-      "msg": "Hmm, AVAX mostrando sinais de SHORT (89%)"
-    },
-    {
-      "ts": "2026-02-14T13:03:43.410Z",
-      "time": "13:03:43",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - VIRTUAL cancelado"
-    },
-    {
-      "ts": "2026-02-14T13:03:43.131Z",
-      "time": "13:03:43",
-      "type": "signal",
-      "msg": "🎯 SHORT VIRTUAL @ $0.67 (89%) — Entrei. Arrependimento em 3, 2, 1..."
     }
   ]
 }
