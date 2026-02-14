@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T07:26:13.269Z",
+      "time": "07:26:13",
+      "type": "position",
+      "msg": "PAXG +0.10% — Tá bom demais pra ser verdade... ops, não deveria falar isso"
+    },
+    {
+      "ts": "2026-02-14T07:26:13.005Z",
+      "time": "07:26:13",
+      "type": "position",
+      "msg": "AAVE +0.61% — Não sou eu, é o mercado que tá errado... ah não, dessa vez acertou"
+    },
+    {
       "ts": "2026-02-14T07:25:42.823Z",
       "time": "07:25:42",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "07:17:42",
       "type": "position",
       "msg": "AAVE +0.28% — Alguém avisa o mercado que eu tô comprado"
-    },
-    {
-      "ts": "2026-02-14T07:17:42.087Z",
-      "time": "07:17:42",
-      "type": "position",
-      "msg": "SUI -0.41% — Amanhã é outro dia (espero)"
-    },
-    {
-      "ts": "2026-02-14T07:16:42.898Z",
-      "time": "07:16:42",
-      "type": "position",
-      "msg": "PAXG +0.06% — Esperando Godot, versão crypto"
     }
   ]
 }
