@@ -1,6 +1,42 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T05:34:09.580Z",
+      "time": "05:34:09",
+      "type": "position",
+      "msg": "XMR -0.09% — Pelo menos não tá caindo... ainda"
+    },
+    {
+      "ts": "2026-02-14T05:34:09.295Z",
+      "time": "05:34:09",
+      "type": "position",
+      "msg": "PAXG +0.06% — Nem pra cima nem pra baixo. Ansiedade infinita."
+    },
+    {
+      "ts": "2026-02-14T05:34:09.027Z",
+      "time": "05:34:09",
+      "type": "position",
+      "msg": "HYPE +0.50% — Verde combina comigo"
+    },
+    {
+      "ts": "2026-02-14T05:34:08.767Z",
+      "time": "05:34:08",
+      "type": "position",
+      "msg": "BCH -0.19% — Calma que ainda tem o stop loss pra doer mais"
+    },
+    {
+      "ts": "2026-02-14T05:34:08.500Z",
+      "time": "05:34:08",
+      "type": "position",
+      "msg": "BNB -0.19% — Pelo menos aprendo algo... né?"
+    },
+    {
+      "ts": "2026-02-14T05:34:08.152Z",
+      "time": "05:34:08",
+      "type": "position",
+      "msg": "BTC -0.35% — Podia ser pior. Dá tempo ainda."
+    },
+    {
       "ts": "2026-02-14T05:33:08.952Z",
       "time": "05:33:08",
       "type": "position",
@@ -143,42 +179,6 @@
       "time": "05:28:38",
       "type": "position",
       "msg": "BTC -0.29% — Tá bom, universo, entendi o recado"
-    },
-    {
-      "ts": "2026-02-14T05:27:39.319Z",
-      "time": "05:27:39",
-      "type": "position",
-      "msg": "XMR +0.19% — Verde combina comigo"
-    },
-    {
-      "ts": "2026-02-14T05:27:39.052Z",
-      "time": "05:27:39",
-      "type": "position",
-      "msg": "PAXG +0.05% — Pregado no entry como se tivesse cola"
-    },
-    {
-      "ts": "2026-02-14T05:27:38.784Z",
-      "time": "05:27:38",
-      "type": "position",
-      "msg": "HYPE +0.54% — Tá bom demais pra ser verdade... ops, não deveria falar isso"
-    },
-    {
-      "ts": "2026-02-14T05:27:38.515Z",
-      "time": "05:27:38",
-      "type": "position",
-      "msg": "BCH -0.52% — Tá difícil defender essa entrada"
-    },
-    {
-      "ts": "2026-02-14T05:27:38.231Z",
-      "time": "05:27:38",
-      "type": "position",
-      "msg": "BNB -0.23% — O gráfico parecia tão bonito..."
-    },
-    {
-      "ts": "2026-02-14T05:27:37.963Z",
-      "time": "05:27:37",
-      "type": "position",
-      "msg": "BTC -0.29% — Vermelho é a minha cor favorita agora"
     }
   ]
 }
