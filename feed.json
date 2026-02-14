@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T10:44:21.020Z",
+      "time": "10:44:21",
+      "type": "position",
+      "msg": "ZEC +0.85% — Calma que ainda pode dar errado"
+    },
+    {
       "ts": "2026-02-14T10:43:50.892Z",
       "time": "10:43:50",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "10:38:07",
       "type": "analysis",
       "msg": "Olhando VVV... 89% LONG"
-    },
-    {
-      "ts": "2026-02-14T10:38:07.257Z",
-      "time": "10:38:07",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - TAO cancelado"
     }
   ]
 }
