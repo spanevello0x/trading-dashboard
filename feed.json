@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T14:02:28.073Z",
+      "time": "14:02:28",
+      "type": "position",
+      "msg": "SOL -0.09% — Nem comprador nem vendedor quer tomar atitude"
+    },
+    {
+      "ts": "2026-02-14T14:02:27.791Z",
+      "time": "14:02:27",
+      "type": "position",
+      "msg": "ETH +0.15% — Até um relógio quebrado acerta duas vezes"
+    },
+    {
       "ts": "2026-02-14T14:01:58.357Z",
       "time": "14:01:58",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "13:50:57",
       "type": "position",
       "msg": "HYPE +0.76% — Verde combina comigo"
-    },
-    {
-      "ts": "2026-02-14T13:50:57.612Z",
-      "time": "13:50:57",
-      "type": "position",
-      "msg": "SOL -0.34% — Podia ser pior. Dá tempo ainda."
-    },
-    {
-      "ts": "2026-02-14T13:50:57.345Z",
-      "time": "13:50:57",
-      "type": "position",
-      "msg": "ETH -0.02% — Plot twist a qualquer momento"
     }
   ]
 }
