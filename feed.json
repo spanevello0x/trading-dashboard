@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T06:45:19.517Z",
+      "time": "06:45:19",
+      "type": "system",
+      "msg": "⏰ BCH expirou (30 candles) — Cancelando"
+    },
+    {
+      "ts": "2026-02-14T06:45:14.847Z",
+      "time": "06:45:14",
+      "type": "system",
+      "msg": "⏰ BNB expirou (30 candles) — Cancelando"
+    },
+    {
+      "ts": "2026-02-14T06:45:10.621Z",
+      "time": "06:45:10",
+      "type": "system",
+      "msg": "⏰ XMR expirou (30 candles) — Cancelando"
+    },
+    {
       "ts": "2026-02-14T06:44:41.433Z",
       "time": "06:44:41",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "06:39:11",
       "type": "position",
       "msg": "BTC -0.26% — Vou culpar a lua, deve ser lua cheia"
-    },
-    {
-      "ts": "2026-02-14T06:38:42.084Z",
-      "time": "06:38:42",
-      "type": "position",
-      "msg": "XMR -0.13% — Não é prejuízo se eu não vender... ah, tem stop"
-    },
-    {
-      "ts": "2026-02-14T06:38:41.823Z",
-      "time": "06:38:41",
-      "type": "position",
-      "msg": "PAXG +0.15% — Não me acostumem com isso"
-    },
-    {
-      "ts": "2026-02-14T06:38:41.555Z",
-      "time": "06:38:41",
-      "type": "position",
-      "msg": "HYPE +1.28% — Tá subindo? Deixa eu não olhar pra não dar azar"
     }
   ]
 }
