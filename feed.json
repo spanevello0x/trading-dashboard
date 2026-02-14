@@ -1,184 +1,184 @@
 {
   "feed": [
     {
-      "ts": "2026-02-14T06:46:21.592Z",
-      "time": "06:46:21",
-      "type": "execution",
-      "msg": "⚙️ Leverage: 5x"
-    },
-    {
-      "ts": "2026-02-14T06:46:21.319Z",
-      "time": "06:46:21",
-      "type": "signal",
-      "msg": "🎯 LONG BCH @ $563.13 (78%) — Essa eu senti"
-    },
-    {
-      "ts": "2026-02-14T06:46:21.319Z",
-      "time": "06:46:21",
-      "type": "analysis",
-      "msg": "Analisando BCH... parece LONG (78%)"
-    },
-    {
-      "ts": "2026-02-14T06:46:20.417Z",
-      "time": "06:46:20",
-      "type": "result",
-      "msg": "🏁 Trade completo: SHORT SUI @ $0.96 | RR 2:1"
-    },
-    {
-      "ts": "2026-02-14T06:46:20.417Z",
-      "time": "06:46:20",
-      "type": "execution",
-      "msg": "🎯 Take Profit: $0.94"
-    },
-    {
-      "ts": "2026-02-14T06:46:20.237Z",
-      "time": "06:46:20",
-      "type": "execution",
-      "msg": "📤 Abrindo SHORT em MON..."
-    },
-    {
-      "ts": "2026-02-14T06:46:19.050Z",
-      "time": "06:46:19",
-      "type": "execution",
-      "msg": "⚙️ Leverage: 5x"
-    },
-    {
-      "ts": "2026-02-14T06:46:18.814Z",
-      "time": "06:46:18",
-      "type": "execution",
-      "msg": "🛡️ Stop Loss: $0.97"
-    },
-    {
-      "ts": "2026-02-14T06:46:18.775Z",
-      "time": "06:46:18",
-      "type": "signal",
-      "msg": "🎯 SHORT MON @ $0.02 (89%) — Análise feita, trade executado, fé ativada"
-    },
-    {
-      "ts": "2026-02-14T06:46:18.774Z",
-      "time": "06:46:18",
-      "type": "analysis",
-      "msg": "Olhando MON... 89% SHORT"
-    },
-    {
-      "ts": "2026-02-14T06:46:18.499Z",
-      "time": "06:46:18",
+      "ts": "2026-02-14T06:46:40.873Z",
+      "time": "06:46:40",
       "type": "error",
-      "msg": "❌ Falha na execução: Order could not immediately match against any resting orders. asset=39"
+      "msg": "❌ Scan: Cannot read properties of null (reading 'assetPositions')"
     },
     {
-      "ts": "2026-02-14T06:46:17.109Z",
-      "time": "06:46:17",
-      "type": "execution",
-      "msg": "✅ Filled: 16.200000 SUI @ $0.96"
+      "ts": "2026-02-14T06:46:37.375Z",
+      "time": "06:46:37",
+      "type": "error",
+      "msg": "❌ JUP: Cannot read properties of null (reading 'map')"
     },
     {
-      "ts": "2026-02-14T06:46:16.615Z",
-      "time": "06:46:16",
-      "type": "execution",
-      "msg": "📤 Abrindo SHORT em UNI..."
+      "ts": "2026-02-14T06:46:37.112Z",
+      "time": "06:46:37",
+      "type": "error",
+      "msg": "❌ LINK: Cannot read properties of null (reading 'map')"
     },
     {
-      "ts": "2026-02-14T06:46:15.451Z",
-      "time": "06:46:15",
+      "ts": "2026-02-14T06:46:36.849Z",
+      "time": "06:46:36",
+      "type": "error",
+      "msg": "❌ MOODENG: Cannot read properties of null (reading 'map')"
+    },
+    {
+      "ts": "2026-02-14T06:46:36.776Z",
+      "time": "06:46:36",
+      "type": "error",
+      "msg": "❌ JUP: Cannot read properties of null (reading 'map')"
+    },
+    {
+      "ts": "2026-02-14T06:46:36.564Z",
+      "time": "06:46:36",
+      "type": "error",
+      "msg": "❌ ARB: Cannot read properties of null (reading 'map')"
+    },
+    {
+      "ts": "2026-02-14T06:46:36.508Z",
+      "time": "06:46:36",
+      "type": "error",
+      "msg": "❌ LINK: Cannot read properties of null (reading 'map')"
+    },
+    {
+      "ts": "2026-02-14T06:46:36.301Z",
+      "time": "06:46:36",
+      "type": "error",
+      "msg": "❌ kPEPE: Cannot read properties of null (reading 'map')"
+    },
+    {
+      "ts": "2026-02-14T06:46:36.244Z",
+      "time": "06:46:36",
+      "type": "error",
+      "msg": "❌ MOODENG: Cannot read properties of null (reading 'map')"
+    },
+    {
+      "ts": "2026-02-14T06:46:36.037Z",
+      "time": "06:46:36",
+      "type": "error",
+      "msg": "❌ XMR: Cannot read properties of null (reading 'map')"
+    },
+    {
+      "ts": "2026-02-14T06:46:35.979Z",
+      "time": "06:46:35",
+      "type": "error",
+      "msg": "❌ ARB: Cannot read properties of null (reading 'map')"
+    },
+    {
+      "ts": "2026-02-14T06:46:35.776Z",
+      "time": "06:46:35",
+      "type": "error",
+      "msg": "❌ VVV: Cannot read properties of null (reading 'universe')"
+    },
+    {
+      "ts": "2026-02-14T06:46:35.718Z",
+      "time": "06:46:35",
+      "type": "error",
+      "msg": "❌ kPEPE: Cannot read properties of null (reading 'map')"
+    },
+    {
+      "ts": "2026-02-14T06:46:35.512Z",
+      "time": "06:46:35",
       "type": "execution",
       "msg": "⚙️ Leverage: 5x"
     },
     {
-      "ts": "2026-02-14T06:46:15.135Z",
-      "time": "06:46:15",
+      "ts": "2026-02-14T06:46:35.454Z",
+      "time": "06:46:35",
+      "type": "error",
+      "msg": "❌ XMR: Cannot read properties of null (reading 'map')"
+    },
+    {
+      "ts": "2026-02-14T06:46:35.191Z",
+      "time": "06:46:35",
+      "type": "error",
+      "msg": "❌ VVV: Cannot read properties of null (reading 'map')"
+    },
+    {
+      "ts": "2026-02-14T06:46:35.108Z",
+      "time": "06:46:35",
       "type": "signal",
-      "msg": "🎯 SHORT UNI @ $3.39 (100%) — Os indicadores mandaram, eu obedeci"
+      "msg": "🎯 SHORT VVV @ $2.63 (78%) — Entrei. Arrependimento em 3, 2, 1..."
     },
     {
-      "ts": "2026-02-14T06:46:15.135Z",
-      "time": "06:46:15",
+      "ts": "2026-02-14T06:46:35.108Z",
+      "time": "06:46:35",
       "type": "analysis",
-      "msg": "Analisando UNI... parece SHORT (100%)"
+      "msg": "VVV no radar: 78% SHORT"
     },
     {
-      "ts": "2026-02-14T06:46:14.932Z",
-      "time": "06:46:14",
+      "ts": "2026-02-14T06:46:34.914Z",
+      "time": "06:46:34",
+      "type": "error",
+      "msg": "❌ TAO: Cannot read properties of null (reading 'map')"
+    },
+    {
+      "ts": "2026-02-14T06:46:34.707Z",
+      "time": "06:46:34",
+      "type": "error",
+      "msg": "❌ TAO: Cannot read properties of null (reading 'map')"
+    },
+    {
+      "ts": "2026-02-14T06:46:34.635Z",
+      "time": "06:46:34",
+      "type": "error",
+      "msg": "❌ OM: Cannot read properties of null (reading 'status')"
+    },
+    {
+      "ts": "2026-02-14T06:46:34.441Z",
+      "time": "06:46:34",
+      "type": "error",
+      "msg": "❌ OM: Cannot read properties of null (reading 'map')"
+    },
+    {
+      "ts": "2026-02-14T06:46:33.788Z",
+      "time": "06:46:33",
       "type": "execution",
-      "msg": "📤 Abrindo SHORT em SUI..."
+      "msg": "📤 Abrindo SHORT em OM..."
     },
     {
-      "ts": "2026-02-14T06:46:13.614Z",
-      "time": "06:46:13",
-      "type": "execution",
-      "msg": "⚙️ Leverage: 5x"
-    },
-    {
-      "ts": "2026-02-14T06:46:13.332Z",
-      "time": "06:46:13",
-      "type": "signal",
-      "msg": "🎯 SHORT SUI @ $0.96 (100%) — Mais uma pro histórico"
-    },
-    {
-      "ts": "2026-02-14T06:46:13.332Z",
-      "time": "06:46:13",
-      "type": "analysis",
-      "msg": "Olhando SUI... 100% SHORT"
-    },
-    {
-      "ts": "2026-02-14T06:46:13.037Z",
-      "time": "06:46:13",
+      "ts": "2026-02-14T06:46:33.124Z",
+      "time": "06:46:33",
       "type": "error",
       "msg": "❌ Falha na execução: Order has invalid price."
     },
     {
-      "ts": "2026-02-14T06:46:11.989Z",
-      "time": "06:46:11",
-      "type": "analysis",
-      "msg": "Hmm, SOL mostrando sinais de SHORT (56%)"
-    },
-    {
-      "ts": "2026-02-14T06:46:11.358Z",
-      "time": "06:46:11",
-      "type": "position",
-      "msg": "PAXG -0.00% — Nem comprador nem vendedor quer tomar atitude"
-    },
-    {
-      "ts": "2026-02-14T06:46:11.168Z",
-      "time": "06:46:11",
-      "type": "execution",
-      "msg": "📤 Abrindo SHORT em PUMP..."
-    },
-    {
-      "ts": "2026-02-14T06:46:10.657Z",
-      "time": "06:46:10",
-      "type": "system",
-      "msg": "LIT fechou — Done deal"
-    },
-    {
-      "ts": "2026-02-14T06:46:10.657Z",
-      "time": "06:46:10",
-      "type": "system",
-      "msg": "ASTER fechou — Mais um pro currículo"
-    },
-    {
-      "ts": "2026-02-14T06:46:09.521Z",
-      "time": "06:46:09",
+      "ts": "2026-02-14T06:46:32.783Z",
+      "time": "06:46:32",
       "type": "execution",
       "msg": "⚙️ Leverage: 5x"
     },
     {
-      "ts": "2026-02-14T06:46:09.242Z",
-      "time": "06:46:09",
+      "ts": "2026-02-14T06:46:32.493Z",
+      "time": "06:46:32",
       "type": "signal",
-      "msg": "🎯 SHORT PUMP @ $0.00 (100%) — Os indicadores mandaram, eu obedeci"
+      "msg": "🎯 SHORT OM @ $0.05 (89%) — Bora, confia no pai"
     },
     {
-      "ts": "2026-02-14T06:46:09.242Z",
-      "time": "06:46:09",
+      "ts": "2026-02-14T06:46:32.493Z",
+      "time": "06:46:32",
       "type": "analysis",
-      "msg": "Analisando PUMP... parece SHORT (100%)"
+      "msg": "OM tá interessante, 89% pro SHORT"
     },
     {
-      "ts": "2026-02-14T06:46:08.897Z",
-      "time": "06:46:08",
+      "ts": "2026-02-14T06:46:31.939Z",
+      "time": "06:46:31",
       "type": "analysis",
-      "msg": "Hmm, AAVE mostrando sinais de LONG (56%)"
+      "msg": "AVAX no radar: 56% SHORT"
+    },
+    {
+      "ts": "2026-02-14T06:46:31.660Z",
+      "time": "06:46:31",
+      "type": "analysis",
+      "msg": "VIRTUAL no radar: 56% SHORT"
+    },
+    {
+      "ts": "2026-02-14T06:46:31.150Z",
+      "time": "06:46:31",
+      "type": "execution",
+      "msg": "📤 Abrindo SHORT em AZTEC..."
     }
   ]
 }
