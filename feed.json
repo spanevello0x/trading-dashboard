@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T11:55:53.370Z",
+      "time": "11:55:53",
+      "type": "position",
+      "msg": "PAXG -0.05% — Consolidação ou indecisão? Sim."
+    },
+    {
+      "ts": "2026-02-14T11:55:52.834Z",
+      "time": "11:55:52",
+      "type": "position",
+      "msg": "ETH +0.04% — Nem comprador nem vendedor quer tomar atitude"
+    },
+    {
       "ts": "2026-02-14T11:55:23.188Z",
       "time": "11:55:23",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "11:47:12",
       "type": "analysis",
       "msg": "Hmm, MOODENG mostrando sinais de LONG (56%)"
-    },
-    {
-      "ts": "2026-02-14T11:47:12.213Z",
-      "time": "11:47:12",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - ARB cancelado"
-    },
-    {
-      "ts": "2026-02-14T11:47:11.821Z",
-      "time": "11:47:11",
-      "type": "signal",
-      "msg": "🎯 LONG ARB @ $0.12 (89%) — Análise feita, trade executado, fé ativada"
     }
   ]
 }
