@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T10:03:18.856Z",
+      "time": "10:03:18",
+      "type": "position",
+      "msg": "XRP -0.26% — Vou culpar a lua, deve ser lua cheia"
+    },
+    {
       "ts": "2026-02-14T10:02:49.498Z",
       "time": "10:02:49",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "09:55:18",
       "type": "position",
       "msg": "ETH +0.92% — Será que é armadilha? Provavelmente. Mas vou curtir enquanto dura"
-    },
-    {
-      "ts": "2026-02-14T09:54:19.041Z",
-      "time": "09:54:19",
-      "type": "position",
-      "msg": "ZEC +0.54% — Vou comemorar quando fechar. Talvez."
     }
   ]
 }
