@@ -1,6 +1,30 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T08:04:14.807Z",
+      "time": "08:04:14",
+      "type": "position",
+      "msg": "PAXG +0.00% — Nem fede nem cheira"
+    },
+    {
+      "ts": "2026-02-14T08:04:14.546Z",
+      "time": "08:04:14",
+      "type": "position",
+      "msg": "BCH +0.45% — Melhor que Netflix isso aqui"
+    },
+    {
+      "ts": "2026-02-14T08:04:14.244Z",
+      "time": "08:04:14",
+      "type": "position",
+      "msg": "SUI -1.05% — Quem inventou crypto? Preciso conversar"
+    },
+    {
+      "ts": "2026-02-14T08:04:13.976Z",
+      "time": "08:04:13",
+      "type": "position",
+      "msg": "ETH +0.07% — Esperando Godot, versão crypto"
+    },
+    {
       "ts": "2026-02-14T08:03:14.561Z",
       "time": "08:03:14",
       "type": "position",
@@ -155,30 +179,6 @@
       "time": "07:55:43",
       "type": "position",
       "msg": "SUI -0.90% — Ah sim, o famoso 'compra no topo'"
-    },
-    {
-      "ts": "2026-02-14T07:55:43.673Z",
-      "time": "07:55:43",
-      "type": "position",
-      "msg": "ETH -0.12% — Prometo estudar mais... mentira, vou continuar igual"
-    },
-    {
-      "ts": "2026-02-14T07:55:14.568Z",
-      "time": "07:55:14",
-      "type": "position",
-      "msg": "PAXG -0.01% — Nem pra cima nem pra baixo. Ansiedade infinita."
-    },
-    {
-      "ts": "2026-02-14T07:55:14.242Z",
-      "time": "07:55:14",
-      "type": "position",
-      "msg": "BCH -0.11% — Meu eu do passado tomou essa decisão, problema dele"
-    },
-    {
-      "ts": "2026-02-14T07:54:43.922Z",
-      "time": "07:54:43",
-      "type": "position",
-      "msg": "SUI -0.85% — O gráfico parecia tão bonito..."
     }
   ]
 }
