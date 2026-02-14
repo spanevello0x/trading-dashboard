@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T15:08:30.292Z",
+      "time": "15:08:30",
+      "type": "position",
+      "msg": "ETH -0.64% — Não é prejuízo se eu não vender... ah, tem stop"
+    },
+    {
       "ts": "2026-02-14T15:08:00.729Z",
       "time": "15:08:00",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "14:56:30",
       "type": "position",
       "msg": "HYPE -0.09% — Nem pra cima nem pra baixo. Ansiedade infinita."
-    },
-    {
-      "ts": "2026-02-14T14:56:29.959Z",
-      "time": "14:56:29",
-      "type": "position",
-      "msg": "ETH -0.60% — Pelo menos não é dinheiro de verdade... ah, espera"
     }
   ]
 }
