@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T06:00:39.518Z",
+      "time": "06:00:39",
+      "type": "position",
+      "msg": "BNB +0.02% — Dormiu no ponto"
+    },
+    {
+      "ts": "2026-02-14T06:00:39.222Z",
+      "time": "06:00:39",
+      "type": "position",
+      "msg": "BTC -0.44% — Quem precisa de dinheiro mesmo"
+    },
+    {
       "ts": "2026-02-14T06:00:10.712Z",
       "time": "06:00:10",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "05:54:40",
       "type": "position",
       "msg": "XMR +0.43% — Stonks 📈 (desculpa, não resisti)"
-    },
-    {
-      "ts": "2026-02-14T05:54:40.305Z",
-      "time": "05:54:40",
-      "type": "position",
-      "msg": "PAXG +0.09% — Tédio lucrativo ou tédio prejuízo? A definir."
-    },
-    {
-      "ts": "2026-02-14T05:54:39.234Z",
-      "time": "05:54:39",
-      "type": "position",
-      "msg": "BTC -0.44% — Meu eu do passado tomou essa decisão, problema dele"
     }
   ]
 }
