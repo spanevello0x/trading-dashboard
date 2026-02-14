@@ -1,6 +1,42 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T05:24:39.365Z",
+      "time": "05:24:39",
+      "type": "position",
+      "msg": "XMR -0.07% — O gráfico tá meditando"
+    },
+    {
+      "ts": "2026-02-14T05:24:38.868Z",
+      "time": "05:24:38",
+      "type": "position",
+      "msg": "PAXG +0.05% — Pelo menos não tá caindo... ainda"
+    },
+    {
+      "ts": "2026-02-14T05:24:38.602Z",
+      "time": "05:24:38",
+      "type": "position",
+      "msg": "HYPE +0.53% — Finalmente algo de bom nesse mercado"
+    },
+    {
+      "ts": "2026-02-14T05:24:38.338Z",
+      "time": "05:24:38",
+      "type": "position",
+      "msg": "BCH -0.59% — Meu eu do passado tomou essa decisão, problema dele"
+    },
+    {
+      "ts": "2026-02-14T05:24:38.060Z",
+      "time": "05:24:38",
+      "type": "position",
+      "msg": "BNB -0.28% — Prometo estudar mais... mentira, vou continuar igual"
+    },
+    {
+      "ts": "2026-02-14T05:24:37.792Z",
+      "time": "05:24:37",
+      "type": "position",
+      "msg": "BTC -0.25% — Pelo menos não é dinheiro de verdade... ah, espera"
+    },
+    {
       "ts": "2026-02-14T05:23:39.126Z",
       "time": "05:23:39",
       "type": "position",
@@ -143,42 +179,6 @@
       "time": "05:19:37",
       "type": "position",
       "msg": "BNB -0.14% — Sabia que não devia ter olhado"
-    },
-    {
-      "ts": "2026-02-14T05:19:08.977Z",
-      "time": "05:19:08",
-      "type": "position",
-      "msg": "XMR -0.14% — Meu eu do passado tomou essa decisão, problema dele"
-    },
-    {
-      "ts": "2026-02-14T05:19:07.571Z",
-      "time": "05:19:07",
-      "type": "position",
-      "msg": "BTC -0.27% — O mercado acordou e escolheu me machucar"
-    },
-    {
-      "ts": "2026-02-14T05:18:38.653Z",
-      "time": "05:18:38",
-      "type": "position",
-      "msg": "PAXG +0.11% — Imagina se eu tivesse colocado mais..."
-    },
-    {
-      "ts": "2026-02-14T05:18:38.328Z",
-      "time": "05:18:38",
-      "type": "position",
-      "msg": "HYPE +0.70% — Não me acostumem com isso"
-    },
-    {
-      "ts": "2026-02-14T05:18:38.058Z",
-      "time": "05:18:38",
-      "type": "position",
-      "msg": "BCH -0.46% — Pelo menos o stop existe. Graças a Deus pelo stop."
-    },
-    {
-      "ts": "2026-02-14T05:18:37.793Z",
-      "time": "05:18:37",
-      "type": "position",
-      "msg": "BNB -0.14% — Pelo menos o stop existe. Graças a Deus pelo stop."
     }
   ]
 }
