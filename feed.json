@@ -1,12 +1,6 @@
 {
   "feed": [
     {
-      "ts": "2026-02-14T04:32:51.476Z",
-      "time": "04:32:51",
-      "type": "position",
-      "msg": "BCH +0.03% — O mercado tá pensando..."
-    },
-    {
       "ts": "2026-02-14T04:33:21.798Z",
       "time": "04:33:21",
       "type": "position",
@@ -179,6 +173,12 @@
       "time": "04:39:22",
       "type": "position",
       "msg": "XMR +0.89% — Quase consigo pagar o café de ontem"
+    },
+    {
+      "ts": "2026-02-14T04:39:51.537Z",
+      "time": "04:39:51",
+      "type": "position",
+      "msg": "BNB -0.10% — Pelo menos o stop existe. Graças a Deus pelo stop."
     }
   ]
 }
