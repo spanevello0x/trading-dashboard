@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T12:57:25.480Z",
+      "time": "12:57:25",
+      "type": "position",
+      "msg": "HYPE -0.01% — Tick tock, mercado..."
+    },
+    {
       "ts": "2026-02-14T12:56:55.718Z",
       "time": "12:56:55",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "12:54:39",
       "type": "system",
       "msg": "⚠️ Limite atingido (5/5) - XPL cancelado"
-    },
-    {
-      "ts": "2026-02-14T12:54:38.974Z",
-      "time": "12:54:38",
-      "type": "signal",
-      "msg": "🎯 SHORT XPL @ $0.10 (89%) — Dessa vez vai (eu acho)"
     }
   ]
 }
