@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T10:40:20.136Z",
+      "time": "10:40:20",
+      "type": "position",
+      "msg": "XRP -0.42% — Pelo menos não é dinheiro de verdade... ah, espera"
+    },
+    {
       "ts": "2026-02-14T10:39:21.057Z",
       "time": "10:39:21",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "10:38:03",
       "type": "analysis",
       "msg": "Analisando BERA... parece LONG (78%)"
-    },
-    {
-      "ts": "2026-02-14T10:38:03.174Z",
-      "time": "10:38:03",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - DOGE cancelado"
     }
   ]
 }
