@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T13:04:56.113Z",
+      "time": "13:04:56",
+      "type": "position",
+      "msg": "HYPE +0.56% — O mercado me ama (por enquanto)"
+    },
+    {
+      "ts": "2026-02-14T13:04:55.853Z",
+      "time": "13:04:55",
+      "type": "position",
+      "msg": "SOL -0.14% — Respira... é só número na tela"
+    },
+    {
       "ts": "2026-02-14T13:04:25.453Z",
       "time": "13:04:25",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "13:03:42",
       "type": "analysis",
       "msg": "Hmm, BERA mostrando sinais de LONG (56%)"
-    },
-    {
-      "ts": "2026-02-14T13:03:41.842Z",
-      "time": "13:03:41",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - FARTCOIN cancelado"
-    },
-    {
-      "ts": "2026-02-14T13:03:41.522Z",
-      "time": "13:03:41",
-      "type": "signal",
-      "msg": "🎯 SHORT FARTCOIN @ $0.19 (89%) — Dessa vez vai (eu acho)"
     }
   ]
 }
