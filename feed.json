@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T09:28:17.297Z",
+      "time": "09:28:17",
+      "type": "position",
+      "msg": "ETH +0.81% — Calma que ainda pode dar errado"
+    },
+    {
       "ts": "2026-02-14T09:27:47.922Z",
       "time": "09:27:47",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "09:19:18",
       "type": "position",
       "msg": "HYPE -0.13% — Loss building character 💪"
-    },
-    {
-      "ts": "2026-02-14T09:19:17.881Z",
-      "time": "09:19:17",
-      "type": "position",
-      "msg": "XRP +0.05% — Parece até stable coin"
     }
   ]
 }
