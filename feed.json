@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T15:06:30.207Z",
+      "time": "15:06:30",
+      "type": "position",
+      "msg": "ETH -0.55% — Vermelho é a minha cor favorita agora"
+    },
+    {
       "ts": "2026-02-14T15:06:00.958Z",
       "time": "15:06:00",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "14:54:59",
       "type": "position",
       "msg": "ETH -0.53% — Clássico"
-    },
-    {
-      "ts": "2026-02-14T14:54:00.222Z",
-      "time": "14:54:00",
-      "type": "position",
-      "msg": "HYPE -0.16% — O mercado acordou e escolheu me machucar"
     }
   ]
 }
