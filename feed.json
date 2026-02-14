@@ -1,6 +1,174 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T12:54:38.694Z",
+      "time": "12:54:38",
+      "type": "system",
+      "msg": "⚠️ Limite atingido (5/5) - BCH cancelado"
+    },
+    {
+      "ts": "2026-02-14T12:54:38.380Z",
+      "time": "12:54:38",
+      "type": "signal",
+      "msg": "🎯 SHORT BCH @ $560.22 (89%) — Mais uma pro histórico"
+    },
+    {
+      "ts": "2026-02-14T12:54:37.769Z",
+      "time": "12:54:37",
+      "type": "system",
+      "msg": "⚠️ Limite atingido (5/5) - UNI cancelado"
+    },
+    {
+      "ts": "2026-02-14T12:54:37.499Z",
+      "time": "12:54:37",
+      "type": "signal",
+      "msg": "🎯 SHORT UNI @ $3.46 (78%) — Entrei. Arrependimento em 3, 2, 1..."
+    },
+    {
+      "ts": "2026-02-14T12:54:37.498Z",
+      "time": "12:54:37",
+      "type": "analysis",
+      "msg": "UNI tá interessante, 78% pro SHORT"
+    },
+    {
+      "ts": "2026-02-14T12:54:37.219Z",
+      "time": "12:54:37",
+      "type": "analysis",
+      "msg": "Hmm, SUI mostrando sinais de SHORT (56%)"
+    },
+    {
+      "ts": "2026-02-14T12:54:36.936Z",
+      "time": "12:54:36",
+      "type": "analysis",
+      "msg": "Hmm, PUMP mostrando sinais de LONG (56%)"
+    },
+    {
+      "ts": "2026-02-14T12:54:36.639Z",
+      "time": "12:54:36",
+      "type": "system",
+      "msg": "⚠️ Limite atingido (5/5) - AAVE cancelado"
+    },
+    {
+      "ts": "2026-02-14T12:54:36.367Z",
+      "time": "12:54:36",
+      "type": "signal",
+      "msg": "🎯 SHORT AAVE @ $126.10 (78%) — Análise feita, trade executado, fé ativada"
+    },
+    {
+      "ts": "2026-02-14T12:54:36.367Z",
+      "time": "12:54:36",
+      "type": "analysis",
+      "msg": "Analisando AAVE... parece SHORT (78%)"
+    },
+    {
+      "ts": "2026-02-14T12:54:35.998Z",
+      "time": "12:54:35",
+      "type": "system",
+      "msg": "⚠️ Limite atingido (5/5) - ASTER cancelado"
+    },
+    {
+      "ts": "2026-02-14T12:54:35.686Z",
+      "time": "12:54:35",
+      "type": "signal",
+      "msg": "🎯 SHORT ASTER @ $0.71 (100%) — Dessa vez vai (eu acho)"
+    },
+    {
+      "ts": "2026-02-14T12:54:35.686Z",
+      "time": "12:54:35",
+      "type": "analysis",
+      "msg": "Hmm, ASTER mostrando sinais de SHORT (100%)"
+    },
+    {
+      "ts": "2026-02-14T12:54:35.123Z",
+      "time": "12:54:35",
+      "type": "system",
+      "msg": "⚠️ Limite atingido (5/5) - LIT cancelado"
+    },
+    {
+      "ts": "2026-02-14T12:54:34.848Z",
+      "time": "12:54:34",
+      "type": "signal",
+      "msg": "🎯 SHORT LIT @ $1.60 (100%) — Dessa vez vai (eu acho)"
+    },
+    {
+      "ts": "2026-02-14T12:54:34.848Z",
+      "time": "12:54:34",
+      "type": "analysis",
+      "msg": "Hmm, LIT mostrando sinais de SHORT (100%)"
+    },
+    {
+      "ts": "2026-02-14T12:54:34.372Z",
+      "time": "12:54:34",
+      "type": "system",
+      "msg": "⚠️ Limite atingido (5/5) - PAXG cancelado"
+    },
+    {
+      "ts": "2026-02-14T12:54:34.004Z",
+      "time": "12:54:34",
+      "type": "signal",
+      "msg": "🎯 LONG PAXG @ $5027.70 (78%) — Os indicadores mandaram, eu obedeci"
+    },
+    {
+      "ts": "2026-02-14T12:54:34.004Z",
+      "time": "12:54:34",
+      "type": "analysis",
+      "msg": "Hmm, PAXG mostrando sinais de LONG (78%)"
+    },
+    {
+      "ts": "2026-02-14T12:54:33.710Z",
+      "time": "12:54:33",
+      "type": "result",
+      "msg": "🏁 Trade completo: SHORT HYPE @ $31.42 | RR 2:1"
+    },
+    {
+      "ts": "2026-02-14T12:54:33.709Z",
+      "time": "12:54:33",
+      "type": "execution",
+      "msg": "🎯 Take Profit: $30.80"
+    },
+    {
+      "ts": "2026-02-14T12:54:32.258Z",
+      "time": "12:54:32",
+      "type": "execution",
+      "msg": "🛡️ Stop Loss: $31.74"
+    },
+    {
+      "ts": "2026-02-14T12:54:30.423Z",
+      "time": "12:54:30",
+      "type": "execution",
+      "msg": "✅ Filled: 0.490000 HYPE @ $31.42"
+    },
+    {
+      "ts": "2026-02-14T12:54:28.098Z",
+      "time": "12:54:28",
+      "type": "execution",
+      "msg": "📤 Abrindo SHORT em HYPE..."
+    },
+    {
+      "ts": "2026-02-14T12:54:26.969Z",
+      "time": "12:54:26",
+      "type": "execution",
+      "msg": "⚙️ Leverage: 5x"
+    },
+    {
+      "ts": "2026-02-14T12:54:26.699Z",
+      "time": "12:54:26",
+      "type": "signal",
+      "msg": "🎯 SHORT HYPE @ $31.43 (89%) — Análise feita, trade executado, fé ativada"
+    },
+    {
+      "ts": "2026-02-14T12:54:26.105Z",
+      "time": "12:54:26",
+      "type": "position",
+      "msg": "ZEC -0.51% — Vermelho é a minha cor favorita agora"
+    },
+    {
+      "ts": "2026-02-14T12:54:25.811Z",
+      "time": "12:54:25",
+      "type": "position",
+      "msg": "ETH +0.17% — Será que é armadilha? Provavelmente. Mas vou curtir enquanto dura"
+    },
+    {
       "ts": "2026-02-14T12:53:54.795Z",
       "time": "12:53:54",
       "type": "system",
@@ -11,174 +179,6 @@
       "time": "12:53:25",
       "type": "position",
       "msg": "ZEC -0.38% — Respira... é só número na tela"
-    },
-    {
-      "ts": "2026-02-14T12:53:25.164Z",
-      "time": "12:53:25",
-      "type": "position",
-      "msg": "ETH +0.16% — Será que alguém sabe algo que eu não sei? Sempre sabem."
-    },
-    {
-      "ts": "2026-02-14T12:52:55.300Z",
-      "time": "12:52:55",
-      "type": "position",
-      "msg": "PAXG -0.06% — Enquanto não move, não perco. Stonks mental."
-    },
-    {
-      "ts": "2026-02-14T12:51:55.711Z",
-      "time": "12:51:55",
-      "type": "position",
-      "msg": "ZEC -0.49% — Tá bom, universo, entendi o recado"
-    },
-    {
-      "ts": "2026-02-14T12:51:55.142Z",
-      "time": "12:51:55",
-      "type": "position",
-      "msg": "ETH -0.01% — Se mexer muito, assusta"
-    },
-    {
-      "ts": "2026-02-14T12:51:25.493Z",
-      "time": "12:51:25",
-      "type": "position",
-      "msg": "PAXG -0.06% — O mercado decidiu tirar uma soneca"
-    },
-    {
-      "ts": "2026-02-14T12:50:55.559Z",
-      "time": "12:50:55",
-      "type": "position",
-      "msg": "ZEC -0.61% — Quem mandou confiar em linha colorida"
-    },
-    {
-      "ts": "2026-02-14T12:50:55.001Z",
-      "time": "12:50:55",
-      "type": "position",
-      "msg": "ETH +0.18% — Não é muito, mas é trabalho honesto"
-    },
-    {
-      "ts": "2026-02-14T12:50:25.215Z",
-      "time": "12:50:25",
-      "type": "position",
-      "msg": "PAXG -0.06% — Se mexer muito, assusta"
-    },
-    {
-      "ts": "2026-02-14T12:49:55.643Z",
-      "time": "12:49:55",
-      "type": "position",
-      "msg": "ZEC -0.19% — O mercado escolheu violência hoje"
-    },
-    {
-      "ts": "2026-02-14T12:49:54.968Z",
-      "time": "12:49:54",
-      "type": "position",
-      "msg": "ETH -0.11% — Vermelho é a minha cor favorita agora"
-    },
-    {
-      "ts": "2026-02-14T12:49:47.482Z",
-      "time": "12:49:47",
-      "type": "analysis",
-      "msg": "Analisando JUP... parece LONG (56%)"
-    },
-    {
-      "ts": "2026-02-14T12:49:47.194Z",
-      "time": "12:49:47",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - LINK cancelado"
-    },
-    {
-      "ts": "2026-02-14T12:49:46.728Z",
-      "time": "12:49:46",
-      "type": "signal",
-      "msg": "🎯 SHORT LINK @ $8.94 (78%) — Essa eu senti"
-    },
-    {
-      "ts": "2026-02-14T12:49:46.727Z",
-      "time": "12:49:46",
-      "type": "analysis",
-      "msg": "LINK no radar: 78% SHORT"
-    },
-    {
-      "ts": "2026-02-14T12:49:46.332Z",
-      "time": "12:49:46",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - MOODENG cancelado"
-    },
-    {
-      "ts": "2026-02-14T12:49:46.027Z",
-      "time": "12:49:46",
-      "type": "signal",
-      "msg": "🎯 SHORT MOODENG @ $0.06 (78%) — Setup alinhado, agora é com o mercado"
-    },
-    {
-      "ts": "2026-02-14T12:49:46.027Z",
-      "time": "12:49:46",
-      "type": "analysis",
-      "msg": "Olhando MOODENG... 78% SHORT"
-    },
-    {
-      "ts": "2026-02-14T12:49:45.746Z",
-      "time": "12:49:45",
-      "type": "analysis",
-      "msg": "ARB no radar: 56% SHORT"
-    },
-    {
-      "ts": "2026-02-14T12:49:45.434Z",
-      "time": "12:49:45",
-      "type": "analysis",
-      "msg": "Hmm, kPEPE mostrando sinais de SHORT (56%)"
-    },
-    {
-      "ts": "2026-02-14T12:49:44.303Z",
-      "time": "12:49:44",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - TAO cancelado"
-    },
-    {
-      "ts": "2026-02-14T12:49:43.920Z",
-      "time": "12:49:43",
-      "type": "signal",
-      "msg": "🎯 SHORT TAO @ $193.93 (78%) — Setup alinhado, agora é com o mercado"
-    },
-    {
-      "ts": "2026-02-14T12:49:43.920Z",
-      "time": "12:49:43",
-      "type": "analysis",
-      "msg": "TAO tá interessante, 78% pro SHORT"
-    },
-    {
-      "ts": "2026-02-14T12:49:43.642Z",
-      "time": "12:49:43",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - OM cancelado"
-    },
-    {
-      "ts": "2026-02-14T12:49:43.312Z",
-      "time": "12:49:43",
-      "type": "signal",
-      "msg": "🎯 LONG OM @ $0.06 (89%) — Nova aposta na mesa"
-    },
-    {
-      "ts": "2026-02-14T12:49:43.312Z",
-      "time": "12:49:43",
-      "type": "analysis",
-      "msg": "OM no radar: 89% LONG"
-    },
-    {
-      "ts": "2026-02-14T12:49:43.019Z",
-      "time": "12:49:43",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - BNB cancelado"
-    },
-    {
-      "ts": "2026-02-14T12:49:42.738Z",
-      "time": "12:49:42",
-      "type": "signal",
-      "msg": "🎯 SHORT BNB @ $627.64 (89%) — Dessa vez vai (eu acho)"
-    },
-    {
-      "ts": "2026-02-14T12:49:42.738Z",
-      "time": "12:49:42",
-      "type": "analysis",
-      "msg": "Analisando BNB... parece SHORT (89%)"
     }
   ]
 }
