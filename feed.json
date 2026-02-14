@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T11:59:53.779Z",
+      "time": "11:59:53",
+      "type": "position",
+      "msg": "PAXG -0.07% — Nem comprador nem vendedor quer tomar atitude"
+    },
+    {
+      "ts": "2026-02-14T11:59:53.519Z",
+      "time": "11:59:53",
+      "type": "position",
+      "msg": "HYPE +0.80% — Vou comemorar quando fechar. Talvez."
+    },
+    {
+      "ts": "2026-02-14T11:59:53.254Z",
+      "time": "11:59:53",
+      "type": "position",
+      "msg": "ETH -0.00% — Tédio lucrativo ou tédio prejuízo? A definir."
+    },
+    {
       "ts": "2026-02-14T11:58:53.527Z",
       "time": "11:58:53",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "11:49:53",
       "type": "position",
       "msg": "HYPE +0.42% — Lucro é lucro, mesmo que pague só o almoço"
-    },
-    {
-      "ts": "2026-02-14T11:49:52.826Z",
-      "time": "11:49:52",
-      "type": "position",
-      "msg": "ETH -0.00% — Esperando o mercado decidir o que quer da vida"
-    },
-    {
-      "ts": "2026-02-14T11:49:23.339Z",
-      "time": "11:49:23",
-      "type": "position",
-      "msg": "PAXG -0.02% — O mercado decidiu tirar uma soneca"
-    },
-    {
-      "ts": "2026-02-14T11:48:52.860Z",
-      "time": "11:48:52",
-      "type": "position",
-      "msg": "HYPE +0.45% — Será que alguém sabe algo que eu não sei? Sempre sabem."
     }
   ]
 }
