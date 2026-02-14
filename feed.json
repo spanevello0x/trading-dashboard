@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T08:05:14.275Z",
+      "time": "08:05:14",
+      "type": "position",
+      "msg": "SUI -1.06% — Isso é um teste de caráter, com certeza"
+    },
+    {
+      "ts": "2026-02-14T08:05:14.010Z",
+      "time": "08:05:14",
+      "type": "position",
+      "msg": "ETH +0.13% — Isso aí, garoto. Vai, vai, vai..."
+    },
+    {
       "ts": "2026-02-14T08:04:14.807Z",
       "time": "08:04:14",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "07:56:43",
       "type": "position",
       "msg": "SUI -0.89% — Clássico"
-    },
-    {
-      "ts": "2026-02-14T07:56:43.685Z",
-      "time": "07:56:43",
-      "type": "position",
-      "msg": "ETH -0.18% — Pelo menos o stop existe. Graças a Deus pelo stop."
-    },
-    {
-      "ts": "2026-02-14T07:55:43.938Z",
-      "time": "07:55:43",
-      "type": "position",
-      "msg": "SUI -0.90% — Ah sim, o famoso 'compra no topo'"
     }
   ]
 }
