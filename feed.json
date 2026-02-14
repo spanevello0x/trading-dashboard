@@ -1,184 +1,184 @@
 {
   "feed": [
     {
-      "ts": "2026-02-14T10:37:20.235Z",
-      "time": "10:37:20",
-      "type": "position",
-      "msg": "HYPE -0.87% — Tá difícil defender essa entrada"
+      "ts": "2026-02-14T10:38:02.579Z",
+      "time": "10:38:02",
+      "type": "analysis",
+      "msg": "FARTCOIN tá interessante, 56% pro SHORT"
     },
     {
-      "ts": "2026-02-14T10:37:19.957Z",
-      "time": "10:37:19",
-      "type": "position",
-      "msg": "XRP -0.33% — Amanhã é outro dia (espero)"
+      "ts": "2026-02-14T10:38:02.213Z",
+      "time": "10:38:02",
+      "type": "analysis",
+      "msg": "Hmm, XPL mostrando sinais de LONG (56%)"
     },
     {
-      "ts": "2026-02-14T10:36:50.991Z",
-      "time": "10:36:50",
-      "type": "position",
-      "msg": "ZEC +0.61% — Vou comemorar quando fechar. Talvez."
+      "ts": "2026-02-14T10:38:01.932Z",
+      "time": "10:38:01",
+      "type": "system",
+      "msg": "⚠️ Limite atingido (5/5) - BCH cancelado"
     },
     {
-      "ts": "2026-02-14T10:36:50.726Z",
-      "time": "10:36:50",
-      "type": "position",
-      "msg": "PAXG -0.00% — Nem pra cima nem pra baixo. Ansiedade infinita."
+      "ts": "2026-02-14T10:38:01.648Z",
+      "time": "10:38:01",
+      "type": "signal",
+      "msg": "🎯 LONG BCH @ $567.95 (89%) — Os indicadores mandaram, eu obedeci"
     },
     {
-      "ts": "2026-02-14T10:36:20.168Z",
-      "time": "10:36:20",
-      "type": "position",
-      "msg": "HYPE -0.82% — Minha análise era perfeita, o mercado que tá errado"
+      "ts": "2026-02-14T10:38:01.648Z",
+      "time": "10:38:01",
+      "type": "analysis",
+      "msg": "BCH no radar: 89% LONG"
     },
     {
-      "ts": "2026-02-14T10:36:19.890Z",
-      "time": "10:36:19",
-      "type": "position",
-      "msg": "XRP -0.37% — Clássico"
+      "ts": "2026-02-14T10:38:01.309Z",
+      "time": "10:38:01",
+      "type": "analysis",
+      "msg": "Analisando MON... parece LONG (56%)"
     },
     {
-      "ts": "2026-02-14T10:35:50.689Z",
-      "time": "10:35:50",
-      "type": "position",
-      "msg": "ZEC +0.73% — Respira... ainda não acabou"
+      "ts": "2026-02-14T10:38:00.748Z",
+      "time": "10:38:00",
+      "type": "analysis",
+      "msg": "Olhando SUI... 67% LONG"
     },
     {
-      "ts": "2026-02-14T10:35:50.422Z",
-      "time": "10:35:50",
-      "type": "position",
-      "msg": "PAXG +0.00% — Neutro: onde a ansiedade e o tédio se encontram"
+      "ts": "2026-02-14T10:38:00.457Z",
+      "time": "10:38:00",
+      "type": "system",
+      "msg": "⚠️ Limite atingido (5/5) - PUMP cancelado"
     },
     {
-      "ts": "2026-02-14T10:35:20.150Z",
-      "time": "10:35:20",
-      "type": "position",
-      "msg": "HYPE -0.65% — Não é prejuízo se eu não vender... ah, tem stop"
+      "ts": "2026-02-14T10:38:00.148Z",
+      "time": "10:38:00",
+      "type": "signal",
+      "msg": "🎯 LONG PUMP @ $0.00 (100%) — Entrei. Arrependimento em 3, 2, 1..."
     },
     {
-      "ts": "2026-02-14T10:35:19.874Z",
-      "time": "10:35:19",
-      "type": "position",
-      "msg": "XRP -0.43% — Não é prejuízo se eu não vender... ah, tem stop"
+      "ts": "2026-02-14T10:38:00.148Z",
+      "time": "10:38:00",
+      "type": "analysis",
+      "msg": "Olhando PUMP... 100% LONG"
     },
     {
-      "ts": "2026-02-14T10:34:20.902Z",
-      "time": "10:34:20",
-      "type": "position",
-      "msg": "ZEC +0.69% — Tá bom demais pra ser verdade... ops, não deveria falar isso"
+      "ts": "2026-02-14T10:37:59.870Z",
+      "time": "10:37:59",
+      "type": "system",
+      "msg": "⚠️ Limite atingido (5/5) - AAVE cancelado"
     },
     {
-      "ts": "2026-02-14T10:34:20.477Z",
-      "time": "10:34:20",
-      "type": "position",
-      "msg": "PAXG -0.00% — O mercado decidiu tirar uma soneca"
+      "ts": "2026-02-14T10:37:59.594Z",
+      "time": "10:37:59",
+      "type": "signal",
+      "msg": "🎯 LONG AAVE @ $127.31 (78%) — Análise feita, trade executado, fé ativada"
     },
     {
-      "ts": "2026-02-14T10:34:20.214Z",
-      "time": "10:34:20",
-      "type": "position",
-      "msg": "HYPE -0.43% — Minha análise era perfeita, o mercado que tá errado"
+      "ts": "2026-02-14T10:37:59.594Z",
+      "time": "10:37:59",
+      "type": "analysis",
+      "msg": "AAVE no radar: 78% LONG"
     },
     {
-      "ts": "2026-02-14T10:34:19.845Z",
-      "time": "10:34:19",
-      "type": "position",
-      "msg": "XRP -0.48% — O mercado escolheu violência hoje"
+      "ts": "2026-02-14T10:37:59.066Z",
+      "time": "10:37:59",
+      "type": "analysis",
+      "msg": "Analisando ASTER... parece LONG (67%)"
     },
     {
-      "ts": "2026-02-14T10:33:20.354Z",
-      "time": "10:33:20",
-      "type": "position",
-      "msg": "PAXG -0.00% — Esperando Godot, versão crypto"
+      "ts": "2026-02-14T10:37:58.780Z",
+      "time": "10:37:58",
+      "type": "system",
+      "msg": "⚠️ Limite atingido (5/5) - ZRO cancelado"
     },
     {
-      "ts": "2026-02-14T10:33:20.089Z",
-      "time": "10:33:20",
-      "type": "position",
-      "msg": "HYPE -0.47% — Não é prejuízo se eu não vender... ah, tem stop"
+      "ts": "2026-02-14T10:37:58.468Z",
+      "time": "10:37:58",
+      "type": "signal",
+      "msg": "🎯 LONG ZRO @ $1.87 (100%) — Nova aposta na mesa"
     },
     {
-      "ts": "2026-02-14T10:33:19.745Z",
-      "time": "10:33:19",
-      "type": "position",
-      "msg": "XRP -0.46% — Sabia que não devia ter olhado"
+      "ts": "2026-02-14T10:37:58.467Z",
+      "time": "10:37:58",
+      "type": "analysis",
+      "msg": "Olhando ZRO... 100% LONG"
     },
     {
-      "ts": "2026-02-14T10:32:50.709Z",
-      "time": "10:32:50",
-      "type": "position",
-      "msg": "ZEC +0.69% — Respira... ainda não acabou"
+      "ts": "2026-02-14T10:37:58.167Z",
+      "time": "10:37:58",
+      "type": "system",
+      "msg": "⚠️ Limite atingido (5/5) - LIT cancelado"
     },
     {
-      "ts": "2026-02-14T10:32:20.237Z",
-      "time": "10:32:20",
-      "type": "position",
-      "msg": "PAXG -0.00% — O mercado decidiu tirar uma soneca"
+      "ts": "2026-02-14T10:37:57.854Z",
+      "time": "10:37:57",
+      "type": "signal",
+      "msg": "🎯 SHORT LIT @ $1.62 (89%) — Análise feita, trade executado, fé ativada"
     },
     {
-      "ts": "2026-02-14T10:32:19.977Z",
-      "time": "10:32:19",
-      "type": "position",
-      "msg": "HYPE -0.48% — Ah sim, o famoso 'compra no topo'"
+      "ts": "2026-02-14T10:37:57.854Z",
+      "time": "10:37:57",
+      "type": "analysis",
+      "msg": "LIT no radar: 89% SHORT"
     },
     {
-      "ts": "2026-02-14T10:32:19.711Z",
-      "time": "10:32:19",
-      "type": "position",
-      "msg": "XRP -0.32% — Clássico"
+      "ts": "2026-02-14T10:37:57.556Z",
+      "time": "10:37:57",
+      "type": "result",
+      "msg": "🏁 Trade completo: LONG HYPE @ $31.83 | RR 2:1"
     },
     {
-      "ts": "2026-02-14T10:31:20.544Z",
-      "time": "10:31:20",
-      "type": "position",
-      "msg": "ZEC +0.80% — Vou fingir que sabia que isso ia acontecer"
+      "ts": "2026-02-14T10:37:57.556Z",
+      "time": "10:37:57",
+      "type": "execution",
+      "msg": "🎯 Take Profit: $32.46"
     },
     {
-      "ts": "2026-02-14T10:30:50.453Z",
-      "time": "10:30:50",
-      "type": "position",
-      "msg": "PAXG -0.00% — Consolidação ou indecisão? Sim."
+      "ts": "2026-02-14T10:37:55.979Z",
+      "time": "10:37:55",
+      "type": "execution",
+      "msg": "🛡️ Stop Loss: $31.50"
     },
     {
-      "ts": "2026-02-14T10:30:50.188Z",
-      "time": "10:30:50",
-      "type": "position",
-      "msg": "HYPE -0.46% — Amanhã é outro dia (espero)"
+      "ts": "2026-02-14T10:37:54.523Z",
+      "time": "10:37:54",
+      "type": "execution",
+      "msg": "✅ Filled: 0.490000 HYPE @ $31.83"
     },
     {
-      "ts": "2026-02-14T10:30:49.921Z",
-      "time": "10:30:49",
-      "type": "position",
-      "msg": "XRP -0.32% — O mercado escolheu violência hoje"
+      "ts": "2026-02-14T10:37:52.766Z",
+      "time": "10:37:52",
+      "type": "execution",
+      "msg": "📤 Abrindo LONG em HYPE..."
     },
     {
-      "ts": "2026-02-14T10:29:50.933Z",
-      "time": "10:29:50",
-      "type": "position",
-      "msg": "ZEC +0.75% — Lucro é lucro, mesmo que pague só o almoço"
+      "ts": "2026-02-14T10:37:51.623Z",
+      "time": "10:37:51",
+      "type": "execution",
+      "msg": "⚙️ Leverage: 5x"
     },
     {
-      "ts": "2026-02-14T10:29:21.027Z",
-      "time": "10:29:21",
-      "type": "position",
-      "msg": "ZEC +1.05% — Vou comemorar quando fechar. Talvez."
+      "ts": "2026-02-14T10:37:51.348Z",
+      "time": "10:37:51",
+      "type": "signal",
+      "msg": "🎯 LONG HYPE @ $31.82 (100%) — Essa eu senti"
     },
     {
-      "ts": "2026-02-14T10:29:20.761Z",
-      "time": "10:29:20",
-      "type": "position",
-      "msg": "PAXG +0.01% — Pelo menos não tá caindo... ainda"
+      "ts": "2026-02-14T10:37:51.348Z",
+      "time": "10:37:51",
+      "type": "analysis",
+      "msg": "Olhando HYPE... 100% LONG"
     },
     {
-      "ts": "2026-02-14T10:29:20.492Z",
-      "time": "10:29:20",
-      "type": "position",
-      "msg": "HYPE -0.34% — Vermelho é a minha cor favorita agora"
+      "ts": "2026-02-14T10:37:51.067Z",
+      "time": "10:37:51",
+      "type": "analysis",
+      "msg": "Olhando SOL... 67% LONG"
     },
     {
-      "ts": "2026-02-14T10:29:20.211Z",
-      "time": "10:29:20",
-      "type": "position",
-      "msg": "XRP -0.42% — O gráfico parecia tão bonito..."
+      "ts": "2026-02-14T10:37:49.623Z",
+      "time": "10:37:49",
+      "type": "system",
+      "msg": "HYPE fechou — Saiu do forno"
     }
   ]
 }
