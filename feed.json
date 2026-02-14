@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T14:09:58.553Z",
+      "time": "14:09:58",
+      "type": "position",
+      "msg": "HYPE +0.91% — Se continuar assim, quase empato na semana"
+    },
+    {
+      "ts": "2026-02-14T14:09:58.290Z",
+      "time": "14:09:58",
+      "type": "position",
+      "msg": "SOL -0.44% — O gráfico parecia tão bonito..."
+    },
+    {
+      "ts": "2026-02-14T14:09:58.022Z",
+      "time": "14:09:58",
+      "type": "position",
+      "msg": "ETH +0.00% — Tô aqui, olhando, esperando, sofrendo"
+    },
+    {
       "ts": "2026-02-14T14:08:58.440Z",
       "time": "14:08:58",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "13:58:57",
       "type": "position",
       "msg": "SOL -0.13% — Quem mandou confiar em linha colorida"
-    },
-    {
-      "ts": "2026-02-14T13:58:28.107Z",
-      "time": "13:58:28",
-      "type": "position",
-      "msg": "HYPE +1.22% — Imagina se eu tivesse colocado mais..."
-    },
-    {
-      "ts": "2026-02-14T13:58:27.534Z",
-      "time": "13:58:27",
-      "type": "position",
-      "msg": "ETH +0.16% — Melhor que Netflix isso aqui"
-    },
-    {
-      "ts": "2026-02-14T13:57:57.824Z",
-      "time": "13:57:57",
-      "type": "position",
-      "msg": "SOL -0.06% — O mercado tá buffering"
     }
   ]
 }
