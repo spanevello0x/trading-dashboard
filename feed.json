@@ -1,6 +1,42 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T05:56:10.722Z",
+      "time": "05:56:10",
+      "type": "position",
+      "msg": "XMR +0.45% — Meu psicólogo vai ficar orgulhoso"
+    },
+    {
+      "ts": "2026-02-14T05:56:10.457Z",
+      "time": "05:56:10",
+      "type": "position",
+      "msg": "PAXG +0.09% — Dormiu no ponto"
+    },
+    {
+      "ts": "2026-02-14T05:56:10.198Z",
+      "time": "05:56:10",
+      "type": "position",
+      "msg": "HYPE +1.26% — Tá verde? Tira print rápido antes que vire"
+    },
+    {
+      "ts": "2026-02-14T05:56:09.921Z",
+      "time": "05:56:09",
+      "type": "position",
+      "msg": "BCH +0.43% — Não é muito, mas é trabalho honesto"
+    },
+    {
+      "ts": "2026-02-14T05:56:09.395Z",
+      "time": "05:56:09",
+      "type": "position",
+      "msg": "BNB +0.04% — Tô aqui, olhando, esperando, sofrendo"
+    },
+    {
+      "ts": "2026-02-14T05:56:09.135Z",
+      "time": "05:56:09",
+      "type": "position",
+      "msg": "BTC -0.44% — Quem inventou crypto? Preciso conversar"
+    },
+    {
       "ts": "2026-02-14T05:55:09.919Z",
       "time": "05:55:09",
       "type": "position",
@@ -143,42 +179,6 @@
       "time": "05:50:40",
       "type": "position",
       "msg": "XMR +0.28% — Respira... ainda não acabou"
-    },
-    {
-      "ts": "2026-02-14T05:50:40.003Z",
-      "time": "05:50:40",
-      "type": "position",
-      "msg": "PAXG +0.09% — Tá ali, existindo"
-    },
-    {
-      "ts": "2026-02-14T05:50:39.615Z",
-      "time": "05:50:39",
-      "type": "position",
-      "msg": "HYPE +0.98% — Tá subindo? Deixa eu não olhar pra não dar azar"
-    },
-    {
-      "ts": "2026-02-14T05:50:39.078Z",
-      "time": "05:50:39",
-      "type": "position",
-      "msg": "BNB -0.15% — Prometo estudar mais... mentira, vou continuar igual"
-    },
-    {
-      "ts": "2026-02-14T05:50:38.809Z",
-      "time": "05:50:38",
-      "type": "position",
-      "msg": "BTC -0.37% — Isso é um teste de caráter, com certeza"
-    },
-    {
-      "ts": "2026-02-14T05:50:09.363Z",
-      "time": "05:50:09",
-      "type": "position",
-      "msg": "BCH +0.00% — Lateral é o novo tendência"
-    },
-    {
-      "ts": "2026-02-14T05:49:10.617Z",
-      "time": "05:49:10",
-      "type": "position",
-      "msg": "XMR +0.37% — Olha só, o mercado decidiu colaborar hoje"
     }
   ]
 }
