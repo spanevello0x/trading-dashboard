@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T05:57:09.597Z",
+      "time": "05:57:09",
+      "type": "position",
+      "msg": "BNB -0.00% — O mercado foi tomar café, já volta"
+    },
+    {
+      "ts": "2026-02-14T05:57:09.329Z",
+      "time": "05:57:09",
+      "type": "position",
+      "msg": "BTC -0.43% — O mercado escolheu violência hoje"
+    },
+    {
       "ts": "2026-02-14T05:56:10.722Z",
       "time": "05:56:10",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "05:51:38",
       "type": "position",
       "msg": "BTC -0.35% — Quem inventou crypto? Preciso conversar"
-    },
-    {
-      "ts": "2026-02-14T05:51:09.394Z",
-      "time": "05:51:09",
-      "type": "position",
-      "msg": "BCH +0.02% — Se mexer muito, assusta"
-    },
-    {
-      "ts": "2026-02-14T05:50:40.391Z",
-      "time": "05:50:40",
-      "type": "position",
-      "msg": "XMR +0.28% — Respira... ainda não acabou"
     }
   ]
 }
