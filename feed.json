@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T10:43:20.885Z",
+      "time": "10:43:20",
+      "type": "position",
+      "msg": "ZEC +0.62% — Respira... ainda não acabou"
+    },
+    {
       "ts": "2026-02-14T10:42:50.636Z",
       "time": "10:42:50",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "10:38:06",
       "type": "analysis",
       "msg": "Olhando OM... 56% LONG"
-    },
-    {
-      "ts": "2026-02-14T10:38:06.321Z",
-      "time": "10:38:06",
-      "type": "analysis",
-      "msg": "Hmm, BNB mostrando sinais de LONG (67%)"
     }
   ]
 }
