@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T15:07:00.474Z",
+      "time": "15:07:00",
+      "type": "position",
+      "msg": "SOL +0.11% — Tá subindo? Deixa eu não olhar pra não dar azar"
+    },
+    {
       "ts": "2026-02-14T15:06:30.207Z",
       "time": "15:06:30",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "14:55:00",
       "type": "position",
       "msg": "SOL +0.03% — O mercado tá no modo avião"
-    },
-    {
-      "ts": "2026-02-14T14:54:59.775Z",
-      "time": "14:54:59",
-      "type": "position",
-      "msg": "ETH -0.53% — Clássico"
     }
   ]
 }
