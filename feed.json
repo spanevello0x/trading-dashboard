@@ -1,30 +1,6 @@
 {
   "feed": [
     {
-      "ts": "2026-02-14T04:31:52.102Z",
-      "time": "04:31:52",
-      "type": "position",
-      "msg": "HYPE +0.39% — Não me acostumem com isso"
-    },
-    {
-      "ts": "2026-02-14T04:32:22.422Z",
-      "time": "04:32:22",
-      "type": "position",
-      "msg": "PAXG +0.09% — Consolidação ou indecisão? Sim."
-    },
-    {
-      "ts": "2026-02-14T04:32:22.688Z",
-      "time": "04:32:22",
-      "type": "position",
-      "msg": "XMR +0.23% — Print pra mostrar pros netos"
-    },
-    {
-      "ts": "2026-02-14T04:32:51.211Z",
-      "time": "04:32:51",
-      "type": "position",
-      "msg": "BNB -0.14% — Pelo menos aprendo algo... né?"
-    },
-    {
       "ts": "2026-02-14T04:32:51.476Z",
       "time": "04:32:51",
       "type": "position",
@@ -179,6 +155,30 @@
       "time": "04:38:51",
       "type": "position",
       "msg": "BNB -0.09% — Tick tock, mercado..."
+    },
+    {
+      "ts": "2026-02-14T04:39:21.864Z",
+      "time": "04:39:21",
+      "type": "position",
+      "msg": "BCH -0.01% — Neutro: onde a ansiedade e o tédio se encontram"
+    },
+    {
+      "ts": "2026-02-14T04:39:22.125Z",
+      "time": "04:39:22",
+      "type": "position",
+      "msg": "HYPE +1.06% — O mercado me ama (por enquanto)"
+    },
+    {
+      "ts": "2026-02-14T04:39:22.389Z",
+      "time": "04:39:22",
+      "type": "position",
+      "msg": "PAXG +0.16% — O mercado tá generoso hoje, desconfio"
+    },
+    {
+      "ts": "2026-02-14T04:39:22.657Z",
+      "time": "04:39:22",
+      "type": "position",
+      "msg": "XMR +0.89% — Quase consigo pagar o café de ontem"
     }
   ]
 }
