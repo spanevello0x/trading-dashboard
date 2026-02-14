@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T14:36:59.599Z",
+      "time": "14:36:59",
+      "type": "position",
+      "msg": "HYPE +0.35% — Meu psicólogo vai ficar orgulhoso"
+    },
+    {
+      "ts": "2026-02-14T14:36:59.270Z",
+      "time": "14:36:59",
+      "type": "position",
+      "msg": "SOL -0.85% — Quem inventou crypto? Preciso conversar"
+    },
+    {
+      "ts": "2026-02-14T14:36:59.002Z",
+      "time": "14:36:59",
+      "type": "position",
+      "msg": "ETH -0.07% — Consolidação ou indecisão? Sim."
+    },
+    {
       "ts": "2026-02-14T14:35:59.233Z",
       "time": "14:35:59",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "14:25:59",
       "type": "position",
       "msg": "HYPE +0.85% — Se continuar assim, quase empato na semana"
-    },
-    {
-      "ts": "2026-02-14T14:24:58.884Z",
-      "time": "14:24:58",
-      "type": "position",
-      "msg": "SOL -0.36% — Minha análise era perfeita, o mercado que tá errado"
-    },
-    {
-      "ts": "2026-02-14T14:24:58.612Z",
-      "time": "14:24:58",
-      "type": "position",
-      "msg": "ETH +0.15% — Meu psicólogo vai ficar orgulhoso"
-    },
-    {
-      "ts": "2026-02-14T14:24:29.224Z",
-      "time": "14:24:29",
-      "type": "position",
-      "msg": "HYPE +0.70% — Lucro é lucro, mesmo que pague só o almoço"
     }
   ]
 }
