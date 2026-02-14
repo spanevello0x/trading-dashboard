@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T08:52:16.780Z",
+      "time": "08:52:16",
+      "type": "position",
+      "msg": "PAXG +0.03% — Esperando Godot, versão crypto"
+    },
+    {
+      "ts": "2026-02-14T08:52:16.419Z",
+      "time": "08:52:16",
+      "type": "position",
+      "msg": "BCH +0.86% — Calma que ainda pode dar errado"
+    },
+    {
+      "ts": "2026-02-14T08:52:16.142Z",
+      "time": "08:52:16",
+      "type": "position",
+      "msg": "SUI -2.35% — Sabia que não devia ter olhado"
+    },
+    {
       "ts": "2026-02-14T08:51:45.897Z",
       "time": "08:51:45",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "08:43:46",
       "type": "position",
       "msg": "PAXG +0.09% — Pelo menos não tá caindo... ainda"
-    },
-    {
-      "ts": "2026-02-14T08:43:46.046Z",
-      "time": "08:43:46",
-      "type": "position",
-      "msg": "BCH +0.56% — Não sou eu, é o mercado que tá errado... ah não, dessa vez acertou"
-    },
-    {
-      "ts": "2026-02-14T08:43:15.741Z",
-      "time": "08:43:15",
-      "type": "position",
-      "msg": "SUI -2.37% — Respira... é só número na tela"
-    },
-    {
-      "ts": "2026-02-14T08:43:15.476Z",
-      "time": "08:43:15",
-      "type": "position",
-      "msg": "ETH +0.74% — Será que alguém sabe algo que eu não sei? Sempre sabem."
     }
   ]
 }
