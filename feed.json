@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T11:47:53.149Z",
+      "time": "11:47:53",
+      "type": "position",
+      "msg": "PAXG -0.02% — Consolidação ou indecisão? Sim."
+    },
+    {
       "ts": "2026-02-14T11:47:23.127Z",
       "time": "11:47:23",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "11:47:06",
       "type": "system",
       "msg": "⚠️ Limite atingido (5/5) - FARTCOIN cancelado"
-    },
-    {
-      "ts": "2026-02-14T11:47:06.392Z",
-      "time": "11:47:06",
-      "type": "signal",
-      "msg": "🎯 LONG FARTCOIN @ $0.19 (78%) — Setup alinhado, agora é com o mercado"
     }
   ]
 }
