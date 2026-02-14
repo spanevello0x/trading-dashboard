@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T07:54:43.922Z",
+      "time": "07:54:43",
+      "type": "position",
+      "msg": "SUI -0.85% — O gráfico parecia tão bonito..."
+    },
+    {
+      "ts": "2026-02-14T07:54:43.661Z",
+      "time": "07:54:43",
+      "type": "position",
+      "msg": "ETH -0.08% — Enquanto não move, não perco. Stonks mental."
+    },
+    {
       "ts": "2026-02-14T07:53:44.528Z",
       "time": "07:53:44",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "07:53:29",
       "type": "analysis",
       "msg": "Analisando VIRTUAL... parece LONG (78%)"
-    },
-    {
-      "ts": "2026-02-14T07:53:29.016Z",
-      "time": "07:53:29",
-      "type": "analysis",
-      "msg": "AZTEC tá interessante, 67% pro SHORT"
-    },
-    {
-      "ts": "2026-02-14T07:53:27.530Z",
-      "time": "07:53:27",
-      "type": "analysis",
-      "msg": "Olhando MON... 56% LONG"
     }
   ]
 }
