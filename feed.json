@@ -1,6 +1,30 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T09:19:18.432Z",
+      "time": "09:19:18",
+      "type": "position",
+      "msg": "ZEC +0.20% — Alguém avisa o mercado que eu tô comprado"
+    },
+    {
+      "ts": "2026-02-14T09:19:18.166Z",
+      "time": "09:19:18",
+      "type": "position",
+      "msg": "HYPE -0.13% — Loss building character 💪"
+    },
+    {
+      "ts": "2026-02-14T09:19:17.881Z",
+      "time": "09:19:17",
+      "type": "position",
+      "msg": "XRP +0.05% — Parece até stable coin"
+    },
+    {
+      "ts": "2026-02-14T09:19:17.617Z",
+      "time": "09:19:17",
+      "type": "position",
+      "msg": "ETH +0.97% — Será que alguém sabe algo que eu não sei? Sempre sabem."
+    },
+    {
       "ts": "2026-02-14T09:18:18.097Z",
       "time": "09:18:18",
       "type": "position",
@@ -155,30 +179,6 @@
       "time": "09:16:46",
       "type": "analysis",
       "msg": "OM tá interessante, 100% pro LONG"
-    },
-    {
-      "ts": "2026-02-14T09:16:45.858Z",
-      "time": "09:16:45",
-      "type": "analysis",
-      "msg": "AVAX no radar: 56% SHORT"
-    },
-    {
-      "ts": "2026-02-14T09:16:45.581Z",
-      "time": "09:16:45",
-      "type": "analysis",
-      "msg": "Hmm, VIRTUAL mostrando sinais de SHORT (56%)"
-    },
-    {
-      "ts": "2026-02-14T09:16:45.141Z",
-      "time": "09:16:45",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - AZTEC cancelado"
-    },
-    {
-      "ts": "2026-02-14T09:16:44.844Z",
-      "time": "09:16:44",
-      "type": "signal",
-      "msg": "🎯 SHORT AZTEC @ $0.02 (78%) — Bora, confia no pai"
     }
   ]
 }
