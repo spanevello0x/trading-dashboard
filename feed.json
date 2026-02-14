@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T13:25:56.874Z",
+      "time": "13:25:56",
+      "type": "position",
+      "msg": "HYPE +0.86% — Meu psicólogo vai ficar orgulhoso"
+    },
+    {
       "ts": "2026-02-14T13:25:26.637Z",
       "time": "13:25:26",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "13:14:56",
       "type": "position",
       "msg": "HYPE +0.18% — Não sou eu, é o mercado que tá errado... ah não, dessa vez acertou"
-    },
-    {
-      "ts": "2026-02-14T13:14:56.111Z",
-      "time": "13:14:56",
-      "type": "position",
-      "msg": "SOL -0.52% — Não é prejuízo se eu não vender... ah, tem stop"
     }
   ]
 }
