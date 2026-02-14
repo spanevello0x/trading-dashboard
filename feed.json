@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T09:18:18.097Z",
+      "time": "09:18:18",
+      "type": "position",
+      "msg": "ZEC +0.38% — Stonks 📈 (desculpa, não resisti)"
+    },
+    {
+      "ts": "2026-02-14T09:18:17.266Z",
+      "time": "09:18:17",
+      "type": "position",
+      "msg": "ETH +0.92% — Stonks 📈 (desculpa, não resisti)"
+    },
+    {
       "ts": "2026-02-14T09:17:47.389Z",
       "time": "09:17:47",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "09:16:44",
       "type": "signal",
       "msg": "🎯 SHORT AZTEC @ $0.02 (78%) — Bora, confia no pai"
-    },
-    {
-      "ts": "2026-02-14T09:16:44.844Z",
-      "time": "09:16:44",
-      "type": "analysis",
-      "msg": "AZTEC tá interessante, 78% pro SHORT"
-    },
-    {
-      "ts": "2026-02-14T09:16:44.561Z",
-      "time": "09:16:44",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - BERA cancelado"
     }
   ]
 }
