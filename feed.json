@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T07:19:43.576Z",
+      "time": "07:19:43",
+      "type": "position",
+      "msg": "PAXG +0.06% — O mercado tá buffering"
+    },
+    {
+      "ts": "2026-02-14T07:19:43.270Z",
+      "time": "07:19:43",
+      "type": "position",
+      "msg": "AAVE +0.27% — Vou fingir que sabia que isso ia acontecer"
+    },
+    {
+      "ts": "2026-02-14T07:19:42.722Z",
+      "time": "07:19:42",
+      "type": "position",
+      "msg": "SUI -0.48% — Amanhã é outro dia (espero)"
+    },
+    {
       "ts": "2026-02-14T07:19:12.959Z",
       "time": "07:19:12",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "07:11:13",
       "type": "position",
       "msg": "PAXG +0.04% — Tick tock, mercado..."
-    },
-    {
-      "ts": "2026-02-14T07:11:12.724Z",
-      "time": "07:11:12",
-      "type": "position",
-      "msg": "AAVE +0.16% — Quem diria, acertei uma"
-    },
-    {
-      "ts": "2026-02-14T07:11:12.456Z",
-      "time": "07:11:12",
-      "type": "position",
-      "msg": "BCH -0.26% — Quem mandou confiar em linha colorida"
-    },
-    {
-      "ts": "2026-02-14T07:11:12.187Z",
-      "time": "07:11:12",
-      "type": "position",
-      "msg": "SUI -0.31% — Quem mandou confiar em linha colorida"
     }
   ]
 }
