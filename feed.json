@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T08:45:46.499Z",
+      "time": "08:45:46",
+      "type": "position",
+      "msg": "PAXG +0.09% — Plot twist a qualquer momento"
+    },
+    {
+      "ts": "2026-02-14T08:45:45.942Z",
+      "time": "08:45:45",
+      "type": "position",
+      "msg": "SUI -2.65% — Loss building character 💪"
+    },
+    {
+      "ts": "2026-02-14T08:45:45.668Z",
+      "time": "08:45:45",
+      "type": "position",
+      "msg": "ETH +0.96% — Stonks 📈 (desculpa, não resisti)"
+    },
+    {
       "ts": "2026-02-14T08:44:46.496Z",
       "time": "08:44:46",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "08:36:46",
       "type": "position",
       "msg": "PAXG +0.08% — Consolidação ou indecisão? Sim."
-    },
-    {
-      "ts": "2026-02-14T08:36:45.820Z",
-      "time": "08:36:45",
-      "type": "position",
-      "msg": "BCH +0.52% — Verde combina comigo"
-    },
-    {
-      "ts": "2026-02-14T08:36:15.435Z",
-      "time": "08:36:15",
-      "type": "position",
-      "msg": "SUI -1.97% — O mercado escolheu violência hoje"
-    },
-    {
-      "ts": "2026-02-14T08:36:15.140Z",
-      "time": "08:36:15",
-      "type": "position",
-      "msg": "ETH +0.74% — Não é muito, mas é trabalho honesto"
     }
   ]
 }
