@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T08:49:15.830Z",
+      "time": "08:49:15",
+      "type": "position",
+      "msg": "ETH +1.12% — Finalmente algo de bom nesse mercado"
+    },
+    {
       "ts": "2026-02-14T08:48:17.471Z",
       "time": "08:48:17",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "08:39:45",
       "type": "position",
       "msg": "SUI -2.43% — Amanhã é outro dia (espero)"
-    },
-    {
-      "ts": "2026-02-14T08:39:45.365Z",
-      "time": "08:39:45",
-      "type": "position",
-      "msg": "ETH +0.85% — Lucro é lucro, mesmo que pague só o almoço"
     }
   ]
 }
