@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T12:52:55.300Z",
+      "time": "12:52:55",
+      "type": "position",
+      "msg": "PAXG -0.06% — Enquanto não move, não perco. Stonks mental."
+    },
+    {
       "ts": "2026-02-14T12:51:55.711Z",
       "time": "12:51:55",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "12:49:41",
       "type": "signal",
       "msg": "🎯 SHORT VIRTUAL @ $0.67 (89%) — Nova aposta na mesa"
-    },
-    {
-      "ts": "2026-02-14T12:49:41.360Z",
-      "time": "12:49:41",
-      "type": "analysis",
-      "msg": "Hmm, VIRTUAL mostrando sinais de SHORT (89%)"
     }
   ]
 }
