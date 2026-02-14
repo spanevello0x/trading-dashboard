@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T14:41:59.703Z",
+      "time": "14:41:59",
+      "type": "position",
+      "msg": "HYPE +0.21% — Não é muito, mas é trabalho honesto"
+    },
+    {
       "ts": "2026-02-14T14:41:29.518Z",
       "time": "14:41:29",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "14:39:42",
       "type": "signal",
       "msg": "🎯 LONG FARTCOIN @ $0.19 (78%) — Dessa vez vai (eu acho)"
-    },
-    {
-      "ts": "2026-02-14T14:39:42.070Z",
-      "time": "14:39:42",
-      "type": "analysis",
-      "msg": "Olhando FARTCOIN... 78% LONG"
     }
   ]
 }
