@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T12:53:54.795Z",
+      "time": "12:53:54",
+      "type": "system",
+      "msg": "⏰ PAXG expirou (30 candles) — Cancelando"
+    },
+    {
       "ts": "2026-02-14T12:53:25.725Z",
       "time": "12:53:25",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "12:49:42",
       "type": "analysis",
       "msg": "Analisando BNB... parece SHORT (89%)"
-    },
-    {
-      "ts": "2026-02-14T12:49:42.452Z",
-      "time": "12:49:42",
-      "type": "analysis",
-      "msg": "Olhando AVAX... 56% SHORT"
     }
   ]
 }
