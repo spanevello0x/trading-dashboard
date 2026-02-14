@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T12:30:24.311Z",
+      "time": "12:30:24",
+      "type": "position",
+      "msg": "ETH -0.35% — Vermelho é a minha cor favorita agora"
+    },
+    {
       "ts": "2026-02-14T12:29:24.992Z",
       "time": "12:29:24",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "12:18:54",
       "type": "position",
       "msg": "PAXG -0.02% — O gráfico tá meditando"
-    },
-    {
-      "ts": "2026-02-14T12:18:54.155Z",
-      "time": "12:18:54",
-      "type": "position",
-      "msg": "HYPE +0.12% — Olha só, o mercado decidiu colaborar hoje"
     }
   ]
 }
