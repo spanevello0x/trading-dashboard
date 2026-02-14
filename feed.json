@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T12:40:54.942Z",
+      "time": "12:40:54",
+      "type": "position",
+      "msg": "PAXG -0.02% — Parece até stable coin"
+    },
+    {
+      "ts": "2026-02-14T12:40:54.633Z",
+      "time": "12:40:54",
+      "type": "position",
+      "msg": "HYPE -0.68% — Vou culpar a lua, deve ser lua cheia"
+    },
+    {
       "ts": "2026-02-14T12:40:25.335Z",
       "time": "12:40:25",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "12:40:05",
       "type": "analysis",
       "msg": "PUMP no radar: 56% LONG"
-    },
-    {
-      "ts": "2026-02-14T12:40:04.880Z",
-      "time": "12:40:04",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - AAVE cancelado"
-    },
-    {
-      "ts": "2026-02-14T12:40:04.556Z",
-      "time": "12:40:04",
-      "type": "signal",
-      "msg": "🎯 SHORT AAVE @ $126.35 (78%) — Setup alinhado, agora é com o mercado"
     }
   ]
 }
