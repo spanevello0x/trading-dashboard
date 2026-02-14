@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T11:02:22.568Z",
+      "time": "11:02:22",
+      "type": "position",
+      "msg": "ZEC +0.26% — Melhor que Netflix isso aqui"
+    },
+    {
+      "ts": "2026-02-14T11:02:22.303Z",
+      "time": "11:02:22",
+      "type": "position",
+      "msg": "PAXG +0.02% — O mercado tá pensando..."
+    },
+    {
+      "ts": "2026-02-14T11:02:21.023Z",
+      "time": "11:02:21",
+      "type": "position",
+      "msg": "XRP -0.22% — Podia ser pior. Dá tempo ainda."
+    },
+    {
       "ts": "2026-02-14T11:01:51.076Z",
       "time": "11:01:51",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "10:53:51",
       "type": "position",
       "msg": "ZEC +0.57% — Não me acostumem com isso"
-    },
-    {
-      "ts": "2026-02-14T10:53:51.147Z",
-      "time": "10:53:51",
-      "type": "position",
-      "msg": "PAXG +0.01% — Tédio lucrativo ou tédio prejuízo? A definir."
-    },
-    {
-      "ts": "2026-02-14T10:53:50.887Z",
-      "time": "10:53:50",
-      "type": "position",
-      "msg": "HYPE +0.09% — Tô aqui, olhando, esperando, sofrendo"
-    },
-    {
-      "ts": "2026-02-14T10:53:20.538Z",
-      "time": "10:53:20",
-      "type": "position",
-      "msg": "XRP -0.50% — Pelo menos aprendo algo... né?"
     }
   ]
 }
