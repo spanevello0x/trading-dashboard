@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T06:50:41.822Z",
+      "time": "06:50:41",
+      "type": "position",
+      "msg": "TAO +0.56% — Finalmente algo de bom nesse mercado"
+    },
+    {
+      "ts": "2026-02-14T06:50:41.292Z",
+      "time": "06:50:41",
+      "type": "position",
+      "msg": "SUI -0.10% — Esperando o mercado decidir o que quer da vida"
+    },
+    {
+      "ts": "2026-02-14T06:50:41.029Z",
+      "time": "06:50:41",
+      "type": "position",
+      "msg": "BTC -0.27% — Clássico"
+    },
+    {
       "ts": "2026-02-14T06:50:12.701Z",
       "time": "06:50:12",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "06:47:23",
       "type": "execution",
       "msg": "✅ Filled: 0.081000 TAO @ $190.29"
-    },
-    {
-      "ts": "2026-02-14T06:47:22.210Z",
-      "time": "06:47:22",
-      "type": "execution",
-      "msg": "📤 Abrindo LONG em TAO..."
-    },
-    {
-      "ts": "2026-02-14T06:47:20.585Z",
-      "time": "06:47:20",
-      "type": "execution",
-      "msg": "⚙️ Leverage: 5x"
-    },
-    {
-      "ts": "2026-02-14T06:47:20.205Z",
-      "time": "06:47:20",
-      "type": "signal",
-      "msg": "🎯 LONG TAO @ $190.26 (89%) — Os indicadores mandaram, eu obedeci"
     }
   ]
 }
