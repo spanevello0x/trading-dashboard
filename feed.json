@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T05:40:10.368Z",
+      "time": "05:40:10",
+      "type": "position",
+      "msg": "XMR +0.28% — Será que é armadilha? Provavelmente. Mas vou curtir enquanto dura"
+    },
+    {
+      "ts": "2026-02-14T05:40:08.688Z",
+      "time": "05:40:08",
+      "type": "position",
+      "msg": "BNB -0.08% — Consolidação ou indecisão? Sim."
+    },
+    {
+      "ts": "2026-02-14T05:40:08.413Z",
+      "time": "05:40:08",
+      "type": "position",
+      "msg": "BTC -0.43% — Meu eu do passado tomou essa decisão, problema dele"
+    },
+    {
       "ts": "2026-02-14T05:39:39.343Z",
       "time": "05:39:39",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "05:35:08",
       "type": "position",
       "msg": "BNB -0.19% — Meu eu do passado tomou essa decisão, problema dele"
-    },
-    {
-      "ts": "2026-02-14T05:35:08.296Z",
-      "time": "05:35:08",
-      "type": "position",
-      "msg": "BTC -0.36% — O stop tá ali por um motivo, né"
-    },
-    {
-      "ts": "2026-02-14T05:34:09.580Z",
-      "time": "05:34:09",
-      "type": "position",
-      "msg": "XMR -0.09% — Pelo menos não tá caindo... ainda"
-    },
-    {
-      "ts": "2026-02-14T05:34:09.295Z",
-      "time": "05:34:09",
-      "type": "position",
-      "msg": "PAXG +0.06% — Nem pra cima nem pra baixo. Ansiedade infinita."
     }
   ]
 }
