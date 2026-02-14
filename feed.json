@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T13:10:26.296Z",
+      "time": "13:10:26",
+      "type": "position",
+      "msg": "HYPE +0.07% — O mercado tá no modo avião"
+    },
+    {
+      "ts": "2026-02-14T13:10:26.031Z",
+      "time": "13:10:26",
+      "type": "position",
+      "msg": "SOL -0.65% — Vou culpar a lua, deve ser lua cheia"
+    },
+    {
       "ts": "2026-02-14T13:09:55.634Z",
       "time": "13:09:55",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "13:03:47",
       "type": "analysis",
       "msg": "ARB tá interessante, 89% pro SHORT"
-    },
-    {
-      "ts": "2026-02-14T13:03:46.927Z",
-      "time": "13:03:46",
-      "type": "analysis",
-      "msg": "Analisando kPEPE... parece SHORT (67%)"
-    },
-    {
-      "ts": "2026-02-14T13:03:46.299Z",
-      "time": "13:03:46",
-      "type": "analysis",
-      "msg": "VVV tá interessante, 67% pro SHORT"
     }
   ]
 }
