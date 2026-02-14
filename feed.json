@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T04:58:08.076Z",
+      "time": "04:58:08",
+      "type": "position",
+      "msg": "XMR +0.46% — Meu psicólogo vai ficar orgulhoso"
+    },
+    {
+      "ts": "2026-02-14T04:58:07.778Z",
+      "time": "04:58:07",
+      "type": "position",
+      "msg": "PAXG +0.23% — Será que é armadilha? Provavelmente. Mas vou curtir enquanto dura"
+    },
+    {
+      "ts": "2026-02-14T04:58:06.705Z",
+      "time": "04:58:06",
+      "type": "position",
+      "msg": "BTC -0.41% — Meu eu do passado tomou essa decisão, problema dele"
+    },
+    {
       "ts": "2026-02-14T04:57:07.577Z",
       "time": "04:57:07",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "04:52:36",
       "type": "position",
       "msg": "BTC -0.38% — Podia ser pior. Dá tempo ainda."
-    },
-    {
-      "ts": "2026-02-14T04:51:38.020Z",
-      "time": "04:51:38",
-      "type": "position",
-      "msg": "XMR +0.80% — O mercado me ama (por enquanto)"
-    },
-    {
-      "ts": "2026-02-14T04:51:37.758Z",
-      "time": "04:51:37",
-      "type": "position",
-      "msg": "PAXG +0.22% — O mercado tá generoso hoje, desconfio"
-    },
-    {
-      "ts": "2026-02-14T04:51:37.486Z",
-      "time": "04:51:37",
-      "type": "position",
-      "msg": "HYPE +0.90% — Meu psicólogo vai ficar orgulhoso"
     }
   ]
 }
