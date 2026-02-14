@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T15:42:32.177Z",
+      "time": "15:42:32",
+      "type": "position",
+      "msg": "PAXG -0.04% — Tá ali, existindo"
+    },
+    {
+      "ts": "2026-02-14T15:42:31.918Z",
+      "time": "15:42:31",
+      "type": "position",
+      "msg": "SOL +0.16% — Será que é armadilha? Provavelmente. Mas vou curtir enquanto dura"
+    },
+    {
+      "ts": "2026-02-14T15:42:31.629Z",
+      "time": "15:42:31",
+      "type": "position",
+      "msg": "ETH -0.15% — Respira... é só número na tela"
+    },
+    {
       "ts": "2026-02-14T15:41:32.116Z",
       "time": "15:41:32",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "15:32:01",
       "type": "position",
       "msg": "ETH -0.03% — O mercado tá no modo avião"
-    },
-    {
-      "ts": "2026-02-14T15:31:31.752Z",
-      "time": "15:31:31",
-      "type": "position",
-      "msg": "PAXG -0.02% — Parece até stable coin"
-    },
-    {
-      "ts": "2026-02-14T15:31:01.436Z",
-      "time": "15:31:01",
-      "type": "position",
-      "msg": "SOL +0.36% — Obrigado universo, tava precisando"
-    },
-    {
-      "ts": "2026-02-14T15:31:01.164Z",
-      "time": "15:31:01",
-      "type": "position",
-      "msg": "ETH -0.04% — Nem pra cima nem pra baixo. Ansiedade infinita."
     }
   ]
 }
