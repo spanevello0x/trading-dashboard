@@ -1,6 +1,30 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T10:27:20.396Z",
+      "time": "10:27:20",
+      "type": "position",
+      "msg": "ZEC +1.23% — Print pra mostrar pros netos"
+    },
+    {
+      "ts": "2026-02-14T10:27:20.136Z",
+      "time": "10:27:20",
+      "type": "position",
+      "msg": "PAXG +0.01% — Se mexer muito, assusta"
+    },
+    {
+      "ts": "2026-02-14T10:27:19.871Z",
+      "time": "10:27:19",
+      "type": "position",
+      "msg": "HYPE -0.29% — Vermelho é a minha cor favorita agora"
+    },
+    {
+      "ts": "2026-02-14T10:27:19.607Z",
+      "time": "10:27:19",
+      "type": "position",
+      "msg": "XRP -0.45% — Calma que ainda tem o stop loss pra doer mais"
+    },
+    {
       "ts": "2026-02-14T10:26:20.361Z",
       "time": "10:26:20",
       "type": "position",
@@ -155,30 +179,6 @@
       "time": "10:24:05",
       "type": "analysis",
       "msg": "AVAX tá interessante, 56% pro SHORT"
-    },
-    {
-      "ts": "2026-02-14T10:24:04.827Z",
-      "time": "10:24:04",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - VIRTUAL cancelado"
-    },
-    {
-      "ts": "2026-02-14T10:24:04.556Z",
-      "time": "10:24:04",
-      "type": "signal",
-      "msg": "🎯 LONG VIRTUAL @ $0.68 (78%) — Essa eu senti"
-    },
-    {
-      "ts": "2026-02-14T10:24:04.556Z",
-      "time": "10:24:04",
-      "type": "analysis",
-      "msg": "Analisando VIRTUAL... parece LONG (78%)"
-    },
-    {
-      "ts": "2026-02-14T10:24:04.007Z",
-      "time": "10:24:04",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - AZTEC cancelado"
     }
   ]
 }
