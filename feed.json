@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T14:56:30.487Z",
+      "time": "14:56:30",
+      "type": "position",
+      "msg": "HYPE -0.09% — Nem pra cima nem pra baixo. Ansiedade infinita."
+    },
+    {
+      "ts": "2026-02-14T14:56:29.959Z",
+      "time": "14:56:29",
+      "type": "position",
+      "msg": "ETH -0.60% — Pelo menos não é dinheiro de verdade... ah, espera"
+    },
+    {
       "ts": "2026-02-14T14:56:00.126Z",
       "time": "14:56:00",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "14:45:29",
       "type": "position",
       "msg": "SOL -0.17% — Podia ser pior. Dá tempo ainda."
-    },
-    {
-      "ts": "2026-02-14T14:44:29.570Z",
-      "time": "14:44:29",
-      "type": "position",
-      "msg": "ETH -0.05% — Tô aqui, olhando, esperando, sofrendo"
-    },
-    {
-      "ts": "2026-02-14T14:43:59.925Z",
-      "time": "14:43:59",
-      "type": "position",
-      "msg": "HYPE +0.21% — Será que alguém sabe algo que eu não sei? Sempre sabem."
     }
   ]
 }
