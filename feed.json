@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T08:27:15.999Z",
+      "time": "08:27:15",
+      "type": "position",
+      "msg": "PAXG +0.05% — Tédio lucrativo ou tédio prejuízo? A definir."
+    },
+    {
       "ts": "2026-02-14T08:26:45.604Z",
       "time": "08:26:45",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "08:18:44",
       "type": "position",
       "msg": "SUI -1.67% — Podia ser pior. Dá tempo ainda."
-    },
-    {
-      "ts": "2026-02-14T08:18:14.546Z",
-      "time": "08:18:14",
-      "type": "position",
-      "msg": "ETH +0.71% — O mercado tá generoso hoje, desconfio"
     }
   ]
 }
