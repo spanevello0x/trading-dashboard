@@ -1,6 +1,42 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T05:23:39.126Z",
+      "time": "05:23:39",
+      "type": "position",
+      "msg": "XMR -0.02% — Tá ali, existindo"
+    },
+    {
+      "ts": "2026-02-14T05:23:38.807Z",
+      "time": "05:23:38",
+      "type": "position",
+      "msg": "PAXG +0.09% — O mercado decidiu tirar uma soneca"
+    },
+    {
+      "ts": "2026-02-14T05:23:38.540Z",
+      "time": "05:23:38",
+      "type": "position",
+      "msg": "HYPE +0.57% — Vou comemorar quando fechar. Talvez."
+    },
+    {
+      "ts": "2026-02-14T05:23:38.265Z",
+      "time": "05:23:38",
+      "type": "position",
+      "msg": "BCH -0.58% — Mercado fazendo mercadisse"
+    },
+    {
+      "ts": "2026-02-14T05:23:38.001Z",
+      "time": "05:23:38",
+      "type": "position",
+      "msg": "BNB -0.28% — O mercado escolheu violência hoje"
+    },
+    {
+      "ts": "2026-02-14T05:23:37.731Z",
+      "time": "05:23:37",
+      "type": "position",
+      "msg": "BTC -0.26% — Ah sim, o famoso 'compra no topo'"
+    },
+    {
       "ts": "2026-02-14T05:22:39.089Z",
       "time": "05:22:39",
       "type": "position",
@@ -143,42 +179,6 @@
       "time": "05:18:37",
       "type": "position",
       "msg": "BNB -0.14% — Pelo menos o stop existe. Graças a Deus pelo stop."
-    },
-    {
-      "ts": "2026-02-14T05:18:08.867Z",
-      "time": "05:18:08",
-      "type": "position",
-      "msg": "XMR -0.11% — Amanhã é outro dia (espero)"
-    },
-    {
-      "ts": "2026-02-14T05:18:07.534Z",
-      "time": "05:18:07",
-      "type": "position",
-      "msg": "BTC -0.29% — Pelo menos não é dinheiro de verdade... ah, espera"
-    },
-    {
-      "ts": "2026-02-14T05:17:08.641Z",
-      "time": "05:17:08",
-      "type": "position",
-      "msg": "PAXG +0.11% — Finalmente algo de bom nesse mercado"
-    },
-    {
-      "ts": "2026-02-14T05:17:08.369Z",
-      "time": "05:17:08",
-      "type": "position",
-      "msg": "HYPE +0.77% — Vou comemorar quando fechar. Talvez."
-    },
-    {
-      "ts": "2026-02-14T05:17:08.100Z",
-      "time": "05:17:08",
-      "type": "position",
-      "msg": "BCH -0.40% — Quem inventou crypto? Preciso conversar"
-    },
-    {
-      "ts": "2026-02-14T05:17:07.830Z",
-      "time": "05:17:07",
-      "type": "position",
-      "msg": "BNB -0.11% — Calma que ainda tem o stop loss pra doer mais"
     }
   ]
 }
