@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T05:00:38.201Z",
+      "time": "05:00:38",
+      "type": "position",
+      "msg": "XMR +0.22% — Lucro é lucro, mesmo que pague só o almoço"
+    },
+    {
+      "ts": "2026-02-14T05:00:37.378Z",
+      "time": "05:00:37",
+      "type": "position",
+      "msg": "BCH +0.01% — O mercado foi tomar café, já volta"
+    },
+    {
       "ts": "2026-02-14T05:00:07.935Z",
       "time": "05:00:07",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "04:55:07",
       "type": "position",
       "msg": "BCH +0.06% — O mercado tá no modo avião"
-    },
-    {
-      "ts": "2026-02-14T04:55:06.927Z",
-      "time": "04:55:06",
-      "type": "position",
-      "msg": "BNB -0.08% — Parece até stable coin"
-    },
-    {
-      "ts": "2026-02-14T04:55:06.631Z",
-      "time": "04:55:06",
-      "type": "position",
-      "msg": "BTC -0.41% — Isso é um teste de caráter, com certeza"
     }
   ]
 }
