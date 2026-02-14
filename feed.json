@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T10:23:19.063Z",
+      "time": "10:23:19",
+      "type": "system",
+      "msg": "⏰ ETH expirou (30 candles) — Cancelando"
+    },
+    {
       "ts": "2026-02-14T10:22:50.179Z",
       "time": "10:22:50",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "10:14:49",
       "type": "position",
       "msg": "ZEC +0.62% — Imagina se eu tivesse colocado mais..."
-    },
-    {
-      "ts": "2026-02-14T10:13:49.565Z",
-      "time": "10:13:49",
-      "type": "position",
-      "msg": "HYPE -0.24% — Mercado fazendo mercadisse"
     }
   ]
 }
