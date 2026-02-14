@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T06:25:41.660Z",
+      "time": "06:25:41",
+      "type": "position",
+      "msg": "XMR +0.36% — Verde combina comigo"
+    },
+    {
       "ts": "2026-02-14T06:25:11.327Z",
       "time": "06:25:11",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "06:20:11",
       "type": "position",
       "msg": "BNB -0.05% — Vai, faz alguma coisa"
-    },
-    {
-      "ts": "2026-02-14T06:20:10.250Z",
-      "time": "06:20:10",
-      "type": "position",
-      "msg": "BTC -0.34% — O mercado escolheu violência hoje"
     }
   ]
 }
