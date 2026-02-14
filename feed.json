@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T14:45:59.390Z",
+      "time": "14:45:59",
+      "type": "position",
+      "msg": "ETH -0.11% — Respira... é só número na tela"
+    },
+    {
       "ts": "2026-02-14T14:45:29.875Z",
       "time": "14:45:29",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "14:39:44",
       "type": "signal",
       "msg": "🎯 LONG BNB @ $633.13 (89%) — Mais uma pro histórico"
-    },
-    {
-      "ts": "2026-02-14T14:39:44.855Z",
-      "time": "14:39:44",
-      "type": "analysis",
-      "msg": "Hmm, BNB mostrando sinais de LONG (89%)"
     }
   ]
 }
