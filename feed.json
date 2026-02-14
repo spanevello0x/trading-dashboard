@@ -1,6 +1,30 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T07:34:43.765Z",
+      "time": "07:34:43",
+      "type": "position",
+      "msg": "PAXG +0.08% — Enquanto não move, não perco. Stonks mental."
+    },
+    {
+      "ts": "2026-02-14T07:34:43.391Z",
+      "time": "07:34:43",
+      "type": "position",
+      "msg": "AAVE +0.93% — Imagina se eu tivesse colocado mais..."
+    },
+    {
+      "ts": "2026-02-14T07:34:43.124Z",
+      "time": "07:34:43",
+      "type": "position",
+      "msg": "BCH -0.36% — Clássico"
+    },
+    {
+      "ts": "2026-02-14T07:34:42.859Z",
+      "time": "07:34:42",
+      "type": "position",
+      "msg": "SUI -0.72% — Meu eu do passado tomou essa decisão, problema dele"
+    },
+    {
       "ts": "2026-02-14T07:33:43.566Z",
       "time": "07:33:43",
       "type": "position",
@@ -155,30 +179,6 @@
       "time": "07:26:13",
       "type": "position",
       "msg": "AAVE +0.61% — Não sou eu, é o mercado que tá errado... ah não, dessa vez acertou"
-    },
-    {
-      "ts": "2026-02-14T07:25:42.823Z",
-      "time": "07:25:42",
-      "type": "position",
-      "msg": "BCH -0.33% — Mercado fazendo mercadisse"
-    },
-    {
-      "ts": "2026-02-14T07:25:42.559Z",
-      "time": "07:25:42",
-      "type": "position",
-      "msg": "SUI -0.55% — Tá difícil defender essa entrada"
-    },
-    {
-      "ts": "2026-02-14T07:25:13.245Z",
-      "time": "07:25:13",
-      "type": "position",
-      "msg": "PAXG +0.11% — Respira... ainda não acabou"
-    },
-    {
-      "ts": "2026-02-14T07:25:12.981Z",
-      "time": "07:25:12",
-      "type": "position",
-      "msg": "AAVE +0.48% — Tá bom demais pra ser verdade... ops, não deveria falar isso"
     }
   ]
 }
