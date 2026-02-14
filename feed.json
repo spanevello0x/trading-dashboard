@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T09:35:48.341Z",
+      "time": "09:35:48",
+      "type": "position",
+      "msg": "ZEC +0.20% — Respira... ainda não acabou"
+    },
+    {
       "ts": "2026-02-14T09:35:18.213Z",
       "time": "09:35:18",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "09:27:47",
       "type": "position",
       "msg": "HYPE -0.08% — Esperando o mercado decidir o que quer da vida"
-    },
-    {
-      "ts": "2026-02-14T09:27:47.395Z",
-      "time": "09:27:47",
-      "type": "position",
-      "msg": "XRP +0.03% — Esperando Godot, versão crypto"
     }
   ]
 }
