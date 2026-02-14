@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T13:04:25.453Z",
+      "time": "13:04:25",
+      "type": "position",
+      "msg": "ETH +0.36% — O mercado tá generoso hoje, desconfio"
+    },
+    {
       "ts": "2026-02-14T13:03:55.969Z",
       "time": "13:03:55",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "13:03:41",
       "type": "signal",
       "msg": "🎯 SHORT FARTCOIN @ $0.19 (89%) — Dessa vez vai (eu acho)"
-    },
-    {
-      "ts": "2026-02-14T13:03:41.522Z",
-      "time": "13:03:41",
-      "type": "analysis",
-      "msg": "FARTCOIN no radar: 89% SHORT"
     }
   ]
 }
