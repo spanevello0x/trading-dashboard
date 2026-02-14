@@ -1,6 +1,30 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T08:40:46.987Z",
+      "time": "08:40:46",
+      "type": "position",
+      "msg": "PAXG +0.08% — Dormiu no ponto"
+    },
+    {
+      "ts": "2026-02-14T08:40:46.264Z",
+      "time": "08:40:46",
+      "type": "position",
+      "msg": "BCH +0.68% — Meu psicólogo vai ficar orgulhoso"
+    },
+    {
+      "ts": "2026-02-14T08:40:45.883Z",
+      "time": "08:40:45",
+      "type": "position",
+      "msg": "SUI -2.43% — Mais um dia normal no crypto"
+    },
+    {
+      "ts": "2026-02-14T08:40:45.619Z",
+      "time": "08:40:45",
+      "type": "position",
+      "msg": "ETH +0.81% — Melhor que Netflix isso aqui"
+    },
+    {
       "ts": "2026-02-14T08:39:45.636Z",
       "time": "08:39:45",
       "type": "position",
@@ -155,30 +179,6 @@
       "time": "08:32:45",
       "type": "position",
       "msg": "ETH +0.52% — Olha só, o mercado decidiu colaborar hoje"
-    },
-    {
-      "ts": "2026-02-14T08:32:15.870Z",
-      "time": "08:32:15",
-      "type": "position",
-      "msg": "PAXG +0.08% — Lateral é o novo tendência"
-    },
-    {
-      "ts": "2026-02-14T08:31:45.575Z",
-      "time": "08:31:45",
-      "type": "position",
-      "msg": "BCH +0.32% — Melhor que Netflix isso aqui"
-    },
-    {
-      "ts": "2026-02-14T08:31:45.310Z",
-      "time": "08:31:45",
-      "type": "position",
-      "msg": "SUI -1.65% — Minha análise era perfeita, o mercado que tá errado"
-    },
-    {
-      "ts": "2026-02-14T08:31:45.040Z",
-      "time": "08:31:45",
-      "type": "position",
-      "msg": "ETH +0.51% — Isso aí, garoto. Vai, vai, vai..."
     }
   ]
 }
