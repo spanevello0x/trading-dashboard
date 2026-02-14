@@ -426,7 +426,32 @@
         "O mercado decidiu tirar uma soneca"
       ];
 
+      // Pensamentos sobre análise geral (quando não tem mudança nas posições)
+      const scanning = [
+        "Escaneando mercado... 👀",
+        "Olhando os gráficos...",
+        "Procurando oportunidades...",
+        "RSI, MACD, EMA... a santíssima trindade",
+        "Volume interessante em algumas moedas",
+        "Nada gritante no radar por enquanto",
+        "Mercado lateral, paciência é virtude",
+        "Analisando 33 moedas simultaneamente",
+        "Setup formando? Talvez...",
+        "Muita moeda, pouca certeza",
+        "Esperando confluência de indicadores",
+        "O mercado tá confuso, eu também",
+        "Buscando 70%+ de certeza pra entrar",
+        "Timeframes alinhados? Quase nunca.",
+        "Paciência... o setup vem.",
+        "Volatilidade baixa, esperando breakout",
+        "Suporte e resistência, os velhos amigos",
+        "Fibonacci não mente... às vezes",
+        "Divergência no RSI? Interessante...",
+        "VWAP como referência, sempre"
+      ];
+
       const pick = arr => arr[Math.floor(Math.random() * arr.length)];
+      let addedThought = false;
       
       for (const p of positions) {
         const coin = p.position.coin;
@@ -438,8 +463,8 @@
         const key = `pos_${coin}`;
         const last = prevData[key];
         
-        // Só atualiza se mudou >0.2% ou é primeira vez
-        if (last === undefined || Math.abs(pnlPct - last) >= 0.2) {
+        // Atualiza se mudou >0.05% ou é primeira vez
+        if (last === undefined || Math.abs(pnlPct - last) >= 0.05) {
           prevData[key] = pnlPct;
           
           let thought;
@@ -454,7 +479,13 @@
           }
           
           addThought(`${coin} ${pnlStr} — ${thought}`);
+          addedThought = true;
         }
+      }
+      
+      // Se não adicionou nenhum pensamento de posição, 20% de chance de adicionar um de scanning
+      if (!addedThought && Math.random() < 0.2) {
+        addThought(pick(scanning));
       }
     }
     
