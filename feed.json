@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T12:53:25.725Z",
+      "time": "12:53:25",
+      "type": "position",
+      "msg": "ZEC -0.38% — Respira... é só número na tela"
+    },
+    {
+      "ts": "2026-02-14T12:53:25.164Z",
+      "time": "12:53:25",
+      "type": "position",
+      "msg": "ETH +0.16% — Será que alguém sabe algo que eu não sei? Sempre sabem."
+    },
+    {
       "ts": "2026-02-14T12:52:55.300Z",
       "time": "12:52:55",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "12:49:42",
       "type": "analysis",
       "msg": "Olhando AVAX... 56% SHORT"
-    },
-    {
-      "ts": "2026-02-14T12:49:41.699Z",
-      "time": "12:49:41",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - VIRTUAL cancelado"
-    },
-    {
-      "ts": "2026-02-14T12:49:41.360Z",
-      "time": "12:49:41",
-      "type": "signal",
-      "msg": "🎯 SHORT VIRTUAL @ $0.67 (89%) — Nova aposta na mesa"
     }
   ]
 }
