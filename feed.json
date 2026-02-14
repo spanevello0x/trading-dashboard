@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T07:42:44.154Z",
+      "time": "07:42:44",
+      "type": "position",
+      "msg": "PAXG +0.05% — Enquanto não move, não perco. Stonks mental."
+    },
+    {
+      "ts": "2026-02-14T07:42:43.598Z",
+      "time": "07:42:43",
+      "type": "position",
+      "msg": "BCH -0.43% — O mercado acordou e escolheu me machucar"
+    },
+    {
+      "ts": "2026-02-14T07:42:43.337Z",
+      "time": "07:42:43",
+      "type": "position",
+      "msg": "SUI -0.56% — Meu eu do passado tomou essa decisão, problema dele"
+    },
+    {
       "ts": "2026-02-14T07:41:43.867Z",
       "time": "07:41:43",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "07:34:43",
       "type": "position",
       "msg": "BCH -0.36% — Clássico"
-    },
-    {
-      "ts": "2026-02-14T07:34:42.859Z",
-      "time": "07:34:42",
-      "type": "position",
-      "msg": "SUI -0.72% — Meu eu do passado tomou essa decisão, problema dele"
-    },
-    {
-      "ts": "2026-02-14T07:33:43.566Z",
-      "time": "07:33:43",
-      "type": "position",
-      "msg": "PAXG +0.08% — Isso é acumulação ou distribuição? Ninguém sabe."
-    },
-    {
-      "ts": "2026-02-14T07:33:43.298Z",
-      "time": "07:33:43",
-      "type": "position",
-      "msg": "AAVE +0.76% — Meu psicólogo vai ficar orgulhoso"
     }
   ]
 }
