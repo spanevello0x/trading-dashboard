@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T12:15:24.273Z",
+      "time": "12:15:24",
+      "type": "position",
+      "msg": "PAXG -0.04% — O gráfico tá meditando"
+    },
+    {
+      "ts": "2026-02-14T12:15:24.008Z",
+      "time": "12:15:24",
+      "type": "position",
+      "msg": "HYPE +0.51% — Quase consigo pagar o café de ontem"
+    },
+    {
+      "ts": "2026-02-14T12:15:23.740Z",
+      "time": "12:15:23",
+      "type": "position",
+      "msg": "ETH -0.09% — Neutro: onde a ansiedade e o tédio se encontram"
+    },
+    {
       "ts": "2026-02-14T12:13:55.015Z",
       "time": "12:13:55",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "12:03:54",
       "type": "position",
       "msg": "PAXG -0.02% — Nem comprador nem vendedor quer tomar atitude"
-    },
-    {
-      "ts": "2026-02-14T12:03:53.498Z",
-      "time": "12:03:53",
-      "type": "position",
-      "msg": "HYPE +0.98% — Vou fingir que sabia que isso ia acontecer"
-    },
-    {
-      "ts": "2026-02-14T12:03:53.234Z",
-      "time": "12:03:53",
-      "type": "position",
-      "msg": "ETH -0.05% — Tédio lucrativo ou tédio prejuízo? A definir."
-    },
-    {
-      "ts": "2026-02-14T12:02:24.305Z",
-      "time": "12:02:24",
-      "type": "position",
-      "msg": "PAXG -0.02% — O mercado tá no modo avião"
     }
   ]
 }
