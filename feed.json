@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T15:29:01.793Z",
+      "time": "15:29:01",
+      "type": "position",
+      "msg": "PAXG -0.00% — Isso é acumulação ou distribuição? Ninguém sabe."
+    },
+    {
+      "ts": "2026-02-14T15:29:01.393Z",
+      "time": "15:29:01",
+      "type": "position",
+      "msg": "SOL +0.37% — Tá subindo? Deixa eu não olhar pra não dar azar"
+    },
+    {
+      "ts": "2026-02-14T15:29:01.123Z",
+      "time": "15:29:01",
+      "type": "position",
+      "msg": "ETH -0.02% — Tô aqui, olhando, esperando, sofrendo"
+    },
+    {
       "ts": "2026-02-14T15:28:01.585Z",
       "time": "15:28:01",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "15:25:15",
       "type": "signal",
       "msg": "🎯 LONG FARTCOIN @ $0.20 (89%) — Entrei. Arrependimento em 3, 2, 1..."
-    },
-    {
-      "ts": "2026-02-14T15:25:14.791Z",
-      "time": "15:25:14",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - XPL cancelado"
-    },
-    {
-      "ts": "2026-02-14T15:25:14.514Z",
-      "time": "15:25:14",
-      "type": "signal",
-      "msg": "🎯 LONG XPL @ $0.10 (89%) — Essa eu senti"
-    },
-    {
-      "ts": "2026-02-14T15:25:14.514Z",
-      "time": "15:25:14",
-      "type": "analysis",
-      "msg": "XPL no radar: 89% LONG"
     }
   ]
 }
