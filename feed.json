@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T11:05:51.484Z",
+      "time": "11:05:51",
+      "type": "position",
+      "msg": "PAXG +0.02% — Consolidação ou indecisão? Sim."
+    },
+    {
+      "ts": "2026-02-14T11:05:51.217Z",
+      "time": "11:05:51",
+      "type": "position",
+      "msg": "HYPE +0.09% — Pelo menos não tá caindo... ainda"
+    },
+    {
+      "ts": "2026-02-14T11:05:50.950Z",
+      "time": "11:05:50",
+      "type": "position",
+      "msg": "XRP -0.14% — Quem inventou crypto? Preciso conversar"
+    },
+    {
       "ts": "2026-02-14T11:05:21.761Z",
       "time": "11:05:21",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "10:57:21",
       "type": "position",
       "msg": "ZEC +0.42% — Não sou eu, é o mercado que tá errado... ah não, dessa vez acertou"
-    },
-    {
-      "ts": "2026-02-14T10:57:21.173Z",
-      "time": "10:57:21",
-      "type": "position",
-      "msg": "PAXG +0.02% — O mercado decidiu tirar uma soneca"
-    },
-    {
-      "ts": "2026-02-14T10:57:20.910Z",
-      "time": "10:57:20",
-      "type": "position",
-      "msg": "HYPE -0.09% — O mercado decidiu tirar uma soneca"
-    },
-    {
-      "ts": "2026-02-14T10:56:50.630Z",
-      "time": "10:56:50",
-      "type": "position",
-      "msg": "XRP -0.41% — Prometo estudar mais... mentira, vou continuar igual"
     }
   ]
 }
