@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T05:44:39.914Z",
+      "time": "05:44:39",
+      "type": "position",
+      "msg": "XMR +0.22% — Stonks 📈 (desculpa, não resisti)"
+    },
+    {
+      "ts": "2026-02-14T05:44:39.646Z",
+      "time": "05:44:39",
+      "type": "position",
+      "msg": "PAXG +0.09% — Esperando o mercado decidir o que quer da vida"
+    },
+    {
+      "ts": "2026-02-14T05:44:39.119Z",
+      "time": "05:44:39",
+      "type": "position",
+      "msg": "BCH -0.09% — O mercado tá buffering"
+    },
+    {
       "ts": "2026-02-14T05:44:09.631Z",
       "time": "05:44:09",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "05:39:10",
       "type": "position",
       "msg": "PAXG +0.07% — Esperando o mercado decidir o que quer da vida"
-    },
-    {
-      "ts": "2026-02-14T05:38:39.342Z",
-      "time": "05:38:39",
-      "type": "position",
-      "msg": "HYPE +0.86% — Tá verde? Tira print rápido antes que vire"
-    },
-    {
-      "ts": "2026-02-14T05:38:39.077Z",
-      "time": "05:38:39",
-      "type": "position",
-      "msg": "BCH -0.07% — Pregado no entry como se tivesse cola"
-    },
-    {
-      "ts": "2026-02-14T05:38:38.809Z",
-      "time": "05:38:38",
-      "type": "position",
-      "msg": "BNB -0.18% — Não é prejuízo se eu não vender... ah, tem stop"
     }
   ]
 }
