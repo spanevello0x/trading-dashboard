@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T11:13:22.450Z",
+      "time": "11:13:22",
+      "type": "position",
+      "msg": "ZEC +0.51% — Imagina se eu tivesse colocado mais..."
+    },
+    {
       "ts": "2026-02-14T11:12:51.821Z",
       "time": "11:12:51",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "11:04:51",
       "type": "position",
       "msg": "ZEC +0.35% — Lucro é lucro, mesmo que pague só o almoço"
-    },
-    {
-      "ts": "2026-02-14T11:04:51.442Z",
-      "time": "11:04:51",
-      "type": "position",
-      "msg": "PAXG +0.02% — Pregado no entry como se tivesse cola"
     }
   ]
 }
