@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T11:53:53.322Z",
+      "time": "11:53:53",
+      "type": "position",
+      "msg": "PAXG -0.02% — A calmaria antes da tempestade... ou mais calmaria"
+    },
+    {
+      "ts": "2026-02-14T11:53:53.058Z",
+      "time": "11:53:53",
+      "type": "position",
+      "msg": "HYPE +0.39% — Melhor que Netflix isso aqui"
+    },
+    {
+      "ts": "2026-02-14T11:53:52.792Z",
+      "time": "11:53:52",
+      "type": "position",
+      "msg": "ETH +0.08% — Esperando Godot, versão crypto"
+    },
+    {
       "ts": "2026-02-14T11:52:23.811Z",
       "time": "11:52:23",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "11:47:10",
       "type": "system",
       "msg": "⚠️ Limite atingido (5/5) - VVV cancelado"
-    },
-    {
-      "ts": "2026-02-14T11:47:10.658Z",
-      "time": "11:47:10",
-      "type": "signal",
-      "msg": "🎯 LONG VVV @ $2.99 (78%) — Setup alinhado, agora é com o mercado"
-    },
-    {
-      "ts": "2026-02-14T11:47:10.657Z",
-      "time": "11:47:10",
-      "type": "analysis",
-      "msg": "Analisando VVV... parece LONG (78%)"
-    },
-    {
-      "ts": "2026-02-14T11:47:10.381Z",
-      "time": "11:47:10",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - TAO cancelado"
     }
   ]
 }
