@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T08:30:15.615Z",
+      "time": "08:30:15",
+      "type": "position",
+      "msg": "BCH +0.20% — Alguém avisa o mercado que eu tô comprado"
+    },
+    {
+      "ts": "2026-02-14T08:30:15.268Z",
+      "time": "08:30:15",
+      "type": "position",
+      "msg": "SUI -1.61% — Respira... é só número na tela"
+    },
+    {
+      "ts": "2026-02-14T08:30:14.999Z",
+      "time": "08:30:14",
+      "type": "position",
+      "msg": "ETH +0.39% — Tá subindo? Deixa eu não olhar pra não dar azar"
+    },
+    {
       "ts": "2026-02-14T08:29:45.872Z",
       "time": "08:29:45",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "08:22:14",
       "type": "position",
       "msg": "SUI -1.40% — Não é prejuízo se eu não vender... ah, tem stop"
-    },
-    {
-      "ts": "2026-02-14T08:22:14.690Z",
-      "time": "08:22:14",
-      "type": "position",
-      "msg": "ETH +0.45% — Até um relógio quebrado acerta duas vezes"
-    },
-    {
-      "ts": "2026-02-14T08:20:45.578Z",
-      "time": "08:20:45",
-      "type": "position",
-      "msg": "PAXG +0.06% — Enquanto não move, não perco. Stonks mental."
-    },
-    {
-      "ts": "2026-02-14T08:20:45.313Z",
-      "time": "08:20:45",
-      "type": "position",
-      "msg": "BCH +0.08% — Nem fede nem cheira"
     }
   ]
 }
