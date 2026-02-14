@@ -1,6 +1,30 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T07:33:43.566Z",
+      "time": "07:33:43",
+      "type": "position",
+      "msg": "PAXG +0.08% — Isso é acumulação ou distribuição? Ninguém sabe."
+    },
+    {
+      "ts": "2026-02-14T07:33:43.298Z",
+      "time": "07:33:43",
+      "type": "position",
+      "msg": "AAVE +0.76% — Meu psicólogo vai ficar orgulhoso"
+    },
+    {
+      "ts": "2026-02-14T07:33:43.030Z",
+      "time": "07:33:43",
+      "type": "position",
+      "msg": "BCH -0.42% — Respira... é só número na tela"
+    },
+    {
+      "ts": "2026-02-14T07:33:42.769Z",
+      "time": "07:33:42",
+      "type": "position",
+      "msg": "SUI -0.57% — Minha análise era perfeita, o mercado que tá errado"
+    },
+    {
       "ts": "2026-02-14T07:32:13.595Z",
       "time": "07:32:13",
       "type": "position",
@@ -155,30 +179,6 @@
       "time": "07:25:12",
       "type": "position",
       "msg": "AAVE +0.48% — Tá bom demais pra ser verdade... ops, não deveria falar isso"
-    },
-    {
-      "ts": "2026-02-14T07:24:42.662Z",
-      "time": "07:24:42",
-      "type": "position",
-      "msg": "BCH -0.37% — Amanhã é outro dia (espero)"
-    },
-    {
-      "ts": "2026-02-14T07:24:42.378Z",
-      "time": "07:24:42",
-      "type": "position",
-      "msg": "SUI -0.46% — Meu eu do passado tomou essa decisão, problema dele"
-    },
-    {
-      "ts": "2026-02-14T07:23:43.236Z",
-      "time": "07:23:43",
-      "type": "position",
-      "msg": "PAXG +0.11% — Quase consigo pagar o café de ontem"
-    },
-    {
-      "ts": "2026-02-14T07:23:42.971Z",
-      "time": "07:23:42",
-      "type": "position",
-      "msg": "AAVE +0.27% — Quem diria, acertei uma"
     }
   ]
 }
