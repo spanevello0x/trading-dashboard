@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T14:44:29.570Z",
+      "time": "14:44:29",
+      "type": "position",
+      "msg": "ETH -0.05% — Tô aqui, olhando, esperando, sofrendo"
+    },
+    {
       "ts": "2026-02-14T14:43:59.925Z",
       "time": "14:43:59",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "14:39:44",
       "type": "signal",
       "msg": "🎯 LONG AVAX @ $9.36 (100%) — Essa eu senti"
-    },
-    {
-      "ts": "2026-02-14T14:39:44.300Z",
-      "time": "14:39:44",
-      "type": "analysis",
-      "msg": "Hmm, AVAX mostrando sinais de LONG (100%)"
     }
   ]
 }
