@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T15:13:01.106Z",
+      "time": "15:13:01",
+      "type": "position",
+      "msg": "HYPE +0.09% — Esperando o mercado decidir o que quer da vida"
+    },
+    {
+      "ts": "2026-02-14T15:13:00.490Z",
+      "time": "15:13:00",
+      "type": "position",
+      "msg": "ETH -0.48% — Mais um dia normal no crypto"
+    },
+    {
       "ts": "2026-02-14T15:12:01.111Z",
       "time": "15:12:01",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "15:01:00",
       "type": "position",
       "msg": "HYPE +0.06% — Tá ali, existindo"
-    },
-    {
-      "ts": "2026-02-14T15:01:00.263Z",
-      "time": "15:01:00",
-      "type": "position",
-      "msg": "SOL +0.11% — Meu psicólogo vai ficar orgulhoso"
-    },
-    {
-      "ts": "2026-02-14T15:00:30.431Z",
-      "time": "15:00:30",
-      "type": "position",
-      "msg": "ETH -0.52% — Mais um dia normal no crypto"
     }
   ]
 }
