@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T09:23:47.259Z",
+      "time": "09:23:47",
+      "type": "position",
+      "msg": "XRP +0.06% — O mercado tá pensando..."
+    },
+    {
+      "ts": "2026-02-14T09:23:46.994Z",
+      "time": "09:23:46",
+      "type": "position",
+      "msg": "ETH +0.91% — Stonks 📈 (desculpa, não resisti)"
+    },
+    {
       "ts": "2026-02-14T09:23:17.619Z",
       "time": "09:23:17",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "09:16:48",
       "type": "analysis",
       "msg": "ARB tá interessante, 56% pro SHORT"
-    },
-    {
-      "ts": "2026-02-14T09:16:48.555Z",
-      "time": "09:16:48",
-      "type": "analysis",
-      "msg": "Hmm, kPEPE mostrando sinais de SHORT (56%)"
-    },
-    {
-      "ts": "2026-02-14T09:16:48.279Z",
-      "time": "09:16:48",
-      "type": "analysis",
-      "msg": "Olhando XMR... 56% SHORT"
     }
   ]
 }
