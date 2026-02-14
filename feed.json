@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T08:16:45.334Z",
+      "time": "08:16:45",
+      "type": "position",
+      "msg": "PAXG +0.03% — O gráfico tá meditando"
+    },
+    {
+      "ts": "2026-02-14T08:16:44.526Z",
+      "time": "08:16:44",
+      "type": "position",
+      "msg": "ETH +0.64% — Vou comemorar quando fechar. Talvez."
+    },
+    {
       "ts": "2026-02-14T08:16:15.031Z",
       "time": "08:16:15",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "08:07:45",
       "type": "position",
       "msg": "PAXG -0.03% — Esperando o mercado decidir o que quer da vida"
-    },
-    {
-      "ts": "2026-02-14T08:07:44.977Z",
-      "time": "08:07:44",
-      "type": "position",
-      "msg": "BCH +0.12% — Meu psicólogo vai ficar orgulhoso"
-    },
-    {
-      "ts": "2026-02-14T08:07:14.553Z",
-      "time": "08:07:14",
-      "type": "position",
-      "msg": "SUI -1.63% — Respira... é só número na tela"
     }
   ]
 }
