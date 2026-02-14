@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T14:38:59.957Z",
+      "time": "14:38:59",
+      "type": "position",
+      "msg": "HYPE +0.28% — O mercado tá generoso hoje, desconfio"
+    },
+    {
+      "ts": "2026-02-14T14:38:59.631Z",
+      "time": "14:38:59",
+      "type": "position",
+      "msg": "SOL -0.94% — Amanhã é outro dia (espero)"
+    },
+    {
+      "ts": "2026-02-14T14:38:59.361Z",
+      "time": "14:38:59",
+      "type": "position",
+      "msg": "ETH -0.15% — Calma que ainda tem o stop loss pra doer mais"
+    },
+    {
       "ts": "2026-02-14T14:37:59.776Z",
       "time": "14:37:59",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "14:27:59",
       "type": "position",
       "msg": "HYPE +1.03% — Tá verde? Tira print rápido antes que vire"
-    },
-    {
-      "ts": "2026-02-14T14:27:28.953Z",
-      "time": "14:27:28",
-      "type": "position",
-      "msg": "SOL -0.32% — Tá difícil defender essa entrada"
-    },
-    {
-      "ts": "2026-02-14T14:27:28.685Z",
-      "time": "14:27:28",
-      "type": "position",
-      "msg": "ETH +0.21% — Verde combina comigo"
-    },
-    {
-      "ts": "2026-02-14T14:26:59.208Z",
-      "time": "14:26:59",
-      "type": "position",
-      "msg": "HYPE +0.85% — Tá verde? Tira print rápido antes que vire"
     }
   ]
 }
