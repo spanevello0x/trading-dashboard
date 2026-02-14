@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T06:49:12.720Z",
+      "time": "06:49:12",
+      "type": "position",
+      "msg": "TAO +0.15% — Até um relógio quebrado acerta duas vezes"
+    },
+    {
       "ts": "2026-02-14T06:48:42.460Z",
       "time": "06:48:42",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "06:47:12",
       "type": "position",
       "msg": "BCH -0.01% — Nem pra cima nem pra baixo. Ansiedade infinita."
-    },
-    {
-      "ts": "2026-02-14T06:47:11.751Z",
-      "time": "06:47:11",
-      "type": "position",
-      "msg": "SUI -0.01% — Neutro: onde a ansiedade e o tédio se encontram"
     }
   ]
 }
