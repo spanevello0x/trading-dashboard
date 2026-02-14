@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T09:22:17.542Z",
+      "time": "09:22:17",
+      "type": "position",
+      "msg": "HYPE -0.10% — O gráfico parecia tão bonito..."
+    },
+    {
       "ts": "2026-02-14T09:21:47.213Z",
       "time": "09:21:47",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "09:16:47",
       "type": "position",
       "msg": "ZEC +0.00% — Nem fede nem cheira"
-    },
-    {
-      "ts": "2026-02-14T09:16:47.405Z",
-      "time": "09:16:47",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - TAO cancelado"
     }
   ]
 }
