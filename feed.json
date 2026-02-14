@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T11:24:52.470Z",
+      "time": "11:24:52",
+      "type": "position",
+      "msg": "ZEC -0.56% — Pelo menos não apostei a casa... dessa vez"
+    },
+    {
       "ts": "2026-02-14T11:24:22.241Z",
       "time": "11:24:22",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "11:16:22",
       "type": "position",
       "msg": "PAXG +0.02% — Pregado no entry como se tivesse cola"
-    },
-    {
-      "ts": "2026-02-14T11:16:21.434Z",
-      "time": "11:16:21",
-      "type": "position",
-      "msg": "XRP +0.34% — Tá verde? Tira print rápido antes que vire"
     }
   ]
 }
