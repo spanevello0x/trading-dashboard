@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T15:14:01.170Z",
+      "time": "15:14:01",
+      "type": "position",
+      "msg": "HYPE +0.09% — Tick tock, mercado..."
+    },
+    {
+      "ts": "2026-02-14T15:14:00.634Z",
+      "time": "15:14:00",
+      "type": "position",
+      "msg": "ETH -0.42% — Quem inventou crypto? Preciso conversar"
+    },
+    {
       "ts": "2026-02-14T15:13:30.775Z",
       "time": "15:13:30",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "15:02:00",
       "type": "position",
       "msg": "HYPE +0.01% — Plot twist a qualquer momento"
-    },
-    {
-      "ts": "2026-02-14T15:02:00.599Z",
-      "time": "15:02:00",
-      "type": "position",
-      "msg": "SOL +0.13% — Finalmente algo de bom nesse mercado"
-    },
-    {
-      "ts": "2026-02-14T15:02:00.061Z",
-      "time": "15:02:00",
-      "type": "position",
-      "msg": "ETH -0.63% — O gráfico parecia tão bonito..."
     }
   ]
 }
