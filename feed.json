@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T06:23:11.258Z",
+      "time": "06:23:11",
+      "type": "position",
+      "msg": "PAXG +0.16% — Tá bom demais pra ser verdade... ops, não deveria falar isso"
+    },
+    {
+      "ts": "2026-02-14T06:23:10.061Z",
+      "time": "06:23:10",
+      "type": "position",
+      "msg": "BTC -0.35% — Meu eu do passado tomou essa decisão, problema dele"
+    },
+    {
       "ts": "2026-02-14T06:22:41.496Z",
       "time": "06:22:41",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "06:17:40",
       "type": "position",
       "msg": "BTC -0.36% — Podia ser pior. Dá tempo ainda."
-    },
-    {
-      "ts": "2026-02-14T06:16:41.041Z",
-      "time": "06:16:41",
-      "type": "position",
-      "msg": "PAXG +0.15% — Isso aí, garoto. Vai, vai, vai..."
-    },
-    {
-      "ts": "2026-02-14T06:16:40.773Z",
-      "time": "06:16:40",
-      "type": "position",
-      "msg": "HYPE +1.14% — Isso aí, garoto. Vai, vai, vai..."
     }
   ]
 }
