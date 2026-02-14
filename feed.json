@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T15:40:01.799Z",
+      "time": "15:40:01",
+      "type": "position",
+      "msg": "SOL +0.16% — Quase consigo pagar o café de ontem"
+    },
+    {
+      "ts": "2026-02-14T15:40:01.535Z",
+      "time": "15:40:01",
+      "type": "position",
+      "msg": "ETH -0.12% — Quem precisa de dinheiro mesmo"
+    },
+    {
       "ts": "2026-02-14T15:39:02.130Z",
       "time": "15:39:02",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "15:29:01",
       "type": "position",
       "msg": "PAXG -0.00% — Isso é acumulação ou distribuição? Ninguém sabe."
-    },
-    {
-      "ts": "2026-02-14T15:29:01.393Z",
-      "time": "15:29:01",
-      "type": "position",
-      "msg": "SOL +0.37% — Tá subindo? Deixa eu não olhar pra não dar azar"
-    },
-    {
-      "ts": "2026-02-14T15:29:01.123Z",
-      "time": "15:29:01",
-      "type": "position",
-      "msg": "ETH -0.02% — Tô aqui, olhando, esperando, sofrendo"
     }
   ]
 }
