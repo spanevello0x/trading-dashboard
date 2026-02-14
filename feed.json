@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T15:33:32.021Z",
+      "time": "15:33:32",
+      "type": "position",
+      "msg": "PAXG -0.01% — O mercado tá buffering"
+    },
+    {
       "ts": "2026-02-14T15:33:01.723Z",
       "time": "15:33:01",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "15:25:19",
       "type": "analysis",
       "msg": "XMR no radar: 56% LONG"
-    },
-    {
-      "ts": "2026-02-14T15:25:19.261Z",
-      "time": "15:25:19",
-      "type": "analysis",
-      "msg": "TAO no radar: 67% SHORT"
     }
   ]
 }
