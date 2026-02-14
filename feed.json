@@ -1,6 +1,30 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T08:01:14.697Z",
+      "time": "08:01:14",
+      "type": "position",
+      "msg": "PAXG +0.01% — Se mexer muito, assusta"
+    },
+    {
+      "ts": "2026-02-14T08:01:14.416Z",
+      "time": "08:01:14",
+      "type": "position",
+      "msg": "BCH +0.06% — Nem comprador nem vendedor quer tomar atitude"
+    },
+    {
+      "ts": "2026-02-14T08:01:14.155Z",
+      "time": "08:01:14",
+      "type": "position",
+      "msg": "SUI -0.92% — Quem mandou confiar em linha colorida"
+    },
+    {
+      "ts": "2026-02-14T08:01:13.889Z",
+      "time": "08:01:13",
+      "type": "position",
+      "msg": "ETH -0.10% — Tá ali, existindo"
+    },
+    {
       "ts": "2026-02-14T08:00:13.824Z",
       "time": "08:00:13",
       "type": "position",
@@ -155,30 +179,6 @@
       "time": "07:53:43",
       "type": "position",
       "msg": "ETH -0.05% — Esperando Godot, versão crypto"
-    },
-    {
-      "ts": "2026-02-14T07:53:35.119Z",
-      "time": "07:53:35",
-      "type": "analysis",
-      "msg": "Olhando JUP... 56% SHORT"
-    },
-    {
-      "ts": "2026-02-14T07:53:34.835Z",
-      "time": "07:53:34",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - LINK cancelado"
-    },
-    {
-      "ts": "2026-02-14T07:53:34.499Z",
-      "time": "07:53:34",
-      "type": "signal",
-      "msg": "🎯 LONG LINK @ $8.89 (100%) — Bora, confia no pai"
-    },
-    {
-      "ts": "2026-02-14T07:53:34.499Z",
-      "time": "07:53:34",
-      "type": "analysis",
-      "msg": "LINK no radar: 100% LONG"
     }
   ]
 }
