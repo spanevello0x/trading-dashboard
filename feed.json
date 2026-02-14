@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T09:36:17.489Z",
+      "time": "09:36:17",
+      "type": "position",
+      "msg": "ETH +0.90% — Imagina se eu tivesse colocado mais..."
+    },
+    {
       "ts": "2026-02-14T09:35:48.341Z",
       "time": "09:35:48",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "09:27:47",
       "type": "position",
       "msg": "ZEC +0.44% — Não é muito, mas é trabalho honesto"
-    },
-    {
-      "ts": "2026-02-14T09:27:47.661Z",
-      "time": "09:27:47",
-      "type": "position",
-      "msg": "HYPE -0.08% — Esperando o mercado decidir o que quer da vida"
     }
   ]
 }
