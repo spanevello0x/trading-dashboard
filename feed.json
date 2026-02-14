@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T09:32:48.008Z",
+      "time": "09:32:48",
+      "type": "position",
+      "msg": "HYPE -0.03% — O mercado tá buffering"
+    },
+    {
+      "ts": "2026-02-14T09:32:47.397Z",
+      "time": "09:32:47",
+      "type": "position",
+      "msg": "ETH +0.94% — Tá subindo? Deixa eu não olhar pra não dar azar"
+    },
+    {
       "ts": "2026-02-14T09:32:18.216Z",
       "time": "09:32:18",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "09:24:17",
       "type": "position",
       "msg": "ZEC +0.43% — Vou comemorar quando fechar. Talvez."
-    },
-    {
-      "ts": "2026-02-14T09:23:47.259Z",
-      "time": "09:23:47",
-      "type": "position",
-      "msg": "XRP +0.06% — O mercado tá pensando..."
-    },
-    {
-      "ts": "2026-02-14T09:23:46.994Z",
-      "time": "09:23:46",
-      "type": "position",
-      "msg": "ETH +0.91% — Stonks 📈 (desculpa, não resisti)"
     }
   ]
 }
