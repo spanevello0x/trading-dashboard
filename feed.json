@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T08:31:15.825Z",
+      "time": "08:31:15",
+      "type": "position",
+      "msg": "PAXG +0.06% — Lateral é o novo tendência"
+    },
+    {
       "ts": "2026-02-14T08:30:15.615Z",
       "time": "08:30:15",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "08:22:15",
       "type": "position",
       "msg": "BCH +0.05% — Zona de conforto do gráfico"
-    },
-    {
-      "ts": "2026-02-14T08:22:14.959Z",
-      "time": "08:22:14",
-      "type": "position",
-      "msg": "SUI -1.40% — Não é prejuízo se eu não vender... ah, tem stop"
     }
   ]
 }
