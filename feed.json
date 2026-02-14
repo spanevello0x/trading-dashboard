@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T10:15:19.608Z",
+      "time": "10:15:19",
+      "type": "position",
+      "msg": "HYPE -0.31% — Respira... é só número na tela"
+    },
+    {
+      "ts": "2026-02-14T10:15:19.339Z",
+      "time": "10:15:19",
+      "type": "position",
+      "msg": "XRP -0.15% — Quem inventou crypto? Preciso conversar"
+    },
+    {
+      "ts": "2026-02-14T10:15:19.075Z",
+      "time": "10:15:19",
+      "type": "position",
+      "msg": "ETH +0.73% — Imagina se eu tivesse colocado mais..."
+    },
+    {
       "ts": "2026-02-14T10:14:49.832Z",
       "time": "10:14:49",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "10:06:19",
       "type": "position",
       "msg": "ZEC +0.82% — Melhor que Netflix isso aqui"
-    },
-    {
-      "ts": "2026-02-14T10:06:19.457Z",
-      "time": "10:06:19",
-      "type": "position",
-      "msg": "HYPE -0.06% — Esperando Godot, versão crypto"
-    },
-    {
-      "ts": "2026-02-14T10:06:19.192Z",
-      "time": "10:06:19",
-      "type": "position",
-      "msg": "XRP -0.30% — Meu eu do passado tomou essa decisão, problema dele"
-    },
-    {
-      "ts": "2026-02-14T10:06:18.734Z",
-      "time": "10:06:18",
-      "type": "position",
-      "msg": "ETH +0.75% — Tá subindo? Deixa eu não olhar pra não dar azar"
     }
   ]
 }
