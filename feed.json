@@ -1,6 +1,42 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T06:19:11.482Z",
+      "time": "06:19:11",
+      "type": "position",
+      "msg": "XMR +0.44% — Não é muito, mas é trabalho honesto"
+    },
+    {
+      "ts": "2026-02-14T06:19:11.087Z",
+      "time": "06:19:11",
+      "type": "position",
+      "msg": "PAXG +0.16% — Lucro é lucro, mesmo que pague só o almoço"
+    },
+    {
+      "ts": "2026-02-14T06:19:10.814Z",
+      "time": "06:19:10",
+      "type": "position",
+      "msg": "HYPE +1.25% — Até um relógio quebrado acerta duas vezes"
+    },
+    {
+      "ts": "2026-02-14T06:19:10.543Z",
+      "time": "06:19:10",
+      "type": "position",
+      "msg": "BCH +0.28% — Verde combina comigo"
+    },
+    {
+      "ts": "2026-02-14T06:19:10.282Z",
+      "time": "06:19:10",
+      "type": "position",
+      "msg": "BNB -0.06% — O mercado tá no modo avião"
+    },
+    {
+      "ts": "2026-02-14T06:19:09.958Z",
+      "time": "06:19:09",
+      "type": "position",
+      "msg": "BTC -0.34% — Amanhã é outro dia (espero)"
+    },
+    {
       "ts": "2026-02-14T06:17:41.513Z",
       "time": "06:17:41",
       "type": "position",
@@ -143,42 +179,6 @@
       "time": "06:14:09",
       "type": "position",
       "msg": "BTC -0.46% — O mercado escolheu violência hoje"
-    },
-    {
-      "ts": "2026-02-14T06:13:11.296Z",
-      "time": "06:13:11",
-      "type": "position",
-      "msg": "XMR +0.20% — Imagina se eu tivesse colocado mais..."
-    },
-    {
-      "ts": "2026-02-14T06:13:11.019Z",
-      "time": "06:13:11",
-      "type": "position",
-      "msg": "PAXG +0.16% — Tá verde? Tira print rápido antes que vire"
-    },
-    {
-      "ts": "2026-02-14T06:13:10.743Z",
-      "time": "06:13:10",
-      "type": "position",
-      "msg": "HYPE +1.48% — Tá subindo? Deixa eu não olhar pra não dar azar"
-    },
-    {
-      "ts": "2026-02-14T06:13:10.478Z",
-      "time": "06:13:10",
-      "type": "position",
-      "msg": "BCH +0.38% — Calma que ainda pode dar errado"
-    },
-    {
-      "ts": "2026-02-14T06:13:10.202Z",
-      "time": "06:13:10",
-      "type": "position",
-      "msg": "BNB +0.04% — Pregado no entry como se tivesse cola"
-    },
-    {
-      "ts": "2026-02-14T06:13:09.937Z",
-      "time": "06:13:09",
-      "type": "position",
-      "msg": "BTC -0.43% — Loss building character 💪"
     }
   ]
 }
