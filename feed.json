@@ -1,6 +1,42 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T05:28:39.795Z",
+      "time": "05:28:39",
+      "type": "position",
+      "msg": "XMR +0.06% — O mercado foi tomar café, já volta"
+    },
+    {
+      "ts": "2026-02-14T05:28:39.508Z",
+      "time": "05:28:39",
+      "type": "position",
+      "msg": "PAXG +0.06% — Vai, faz alguma coisa"
+    },
+    {
+      "ts": "2026-02-14T05:28:39.243Z",
+      "time": "05:28:39",
+      "type": "position",
+      "msg": "HYPE +0.53% — Meu psicólogo vai ficar orgulhoso"
+    },
+    {
+      "ts": "2026-02-14T05:28:38.974Z",
+      "time": "05:28:38",
+      "type": "position",
+      "msg": "BCH -0.48% — Pelo menos não apostei a casa... dessa vez"
+    },
+    {
+      "ts": "2026-02-14T05:28:38.710Z",
+      "time": "05:28:38",
+      "type": "position",
+      "msg": "BNB -0.26% — O mercado escolheu violência hoje"
+    },
+    {
+      "ts": "2026-02-14T05:28:38.370Z",
+      "time": "05:28:38",
+      "type": "position",
+      "msg": "BTC -0.29% — Tá bom, universo, entendi o recado"
+    },
+    {
       "ts": "2026-02-14T05:27:39.319Z",
       "time": "05:27:39",
       "type": "position",
@@ -143,42 +179,6 @@
       "time": "05:23:38",
       "type": "position",
       "msg": "BCH -0.58% — Mercado fazendo mercadisse"
-    },
-    {
-      "ts": "2026-02-14T05:23:38.001Z",
-      "time": "05:23:38",
-      "type": "position",
-      "msg": "BNB -0.28% — O mercado escolheu violência hoje"
-    },
-    {
-      "ts": "2026-02-14T05:23:37.731Z",
-      "time": "05:23:37",
-      "type": "position",
-      "msg": "BTC -0.26% — Ah sim, o famoso 'compra no topo'"
-    },
-    {
-      "ts": "2026-02-14T05:22:39.089Z",
-      "time": "05:22:39",
-      "type": "position",
-      "msg": "XMR -0.01% — Se mexer muito, assusta"
-    },
-    {
-      "ts": "2026-02-14T05:22:37.726Z",
-      "time": "05:22:37",
-      "type": "position",
-      "msg": "BTC -0.26% — O stop tá ali por um motivo, né"
-    },
-    {
-      "ts": "2026-02-14T05:22:09.148Z",
-      "time": "05:22:09",
-      "type": "position",
-      "msg": "PAXG +0.09% — A calmaria antes da tempestade... ou mais calmaria"
-    },
-    {
-      "ts": "2026-02-14T05:22:08.875Z",
-      "time": "05:22:08",
-      "type": "position",
-      "msg": "HYPE +0.62% — Alguém avisa o mercado que eu tô comprado"
     }
   ]
 }
