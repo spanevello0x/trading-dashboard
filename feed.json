@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T10:40:50.842Z",
+      "time": "10:40:50",
+      "type": "position",
+      "msg": "ZEC +0.75% — Melhor que Netflix isso aqui"
+    },
+    {
+      "ts": "2026-02-14T10:40:50.575Z",
+      "time": "10:40:50",
+      "type": "position",
+      "msg": "PAXG -0.00% — Lateral é o novo tendência"
+    },
+    {
+      "ts": "2026-02-14T10:40:50.269Z",
+      "time": "10:40:50",
+      "type": "position",
+      "msg": "HYPE -0.20% — Amanhã é outro dia (espero)"
+    },
+    {
       "ts": "2026-02-14T10:40:20.136Z",
       "time": "10:40:20",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "10:38:04",
       "type": "analysis",
       "msg": "Hmm, AZTEC mostrando sinais de SHORT (89%)"
-    },
-    {
-      "ts": "2026-02-14T10:38:04.103Z",
-      "time": "10:38:04",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - BERA cancelado"
-    },
-    {
-      "ts": "2026-02-14T10:38:03.571Z",
-      "time": "10:38:03",
-      "type": "signal",
-      "msg": "🎯 LONG BERA @ $0.70 (78%) — Dessa vez vai (eu acho)"
-    },
-    {
-      "ts": "2026-02-14T10:38:03.571Z",
-      "time": "10:38:03",
-      "type": "analysis",
-      "msg": "Analisando BERA... parece LONG (78%)"
     }
   ]
 }
