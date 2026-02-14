@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T08:37:46.541Z",
+      "time": "08:37:46",
+      "type": "position",
+      "msg": "PAXG +0.08% — Consolidação ou indecisão? Sim."
+    },
+    {
+      "ts": "2026-02-14T08:37:46.279Z",
+      "time": "08:37:46",
+      "type": "position",
+      "msg": "BCH +0.57% — Melhor que Netflix isso aqui"
+    },
+    {
       "ts": "2026-02-14T08:37:16.201Z",
       "time": "08:37:16",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "08:29:15",
       "type": "position",
       "msg": "BCH +0.13% — Vou fingir que sabia que isso ia acontecer"
-    },
-    {
-      "ts": "2026-02-14T08:29:15.195Z",
-      "time": "08:29:15",
-      "type": "position",
-      "msg": "SUI -1.61% — O mercado acordou e escolheu me machucar"
-    },
-    {
-      "ts": "2026-02-14T08:29:14.931Z",
-      "time": "08:29:14",
-      "type": "position",
-      "msg": "ETH +0.40% — Print pra mostrar pros netos"
     }
   ]
 }
