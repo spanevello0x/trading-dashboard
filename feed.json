@@ -1,6 +1,30 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T10:28:20.609Z",
+      "time": "10:28:20",
+      "type": "position",
+      "msg": "ZEC +1.13% — Tá verde? Tira print rápido antes que vire"
+    },
+    {
+      "ts": "2026-02-14T10:28:20.339Z",
+      "time": "10:28:20",
+      "type": "position",
+      "msg": "PAXG +0.02% — Vai, faz alguma coisa"
+    },
+    {
+      "ts": "2026-02-14T10:28:20.068Z",
+      "time": "10:28:20",
+      "type": "position",
+      "msg": "HYPE -0.34% — Ah sim, o famoso 'compra no topo'"
+    },
+    {
+      "ts": "2026-02-14T10:28:19.800Z",
+      "time": "10:28:19",
+      "type": "position",
+      "msg": "XRP -0.42% — Quem inventou crypto? Preciso conversar"
+    },
+    {
       "ts": "2026-02-14T10:27:20.396Z",
       "time": "10:27:20",
       "type": "position",
@@ -155,30 +179,6 @@
       "time": "10:24:06",
       "type": "analysis",
       "msg": "Analisando VVV... parece LONG (100%)"
-    },
-    {
-      "ts": "2026-02-14T10:24:06.436Z",
-      "time": "10:24:06",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - TAO cancelado"
-    },
-    {
-      "ts": "2026-02-14T10:24:06.072Z",
-      "time": "10:24:06",
-      "type": "signal",
-      "msg": "🎯 SHORT TAO @ $199.06 (89%) — Essa eu senti"
-    },
-    {
-      "ts": "2026-02-14T10:24:06.071Z",
-      "time": "10:24:06",
-      "type": "analysis",
-      "msg": "Analisando TAO... parece SHORT (89%)"
-    },
-    {
-      "ts": "2026-02-14T10:24:05.228Z",
-      "time": "10:24:05",
-      "type": "analysis",
-      "msg": "AVAX tá interessante, 56% pro SHORT"
     }
   ]
 }
