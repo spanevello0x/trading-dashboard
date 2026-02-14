@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T12:19:24.160Z",
+      "time": "12:19:24",
+      "type": "position",
+      "msg": "HYPE -0.29% — Não é prejuízo se eu não vender... ah, tem stop"
+    },
+    {
       "ts": "2026-02-14T12:18:54.419Z",
       "time": "12:18:54",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "12:08:23",
       "type": "position",
       "msg": "ETH -0.13% — Pelo menos não é dinheiro de verdade... ah, espera"
-    },
-    {
-      "ts": "2026-02-14T12:07:53.939Z",
-      "time": "12:07:53",
-      "type": "position",
-      "msg": "PAXG -0.04% — Parece até stable coin"
     }
   ]
 }
