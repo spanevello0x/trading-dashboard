@@ -1,6 +1,42 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T05:45:40.083Z",
+      "time": "05:45:40",
+      "type": "position",
+      "msg": "XMR +0.14% — Obrigado universo, tava precisando"
+    },
+    {
+      "ts": "2026-02-14T05:45:39.823Z",
+      "time": "05:45:39",
+      "type": "position",
+      "msg": "PAXG +0.09% — O gráfico tá meditando"
+    },
+    {
+      "ts": "2026-02-14T05:45:39.554Z",
+      "time": "05:45:39",
+      "type": "position",
+      "msg": "HYPE +0.87% — Imagina se eu tivesse colocado mais..."
+    },
+    {
+      "ts": "2026-02-14T05:45:39.289Z",
+      "time": "05:45:39",
+      "type": "position",
+      "msg": "BCH -0.10% — Pelo menos não tá caindo... ainda"
+    },
+    {
+      "ts": "2026-02-14T05:45:39.011Z",
+      "time": "05:45:39",
+      "type": "position",
+      "msg": "BNB -0.14% — Amanhã é outro dia (espero)"
+    },
+    {
+      "ts": "2026-02-14T05:45:38.748Z",
+      "time": "05:45:38",
+      "type": "position",
+      "msg": "BTC -0.34% — Não é prejuízo se eu não vender... ah, tem stop"
+    },
+    {
       "ts": "2026-02-14T05:44:39.914Z",
       "time": "05:44:39",
       "type": "position",
@@ -143,42 +179,6 @@
       "time": "05:40:10",
       "type": "position",
       "msg": "XMR +0.28% — Será que é armadilha? Provavelmente. Mas vou curtir enquanto dura"
-    },
-    {
-      "ts": "2026-02-14T05:40:08.688Z",
-      "time": "05:40:08",
-      "type": "position",
-      "msg": "BNB -0.08% — Consolidação ou indecisão? Sim."
-    },
-    {
-      "ts": "2026-02-14T05:40:08.413Z",
-      "time": "05:40:08",
-      "type": "position",
-      "msg": "BTC -0.43% — Meu eu do passado tomou essa decisão, problema dele"
-    },
-    {
-      "ts": "2026-02-14T05:39:39.343Z",
-      "time": "05:39:39",
-      "type": "position",
-      "msg": "HYPE +0.92% — Olha só, o mercado decidiu colaborar hoje"
-    },
-    {
-      "ts": "2026-02-14T05:39:39.080Z",
-      "time": "05:39:39",
-      "type": "position",
-      "msg": "BCH -0.07% — Enquanto não move, não perco. Stonks mental."
-    },
-    {
-      "ts": "2026-02-14T05:39:10.359Z",
-      "time": "05:39:10",
-      "type": "position",
-      "msg": "XMR +0.21% — Respira... ainda não acabou"
-    },
-    {
-      "ts": "2026-02-14T05:39:10.091Z",
-      "time": "05:39:10",
-      "type": "position",
-      "msg": "PAXG +0.07% — Esperando o mercado decidir o que quer da vida"
     }
   ]
 }
