@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T08:10:44.733Z",
+      "time": "08:10:44",
+      "type": "position",
+      "msg": "SUI -1.39% — Loss building character 💪"
+    },
+    {
+      "ts": "2026-02-14T08:10:44.471Z",
+      "time": "08:10:44",
+      "type": "position",
+      "msg": "ETH +0.55% — O mercado tá generoso hoje, desconfio"
+    },
+    {
       "ts": "2026-02-14T08:10:15.409Z",
       "time": "08:10:15",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "08:02:44",
       "type": "position",
       "msg": "PAXG +0.01% — Zona de conforto do gráfico"
-    },
-    {
-      "ts": "2026-02-14T08:02:44.279Z",
-      "time": "08:02:44",
-      "type": "position",
-      "msg": "SUI -1.03% — Ah sim, o famoso 'compra no topo'"
-    },
-    {
-      "ts": "2026-02-14T08:02:43.973Z",
-      "time": "08:02:43",
-      "type": "position",
-      "msg": "ETH -0.00% — Dormiu no ponto"
     }
   ]
 }
