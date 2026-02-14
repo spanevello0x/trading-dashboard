@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T14:46:29.924Z",
+      "time": "14:46:29",
+      "type": "position",
+      "msg": "HYPE -0.03% — Se mexer muito, assusta"
+    },
+    {
+      "ts": "2026-02-14T14:46:29.662Z",
+      "time": "14:46:29",
+      "type": "position",
+      "msg": "SOL -0.08% — Lateral é o novo tendência"
+    },
+    {
       "ts": "2026-02-14T14:45:59.390Z",
       "time": "14:45:59",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "14:39:45",
       "type": "analysis",
       "msg": "Analisando TAO... parece SHORT (100%)"
-    },
-    {
-      "ts": "2026-02-14T14:39:45.146Z",
-      "time": "14:39:45",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - BNB cancelado"
-    },
-    {
-      "ts": "2026-02-14T14:39:44.856Z",
-      "time": "14:39:44",
-      "type": "signal",
-      "msg": "🎯 LONG BNB @ $633.13 (89%) — Mais uma pro histórico"
     }
   ]
 }
