@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T07:49:13.720Z",
+      "time": "07:49:13",
+      "type": "position",
+      "msg": "BCH +0.04% — Zona de conforto do gráfico"
+    },
+    {
+      "ts": "2026-02-14T07:49:13.455Z",
+      "time": "07:49:13",
+      "type": "position",
+      "msg": "SUI -0.64% — Minha análise era perfeita, o mercado que tá errado"
+    },
+    {
       "ts": "2026-02-14T07:48:14.273Z",
       "time": "07:48:14",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "07:40:14",
       "type": "position",
       "msg": "PAXG +0.08% — Se mexer muito, assusta"
-    },
-    {
-      "ts": "2026-02-14T07:40:14.279Z",
-      "time": "07:40:14",
-      "type": "position",
-      "msg": "AAVE +1.07% — Olha só, o mercado decidiu colaborar hoje"
-    },
-    {
-      "ts": "2026-02-14T07:39:14.242Z",
-      "time": "07:39:14",
-      "type": "position",
-      "msg": "PAXG +0.08% — Parece até stable coin"
     }
   ]
 }
