@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T09:39:17.921Z",
+      "time": "09:39:17",
+      "type": "position",
+      "msg": "ETH +1.00% — Até um relógio quebrado acerta duas vezes"
+    },
+    {
       "ts": "2026-02-14T09:38:48.981Z",
       "time": "09:38:48",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "09:31:17",
       "type": "position",
       "msg": "HYPE -0.12% — O stop tá ali por um motivo, né"
-    },
-    {
-      "ts": "2026-02-14T09:31:17.598Z",
-      "time": "09:31:17",
-      "type": "position",
-      "msg": "XRP +0.15% — O mercado me ama (por enquanto)"
     }
   ]
 }
