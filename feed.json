@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T08:08:45.557Z",
+      "time": "08:08:45",
+      "type": "position",
+      "msg": "PAXG -0.03% — Nem pra cima nem pra baixo. Ansiedade infinita."
+    },
+    {
+      "ts": "2026-02-14T08:08:45.286Z",
+      "time": "08:08:45",
+      "type": "position",
+      "msg": "BCH -0.02% — Parece até stable coin"
+    },
+    {
       "ts": "2026-02-14T08:08:14.771Z",
       "time": "08:08:14",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "08:01:14",
       "type": "position",
       "msg": "SUI -0.92% — Quem mandou confiar em linha colorida"
-    },
-    {
-      "ts": "2026-02-14T08:01:13.889Z",
-      "time": "08:01:13",
-      "type": "position",
-      "msg": "ETH -0.10% — Tá ali, existindo"
-    },
-    {
-      "ts": "2026-02-14T08:00:13.824Z",
-      "time": "08:00:13",
-      "type": "position",
-      "msg": "ETH -0.14% — O mercado acordou e escolheu me machucar"
     }
   ]
 }
