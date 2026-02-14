@@ -4,6 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>QuickBot Dashboard</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
   <style>
     * { margin: 0; padding: 0; box-sizing: border-box; }
     body {
@@ -128,6 +129,33 @@
     .trade-buy { color: #00ff88; }
     .trade-sell { color: #ff4757; }
     
+    .chart-container {
+      height: 200px;
+      position: relative;
+    }
+    
+    .pnl-summary {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 10px;
+      margin-bottom: 15px;
+      text-align: center;
+    }
+    .pnl-stat {
+      background: rgba(255,255,255,0.03);
+      padding: 10px;
+      border-radius: 8px;
+    }
+    .pnl-stat-value {
+      font-size: 1.3rem;
+      font-weight: bold;
+    }
+    .pnl-stat-label {
+      font-size: 0.7rem;
+      color: #666;
+      margin-top: 2px;
+    }
+    
     .refresh-info { text-align: center; color: #666; font-size: 0.8rem; margin-top: 20px; }
     .explorer-link { text-align: center; margin-top: 10px; }
     .explorer-link a { color: #00d9ff; text-decoration: none; font-size: 0.85rem; }
@@ -191,6 +219,28 @@
         <div id="positions">Carregando...</div>
       </div>
       
+      <!-- NOVO: Gráfico de Performance -->
+      <div class="card">
+        <h2>📊 Performance (PnL % Acumulado)</h2>
+        <div class="pnl-summary">
+          <div class="pnl-stat">
+            <div class="pnl-stat-value pnl-positive" id="total-pnl-pct">0%</div>
+            <div class="pnl-stat-label">PnL Total</div>
+          </div>
+          <div class="pnl-stat">
+            <div class="pnl-stat-value" id="win-rate">0%</div>
+            <div class="pnl-stat-label">Win Rate</div>
+          </div>
+          <div class="pnl-stat">
+            <div class="pnl-stat-value" id="total-trades">0</div>
+            <div class="pnl-stat-label">Trades Fechados</div>
+          </div>
+        </div>
+        <div class="chart-container">
+          <canvas id="pnl-chart"></canvas>
+        </div>
+      </div>
+      
       <div class="card">
         <h2>📜 Trades Recentes</h2>
         <div class="trades-list" id="trades">Carregando...</div>
@@ -210,9 +260,11 @@
   <script>
     const WALLET = '0x4FFf1187E66b66bC8E31886F2b861f951736a276';
     const HL_API = 'https://api.hyperliquid.xyz/info';
+    const INITIAL_CAPITAL = 15.52; // Capital inicial em USDC
     
     let feedItems = [];
     let prevData = {};
+    let pnlChart = null;
     
     function formatMoney(n) { return '$' + n.toFixed(2); }
     function formatPrice(n) { return n >= 10000 ? '$' + n.toFixed(0) : '$' + n.toFixed(2); }
@@ -227,6 +279,162 @@
       const time = formatTime();
       feedItems.unshift({ time, msg });
       if (feedItems.length > 30) feedItems = feedItems.slice(0, 30);
+    }
+    
+    // Inicializa o gráfico de PnL
+    function initPnLChart() {
+      const ctx = document.getElementById('pnl-chart').getContext('2d');
+      pnlChart = new Chart(ctx, {
+        type: 'line',
+        data: {
+          labels: [],
+          datasets: [{
+            label: 'PnL % Acumulado',
+            data: [],
+            borderColor: '#00ff88',
+            backgroundColor: 'rgba(0, 255, 136, 0.1)',
+            fill: true,
+            tension: 0.3,
+            pointRadius: 3,
+            pointBackgroundColor: '#00ff88',
+            borderWidth: 2
+          }]
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          plugins: {
+            legend: { display: false },
+            tooltip: {
+              callbacks: {
+                label: (ctx) => `PnL: ${ctx.parsed.y >= 0 ? '+' : ''}${ctx.parsed.y.toFixed(2)}%`
+              }
+            }
+          },
+          scales: {
+            x: {
+              display: true,
+              grid: { color: 'rgba(255,255,255,0.05)' },
+              ticks: { 
+                color: '#666',
+                maxTicksLimit: 6,
+                font: { size: 10 }
+              }
+            },
+            y: {
+              display: true,
+              grid: { color: 'rgba(255,255,255,0.05)' },
+              ticks: { 
+                color: '#666',
+                callback: v => v.toFixed(1) + '%',
+                font: { size: 10 }
+              }
+            }
+          }
+        }
+      });
+    }
+    
+    // Processa trades fechados e calcula PnL acumulado
+    function processClosedTrades(fills) {
+      // Agrupa trades por ordem (oid) para encontrar pares open/close
+      const trades = [];
+      const openPositions = {};
+      
+      // Ordena por tempo (mais antigo primeiro)
+      const sortedFills = [...fills].sort((a, b) => a.time - b.time);
+      
+      for (const fill of sortedFills) {
+        const coin = fill.coin;
+        const side = fill.side; // 'B' ou 'A' (buy/sell)
+        const size = parseFloat(fill.sz);
+        const price = parseFloat(fill.px);
+        const time = fill.time;
+        const closedPnl = parseFloat(fill.closedPnl || 0);
+        
+        // Se tem closedPnl, é um trade fechado
+        if (closedPnl !== 0) {
+          // Calcula % baseado no valor da posição
+          // Estimativa: usa o preço de entrada aproximado
+          const positionValue = size * price;
+          const pnlPct = (closedPnl / positionValue) * 100;
+          
+          trades.push({
+            time,
+            coin,
+            pnl: closedPnl,
+            pnlPct,
+            side: side === 'B' ? 'BUY' : 'SELL'
+          });
+        }
+      }
+      
+      return trades;
+    }
+    
+    // Atualiza o gráfico de PnL
+    function updatePnLChart(fills) {
+      const closedTrades = processClosedTrades(fills);
+      
+      if (closedTrades.length === 0) {
+        document.getElementById('total-pnl-pct').textContent = '0%';
+        document.getElementById('win-rate').textContent = '0%';
+        document.getElementById('total-trades').textContent = '0';
+        return;
+      }
+      
+      // Calcula PnL acumulado
+      let cumPnl = 0;
+      const dataPoints = [];
+      let wins = 0;
+      let losses = 0;
+      
+      for (const trade of closedTrades) {
+        cumPnl += trade.pnl;
+        const cumPnlPct = (cumPnl / INITIAL_CAPITAL) * 100;
+        
+        dataPoints.push({
+          time: trade.time,
+          pnlPct: cumPnlPct,
+          label: new Date(trade.time).toLocaleString('pt-BR', { 
+            day: '2-digit', 
+            month: '2-digit',
+            hour: '2-digit',
+            minute: '2-digit'
+          })
+        });
+        
+        if (trade.pnl > 0) wins++;
+        else if (trade.pnl < 0) losses++;
+      }
+      
+      // Atualiza estatísticas
+      const totalPnlPct = (cumPnl / INITIAL_CAPITAL) * 100;
+      const winRate = closedTrades.length > 0 ? (wins / closedTrades.length) * 100 : 0;
+      
+      const totalPnlEl = document.getElementById('total-pnl-pct');
+      totalPnlEl.textContent = (totalPnlPct >= 0 ? '+' : '') + totalPnlPct.toFixed(2) + '%';
+      totalPnlEl.className = 'pnl-stat-value ' + (totalPnlPct >= 0 ? 'pnl-positive' : 'pnl-negative');
+      
+      document.getElementById('win-rate').textContent = winRate.toFixed(0) + '%';
+      document.getElementById('total-trades').textContent = closedTrades.length;
+      
+      // Atualiza gráfico
+      pnlChart.data.labels = dataPoints.map(d => d.label);
+      pnlChart.data.datasets[0].data = dataPoints.map(d => d.pnlPct);
+      
+      // Muda cor se negativo
+      if (totalPnlPct < 0) {
+        pnlChart.data.datasets[0].borderColor = '#ff4757';
+        pnlChart.data.datasets[0].backgroundColor = 'rgba(255, 71, 87, 0.1)';
+        pnlChart.data.datasets[0].pointBackgroundColor = '#ff4757';
+      } else {
+        pnlChart.data.datasets[0].borderColor = '#00ff88';
+        pnlChart.data.datasets[0].backgroundColor = 'rgba(0, 255, 136, 0.1)';
+        pnlChart.data.datasets[0].pointBackgroundColor = '#00ff88';
+      }
+      
+      pnlChart.update('none');
     }
     
     function generateThoughts(positions, mids) {
@@ -307,6 +515,9 @@
         document.getElementById('price-eth').textContent = formatPrice(parseFloat(mids.ETH || 0));
         document.getElementById('price-sol').textContent = formatPrice(parseFloat(mids.SOL || 0));
         
+        // Atualiza gráfico de PnL
+        updatePnLChart(fills || []);
+        
         // Generate thoughts
         generateThoughts(positions, mids);
         
@@ -365,6 +576,9 @@
     
     // Initial thought
     addThought('ℹ️ QuickBot Dashboard conectado!');
+    
+    // Inicializa gráfico
+    initPnLChart();
     
     fetchData();
     setInterval(fetchData, 5000);
