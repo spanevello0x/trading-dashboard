@@ -1,6 +1,42 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T06:06:10.931Z",
+      "time": "06:06:10",
+      "type": "position",
+      "msg": "XMR +0.33% — Melhor que Netflix isso aqui"
+    },
+    {
+      "ts": "2026-02-14T06:06:10.576Z",
+      "time": "06:06:10",
+      "type": "position",
+      "msg": "PAXG +0.10% — Nem pra cima nem pra baixo. Ansiedade infinita."
+    },
+    {
+      "ts": "2026-02-14T06:06:10.310Z",
+      "time": "06:06:10",
+      "type": "position",
+      "msg": "HYPE +1.36% — Tá bom demais pra ser verdade... ops, não deveria falar isso"
+    },
+    {
+      "ts": "2026-02-14T06:06:10.042Z",
+      "time": "06:06:10",
+      "type": "position",
+      "msg": "BCH +0.50% — Vou fingir que sabia que isso ia acontecer"
+    },
+    {
+      "ts": "2026-02-14T06:06:09.776Z",
+      "time": "06:06:09",
+      "type": "position",
+      "msg": "BNB -0.07% — Isso é acumulação ou distribuição? Ninguém sabe."
+    },
+    {
+      "ts": "2026-02-14T06:06:09.505Z",
+      "time": "06:06:09",
+      "type": "position",
+      "msg": "BTC -0.40% — Podia ser pior. Dá tempo ainda."
+    },
+    {
       "ts": "2026-02-14T06:05:10.840Z",
       "time": "06:05:10",
       "type": "position",
@@ -143,42 +179,6 @@
       "time": "06:00:39",
       "type": "position",
       "msg": "BTC -0.44% — Quem precisa de dinheiro mesmo"
-    },
-    {
-      "ts": "2026-02-14T06:00:10.712Z",
-      "time": "06:00:10",
-      "type": "position",
-      "msg": "XMR +0.56% — Tá bom demais pra ser verdade... ops, não deveria falar isso"
-    },
-    {
-      "ts": "2026-02-14T06:00:10.447Z",
-      "time": "06:00:10",
-      "type": "position",
-      "msg": "PAXG +0.09% — Lateral é o novo tendência"
-    },
-    {
-      "ts": "2026-02-14T06:00:10.158Z",
-      "time": "06:00:10",
-      "type": "position",
-      "msg": "HYPE +1.47% — Finalmente algo de bom nesse mercado"
-    },
-    {
-      "ts": "2026-02-14T06:00:09.845Z",
-      "time": "06:00:09",
-      "type": "position",
-      "msg": "BCH +0.46% — Calma que ainda pode dar errado"
-    },
-    {
-      "ts": "2026-02-14T05:59:09.700Z",
-      "time": "05:59:09",
-      "type": "position",
-      "msg": "BNB +0.03% — Esperando Godot, versão crypto"
-    },
-    {
-      "ts": "2026-02-14T05:59:09.434Z",
-      "time": "05:59:09",
-      "type": "position",
-      "msg": "BTC -0.44% — O stop tá ali por um motivo, né"
     }
   ]
 }
