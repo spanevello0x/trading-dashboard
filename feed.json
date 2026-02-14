@@ -1,6 +1,54 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T06:47:20.585Z",
+      "time": "06:47:20",
+      "type": "execution",
+      "msg": "⚙️ Leverage: 5x"
+    },
+    {
+      "ts": "2026-02-14T06:47:20.205Z",
+      "time": "06:47:20",
+      "type": "signal",
+      "msg": "🎯 LONG TAO @ $190.26 (89%) — Os indicadores mandaram, eu obedeci"
+    },
+    {
+      "ts": "2026-02-14T06:47:20.205Z",
+      "time": "06:47:20",
+      "type": "analysis",
+      "msg": "Olhando TAO... 89% LONG"
+    },
+    {
+      "ts": "2026-02-14T06:47:13.137Z",
+      "time": "06:47:13",
+      "type": "analysis",
+      "msg": "HYPE no radar: 56% LONG"
+    },
+    {
+      "ts": "2026-02-14T06:47:12.280Z",
+      "time": "06:47:12",
+      "type": "position",
+      "msg": "PAXG -0.00% — Pelo menos não tá caindo... ainda"
+    },
+    {
+      "ts": "2026-02-14T06:47:12.012Z",
+      "time": "06:47:12",
+      "type": "position",
+      "msg": "BCH -0.01% — Nem pra cima nem pra baixo. Ansiedade infinita."
+    },
+    {
+      "ts": "2026-02-14T06:47:11.751Z",
+      "time": "06:47:11",
+      "type": "position",
+      "msg": "SUI -0.01% — Neutro: onde a ansiedade e o tédio se encontram"
+    },
+    {
+      "ts": "2026-02-14T06:47:11.418Z",
+      "time": "06:47:11",
+      "type": "position",
+      "msg": "BTC -0.29% — O gráfico parecia tão bonito..."
+    },
+    {
       "ts": "2026-02-14T06:46:40.873Z",
       "time": "06:46:40",
       "type": "error",
@@ -131,54 +179,6 @@
       "time": "06:46:34",
       "type": "error",
       "msg": "❌ OM: Cannot read properties of null (reading 'map')"
-    },
-    {
-      "ts": "2026-02-14T06:46:33.788Z",
-      "time": "06:46:33",
-      "type": "execution",
-      "msg": "📤 Abrindo SHORT em OM..."
-    },
-    {
-      "ts": "2026-02-14T06:46:33.124Z",
-      "time": "06:46:33",
-      "type": "error",
-      "msg": "❌ Falha na execução: Order has invalid price."
-    },
-    {
-      "ts": "2026-02-14T06:46:32.783Z",
-      "time": "06:46:32",
-      "type": "execution",
-      "msg": "⚙️ Leverage: 5x"
-    },
-    {
-      "ts": "2026-02-14T06:46:32.493Z",
-      "time": "06:46:32",
-      "type": "signal",
-      "msg": "🎯 SHORT OM @ $0.05 (89%) — Bora, confia no pai"
-    },
-    {
-      "ts": "2026-02-14T06:46:32.493Z",
-      "time": "06:46:32",
-      "type": "analysis",
-      "msg": "OM tá interessante, 89% pro SHORT"
-    },
-    {
-      "ts": "2026-02-14T06:46:31.939Z",
-      "time": "06:46:31",
-      "type": "analysis",
-      "msg": "AVAX no radar: 56% SHORT"
-    },
-    {
-      "ts": "2026-02-14T06:46:31.660Z",
-      "time": "06:46:31",
-      "type": "analysis",
-      "msg": "VIRTUAL no radar: 56% SHORT"
-    },
-    {
-      "ts": "2026-02-14T06:46:31.150Z",
-      "time": "06:46:31",
-      "type": "execution",
-      "msg": "📤 Abrindo SHORT em AZTEC..."
     }
   ]
 }
