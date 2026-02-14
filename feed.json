@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T10:12:19.794Z",
+      "time": "10:12:19",
+      "type": "position",
+      "msg": "ZEC +0.56% — Stonks 📈 (desculpa, não resisti)"
+    },
+    {
       "ts": "2026-02-14T10:11:48.941Z",
       "time": "10:11:48",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "10:04:18",
       "type": "position",
       "msg": "ETH +0.71% — Stonks 📈 (desculpa, não resisti)"
-    },
-    {
-      "ts": "2026-02-14T10:03:18.856Z",
-      "time": "10:03:18",
-      "type": "position",
-      "msg": "XRP -0.26% — Vou culpar a lua, deve ser lua cheia"
     }
   ]
 }
