@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T10:20:20.877Z",
+      "time": "10:20:20",
+      "type": "position",
+      "msg": "ZEC +1.06% — Meu psicólogo vai ficar orgulhoso"
+    },
+    {
       "ts": "2026-02-14T10:19:50.341Z",
       "time": "10:19:50",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "10:11:48",
       "type": "position",
       "msg": "ETH +0.79% — Alguém avisa o mercado que eu tô comprado"
-    },
-    {
-      "ts": "2026-02-14T10:11:19.603Z",
-      "time": "10:11:19",
-      "type": "position",
-      "msg": "HYPE -0.35% — O mercado escolheu violência hoje"
     }
   ]
 }
