@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T14:07:58.396Z",
+      "time": "14:07:58",
+      "type": "position",
+      "msg": "HYPE +1.03% — Lucro é lucro, mesmo que pague só o almoço"
+    },
+    {
+      "ts": "2026-02-14T14:07:58.133Z",
+      "time": "14:07:58",
+      "type": "position",
+      "msg": "SOL -0.32% — Quem mandou confiar em linha colorida"
+    },
+    {
+      "ts": "2026-02-14T14:07:57.869Z",
+      "time": "14:07:57",
+      "type": "position",
+      "msg": "ETH -0.00% — Isso é acumulação ou distribuição? Ninguém sabe."
+    },
+    {
       "ts": "2026-02-14T14:06:28.640Z",
       "time": "14:06:28",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "13:56:28",
       "type": "position",
       "msg": "SOL -0.07% — Nem comprador nem vendedor quer tomar atitude"
-    },
-    {
-      "ts": "2026-02-14T13:55:57.995Z",
-      "time": "13:55:57",
-      "type": "position",
-      "msg": "HYPE +1.09% — Isso aí, garoto. Vai, vai, vai..."
-    },
-    {
-      "ts": "2026-02-14T13:55:57.470Z",
-      "time": "13:55:57",
-      "type": "position",
-      "msg": "ETH +0.19% — Vou comemorar quando fechar. Talvez."
-    },
-    {
-      "ts": "2026-02-14T13:54:57.733Z",
-      "time": "13:54:57",
-      "type": "position",
-      "msg": "SOL +0.00% — A calmaria antes da tempestade... ou mais calmaria"
     }
   ]
 }
