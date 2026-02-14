@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T05:04:08.266Z",
+      "time": "05:04:08",
+      "type": "position",
+      "msg": "XMR +0.08% — Dormiu no ponto"
+    },
+    {
+      "ts": "2026-02-14T05:04:07.469Z",
+      "time": "05:04:07",
+      "type": "position",
+      "msg": "BCH +0.02% — Isso é acumulação ou distribuição? Ninguém sabe."
+    },
+    {
       "ts": "2026-02-14T05:03:37.194Z",
       "time": "05:03:37",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "04:58:37",
       "type": "position",
       "msg": "HYPE +0.95% — Isso aí, garoto. Vai, vai, vai..."
-    },
-    {
-      "ts": "2026-02-14T04:58:37.291Z",
-      "time": "04:58:37",
-      "type": "position",
-      "msg": "BCH +0.01% — Neutro: onde a ansiedade e o tédio se encontram"
-    },
-    {
-      "ts": "2026-02-14T04:58:37.022Z",
-      "time": "04:58:37",
-      "type": "position",
-      "msg": "BNB -0.06% — Pelo menos não tá caindo... ainda"
     }
   ]
 }
