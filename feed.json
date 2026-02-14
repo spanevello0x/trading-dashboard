@@ -1,6 +1,114 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T12:40:25.335Z",
+      "time": "12:40:25",
+      "type": "position",
+      "msg": "ZEC +0.03% — Tá ali, existindo"
+    },
+    {
+      "ts": "2026-02-14T12:40:14.566Z",
+      "time": "12:40:14",
+      "type": "analysis",
+      "msg": "Analisando LINK... parece SHORT (56%)"
+    },
+    {
+      "ts": "2026-02-14T12:40:14.286Z",
+      "time": "12:40:14",
+      "type": "analysis",
+      "msg": "Olhando MOODENG... 67% SHORT"
+    },
+    {
+      "ts": "2026-02-14T12:40:13.696Z",
+      "time": "12:40:13",
+      "type": "analysis",
+      "msg": "kPEPE tá interessante, 56% pro SHORT"
+    },
+    {
+      "ts": "2026-02-14T12:40:13.025Z",
+      "time": "12:40:13",
+      "type": "analysis",
+      "msg": "Olhando VVV... 67% SHORT"
+    },
+    {
+      "ts": "2026-02-14T12:40:11.788Z",
+      "time": "12:40:11",
+      "type": "analysis",
+      "msg": "OM tá interessante, 67% pro LONG"
+    },
+    {
+      "ts": "2026-02-14T12:40:11.378Z",
+      "time": "12:40:11",
+      "type": "analysis",
+      "msg": "BNB no radar: 67% SHORT"
+    },
+    {
+      "ts": "2026-02-14T12:40:11.011Z",
+      "time": "12:40:11",
+      "type": "analysis",
+      "msg": "AVAX no radar: 56% SHORT"
+    },
+    {
+      "ts": "2026-02-14T12:40:10.733Z",
+      "time": "12:40:10",
+      "type": "system",
+      "msg": "⚠️ Limite atingido (5/5) - VIRTUAL cancelado"
+    },
+    {
+      "ts": "2026-02-14T12:40:10.461Z",
+      "time": "12:40:10",
+      "type": "signal",
+      "msg": "🎯 SHORT VIRTUAL @ $0.68 (78%) — Vamo ver no que dá"
+    },
+    {
+      "ts": "2026-02-14T12:40:10.461Z",
+      "time": "12:40:10",
+      "type": "analysis",
+      "msg": "Hmm, VIRTUAL mostrando sinais de SHORT (78%)"
+    },
+    {
+      "ts": "2026-02-14T12:40:10.123Z",
+      "time": "12:40:10",
+      "type": "analysis",
+      "msg": "AZTEC tá interessante, 67% pro LONG"
+    },
+    {
+      "ts": "2026-02-14T12:40:09.819Z",
+      "time": "12:40:09",
+      "type": "system",
+      "msg": "⚠️ Limite atingido (5/5) - BERA cancelado"
+    },
+    {
+      "ts": "2026-02-14T12:40:09.505Z",
+      "time": "12:40:09",
+      "type": "signal",
+      "msg": "🎯 SHORT BERA @ $0.69 (78%) — Dessa vez vai (eu acho)"
+    },
+    {
+      "ts": "2026-02-14T12:40:09.504Z",
+      "time": "12:40:09",
+      "type": "analysis",
+      "msg": "Hmm, BERA mostrando sinais de SHORT (78%)"
+    },
+    {
+      "ts": "2026-02-14T12:40:08.863Z",
+      "time": "12:40:08",
+      "type": "system",
+      "msg": "⚠️ Limite atingido (5/5) - FARTCOIN cancelado"
+    },
+    {
+      "ts": "2026-02-14T12:40:08.592Z",
+      "time": "12:40:08",
+      "type": "signal",
+      "msg": "🎯 SHORT FARTCOIN @ $0.19 (89%) — Bora, confia no pai"
+    },
+    {
+      "ts": "2026-02-14T12:40:08.592Z",
+      "time": "12:40:08",
+      "type": "analysis",
+      "msg": "FARTCOIN tá interessante, 89% pro SHORT"
+    },
+    {
       "ts": "2026-02-14T12:40:08.183Z",
       "time": "12:40:08",
       "type": "analysis",
@@ -71,114 +179,6 @@
       "time": "12:40:04",
       "type": "signal",
       "msg": "🎯 SHORT AAVE @ $126.35 (78%) — Setup alinhado, agora é com o mercado"
-    },
-    {
-      "ts": "2026-02-14T12:40:04.556Z",
-      "time": "12:40:04",
-      "type": "analysis",
-      "msg": "AAVE no radar: 78% SHORT"
-    },
-    {
-      "ts": "2026-02-14T12:40:04.258Z",
-      "time": "12:40:04",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - ASTER cancelado"
-    },
-    {
-      "ts": "2026-02-14T12:40:03.959Z",
-      "time": "12:40:03",
-      "type": "signal",
-      "msg": "🎯 SHORT ASTER @ $0.71 (78%) — Os indicadores mandaram, eu obedeci"
-    },
-    {
-      "ts": "2026-02-14T12:40:03.958Z",
-      "time": "12:40:03",
-      "type": "analysis",
-      "msg": "Olhando ASTER... 78% SHORT"
-    },
-    {
-      "ts": "2026-02-14T12:40:03.679Z",
-      "time": "12:40:03",
-      "type": "analysis",
-      "msg": "Hmm, ZRO mostrando sinais de SHORT (56%)"
-    },
-    {
-      "ts": "2026-02-14T12:40:03.290Z",
-      "time": "12:40:03",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - LIT cancelado"
-    },
-    {
-      "ts": "2026-02-14T12:40:02.956Z",
-      "time": "12:40:02",
-      "type": "signal",
-      "msg": "🎯 SHORT LIT @ $1.60 (100%) — Os indicadores mandaram, eu obedeci"
-    },
-    {
-      "ts": "2026-02-14T12:40:02.956Z",
-      "time": "12:40:02",
-      "type": "analysis",
-      "msg": "LIT no radar: 100% SHORT"
-    },
-    {
-      "ts": "2026-02-14T12:40:02.638Z",
-      "time": "12:40:02",
-      "type": "result",
-      "msg": "🏁 Trade completo: LONG ZEC @ $286.22 | RR 2:1"
-    },
-    {
-      "ts": "2026-02-14T12:40:02.637Z",
-      "time": "12:40:02",
-      "type": "execution",
-      "msg": "🎯 Take Profit: $292.04"
-    },
-    {
-      "ts": "2026-02-14T12:40:00.908Z",
-      "time": "12:40:00",
-      "type": "execution",
-      "msg": "🛡️ Stop Loss: $283.45"
-    },
-    {
-      "ts": "2026-02-14T12:39:59.174Z",
-      "time": "12:39:59",
-      "type": "execution",
-      "msg": "✅ Filled: 0.050000 ZEC @ $286.22"
-    },
-    {
-      "ts": "2026-02-14T12:39:57.125Z",
-      "time": "12:39:57",
-      "type": "execution",
-      "msg": "📤 Abrindo LONG em ZEC..."
-    },
-    {
-      "ts": "2026-02-14T12:39:56.097Z",
-      "time": "12:39:56",
-      "type": "execution",
-      "msg": "⚙️ Leverage: 5x"
-    },
-    {
-      "ts": "2026-02-14T12:39:55.809Z",
-      "time": "12:39:55",
-      "type": "signal",
-      "msg": "🎯 LONG ZEC @ $286.31 (78%) — Os indicadores mandaram, eu obedeci"
-    },
-    {
-      "ts": "2026-02-14T12:39:55.808Z",
-      "time": "12:39:55",
-      "type": "analysis",
-      "msg": "Analisando ZEC... parece LONG (78%)"
-    },
-    {
-      "ts": "2026-02-14T12:39:55.535Z",
-      "time": "12:39:55",
-      "type": "analysis",
-      "msg": "SOL no radar: 56% SHORT"
-    },
-    {
-      "ts": "2026-02-14T12:39:55.213Z",
-      "time": "12:39:55",
-      "type": "analysis",
-      "msg": "ETH no radar: 56% SHORT"
     }
   ]
 }
