@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T05:21:09.747Z",
+      "time": "05:21:09",
+      "type": "position",
+      "msg": "XMR -0.15% — Pelo menos não é dinheiro de verdade... ah, espera"
+    },
+    {
       "ts": "2026-02-14T05:20:39.389Z",
       "time": "05:20:39",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "05:15:38",
       "type": "position",
       "msg": "XMR -0.14% — Podia ser pior. Dá tempo ainda."
-    },
-    {
-      "ts": "2026-02-14T05:15:37.440Z",
-      "time": "05:15:37",
-      "type": "position",
-      "msg": "BTC -0.28% — Quem inventou crypto? Preciso conversar"
     }
   ]
 }
