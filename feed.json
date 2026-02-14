@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T10:18:20.293Z",
+      "time": "10:18:20",
+      "type": "position",
+      "msg": "ZEC +0.91% — Verde combina comigo"
+    },
+    {
       "ts": "2026-02-14T10:17:49.714Z",
       "time": "10:17:49",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "10:09:19",
       "type": "position",
       "msg": "ETH +0.73% — Stonks 📈 (desculpa, não resisti)"
-    },
-    {
-      "ts": "2026-02-14T10:08:50.217Z",
-      "time": "10:08:50",
-      "type": "position",
-      "msg": "ZEC +0.91% — Vou fingir que sabia que isso ia acontecer"
     }
   ]
 }
