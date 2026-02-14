@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T14:16:59.121Z",
+      "time": "14:16:59",
+      "type": "position",
+      "msg": "HYPE +0.82% — Stonks 📈 (desculpa, não resisti)"
+    },
+    {
       "ts": "2026-02-14T14:16:28.664Z",
       "time": "14:16:28",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "14:04:58",
       "type": "position",
       "msg": "HYPE +1.07% — Não é muito, mas é trabalho honesto"
-    },
-    {
-      "ts": "2026-02-14T14:04:58.136Z",
-      "time": "14:04:58",
-      "type": "position",
-      "msg": "SOL -0.26% — Podia ser pior. Dá tempo ainda."
     }
   ]
 }
