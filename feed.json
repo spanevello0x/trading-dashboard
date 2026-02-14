@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T13:09:55.634Z",
+      "time": "13:09:55",
+      "type": "position",
+      "msg": "ETH +0.05% — O mercado tá no modo avião"
+    },
+    {
       "ts": "2026-02-14T13:09:26.145Z",
       "time": "13:09:26",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "13:03:46",
       "type": "analysis",
       "msg": "VVV tá interessante, 67% pro SHORT"
-    },
-    {
-      "ts": "2026-02-14T13:03:46.024Z",
-      "time": "13:03:46",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - TAO cancelado"
     }
   ]
 }
