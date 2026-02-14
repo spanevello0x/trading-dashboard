@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T06:53:41.951Z",
+      "time": "06:53:41",
+      "type": "position",
+      "msg": "TAO +1.23% — Meu psicólogo vai ficar orgulhoso"
+    },
+    {
       "ts": "2026-02-14T06:53:11.421Z",
       "time": "06:53:11",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "06:47:29",
       "type": "analysis",
       "msg": "Hmm, LINK mostrando sinais de SHORT (78%)"
-    },
-    {
-      "ts": "2026-02-14T06:47:29.212Z",
-      "time": "06:47:29",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - ARB cancelado"
     }
   ]
 }
