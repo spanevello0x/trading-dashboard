@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T12:32:25.052Z",
+      "time": "12:32:25",
+      "type": "position",
+      "msg": "PAXG -0.05% — Pregado no entry como se tivesse cola"
+    },
+    {
+      "ts": "2026-02-14T12:32:24.487Z",
+      "time": "12:32:24",
+      "type": "position",
+      "msg": "ETH -0.41% — O stop tá ali por um motivo, né"
+    },
+    {
       "ts": "2026-02-14T12:31:54.591Z",
       "time": "12:31:54",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "12:20:54",
       "type": "position",
       "msg": "PAXG -0.02% — Nem comprador nem vendedor quer tomar atitude"
-    },
-    {
-      "ts": "2026-02-14T12:20:54.120Z",
-      "time": "12:20:54",
-      "type": "position",
-      "msg": "ETH -0.11% — Respira... é só número na tela"
-    },
-    {
-      "ts": "2026-02-14T12:20:24.198Z",
-      "time": "12:20:24",
-      "type": "position",
-      "msg": "HYPE -0.37% — Pelo menos aprendo algo... né?"
     }
   ]
 }
