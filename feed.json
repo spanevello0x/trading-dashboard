@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T15:05:30.194Z",
+      "time": "15:05:30",
+      "type": "position",
+      "msg": "ETH -0.60% — Isso é um teste de caráter, com certeza"
+    },
+    {
       "ts": "2026-02-14T15:04:30.992Z",
       "time": "15:04:30",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "14:53:59",
       "type": "position",
       "msg": "ETH -0.60% — Tá bom, universo, entendi o recado"
-    },
-    {
-      "ts": "2026-02-14T14:52:59.650Z",
-      "time": "14:52:59",
-      "type": "position",
-      "msg": "ETH -0.52% — O stop tá ali por um motivo, né"
     }
   ]
 }
