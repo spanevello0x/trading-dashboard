@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T06:35:40.624Z",
+      "time": "06:35:40",
+      "type": "position",
+      "msg": "BTC -0.32% — Pelo menos não é dinheiro de verdade... ah, espera"
+    },
+    {
       "ts": "2026-02-14T06:35:11.920Z",
       "time": "06:35:11",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "06:30:10",
       "type": "position",
       "msg": "BNB -0.11% — Podia ser pior. Dá tempo ainda."
-    },
-    {
-      "ts": "2026-02-14T06:30:10.314Z",
-      "time": "06:30:10",
-      "type": "position",
-      "msg": "BTC -0.27% — Pelo menos o stop existe. Graças a Deus pelo stop."
     }
   ]
 }
