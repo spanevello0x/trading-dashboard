@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T15:16:30.947Z",
+      "time": "15:16:30",
+      "type": "position",
+      "msg": "SOL +0.28% — Não é muito, mas é trabalho honesto"
+    },
+    {
+      "ts": "2026-02-14T15:16:30.675Z",
+      "time": "15:16:30",
+      "type": "position",
+      "msg": "ETH -0.58% — Pelo menos não apostei a casa... dessa vez"
+    },
+    {
       "ts": "2026-02-14T15:16:01.250Z",
       "time": "15:16:01",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "15:05:30",
       "type": "position",
       "msg": "ETH -0.60% — Isso é um teste de caráter, com certeza"
-    },
-    {
-      "ts": "2026-02-14T15:04:30.992Z",
-      "time": "15:04:30",
-      "type": "position",
-      "msg": "HYPE -0.21% — Vermelho é a minha cor favorita agora"
-    },
-    {
-      "ts": "2026-02-14T15:04:30.729Z",
-      "time": "15:04:30",
-      "type": "position",
-      "msg": "SOL +0.13% — Não me acostumem com isso"
     }
   ]
 }
