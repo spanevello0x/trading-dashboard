@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T13:43:57.529Z",
+      "time": "13:43:57",
+      "type": "position",
+      "msg": "HYPE +1.19% — Vou comemorar quando fechar. Talvez."
+    },
+    {
+      "ts": "2026-02-14T13:43:57.259Z",
+      "time": "13:43:57",
+      "type": "position",
+      "msg": "SOL -0.05% — O mercado tá pensando..."
+    },
+    {
+      "ts": "2026-02-14T13:43:56.991Z",
+      "time": "13:43:56",
+      "type": "position",
+      "msg": "ETH +0.16% — Calma que ainda pode dar errado"
+    },
+    {
       "ts": "2026-02-14T13:42:57.458Z",
       "time": "13:42:57",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "13:33:26",
       "type": "position",
       "msg": "ETH +0.16% — Finalmente algo de bom nesse mercado"
-    },
-    {
-      "ts": "2026-02-14T13:32:26.739Z",
-      "time": "13:32:26",
-      "type": "position",
-      "msg": "SOL +0.18% — Respira... ainda não acabou"
-    },
-    {
-      "ts": "2026-02-14T13:32:26.472Z",
-      "time": "13:32:26",
-      "type": "position",
-      "msg": "ETH +0.26% — Não é muito, mas é trabalho honesto"
-    },
-    {
-      "ts": "2026-02-14T13:31:57.039Z",
-      "time": "13:31:57",
-      "type": "position",
-      "msg": "HYPE +0.97% — Tá bom demais pra ser verdade... ops, não deveria falar isso"
     }
   ]
 }
