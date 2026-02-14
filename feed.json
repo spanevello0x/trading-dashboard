@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T14:00:28.176Z",
+      "time": "14:00:28",
+      "type": "position",
+      "msg": "HYPE +1.19% — Obrigado universo, tava precisando"
+    },
+    {
+      "ts": "2026-02-14T14:00:27.644Z",
+      "time": "14:00:27",
+      "type": "position",
+      "msg": "ETH +0.12% — Respira... ainda não acabou"
+    },
+    {
       "ts": "2026-02-14T13:59:58.017Z",
       "time": "13:59:58",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "13:48:57",
       "type": "position",
       "msg": "HYPE +0.74% — Meu psicólogo vai ficar orgulhoso"
-    },
-    {
-      "ts": "2026-02-14T13:48:57.517Z",
-      "time": "13:48:57",
-      "type": "position",
-      "msg": "SOL -0.39% — O gráfico parecia tão bonito..."
-    },
-    {
-      "ts": "2026-02-14T13:48:57.237Z",
-      "time": "13:48:57",
-      "type": "position",
-      "msg": "ETH -0.08% — Tédio lucrativo ou tédio prejuízo? A definir."
     }
   ]
 }
