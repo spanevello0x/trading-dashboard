@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T12:38:24.782Z",
+      "time": "12:38:24",
+      "type": "position",
+      "msg": "HYPE -0.68% — Sabia que não devia ter olhado"
+    },
+    {
+      "ts": "2026-02-14T12:38:24.515Z",
+      "time": "12:38:24",
+      "type": "position",
+      "msg": "ETH -0.85% — Vou culpar a lua, deve ser lua cheia"
+    },
+    {
       "ts": "2026-02-14T12:37:55.136Z",
       "time": "12:37:55",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "12:26:54",
       "type": "position",
       "msg": "HYPE -0.47% — Meu eu do passado tomou essa decisão, problema dele"
-    },
-    {
-      "ts": "2026-02-14T12:26:54.298Z",
-      "time": "12:26:54",
-      "type": "position",
-      "msg": "ETH -0.14% — Quem precisa de dinheiro mesmo"
-    },
-    {
-      "ts": "2026-02-14T12:25:54.669Z",
-      "time": "12:25:54",
-      "type": "position",
-      "msg": "PAXG -0.06% — Enquanto não move, não perco. Stonks mental."
     }
   ]
 }
