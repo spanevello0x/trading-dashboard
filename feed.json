@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T08:26:45.604Z",
+      "time": "08:26:45",
+      "type": "position",
+      "msg": "BCH +0.22% — Se continuar assim, quase empato na semana"
+    },
+    {
+      "ts": "2026-02-14T08:26:45.338Z",
+      "time": "08:26:45",
+      "type": "position",
+      "msg": "SUI -1.58% — Pelo menos o stop existe. Graças a Deus pelo stop."
+    },
+    {
+      "ts": "2026-02-14T08:26:44.908Z",
+      "time": "08:26:44",
+      "type": "position",
+      "msg": "ETH +0.42% — Não é muito, mas é trabalho honesto"
+    },
+    {
       "ts": "2026-02-14T08:26:15.946Z",
       "time": "08:26:15",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "08:18:14",
       "type": "position",
       "msg": "ETH +0.71% — O mercado tá generoso hoje, desconfio"
-    },
-    {
-      "ts": "2026-02-14T08:17:45.390Z",
-      "time": "08:17:45",
-      "type": "position",
-      "msg": "PAXG +0.04% — Consolidação ou indecisão? Sim."
-    },
-    {
-      "ts": "2026-02-14T08:17:15.664Z",
-      "time": "08:17:15",
-      "type": "position",
-      "msg": "BCH +0.16% — Será que é armadilha? Provavelmente. Mas vou curtir enquanto dura"
-    },
-    {
-      "ts": "2026-02-14T08:17:15.399Z",
-      "time": "08:17:15",
-      "type": "position",
-      "msg": "SUI -1.66% — O mercado escolheu violência hoje"
     }
   ]
 }
