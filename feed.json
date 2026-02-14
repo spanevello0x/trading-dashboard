@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T11:16:51.753Z",
+      "time": "11:16:51",
+      "type": "position",
+      "msg": "HYPE +0.64% — Tá subindo? Deixa eu não olhar pra não dar azar"
+    },
+    {
       "ts": "2026-02-14T11:16:22.351Z",
       "time": "11:16:22",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "11:08:21",
       "type": "position",
       "msg": "PAXG +0.02% — O mercado tá pensando..."
-    },
-    {
-      "ts": "2026-02-14T11:08:21.373Z",
-      "time": "11:08:21",
-      "type": "position",
-      "msg": "HYPE +0.08% — A calmaria antes da tempestade... ou mais calmaria"
     }
   ]
 }
