@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T13:11:56.246Z",
+      "time": "13:11:56",
+      "type": "position",
+      "msg": "HYPE +0.21% — Quase consigo pagar o café de ontem"
+    },
+    {
+      "ts": "2026-02-14T13:11:55.979Z",
+      "time": "13:11:55",
+      "type": "position",
+      "msg": "SOL -0.63% — Tá difícil defender essa entrada"
+    },
+    {
       "ts": "2026-02-14T13:10:55.718Z",
       "time": "13:10:55",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "13:03:47",
       "type": "analysis",
       "msg": "Analisando MOODENG... parece SHORT (100%)"
-    },
-    {
-      "ts": "2026-02-14T13:03:47.545Z",
-      "time": "13:03:47",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - ARB cancelado"
-    },
-    {
-      "ts": "2026-02-14T13:03:47.228Z",
-      "time": "13:03:47",
-      "type": "signal",
-      "msg": "🎯 SHORT ARB @ $0.12 (89%) — Entrei. Arrependimento em 3, 2, 1..."
     }
   ]
 }
