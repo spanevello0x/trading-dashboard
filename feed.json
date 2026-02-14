@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T12:47:25.891Z",
+      "time": "12:47:25",
+      "type": "position",
+      "msg": "ZEC -0.05% — Isso é acumulação ou distribuição? Ninguém sabe."
+    },
+    {
+      "ts": "2026-02-14T12:47:25.131Z",
+      "time": "12:47:25",
+      "type": "position",
+      "msg": "HYPE -0.97% — Loss building character 💪"
+    },
+    {
       "ts": "2026-02-14T12:46:55.688Z",
       "time": "12:46:55",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "12:40:10",
       "type": "system",
       "msg": "⚠️ Limite atingido (5/5) - VIRTUAL cancelado"
-    },
-    {
-      "ts": "2026-02-14T12:40:10.461Z",
-      "time": "12:40:10",
-      "type": "signal",
-      "msg": "🎯 SHORT VIRTUAL @ $0.68 (78%) — Vamo ver no que dá"
-    },
-    {
-      "ts": "2026-02-14T12:40:10.461Z",
-      "time": "12:40:10",
-      "type": "analysis",
-      "msg": "Hmm, VIRTUAL mostrando sinais de SHORT (78%)"
     }
   ]
 }
