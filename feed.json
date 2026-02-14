@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T10:35:20.150Z",
+      "time": "10:35:20",
+      "type": "position",
+      "msg": "HYPE -0.65% — Não é prejuízo se eu não vender... ah, tem stop"
+    },
+    {
+      "ts": "2026-02-14T10:35:19.874Z",
+      "time": "10:35:19",
+      "type": "position",
+      "msg": "XRP -0.43% — Não é prejuízo se eu não vender... ah, tem stop"
+    },
+    {
       "ts": "2026-02-14T10:34:20.902Z",
       "time": "10:34:20",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "10:27:19",
       "type": "position",
       "msg": "XRP -0.45% — Calma que ainda tem o stop loss pra doer mais"
-    },
-    {
-      "ts": "2026-02-14T10:26:20.361Z",
-      "time": "10:26:20",
-      "type": "position",
-      "msg": "ZEC +1.23% — Quem diria, acertei uma"
-    },
-    {
-      "ts": "2026-02-14T10:26:20.093Z",
-      "time": "10:26:20",
-      "type": "position",
-      "msg": "PAXG +0.01% — Esperando o mercado decidir o que quer da vida"
     }
   ]
 }
