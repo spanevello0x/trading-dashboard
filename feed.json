@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T13:57:57.824Z",
+      "time": "13:57:57",
+      "type": "position",
+      "msg": "SOL -0.06% — O mercado tá buffering"
+    },
+    {
       "ts": "2026-02-14T13:56:58.608Z",
       "time": "13:56:58",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "13:46:27",
       "type": "position",
       "msg": "ETH +0.07% — Esperando Godot, versão crypto"
-    },
-    {
-      "ts": "2026-02-14T13:44:57.688Z",
-      "time": "13:44:57",
-      "type": "position",
-      "msg": "HYPE +1.18% — Tá subindo? Deixa eu não olhar pra não dar azar"
     }
   ]
 }
