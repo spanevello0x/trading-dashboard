@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T14:00:58.313Z",
+      "time": "14:00:58",
+      "type": "position",
+      "msg": "HYPE +0.94% — Melhor que Netflix isso aqui"
+    },
+    {
+      "ts": "2026-02-14T14:00:58.050Z",
+      "time": "14:00:58",
+      "type": "position",
+      "msg": "SOL -0.15% — Loss building character 💪"
+    },
+    {
       "ts": "2026-02-14T14:00:28.176Z",
       "time": "14:00:28",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "13:49:57",
       "type": "position",
       "msg": "SOL -0.31% — Isso é um teste de caráter, com certeza"
-    },
-    {
-      "ts": "2026-02-14T13:49:57.303Z",
-      "time": "13:49:57",
-      "type": "position",
-      "msg": "ETH +0.00% — Plot twist a qualquer momento"
-    },
-    {
-      "ts": "2026-02-14T13:48:57.793Z",
-      "time": "13:48:57",
-      "type": "position",
-      "msg": "HYPE +0.74% — Meu psicólogo vai ficar orgulhoso"
     }
   ]
 }
