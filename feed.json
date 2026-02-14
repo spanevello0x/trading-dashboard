@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T06:49:41.270Z",
+      "time": "06:49:41",
+      "type": "position",
+      "msg": "SUI -0.07% — Esperando Godot, versão crypto"
+    },
+    {
+      "ts": "2026-02-14T06:49:40.985Z",
+      "time": "06:49:40",
+      "type": "position",
+      "msg": "BTC -0.26% — Quem precisa de dinheiro mesmo"
+    },
+    {
       "ts": "2026-02-14T06:49:12.720Z",
       "time": "06:49:12",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "06:47:13",
       "type": "analysis",
       "msg": "HYPE no radar: 56% LONG"
-    },
-    {
-      "ts": "2026-02-14T06:47:12.280Z",
-      "time": "06:47:12",
-      "type": "position",
-      "msg": "PAXG -0.00% — Pelo menos não tá caindo... ainda"
-    },
-    {
-      "ts": "2026-02-14T06:47:12.012Z",
-      "time": "06:47:12",
-      "type": "position",
-      "msg": "BCH -0.01% — Nem pra cima nem pra baixo. Ansiedade infinita."
     }
   ]
 }
