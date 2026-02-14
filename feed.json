@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T14:03:28.410Z",
+      "time": "14:03:28",
+      "type": "position",
+      "msg": "HYPE +0.89% — Melhor que Netflix isso aqui"
+    },
+    {
+      "ts": "2026-02-14T14:03:28.145Z",
+      "time": "14:03:28",
+      "type": "position",
+      "msg": "SOL -0.31% — Pelo menos não é dinheiro de verdade... ah, espera"
+    },
+    {
+      "ts": "2026-02-14T14:03:27.870Z",
+      "time": "14:03:27",
+      "type": "position",
+      "msg": "ETH +0.03% — O mercado decidiu tirar uma soneca"
+    },
+    {
       "ts": "2026-02-14T14:02:28.073Z",
       "time": "14:02:28",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "13:52:27",
       "type": "position",
       "msg": "HYPE +0.79% — Quase consigo pagar o café de ontem"
-    },
-    {
-      "ts": "2026-02-14T13:52:27.564Z",
-      "time": "13:52:27",
-      "type": "position",
-      "msg": "SOL -0.20% — O stop tá ali por um motivo, né"
-    },
-    {
-      "ts": "2026-02-14T13:52:27.303Z",
-      "time": "13:52:27",
-      "type": "position",
-      "msg": "ETH +0.11% — Até um relógio quebrado acerta duas vezes"
-    },
-    {
-      "ts": "2026-02-14T13:50:57.875Z",
-      "time": "13:50:57",
-      "type": "position",
-      "msg": "HYPE +0.76% — Verde combina comigo"
     }
   ]
 }
