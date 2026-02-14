@@ -113,6 +113,18 @@
       "time": "04:44:17",
       "type": "position",
       "msg": "XMR +1.03% — Tá bom demais pra ser verdade... ops, não deveria falar isso"
+    },
+    {
+      "ts": "2026-02-14T04:44:46.385Z",
+      "time": "04:44:46",
+      "type": "position",
+      "msg": "BCH +0.02% — O mercado tá pensando..."
+    },
+    {
+      "ts": "2026-02-14T04:44:46.653Z",
+      "time": "04:44:46",
+      "type": "position",
+      "msg": "HYPE +1.17% — Respira... ainda não acabou"
     }
   ]
 }
