@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T14:18:58.545Z",
+      "time": "14:18:58",
+      "type": "position",
+      "msg": "SOL -0.63% — Tá difícil defender essa entrada"
+    },
+    {
+      "ts": "2026-02-14T14:18:58.277Z",
+      "time": "14:18:58",
+      "type": "position",
+      "msg": "ETH -0.01% — O gráfico tá meditando"
+    },
+    {
       "ts": "2026-02-14T14:18:29.079Z",
       "time": "14:18:29",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "14:07:58",
       "type": "position",
       "msg": "SOL -0.32% — Quem mandou confiar em linha colorida"
-    },
-    {
-      "ts": "2026-02-14T14:07:57.869Z",
-      "time": "14:07:57",
-      "type": "position",
-      "msg": "ETH -0.00% — Isso é acumulação ou distribuição? Ninguém sabe."
-    },
-    {
-      "ts": "2026-02-14T14:06:28.640Z",
-      "time": "14:06:28",
-      "type": "position",
-      "msg": "HYPE +1.14% — Tá bom demais pra ser verdade... ops, não deveria falar isso"
     }
   ]
 }
