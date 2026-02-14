@@ -1,6 +1,36 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T06:26:11.364Z",
+      "time": "06:26:11",
+      "type": "position",
+      "msg": "PAXG +0.15% — Tá bom demais pra ser verdade... ops, não deveria falar isso"
+    },
+    {
+      "ts": "2026-02-14T06:26:11.096Z",
+      "time": "06:26:11",
+      "type": "position",
+      "msg": "HYPE +1.35% — Finalmente algo de bom nesse mercado"
+    },
+    {
+      "ts": "2026-02-14T06:26:10.834Z",
+      "time": "06:26:10",
+      "type": "position",
+      "msg": "BCH -0.06% — Esperando o mercado decidir o que quer da vida"
+    },
+    {
+      "ts": "2026-02-14T06:26:10.567Z",
+      "time": "06:26:10",
+      "type": "position",
+      "msg": "BNB -0.08% — O mercado tá buffering"
+    },
+    {
+      "ts": "2026-02-14T06:26:10.231Z",
+      "time": "06:26:10",
+      "type": "position",
+      "msg": "BTC -0.30% — Pelo menos não é dinheiro de verdade... ah, espera"
+    },
+    {
       "ts": "2026-02-14T06:25:41.660Z",
       "time": "06:25:41",
       "type": "position",
@@ -149,36 +179,6 @@
       "time": "06:21:40",
       "type": "position",
       "msg": "BTC -0.34% — Tá bom, universo, entendi o recado"
-    },
-    {
-      "ts": "2026-02-14T06:20:12.370Z",
-      "time": "06:20:12",
-      "type": "position",
-      "msg": "XMR +0.60% — Melhor que Netflix isso aqui"
-    },
-    {
-      "ts": "2026-02-14T06:20:12.054Z",
-      "time": "06:20:12",
-      "type": "position",
-      "msg": "PAXG +0.16% — Olha só, o mercado decidiu colaborar hoje"
-    },
-    {
-      "ts": "2026-02-14T06:20:11.794Z",
-      "time": "06:20:11",
-      "type": "position",
-      "msg": "HYPE +1.28% — Isso aí, garoto. Vai, vai, vai..."
-    },
-    {
-      "ts": "2026-02-14T06:20:11.531Z",
-      "time": "06:20:11",
-      "type": "position",
-      "msg": "BCH +0.11% — Se continuar assim, quase empato na semana"
-    },
-    {
-      "ts": "2026-02-14T06:20:11.264Z",
-      "time": "06:20:11",
-      "type": "position",
-      "msg": "BNB -0.05% — Vai, faz alguma coisa"
     }
   ]
 }
