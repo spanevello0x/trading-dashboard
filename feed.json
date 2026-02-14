@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T05:03:08.650Z",
+      "time": "05:03:08",
+      "type": "position",
+      "msg": "PAXG +0.19% — Imagina se eu tivesse colocado mais..."
+    },
+    {
+      "ts": "2026-02-14T05:03:08.368Z",
+      "time": "05:03:08",
+      "type": "position",
+      "msg": "HYPE +1.09% — Print pra mostrar pros netos"
+    },
+    {
       "ts": "2026-02-14T05:02:38.433Z",
       "time": "05:02:38",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "04:58:07",
       "type": "position",
       "msg": "PAXG +0.23% — Será que é armadilha? Provavelmente. Mas vou curtir enquanto dura"
-    },
-    {
-      "ts": "2026-02-14T04:58:06.705Z",
-      "time": "04:58:06",
-      "type": "position",
-      "msg": "BTC -0.41% — Meu eu do passado tomou essa decisão, problema dele"
-    },
-    {
-      "ts": "2026-02-14T04:57:07.577Z",
-      "time": "04:57:07",
-      "type": "position",
-      "msg": "HYPE +0.87% — Tá subindo? Deixa eu não olhar pra não dar azar"
     }
   ]
 }
