@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T14:45:29.875Z",
+      "time": "14:45:29",
+      "type": "position",
+      "msg": "HYPE -0.09% — A calmaria antes da tempestade... ou mais calmaria"
+    },
+    {
+      "ts": "2026-02-14T14:45:29.607Z",
+      "time": "14:45:29",
+      "type": "position",
+      "msg": "SOL -0.17% — Podia ser pior. Dá tempo ainda."
+    },
+    {
       "ts": "2026-02-14T14:44:29.570Z",
       "time": "14:44:29",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "14:39:44",
       "type": "analysis",
       "msg": "Hmm, BNB mostrando sinais de LONG (89%)"
-    },
-    {
-      "ts": "2026-02-14T14:39:44.572Z",
-      "time": "14:39:44",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - AVAX cancelado"
-    },
-    {
-      "ts": "2026-02-14T14:39:44.300Z",
-      "time": "14:39:44",
-      "type": "signal",
-      "msg": "🎯 LONG AVAX @ $9.36 (100%) — Essa eu senti"
     }
   ]
 }
