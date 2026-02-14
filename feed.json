@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T06:52:42.237Z",
+      "time": "06:52:42",
+      "type": "position",
+      "msg": "PAXG -0.00% — O mercado foi tomar café, já volta"
+    },
+    {
+      "ts": "2026-02-14T06:52:41.967Z",
+      "time": "06:52:41",
+      "type": "position",
+      "msg": "TAO +0.91% — Não sou eu, é o mercado que tá errado... ah não, dessa vez acertou"
+    },
+    {
+      "ts": "2026-02-14T06:52:41.697Z",
+      "time": "06:52:41",
+      "type": "position",
+      "msg": "BCH -0.16% — Calma que ainda tem o stop loss pra doer mais"
+    },
+    {
       "ts": "2026-02-14T06:52:11.316Z",
       "time": "06:52:11",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "06:47:28",
       "type": "analysis",
       "msg": "Olhando ARB... 89% SHORT"
-    },
-    {
-      "ts": "2026-02-14T06:47:28.631Z",
-      "time": "06:47:28",
-      "type": "analysis",
-      "msg": "Olhando kPEPE... 67% SHORT"
-    },
-    {
-      "ts": "2026-02-14T06:47:28.352Z",
-      "time": "06:47:28",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - XMR cancelado"
-    },
-    {
-      "ts": "2026-02-14T06:47:28.057Z",
-      "time": "06:47:28",
-      "type": "signal",
-      "msg": "🎯 LONG XMR @ $356.86 (78%) — Vamo ver no que dá"
     }
   ]
 }
