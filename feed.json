@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T07:18:43.212Z",
+      "time": "07:18:43",
+      "type": "position",
+      "msg": "PAXG +0.06% — Tédio lucrativo ou tédio prejuízo? A definir."
+    },
+    {
+      "ts": "2026-02-14T07:18:42.946Z",
+      "time": "07:18:42",
+      "type": "position",
+      "msg": "AAVE +0.34% — Não me acostumem com isso"
+    },
+    {
+      "ts": "2026-02-14T07:18:42.407Z",
+      "time": "07:18:42",
+      "type": "position",
+      "msg": "SUI -0.48% — Pelo menos não apostei a casa... dessa vez"
+    },
+    {
       "ts": "2026-02-14T07:18:12.944Z",
       "time": "07:18:12",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "07:11:11",
       "type": "position",
       "msg": "BTC -0.24% — Prometo estudar mais... mentira, vou continuar igual"
-    },
-    {
-      "ts": "2026-02-14T07:10:12.933Z",
-      "time": "07:10:12",
-      "type": "position",
-      "msg": "PAXG +0.04% — Parece até stable coin"
-    },
-    {
-      "ts": "2026-02-14T07:10:12.666Z",
-      "time": "07:10:12",
-      "type": "position",
-      "msg": "AAVE +0.17% — Vou fingir que sabia que isso ia acontecer"
-    },
-    {
-      "ts": "2026-02-14T07:10:12.401Z",
-      "time": "07:10:12",
-      "type": "position",
-      "msg": "BCH -0.26% — Vermelho é a minha cor favorita agora"
     }
   ]
 }
