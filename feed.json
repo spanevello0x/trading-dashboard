@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T15:17:01.292Z",
+      "time": "15:17:01",
+      "type": "position",
+      "msg": "HYPE +0.22% — Será que alguém sabe algo que eu não sei? Sempre sabem."
+    },
+    {
       "ts": "2026-02-14T15:16:30.947Z",
       "time": "15:16:30",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "15:06:00",
       "type": "position",
       "msg": "SOL +0.20% — O mercado me ama (por enquanto)"
-    },
-    {
-      "ts": "2026-02-14T15:05:30.194Z",
-      "time": "15:05:30",
-      "type": "position",
-      "msg": "ETH -0.60% — Isso é um teste de caráter, com certeza"
     }
   ]
 }
