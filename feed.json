@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T14:12:28.691Z",
+      "time": "14:12:28",
+      "type": "position",
+      "msg": "HYPE +0.94% — Calma que ainda pode dar errado"
+    },
+    {
+      "ts": "2026-02-14T14:12:28.011Z",
+      "time": "14:12:28",
+      "type": "position",
+      "msg": "ETH +0.05% — Isso é acumulação ou distribuição? Ninguém sabe."
+    },
+    {
       "ts": "2026-02-14T14:11:28.283Z",
       "time": "14:11:28",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "14:00:28",
       "type": "position",
       "msg": "HYPE +1.19% — Obrigado universo, tava precisando"
-    },
-    {
-      "ts": "2026-02-14T14:00:27.644Z",
-      "time": "14:00:27",
-      "type": "position",
-      "msg": "ETH +0.12% — Respira... ainda não acabou"
-    },
-    {
-      "ts": "2026-02-14T13:59:58.017Z",
-      "time": "13:59:58",
-      "type": "position",
-      "msg": "SOL -0.12% — Isso é um teste de caráter, com certeza"
     }
   ]
 }
