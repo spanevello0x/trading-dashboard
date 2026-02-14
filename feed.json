@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T14:17:58.250Z",
+      "time": "14:17:58",
+      "type": "position",
+      "msg": "ETH -0.00% — Consolidação ou indecisão? Sim."
+    },
+    {
       "ts": "2026-02-14T14:17:28.979Z",
       "time": "14:17:28",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "14:06:28",
       "type": "position",
       "msg": "SOL -0.34% — Clássico"
-    },
-    {
-      "ts": "2026-02-14T14:06:27.989Z",
-      "time": "14:06:27",
-      "type": "position",
-      "msg": "ETH -0.02% — Lateral é o novo tendência"
     }
   ]
 }
