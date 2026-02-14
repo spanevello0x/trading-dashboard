@@ -1,6 +1,36 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T06:36:12.072Z",
+      "time": "06:36:12",
+      "type": "position",
+      "msg": "XMR +0.06% — O mercado decidiu tirar uma soneca"
+    },
+    {
+      "ts": "2026-02-14T06:36:11.810Z",
+      "time": "06:36:11",
+      "type": "position",
+      "msg": "PAXG +0.15% — Melhor que Netflix isso aqui"
+    },
+    {
+      "ts": "2026-02-14T06:36:11.543Z",
+      "time": "06:36:11",
+      "type": "position",
+      "msg": "HYPE +1.43% — Alguém avisa o mercado que eu tô comprado"
+    },
+    {
+      "ts": "2026-02-14T06:36:11.274Z",
+      "time": "06:36:11",
+      "type": "position",
+      "msg": "BCH -0.19% — Loss building character 💪"
+    },
+    {
+      "ts": "2026-02-14T06:36:10.894Z",
+      "time": "06:36:10",
+      "type": "position",
+      "msg": "BNB -0.12% — Tá bom, universo, entendi o recado"
+    },
+    {
       "ts": "2026-02-14T06:35:40.624Z",
       "time": "06:35:40",
       "type": "position",
@@ -149,36 +179,6 @@
       "time": "06:31:10",
       "type": "position",
       "msg": "BTC -0.27% — Mais um dia normal no crypto"
-    },
-    {
-      "ts": "2026-02-14T06:30:12.124Z",
-      "time": "06:30:12",
-      "type": "position",
-      "msg": "XMR +0.46% — Será que é armadilha? Provavelmente. Mas vou curtir enquanto dura"
-    },
-    {
-      "ts": "2026-02-14T06:30:11.817Z",
-      "time": "06:30:11",
-      "type": "position",
-      "msg": "PAXG +0.16% — Será que alguém sabe algo que eu não sei? Sempre sabem."
-    },
-    {
-      "ts": "2026-02-14T06:30:11.402Z",
-      "time": "06:30:11",
-      "type": "position",
-      "msg": "HYPE +1.31% — Tá bom demais pra ser verdade... ops, não deveria falar isso"
-    },
-    {
-      "ts": "2026-02-14T06:30:10.893Z",
-      "time": "06:30:10",
-      "type": "position",
-      "msg": "BCH -0.16% — Calma que ainda tem o stop loss pra doer mais"
-    },
-    {
-      "ts": "2026-02-14T06:30:10.607Z",
-      "time": "06:30:10",
-      "type": "position",
-      "msg": "BNB -0.11% — Podia ser pior. Dá tempo ainda."
     }
   ]
 }
