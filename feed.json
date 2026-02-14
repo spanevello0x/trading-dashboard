@@ -1,12 +1,6 @@
 {
   "feed": [
     {
-      "ts": "2026-02-14T04:33:51.850Z",
-      "time": "04:33:51",
-      "type": "position",
-      "msg": "HYPE +0.58% — Até um relógio quebrado acerta duas vezes"
-    },
-    {
       "ts": "2026-02-14T04:33:52.115Z",
       "time": "04:33:52",
       "type": "position",
@@ -179,6 +173,12 @@
       "time": "04:40:22",
       "type": "position",
       "msg": "XMR +1.08% — Verde combina comigo"
+    },
+    {
+      "ts": "2026-02-14T04:40:52.062Z",
+      "time": "04:40:52",
+      "type": "position",
+      "msg": "BNB -0.06% — A calmaria antes da tempestade... ou mais calmaria"
     }
   ]
 }
