@@ -1,6 +1,30 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T06:22:41.496Z",
+      "time": "06:22:41",
+      "type": "position",
+      "msg": "XMR +0.42% — Tá subindo? Deixa eu não olhar pra não dar azar"
+    },
+    {
+      "ts": "2026-02-14T06:22:40.879Z",
+      "time": "06:22:40",
+      "type": "position",
+      "msg": "HYPE +1.43% — Obrigado universo, tava precisando"
+    },
+    {
+      "ts": "2026-02-14T06:22:40.609Z",
+      "time": "06:22:40",
+      "type": "position",
+      "msg": "BCH -0.06% — O mercado tá pensando..."
+    },
+    {
+      "ts": "2026-02-14T06:22:40.345Z",
+      "time": "06:22:40",
+      "type": "position",
+      "msg": "BNB +0.01% — A calmaria antes da tempestade... ou mais calmaria"
+    },
+    {
       "ts": "2026-02-14T06:21:41.412Z",
       "time": "06:21:41",
       "type": "position",
@@ -155,30 +179,6 @@
       "time": "06:16:40",
       "type": "position",
       "msg": "HYPE +1.14% — Isso aí, garoto. Vai, vai, vai..."
-    },
-    {
-      "ts": "2026-02-14T06:16:40.389Z",
-      "time": "06:16:40",
-      "type": "position",
-      "msg": "BCH +0.38% — Respira... ainda não acabou"
-    },
-    {
-      "ts": "2026-02-14T06:16:40.126Z",
-      "time": "06:16:40",
-      "type": "position",
-      "msg": "BNB -0.04% — Isso é acumulação ou distribuição? Ninguém sabe."
-    },
-    {
-      "ts": "2026-02-14T06:16:11.385Z",
-      "time": "06:16:11",
-      "type": "position",
-      "msg": "XMR +0.52% — Print pra mostrar pros netos"
-    },
-    {
-      "ts": "2026-02-14T06:16:10.030Z",
-      "time": "06:16:10",
-      "type": "position",
-      "msg": "BTC -0.42% — Pelo menos o stop existe. Graças a Deus pelo stop."
     }
   ]
 }
