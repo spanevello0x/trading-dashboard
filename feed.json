@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T15:00:00.469Z",
+      "time": "15:00:00",
+      "type": "position",
+      "msg": "HYPE +0.15% — Respira... ainda não acabou"
+    },
+    {
+      "ts": "2026-02-14T15:00:00.204Z",
+      "time": "15:00:00",
+      "type": "position",
+      "msg": "SOL +0.13% — Tá verde? Tira print rápido antes que vire"
+    },
+    {
       "ts": "2026-02-14T14:59:29.977Z",
       "time": "14:59:29",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "14:47:59",
       "type": "position",
       "msg": "ETH -0.12% — Pelo menos o stop existe. Graças a Deus pelo stop."
-    },
-    {
-      "ts": "2026-02-14T14:47:29.993Z",
-      "time": "14:47:29",
-      "type": "position",
-      "msg": "HYPE +0.06% — Esperando Godot, versão crypto"
-    },
-    {
-      "ts": "2026-02-14T14:47:29.701Z",
-      "time": "14:47:29",
-      "type": "position",
-      "msg": "SOL -0.12% — Vermelho é a minha cor favorita agora"
     }
   ]
 }
