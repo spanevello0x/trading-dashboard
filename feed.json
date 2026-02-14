@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T12:31:24.342Z",
+      "time": "12:31:24",
+      "type": "position",
+      "msg": "ETH -0.41% — Prometo estudar mais... mentira, vou continuar igual"
+    },
+    {
       "ts": "2026-02-14T12:30:54.893Z",
       "time": "12:30:54",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "12:19:54",
       "type": "position",
       "msg": "PAXG -0.02% — Pregado no entry como se tivesse cola"
-    },
-    {
-      "ts": "2026-02-14T12:19:53.896Z",
-      "time": "12:19:53",
-      "type": "position",
-      "msg": "ETH -0.21% — Vermelho é a minha cor favorita agora"
     }
   ]
 }
