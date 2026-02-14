@@ -1,6 +1,42 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T06:30:12.124Z",
+      "time": "06:30:12",
+      "type": "position",
+      "msg": "XMR +0.46% — Será que é armadilha? Provavelmente. Mas vou curtir enquanto dura"
+    },
+    {
+      "ts": "2026-02-14T06:30:11.817Z",
+      "time": "06:30:11",
+      "type": "position",
+      "msg": "PAXG +0.16% — Será que alguém sabe algo que eu não sei? Sempre sabem."
+    },
+    {
+      "ts": "2026-02-14T06:30:11.402Z",
+      "time": "06:30:11",
+      "type": "position",
+      "msg": "HYPE +1.31% — Tá bom demais pra ser verdade... ops, não deveria falar isso"
+    },
+    {
+      "ts": "2026-02-14T06:30:10.893Z",
+      "time": "06:30:10",
+      "type": "position",
+      "msg": "BCH -0.16% — Calma que ainda tem o stop loss pra doer mais"
+    },
+    {
+      "ts": "2026-02-14T06:30:10.607Z",
+      "time": "06:30:10",
+      "type": "position",
+      "msg": "BNB -0.11% — Podia ser pior. Dá tempo ainda."
+    },
+    {
+      "ts": "2026-02-14T06:30:10.314Z",
+      "time": "06:30:10",
+      "type": "position",
+      "msg": "BTC -0.27% — Pelo menos o stop existe. Graças a Deus pelo stop."
+    },
+    {
       "ts": "2026-02-14T06:28:42.376Z",
       "time": "06:28:42",
       "type": "position",
@@ -143,42 +179,6 @@
       "time": "06:24:41",
       "type": "position",
       "msg": "XMR +0.57% — Será que é armadilha? Provavelmente. Mas vou curtir enquanto dura"
-    },
-    {
-      "ts": "2026-02-14T06:24:11.278Z",
-      "time": "06:24:11",
-      "type": "position",
-      "msg": "PAXG +0.16% — Stonks 📈 (desculpa, não resisti)"
-    },
-    {
-      "ts": "2026-02-14T06:24:11.013Z",
-      "time": "06:24:11",
-      "type": "position",
-      "msg": "HYPE +1.48% — Vou comemorar quando fechar. Talvez."
-    },
-    {
-      "ts": "2026-02-14T06:24:10.748Z",
-      "time": "06:24:10",
-      "type": "position",
-      "msg": "BCH +0.12% — Não me acostumem com isso"
-    },
-    {
-      "ts": "2026-02-14T06:24:10.429Z",
-      "time": "06:24:10",
-      "type": "position",
-      "msg": "BNB +0.01% — Nem fede nem cheira"
-    },
-    {
-      "ts": "2026-02-14T06:24:10.102Z",
-      "time": "06:24:10",
-      "type": "position",
-      "msg": "BTC -0.35% — Mais um dia normal no crypto"
-    },
-    {
-      "ts": "2026-02-14T06:23:41.410Z",
-      "time": "06:23:41",
-      "type": "position",
-      "msg": "XMR +0.62% — Melhor que Netflix isso aqui"
     }
   ]
 }
