@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T07:40:14.544Z",
+      "time": "07:40:14",
+      "type": "position",
+      "msg": "PAXG +0.08% — Se mexer muito, assusta"
+    },
+    {
+      "ts": "2026-02-14T07:40:14.279Z",
+      "time": "07:40:14",
+      "type": "position",
+      "msg": "AAVE +1.07% — Olha só, o mercado decidiu colaborar hoje"
+    },
+    {
       "ts": "2026-02-14T07:39:14.242Z",
       "time": "07:39:14",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "07:32:12",
       "type": "position",
       "msg": "SUI -0.54% — Quem mandou confiar em linha colorida"
-    },
-    {
-      "ts": "2026-02-14T07:31:12.979Z",
-      "time": "07:31:12",
-      "type": "position",
-      "msg": "BCH -0.37% — Vermelho é a minha cor favorita agora"
-    },
-    {
-      "ts": "2026-02-14T07:31:12.692Z",
-      "time": "07:31:12",
-      "type": "position",
-      "msg": "SUI -0.55% — O stop tá ali por um motivo, né"
     }
   ]
 }
