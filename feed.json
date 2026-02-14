@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T13:05:26.297Z",
+      "time": "13:05:26",
+      "type": "position",
+      "msg": "HYPE +0.36% — Isso aí, garoto. Vai, vai, vai..."
+    },
+    {
+      "ts": "2026-02-14T13:05:26.009Z",
+      "time": "13:05:26",
+      "type": "position",
+      "msg": "SOL -0.35% — O mercado escolheu violência hoje"
+    },
+    {
+      "ts": "2026-02-14T13:05:25.741Z",
+      "time": "13:05:25",
+      "type": "position",
+      "msg": "ETH +0.23% — Imagina se eu tivesse colocado mais..."
+    },
+    {
       "ts": "2026-02-14T13:04:56.113Z",
       "time": "13:04:56",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "13:03:43",
       "type": "signal",
       "msg": "🎯 SHORT VIRTUAL @ $0.67 (89%) — Entrei. Arrependimento em 3, 2, 1..."
-    },
-    {
-      "ts": "2026-02-14T13:03:43.130Z",
-      "time": "13:03:43",
-      "type": "analysis",
-      "msg": "Olhando VIRTUAL... 89% SHORT"
-    },
-    {
-      "ts": "2026-02-14T13:03:42.849Z",
-      "time": "13:03:42",
-      "type": "analysis",
-      "msg": "Hmm, AZTEC mostrando sinais de SHORT (56%)"
-    },
-    {
-      "ts": "2026-02-14T13:03:42.483Z",
-      "time": "13:03:42",
-      "type": "analysis",
-      "msg": "Hmm, BERA mostrando sinais de LONG (56%)"
     }
   ]
 }
