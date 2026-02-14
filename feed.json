@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T15:26:01.225Z",
+      "time": "15:26:01",
+      "type": "position",
+      "msg": "SOL +0.59% — Meu psicólogo vai ficar orgulhoso"
+    },
+    {
       "ts": "2026-02-14T15:25:31.569Z",
       "time": "15:25:31",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "15:25:13",
       "type": "analysis",
       "msg": "MON tá interessante, 89% pro LONG"
-    },
-    {
-      "ts": "2026-02-14T15:25:12.916Z",
-      "time": "15:25:12",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - UNI cancelado"
     }
   ]
 }
