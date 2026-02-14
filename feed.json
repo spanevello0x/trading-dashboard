@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T12:21:24.224Z",
+      "time": "12:21:24",
+      "type": "position",
+      "msg": "HYPE -0.31% — Mais um dia normal no crypto"
+    },
+    {
       "ts": "2026-02-14T12:20:54.653Z",
       "time": "12:20:54",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "12:10:23",
       "type": "position",
       "msg": "ETH -0.12% — Loss building character 💪"
-    },
-    {
-      "ts": "2026-02-14T12:09:54.090Z",
-      "time": "12:09:54",
-      "type": "position",
-      "msg": "PAXG -0.04% — Se mexer muito, assusta"
     }
   ]
 }
