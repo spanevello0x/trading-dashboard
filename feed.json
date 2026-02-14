@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T11:41:23.279Z",
+      "time": "11:41:23",
+      "type": "position",
+      "msg": "PAXG +0.01% — Zona de conforto do gráfico"
+    },
+    {
+      "ts": "2026-02-14T11:41:23.011Z",
+      "time": "11:41:23",
+      "type": "position",
+      "msg": "HYPE +0.73% — Respira... ainda não acabou"
+    },
+    {
       "ts": "2026-02-14T11:40:53.469Z",
       "time": "11:40:53",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "11:33:23",
       "type": "position",
       "msg": "ZEC +0.25% — Quem diria, acertei uma"
-    },
-    {
-      "ts": "2026-02-14T11:33:22.900Z",
-      "time": "11:33:22",
-      "type": "position",
-      "msg": "PAXG +0.01% — Plot twist a qualquer momento"
-    },
-    {
-      "ts": "2026-02-14T11:33:22.396Z",
-      "time": "11:33:22",
-      "type": "position",
-      "msg": "HYPE +1.23% — Tá bom demais pra ser verdade... ops, não deveria falar isso"
     }
   ]
 }
