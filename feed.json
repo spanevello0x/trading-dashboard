@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T14:58:30.658Z",
+      "time": "14:58:30",
+      "type": "position",
+      "msg": "HYPE +0.20% — Respira... ainda não acabou"
+    },
+    {
+      "ts": "2026-02-14T14:58:30.391Z",
+      "time": "14:58:30",
+      "type": "position",
+      "msg": "SOL +0.15% — Tá subindo? Deixa eu não olhar pra não dar azar"
+    },
+    {
       "ts": "2026-02-14T14:58:00.452Z",
       "time": "14:58:00",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "14:46:59",
       "type": "position",
       "msg": "ETH -0.14% — Mais um dia normal no crypto"
-    },
-    {
-      "ts": "2026-02-14T14:46:29.924Z",
-      "time": "14:46:29",
-      "type": "position",
-      "msg": "HYPE -0.03% — Se mexer muito, assusta"
-    },
-    {
-      "ts": "2026-02-14T14:46:29.662Z",
-      "time": "14:46:29",
-      "type": "position",
-      "msg": "SOL -0.08% — Lateral é o novo tendência"
     }
   ]
 }
