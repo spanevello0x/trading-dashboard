@@ -1,184 +1,46 @@
 {
   "feed": [
     {
-      "ts": "2026-02-14T04:33:52.115Z",
-      "time": "04:33:52",
-      "type": "position",
-      "msg": "PAXG +0.09% — Parece até stable coin"
+      "ts": "2026-02-14T04:41:43.107Z",
+      "time": "04:41:43",
+      "type": "system",
+      "msg": "🤖 QuickBot V3 ativo. Watching: BTC, ETH, SOL, HYPE, XRP, ZEC, PAXG, LIT, ZRO, ASTER, AAVE, PUMP, SUI, UNI, MON, BCH, XPL, FARTCOIN, DOGE, BERA, AZTEC, VIRTUAL, AVAX, BNB, OM, TAO, VVV, XMR, kPEPE, ARB, MOODENG, LINK, JUP"
     },
     {
-      "ts": "2026-02-14T04:34:51.302Z",
-      "time": "04:34:51",
+      "ts": "2026-02-14T04:41:43.729Z",
+      "time": "04:41:43",
       "type": "position",
-      "msg": "BNB -0.13% — O gráfico parecia tão bonito..."
+      "msg": "BTC -0.31% — Quem precisa de dinheiro mesmo"
     },
     {
-      "ts": "2026-02-14T04:34:51.563Z",
-      "time": "04:34:51",
+      "ts": "2026-02-14T04:41:43.996Z",
+      "time": "04:41:43",
       "type": "position",
-      "msg": "BCH +0.01% — Pregado no entry como se tivesse cola"
+      "msg": "BNB -0.10% — Nem comprador nem vendedor quer tomar atitude"
     },
     {
-      "ts": "2026-02-14T04:34:52.368Z",
-      "time": "04:34:52",
+      "ts": "2026-02-14T04:41:44.266Z",
+      "time": "04:41:44",
       "type": "position",
-      "msg": "XMR +0.40% — Vou fingir que sabia que isso ia acontecer"
+      "msg": "BCH +0.03% — Lateral é o novo tendência"
     },
     {
-      "ts": "2026-02-14T04:35:21.924Z",
-      "time": "04:35:21",
+      "ts": "2026-02-14T04:41:44.529Z",
+      "time": "04:41:44",
       "type": "position",
-      "msg": "HYPE +0.68% — Não me acostumem com isso"
+      "msg": "HYPE +1.08% — Print pra mostrar pros netos"
     },
     {
-      "ts": "2026-02-14T04:35:22.241Z",
-      "time": "04:35:22",
+      "ts": "2026-02-14T04:41:44.796Z",
+      "time": "04:41:44",
       "type": "position",
-      "msg": "PAXG +0.11% — Olha só, o mercado decidiu colaborar hoje"
+      "msg": "PAXG +0.18% — Olha só, o mercado decidiu colaborar hoje"
     },
     {
-      "ts": "2026-02-14T04:35:22.578Z",
-      "time": "04:35:22",
+      "ts": "2026-02-14T04:41:45.065Z",
+      "time": "04:41:45",
       "type": "position",
-      "msg": "XMR +0.60% — Melhor que Netflix isso aqui"
-    },
-    {
-      "ts": "2026-02-14T04:35:51.362Z",
-      "time": "04:35:51",
-      "type": "position",
-      "msg": "BNB -0.10% — Zona de conforto do gráfico"
-    },
-    {
-      "ts": "2026-02-14T04:35:51.627Z",
-      "time": "04:35:51",
-      "type": "position",
-      "msg": "BCH +0.04% — Tô aqui, olhando, esperando, sofrendo"
-    },
-    {
-      "ts": "2026-02-14T04:36:21.976Z",
-      "time": "04:36:21",
-      "type": "position",
-      "msg": "HYPE +0.74% — Até um relógio quebrado acerta duas vezes"
-    },
-    {
-      "ts": "2026-02-14T04:36:22.604Z",
-      "time": "04:36:22",
-      "type": "position",
-      "msg": "XMR +0.60% — Será que alguém sabe algo que eu não sei? Sempre sabem."
-    },
-    {
-      "ts": "2026-02-14T04:36:51.389Z",
-      "time": "04:36:51",
-      "type": "position",
-      "msg": "BNB -0.06% — Lateral é o novo tendência"
-    },
-    {
-      "ts": "2026-02-14T04:36:51.650Z",
-      "time": "04:36:51",
-      "type": "position",
-      "msg": "BCH +0.04% — Zona de conforto do gráfico"
-    },
-    {
-      "ts": "2026-02-14T04:36:52.253Z",
-      "time": "04:36:52",
-      "type": "position",
-      "msg": "PAXG +0.14% — Quem diria, acertei uma"
-    },
-    {
-      "ts": "2026-02-14T04:37:51.429Z",
-      "time": "04:37:51",
-      "type": "position",
-      "msg": "BNB -0.07% — Isso é acumulação ou distribuição? Ninguém sabe."
-    },
-    {
-      "ts": "2026-02-14T04:37:51.765Z",
-      "time": "04:37:51",
-      "type": "position",
-      "msg": "BCH +0.03% — Esperando Godot, versão crypto"
-    },
-    {
-      "ts": "2026-02-14T04:37:52.027Z",
-      "time": "04:37:52",
-      "type": "position",
-      "msg": "HYPE +1.11% — Stonks 📈 (desculpa, não resisti)"
-    },
-    {
-      "ts": "2026-02-14T04:37:52.302Z",
-      "time": "04:37:52",
-      "type": "position",
-      "msg": "PAXG +0.16% — Melhor que Netflix isso aqui"
-    },
-    {
-      "ts": "2026-02-14T04:37:52.567Z",
-      "time": "04:37:52",
-      "type": "position",
-      "msg": "XMR +0.69% — Meu psicólogo vai ficar orgulhoso"
-    },
-    {
-      "ts": "2026-02-14T04:38:51.470Z",
-      "time": "04:38:51",
-      "type": "position",
-      "msg": "BNB -0.09% — Tick tock, mercado..."
-    },
-    {
-      "ts": "2026-02-14T04:39:21.864Z",
-      "time": "04:39:21",
-      "type": "position",
-      "msg": "BCH -0.01% — Neutro: onde a ansiedade e o tédio se encontram"
-    },
-    {
-      "ts": "2026-02-14T04:39:22.125Z",
-      "time": "04:39:22",
-      "type": "position",
-      "msg": "HYPE +1.06% — O mercado me ama (por enquanto)"
-    },
-    {
-      "ts": "2026-02-14T04:39:22.389Z",
-      "time": "04:39:22",
-      "type": "position",
-      "msg": "PAXG +0.16% — O mercado tá generoso hoje, desconfio"
-    },
-    {
-      "ts": "2026-02-14T04:39:22.657Z",
-      "time": "04:39:22",
-      "type": "position",
-      "msg": "XMR +0.89% — Quase consigo pagar o café de ontem"
-    },
-    {
-      "ts": "2026-02-14T04:39:51.537Z",
-      "time": "04:39:51",
-      "type": "position",
-      "msg": "BNB -0.10% — Pelo menos o stop existe. Graças a Deus pelo stop."
-    },
-    {
-      "ts": "2026-02-14T04:40:22.012Z",
-      "time": "04:40:22",
-      "type": "position",
-      "msg": "BCH -0.01% — Neutro: onde a ansiedade e o tédio se encontram"
-    },
-    {
-      "ts": "2026-02-14T04:40:22.281Z",
-      "time": "04:40:22",
-      "type": "position",
-      "msg": "HYPE +1.13% — Respira... ainda não acabou"
-    },
-    {
-      "ts": "2026-02-14T04:40:22.541Z",
-      "time": "04:40:22",
-      "type": "position",
-      "msg": "PAXG +0.17% — Olha só, o mercado decidiu colaborar hoje"
-    },
-    {
-      "ts": "2026-02-14T04:40:22.806Z",
-      "time": "04:40:22",
-      "type": "position",
-      "msg": "XMR +1.08% — Verde combina comigo"
-    },
-    {
-      "ts": "2026-02-14T04:40:52.062Z",
-      "time": "04:40:52",
-      "type": "position",
-      "msg": "BNB -0.06% — A calmaria antes da tempestade... ou mais calmaria"
+      "msg": "XMR +1.16% — Não é muito, mas é trabalho honesto"
     }
   ]
 }
