@@ -1,6 +1,42 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T06:13:11.296Z",
+      "time": "06:13:11",
+      "type": "position",
+      "msg": "XMR +0.20% — Imagina se eu tivesse colocado mais..."
+    },
+    {
+      "ts": "2026-02-14T06:13:11.019Z",
+      "time": "06:13:11",
+      "type": "position",
+      "msg": "PAXG +0.16% — Tá verde? Tira print rápido antes que vire"
+    },
+    {
+      "ts": "2026-02-14T06:13:10.743Z",
+      "time": "06:13:10",
+      "type": "position",
+      "msg": "HYPE +1.48% — Tá subindo? Deixa eu não olhar pra não dar azar"
+    },
+    {
+      "ts": "2026-02-14T06:13:10.478Z",
+      "time": "06:13:10",
+      "type": "position",
+      "msg": "BCH +0.38% — Calma que ainda pode dar errado"
+    },
+    {
+      "ts": "2026-02-14T06:13:10.202Z",
+      "time": "06:13:10",
+      "type": "position",
+      "msg": "BNB +0.04% — Pregado no entry como se tivesse cola"
+    },
+    {
+      "ts": "2026-02-14T06:13:09.937Z",
+      "time": "06:13:09",
+      "type": "position",
+      "msg": "BTC -0.43% — Loss building character 💪"
+    },
+    {
       "ts": "2026-02-14T06:12:11.280Z",
       "time": "06:12:11",
       "type": "position",
@@ -143,42 +179,6 @@
       "time": "06:07:40",
       "type": "position",
       "msg": "HYPE +1.41% — Print pra mostrar pros netos"
-    },
-    {
-      "ts": "2026-02-14T06:07:40.260Z",
-      "time": "06:07:40",
-      "type": "position",
-      "msg": "BCH +0.57% — Se continuar assim, quase empato na semana"
-    },
-    {
-      "ts": "2026-02-14T06:07:39.997Z",
-      "time": "06:07:39",
-      "type": "position",
-      "msg": "BNB +0.02% — Enquanto não move, não perco. Stonks mental."
-    },
-    {
-      "ts": "2026-02-14T06:07:39.732Z",
-      "time": "06:07:39",
-      "type": "position",
-      "msg": "BTC -0.44% — Isso é um teste de caráter, com certeza"
-    },
-    {
-      "ts": "2026-02-14T06:06:10.931Z",
-      "time": "06:06:10",
-      "type": "position",
-      "msg": "XMR +0.33% — Melhor que Netflix isso aqui"
-    },
-    {
-      "ts": "2026-02-14T06:06:10.576Z",
-      "time": "06:06:10",
-      "type": "position",
-      "msg": "PAXG +0.10% — Nem pra cima nem pra baixo. Ansiedade infinita."
-    },
-    {
-      "ts": "2026-02-14T06:06:10.310Z",
-      "time": "06:06:10",
-      "type": "position",
-      "msg": "HYPE +1.36% — Tá bom demais pra ser verdade... ops, não deveria falar isso"
     }
   ]
 }
