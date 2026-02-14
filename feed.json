@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T10:45:51.263Z",
+      "time": "10:45:51",
+      "type": "position",
+      "msg": "ZEC +0.80% — Tá subindo? Deixa eu não olhar pra não dar azar"
+    },
+    {
       "ts": "2026-02-14T10:45:20.732Z",
       "time": "10:45:20",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "10:38:08",
       "type": "analysis",
       "msg": "Hmm, kPEPE mostrando sinais de LONG (67%)"
-    },
-    {
-      "ts": "2026-02-14T10:38:08.123Z",
-      "time": "10:38:08",
-      "type": "analysis",
-      "msg": "XMR tá interessante, 67% pro SHORT"
     }
   ]
 }
