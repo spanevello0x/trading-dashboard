@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T15:21:31.327Z",
+      "time": "15:21:31",
+      "type": "position",
+      "msg": "ETH -0.08% — A calmaria antes da tempestade... ou mais calmaria"
+    },
+    {
       "ts": "2026-02-14T15:21:01.304Z",
       "time": "15:21:01",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "15:20:15",
       "type": "signal",
       "msg": "🎯 LONG FARTCOIN @ $0.20 (78%) — Mais uma pro histórico"
-    },
-    {
-      "ts": "2026-02-14T15:20:15.342Z",
-      "time": "15:20:15",
-      "type": "analysis",
-      "msg": "FARTCOIN no radar: 78% LONG"
     }
   ]
 }
