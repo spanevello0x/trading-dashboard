@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T12:42:25.000Z",
+      "time": "12:42:25",
+      "type": "position",
+      "msg": "PAXG -0.02% — Nem fede nem cheira"
+    },
+    {
       "ts": "2026-02-14T12:41:55.199Z",
       "time": "12:41:55",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "12:40:06",
       "type": "analysis",
       "msg": "MON no radar: 78% SHORT"
-    },
-    {
-      "ts": "2026-02-14T12:40:06.026Z",
-      "time": "12:40:06",
-      "type": "analysis",
-      "msg": "UNI tá interessante, 56% pro SHORT"
     }
   ]
 }
