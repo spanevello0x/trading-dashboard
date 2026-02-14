@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T06:44:10.868Z",
+      "time": "06:44:10",
+      "type": "position",
+      "msg": "BTC -0.30% — Loss building character 💪"
+    },
+    {
       "ts": "2026-02-14T06:43:42.314Z",
       "time": "06:43:42",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "06:38:41",
       "type": "position",
       "msg": "BNB -0.20% — Quem mandou confiar em linha colorida"
-    },
-    {
-      "ts": "2026-02-14T06:38:10.670Z",
-      "time": "06:38:10",
-      "type": "position",
-      "msg": "BTC -0.26% — Calma que ainda tem o stop loss pra doer mais"
     }
   ]
 }
