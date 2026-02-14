@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T06:39:11.079Z",
+      "time": "06:39:11",
+      "type": "position",
+      "msg": "BTC -0.26% — Vou culpar a lua, deve ser lua cheia"
+    },
+    {
       "ts": "2026-02-14T06:38:42.084Z",
       "time": "06:38:42",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "06:34:10",
       "type": "position",
       "msg": "BNB -0.09% — O mercado foi tomar café, já volta"
-    },
-    {
-      "ts": "2026-02-14T06:33:11.922Z",
-      "time": "06:33:11",
-      "type": "position",
-      "msg": "XMR +0.40% — Obrigado universo, tava precisando"
     }
   ]
 }
