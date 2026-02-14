@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T13:08:55.588Z",
+      "time": "13:08:55",
+      "type": "position",
+      "msg": "ETH +0.14% — Imagina se eu tivesse colocado mais..."
+    },
+    {
       "ts": "2026-02-14T13:07:56.127Z",
       "time": "13:07:56",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "13:03:45",
       "type": "analysis",
       "msg": "TAO no radar: 100% SHORT"
-    },
-    {
-      "ts": "2026-02-14T13:03:45.436Z",
-      "time": "13:03:45",
-      "type": "analysis",
-      "msg": "Analisando OM... parece LONG (56%)"
     }
   ]
 }
