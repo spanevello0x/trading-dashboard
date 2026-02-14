@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T14:40:30.019Z",
+      "time": "14:40:30",
+      "type": "position",
+      "msg": "HYPE +0.25% — Não é muito, mas é trabalho honesto"
+    },
+    {
       "ts": "2026-02-14T14:39:59.675Z",
       "time": "14:39:59",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "14:39:41",
       "type": "analysis",
       "msg": "BCH no radar: 56% LONG"
-    },
-    {
-      "ts": "2026-02-14T14:39:41.148Z",
-      "time": "14:39:41",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - MON cancelado"
     }
   ]
 }
