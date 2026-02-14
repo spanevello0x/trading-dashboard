@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T06:54:12.153Z",
+      "time": "06:54:12",
+      "type": "position",
+      "msg": "PAXG +0.03% — Zona de conforto do gráfico"
+    },
+    {
+      "ts": "2026-02-14T06:54:11.616Z",
+      "time": "06:54:11",
+      "type": "position",
+      "msg": "BCH -0.30% — Mercado fazendo mercadisse"
+    },
+    {
       "ts": "2026-02-14T06:53:41.951Z",
       "time": "06:53:41",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "06:47:30",
       "type": "system",
       "msg": "⚠️ Limite atingido (5/5) - LINK cancelado"
-    },
-    {
-      "ts": "2026-02-14T06:47:29.946Z",
-      "time": "06:47:29",
-      "type": "signal",
-      "msg": "🎯 SHORT LINK @ $8.81 (78%) — Os indicadores mandaram, eu obedeci"
-    },
-    {
-      "ts": "2026-02-14T06:47:29.946Z",
-      "time": "06:47:29",
-      "type": "analysis",
-      "msg": "Hmm, LINK mostrando sinais de SHORT (78%)"
     }
   ]
 }
