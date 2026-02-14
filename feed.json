@@ -1,6 +1,30 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T05:37:39.264Z",
+      "time": "05:37:39",
+      "type": "position",
+      "msg": "HYPE +0.81% — Tá verde? Tira print rápido antes que vire"
+    },
+    {
+      "ts": "2026-02-14T05:37:39.004Z",
+      "time": "05:37:39",
+      "type": "position",
+      "msg": "BCH -0.11% — Quem mandou confiar em linha colorida"
+    },
+    {
+      "ts": "2026-02-14T05:37:38.741Z",
+      "time": "05:37:38",
+      "type": "position",
+      "msg": "BNB -0.18% — Pelo menos aprendo algo... né?"
+    },
+    {
+      "ts": "2026-02-14T05:37:38.475Z",
+      "time": "05:37:38",
+      "type": "position",
+      "msg": "BTC -0.41% — Respira... é só número na tela"
+    },
+    {
       "ts": "2026-02-14T05:37:09.861Z",
       "time": "05:37:09",
       "type": "position",
@@ -155,30 +179,6 @@
       "time": "05:32:38",
       "type": "position",
       "msg": "BNB -0.16% — Podia ser pior. Dá tempo ainda."
-    },
-    {
-      "ts": "2026-02-14T05:31:39.547Z",
-      "time": "05:31:39",
-      "type": "position",
-      "msg": "XMR -0.14% — Pelo menos o stop existe. Graças a Deus pelo stop."
-    },
-    {
-      "ts": "2026-02-14T05:31:39.281Z",
-      "time": "05:31:39",
-      "type": "position",
-      "msg": "PAXG +0.06% — Lateral é o novo tendência"
-    },
-    {
-      "ts": "2026-02-14T05:31:39.016Z",
-      "time": "05:31:39",
-      "type": "position",
-      "msg": "HYPE +0.67% — Print pra mostrar pros netos"
-    },
-    {
-      "ts": "2026-02-14T05:31:38.171Z",
-      "time": "05:31:38",
-      "type": "position",
-      "msg": "BTC -0.30% — O stop tá ali por um motivo, né"
     }
   ]
 }
