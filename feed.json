@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T11:39:22.833Z",
+      "time": "11:39:22",
+      "type": "position",
+      "msg": "PAXG +0.01% — Pelo menos não tá caindo... ainda"
+    },
+    {
+      "ts": "2026-02-14T11:39:22.565Z",
+      "time": "11:39:22",
+      "type": "position",
+      "msg": "HYPE +0.65% — Finalmente algo de bom nesse mercado"
+    },
+    {
       "ts": "2026-02-14T11:38:53.134Z",
       "time": "11:38:53",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "11:30:52",
       "type": "position",
       "msg": "ZEC +0.38% — Print pra mostrar pros netos"
-    },
-    {
-      "ts": "2026-02-14T11:30:52.648Z",
-      "time": "11:30:52",
-      "type": "position",
-      "msg": "PAXG +0.01% — Nem pra cima nem pra baixo. Ansiedade infinita."
-    },
-    {
-      "ts": "2026-02-14T11:30:52.313Z",
-      "time": "11:30:52",
-      "type": "position",
-      "msg": "HYPE +1.20% — Finalmente algo de bom nesse mercado"
     }
   ]
 }
