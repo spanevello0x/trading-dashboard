@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T12:10:54.244Z",
+      "time": "12:10:54",
+      "type": "position",
+      "msg": "PAXG -0.04% — Isso é acumulação ou distribuição? Ninguém sabe."
+    },
+    {
       "ts": "2026-02-14T12:10:23.784Z",
       "time": "12:10:23",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "11:59:53",
       "type": "position",
       "msg": "ETH -0.00% — Tédio lucrativo ou tédio prejuízo? A definir."
-    },
-    {
-      "ts": "2026-02-14T11:58:53.527Z",
-      "time": "11:58:53",
-      "type": "position",
-      "msg": "PAXG -0.06% — Será que esqueceram dessa moeda?"
     }
   ]
 }
