@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T08:07:14.553Z",
+      "time": "08:07:14",
+      "type": "position",
+      "msg": "SUI -1.63% — Respira... é só número na tela"
+    },
+    {
+      "ts": "2026-02-14T08:07:14.287Z",
+      "time": "08:07:14",
+      "type": "position",
+      "msg": "ETH +0.80% — Vou fingir que sabia que isso ia acontecer"
+    },
+    {
       "ts": "2026-02-14T08:06:44.946Z",
       "time": "08:06:44",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "07:58:44",
       "type": "position",
       "msg": "PAXG -0.01% — Isso é acumulação ou distribuição? Ninguém sabe."
-    },
-    {
-      "ts": "2026-02-14T07:58:44.553Z",
-      "time": "07:58:44",
-      "type": "position",
-      "msg": "BCH -0.08% — A calmaria antes da tempestade... ou mais calmaria"
-    },
-    {
-      "ts": "2026-02-14T07:58:44.283Z",
-      "time": "07:58:44",
-      "type": "position",
-      "msg": "SUI -0.99% — Quem precisa de dinheiro mesmo"
     }
   ]
 }
