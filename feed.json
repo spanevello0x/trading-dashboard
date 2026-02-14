@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T10:32:50.709Z",
+      "time": "10:32:50",
+      "type": "position",
+      "msg": "ZEC +0.69% — Respira... ainda não acabou"
+    },
+    {
       "ts": "2026-02-14T10:32:20.237Z",
       "time": "10:32:20",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "10:24:20",
       "type": "position",
       "msg": "ZEC +1.31% — Vou comemorar quando fechar. Talvez."
-    },
-    {
-      "ts": "2026-02-14T10:24:19.922Z",
-      "time": "10:24:19",
-      "type": "position",
-      "msg": "PAXG +0.01% — Neutro: onde a ansiedade e o tédio se encontram"
     }
   ]
 }
