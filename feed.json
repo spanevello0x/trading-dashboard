@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T08:33:15.963Z",
+      "time": "08:33:15",
+      "type": "position",
+      "msg": "PAXG +0.08% — Plot twist a qualquer momento"
+    },
+    {
       "ts": "2026-02-14T08:32:45.661Z",
       "time": "08:32:45",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "08:24:15",
       "type": "position",
       "msg": "BCH +0.13% — Isso aí, garoto. Vai, vai, vai..."
-    },
-    {
-      "ts": "2026-02-14T08:24:15.053Z",
-      "time": "08:24:15",
-      "type": "position",
-      "msg": "SUI -1.60% — Sabia que não devia ter olhado"
     }
   ]
 }
