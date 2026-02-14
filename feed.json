@@ -1,6 +1,30 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T06:03:40.849Z",
+      "time": "06:03:40",
+      "type": "position",
+      "msg": "XMR +0.40% — Verde combina comigo"
+    },
+    {
+      "ts": "2026-02-14T06:03:40.003Z",
+      "time": "06:03:40",
+      "type": "position",
+      "msg": "BCH +0.44% — Obrigado universo, tava precisando"
+    },
+    {
+      "ts": "2026-02-14T06:03:39.685Z",
+      "time": "06:03:39",
+      "type": "position",
+      "msg": "BNB -0.01% — Zona de conforto do gráfico"
+    },
+    {
+      "ts": "2026-02-14T06:03:39.421Z",
+      "time": "06:03:39",
+      "type": "position",
+      "msg": "BTC -0.43% — Prometo estudar mais... mentira, vou continuar igual"
+    },
+    {
       "ts": "2026-02-14T06:03:10.620Z",
       "time": "06:03:10",
       "type": "position",
@@ -155,30 +179,6 @@
       "time": "05:58:09",
       "type": "position",
       "msg": "BTC -0.44% — O gráfico parecia tão bonito..."
-    },
-    {
-      "ts": "2026-02-14T05:57:41.102Z",
-      "time": "05:57:41",
-      "type": "position",
-      "msg": "XMR +0.57% — Quem diria, acertei uma"
-    },
-    {
-      "ts": "2026-02-14T05:57:40.835Z",
-      "time": "05:57:40",
-      "type": "position",
-      "msg": "PAXG +0.09% — A calmaria antes da tempestade... ou mais calmaria"
-    },
-    {
-      "ts": "2026-02-14T05:57:40.432Z",
-      "time": "05:57:40",
-      "type": "position",
-      "msg": "HYPE +1.40% — Será que é armadilha? Provavelmente. Mas vou curtir enquanto dura"
-    },
-    {
-      "ts": "2026-02-14T05:57:40.151Z",
-      "time": "05:57:40",
-      "type": "position",
-      "msg": "BCH +0.47% — Não sou eu, é o mercado que tá errado... ah não, dessa vez acertou"
     }
   ]
 }
