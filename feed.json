@@ -1,6 +1,36 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T06:35:11.920Z",
+      "time": "06:35:11",
+      "type": "position",
+      "msg": "XMR +0.17% — Não é muito, mas é trabalho honesto"
+    },
+    {
+      "ts": "2026-02-14T06:35:11.655Z",
+      "time": "06:35:11",
+      "type": "position",
+      "msg": "PAXG +0.15% — Finalmente algo de bom nesse mercado"
+    },
+    {
+      "ts": "2026-02-14T06:35:11.382Z",
+      "time": "06:35:11",
+      "type": "position",
+      "msg": "HYPE +1.37% — Verde combina comigo"
+    },
+    {
+      "ts": "2026-02-14T06:35:11.116Z",
+      "time": "06:35:11",
+      "type": "position",
+      "msg": "BCH -0.17% — Mais um dia normal no crypto"
+    },
+    {
+      "ts": "2026-02-14T06:35:10.815Z",
+      "time": "06:35:10",
+      "type": "position",
+      "msg": "BNB -0.10% — Tédio lucrativo ou tédio prejuízo? A definir."
+    },
+    {
       "ts": "2026-02-14T06:34:40.502Z",
       "time": "06:34:40",
       "type": "position",
@@ -149,36 +179,6 @@
       "time": "06:30:10",
       "type": "position",
       "msg": "BTC -0.27% — Pelo menos o stop existe. Graças a Deus pelo stop."
-    },
-    {
-      "ts": "2026-02-14T06:28:42.376Z",
-      "time": "06:28:42",
-      "type": "position",
-      "msg": "XMR +0.43% — Olha só, o mercado decidiu colaborar hoje"
-    },
-    {
-      "ts": "2026-02-14T06:28:42.113Z",
-      "time": "06:28:42",
-      "type": "position",
-      "msg": "PAXG +0.15% — Não é muito, mas é trabalho honesto"
-    },
-    {
-      "ts": "2026-02-14T06:28:41.852Z",
-      "time": "06:28:41",
-      "type": "position",
-      "msg": "HYPE +1.33% — Melhor que Netflix isso aqui"
-    },
-    {
-      "ts": "2026-02-14T06:28:41.591Z",
-      "time": "06:28:41",
-      "type": "position",
-      "msg": "BCH +0.03% — Esperando Godot, versão crypto"
-    },
-    {
-      "ts": "2026-02-14T06:28:41.316Z",
-      "time": "06:28:41",
-      "type": "position",
-      "msg": "BNB -0.12% — Respira... é só número na tela"
     }
   ]
 }
