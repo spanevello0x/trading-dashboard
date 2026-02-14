@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T13:01:55.939Z",
+      "time": "13:01:55",
+      "type": "position",
+      "msg": "ZEC -0.66% — Isso é um teste de caráter, com certeza"
+    },
+    {
+      "ts": "2026-02-14T13:01:55.668Z",
+      "time": "13:01:55",
+      "type": "position",
+      "msg": "HYPE -0.02% — Esperando Godot, versão crypto"
+    },
+    {
+      "ts": "2026-02-14T13:01:55.400Z",
+      "time": "13:01:55",
+      "type": "position",
+      "msg": "ETH +0.04% — Plot twist a qualquer momento"
+    },
+    {
       "ts": "2026-02-14T13:00:25.983Z",
       "time": "13:00:25",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "12:54:43",
       "type": "analysis",
       "msg": "Analisando TAO... parece SHORT (89%)"
-    },
-    {
-      "ts": "2026-02-14T12:54:43.404Z",
-      "time": "12:54:43",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - BNB cancelado"
-    },
-    {
-      "ts": "2026-02-14T12:54:43.124Z",
-      "time": "12:54:43",
-      "type": "signal",
-      "msg": "🎯 SHORT BNB @ $626.84 (78%) — Mais uma pro histórico"
-    },
-    {
-      "ts": "2026-02-14T12:54:43.124Z",
-      "time": "12:54:43",
-      "type": "analysis",
-      "msg": "BNB no radar: 78% SHORT"
     }
   ]
 }
