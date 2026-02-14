@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T06:37:10.622Z",
+      "time": "06:37:10",
+      "type": "position",
+      "msg": "BTC -0.26% — Calma que ainda tem o stop loss pra doer mais"
+    },
+    {
       "ts": "2026-02-14T06:36:12.072Z",
       "time": "06:36:12",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "06:31:40",
       "type": "position",
       "msg": "BNB -0.11% — Tá difícil defender essa entrada"
-    },
-    {
-      "ts": "2026-02-14T06:31:10.335Z",
-      "time": "06:31:10",
-      "type": "position",
-      "msg": "BTC -0.27% — Mais um dia normal no crypto"
     }
   ]
 }
