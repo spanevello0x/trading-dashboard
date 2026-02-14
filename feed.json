@@ -1,6 +1,36 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T06:38:42.084Z",
+      "time": "06:38:42",
+      "type": "position",
+      "msg": "XMR -0.13% — Não é prejuízo se eu não vender... ah, tem stop"
+    },
+    {
+      "ts": "2026-02-14T06:38:41.823Z",
+      "time": "06:38:41",
+      "type": "position",
+      "msg": "PAXG +0.15% — Não me acostumem com isso"
+    },
+    {
+      "ts": "2026-02-14T06:38:41.555Z",
+      "time": "06:38:41",
+      "type": "position",
+      "msg": "HYPE +1.28% — Tá subindo? Deixa eu não olhar pra não dar azar"
+    },
+    {
+      "ts": "2026-02-14T06:38:41.287Z",
+      "time": "06:38:41",
+      "type": "position",
+      "msg": "BCH -0.27% — Não é prejuízo se eu não vender... ah, tem stop"
+    },
+    {
+      "ts": "2026-02-14T06:38:41.022Z",
+      "time": "06:38:41",
+      "type": "position",
+      "msg": "BNB -0.20% — Quem mandou confiar em linha colorida"
+    },
+    {
       "ts": "2026-02-14T06:38:10.670Z",
       "time": "06:38:10",
       "type": "position",
@@ -149,36 +179,6 @@
       "time": "06:33:11",
       "type": "position",
       "msg": "XMR +0.40% — Obrigado universo, tava precisando"
-    },
-    {
-      "ts": "2026-02-14T06:33:10.587Z",
-      "time": "06:33:10",
-      "type": "position",
-      "msg": "BTC -0.31% — O mercado escolheu violência hoje"
-    },
-    {
-      "ts": "2026-02-14T06:32:41.573Z",
-      "time": "06:32:41",
-      "type": "position",
-      "msg": "PAXG +0.14% — Verde combina comigo"
-    },
-    {
-      "ts": "2026-02-14T06:32:41.308Z",
-      "time": "06:32:41",
-      "type": "position",
-      "msg": "HYPE +1.39% — Tá bom demais pra ser verdade... ops, não deveria falar isso"
-    },
-    {
-      "ts": "2026-02-14T06:32:41.012Z",
-      "time": "06:32:41",
-      "type": "position",
-      "msg": "BCH -0.22% — Pelo menos aprendo algo... né?"
-    },
-    {
-      "ts": "2026-02-14T06:32:40.743Z",
-      "time": "06:32:40",
-      "type": "position",
-      "msg": "BNB -0.11% — Clássico"
     }
   ]
 }
