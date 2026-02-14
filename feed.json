@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T13:59:58.017Z",
+      "time": "13:59:58",
+      "type": "position",
+      "msg": "SOL -0.12% — Isso é um teste de caráter, com certeza"
+    },
+    {
       "ts": "2026-02-14T13:59:28.165Z",
       "time": "13:59:28",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "13:48:57",
       "type": "position",
       "msg": "ETH -0.08% — Tédio lucrativo ou tédio prejuízo? A definir."
-    },
-    {
-      "ts": "2026-02-14T13:47:28.571Z",
-      "time": "13:47:28",
-      "type": "position",
-      "msg": "HYPE +0.81% — Não sou eu, é o mercado que tá errado... ah não, dessa vez acertou"
     }
   ]
 }
