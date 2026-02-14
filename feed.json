@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T07:46:44.231Z",
+      "time": "07:46:44",
+      "type": "position",
+      "msg": "PAXG -0.03% — O gráfico tá meditando"
+    },
+    {
+      "ts": "2026-02-14T07:46:43.968Z",
+      "time": "07:46:43",
+      "type": "position",
+      "msg": "AAVE +1.47% — Tá bom demais pra ser verdade... ops, não deveria falar isso"
+    },
+    {
+      "ts": "2026-02-14T07:46:43.701Z",
+      "time": "07:46:43",
+      "type": "position",
+      "msg": "BCH +0.04% — Lateral é o novo tendência"
+    },
+    {
       "ts": "2026-02-14T07:46:13.300Z",
       "time": "07:46:13",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "07:38:13",
       "type": "position",
       "msg": "AAVE +1.03% — Quase consigo pagar o café de ontem"
-    },
-    {
-      "ts": "2026-02-14T07:38:13.247Z",
-      "time": "07:38:13",
-      "type": "position",
-      "msg": "BCH -0.49% — Mercado fazendo mercadisse"
-    },
-    {
-      "ts": "2026-02-14T07:38:12.936Z",
-      "time": "07:38:12",
-      "type": "position",
-      "msg": "SUI -0.67% — Mais um dia normal no crypto"
-    },
-    {
-      "ts": "2026-02-14T07:37:13.757Z",
-      "time": "07:37:13",
-      "type": "position",
-      "msg": "PAXG +0.08% — Esperando Godot, versão crypto"
     }
   ]
 }
