@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T13:58:57.831Z",
+      "time": "13:58:57",
+      "type": "position",
+      "msg": "SOL -0.13% — Quem mandou confiar em linha colorida"
+    },
+    {
       "ts": "2026-02-14T13:58:28.107Z",
       "time": "13:58:28",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "13:47:28",
       "type": "position",
       "msg": "ETH +0.03% — Tick tock, mercado..."
-    },
-    {
-      "ts": "2026-02-14T13:46:27.695Z",
-      "time": "13:46:27",
-      "type": "position",
-      "msg": "HYPE +1.07% — Será que alguém sabe algo que eu não sei? Sempre sabem."
     }
   ]
 }
