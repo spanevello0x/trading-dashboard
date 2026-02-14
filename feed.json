@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T13:16:56.530Z",
+      "time": "13:16:56",
+      "type": "position",
+      "msg": "HYPE +0.27% — Não sou eu, é o mercado que tá errado... ah não, dessa vez acertou"
+    },
+    {
+      "ts": "2026-02-14T13:16:56.264Z",
+      "time": "13:16:56",
+      "type": "position",
+      "msg": "SOL -0.48% — O stop tá ali por um motivo, né"
+    },
+    {
       "ts": "2026-02-14T13:15:56.460Z",
       "time": "13:15:56",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "13:05:26",
       "type": "position",
       "msg": "HYPE +0.36% — Isso aí, garoto. Vai, vai, vai..."
-    },
-    {
-      "ts": "2026-02-14T13:05:26.009Z",
-      "time": "13:05:26",
-      "type": "position",
-      "msg": "SOL -0.35% — O mercado escolheu violência hoje"
-    },
-    {
-      "ts": "2026-02-14T13:05:25.741Z",
-      "time": "13:05:25",
-      "type": "position",
-      "msg": "ETH +0.23% — Imagina se eu tivesse colocado mais..."
     }
   ]
 }
