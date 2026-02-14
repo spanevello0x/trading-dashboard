@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T11:36:22.381Z",
+      "time": "11:36:22",
+      "type": "position",
+      "msg": "HYPE +1.04% — Até um relógio quebrado acerta duas vezes"
+    },
+    {
       "ts": "2026-02-14T11:35:53.003Z",
       "time": "11:35:53",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "11:27:52",
       "type": "position",
       "msg": "ZEC -0.20% — Amanhã é outro dia (espero)"
-    },
-    {
-      "ts": "2026-02-14T11:27:52.104Z",
-      "time": "11:27:52",
-      "type": "position",
-      "msg": "HYPE +0.94% — Não me acostumem com isso"
     }
   ]
 }
