@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T14:51:00.752Z",
+      "time": "14:51:00",
+      "type": "position",
+      "msg": "HYPE +0.13% — Quem diria, acertei uma"
+    },
+    {
+      "ts": "2026-02-14T14:51:00.346Z",
+      "time": "14:51:00",
+      "type": "position",
+      "msg": "SOL +0.02% — Pelo menos não tá caindo... ainda"
+    },
+    {
       "ts": "2026-02-14T14:50:30.071Z",
       "time": "14:50:30",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "14:39:59",
       "type": "position",
       "msg": "ETH -0.15% — Pelo menos aprendo algo... né?"
-    },
-    {
-      "ts": "2026-02-14T14:39:48.929Z",
-      "time": "14:39:48",
-      "type": "analysis",
-      "msg": "Hmm, JUP mostrando sinais de LONG (56%)"
-    },
-    {
-      "ts": "2026-02-14T14:39:48.393Z",
-      "time": "14:39:48",
-      "type": "analysis",
-      "msg": "Olhando LINK... 67% LONG"
     }
   ]
 }
