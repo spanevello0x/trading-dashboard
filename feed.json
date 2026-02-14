@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T11:12:51.821Z",
+      "time": "11:12:51",
+      "type": "position",
+      "msg": "PAXG +0.02% — Zona de conforto do gráfico"
+    },
+    {
+      "ts": "2026-02-14T11:12:51.560Z",
+      "time": "11:12:51",
+      "type": "position",
+      "msg": "HYPE +0.35% — Não me acostumem com isso"
+    },
+    {
       "ts": "2026-02-14T11:12:22.578Z",
       "time": "11:12:22",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "11:04:51",
       "type": "position",
       "msg": "PAXG +0.02% — Pregado no entry como se tivesse cola"
-    },
-    {
-      "ts": "2026-02-14T11:04:50.910Z",
-      "time": "11:04:50",
-      "type": "position",
-      "msg": "XRP -0.19% — Clássico"
-    },
-    {
-      "ts": "2026-02-14T11:04:21.319Z",
-      "time": "11:04:21",
-      "type": "position",
-      "msg": "HYPE +0.01% — Pregado no entry como se tivesse cola"
     }
   ]
 }
