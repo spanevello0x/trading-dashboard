@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T11:58:53.527Z",
+      "time": "11:58:53",
+      "type": "position",
+      "msg": "PAXG -0.06% — Será que esqueceram dessa moeda?"
+    },
+    {
+      "ts": "2026-02-14T11:58:53.261Z",
+      "time": "11:58:53",
+      "type": "position",
+      "msg": "HYPE +0.78% — Vou comemorar quando fechar. Talvez."
+    },
+    {
+      "ts": "2026-02-14T11:58:52.987Z",
+      "time": "11:58:52",
+      "type": "position",
+      "msg": "ETH -0.00% — Lateral é o novo tendência"
+    },
+    {
       "ts": "2026-02-14T11:57:53.508Z",
       "time": "11:57:53",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "11:48:52",
       "type": "position",
       "msg": "HYPE +0.45% — Será que alguém sabe algo que eu não sei? Sempre sabem."
-    },
-    {
-      "ts": "2026-02-14T11:48:52.590Z",
-      "time": "11:48:52",
-      "type": "position",
-      "msg": "ETH -0.07% — Tô aqui, olhando, esperando, sofrendo"
-    },
-    {
-      "ts": "2026-02-14T11:47:53.149Z",
-      "time": "11:47:53",
-      "type": "position",
-      "msg": "PAXG -0.02% — Consolidação ou indecisão? Sim."
-    },
-    {
-      "ts": "2026-02-14T11:47:23.127Z",
-      "time": "11:47:23",
-      "type": "position",
-      "msg": "HYPE +0.34% — Quem diria, acertei uma"
     }
   ]
 }
