@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T12:05:53.693Z",
+      "time": "12:05:53",
+      "type": "position",
+      "msg": "HYPE +0.70% — Não sou eu, é o mercado que tá errado... ah não, dessa vez acertou"
+    },
+    {
+      "ts": "2026-02-14T12:05:53.427Z",
+      "time": "12:05:53",
+      "type": "position",
+      "msg": "ETH -0.00% — Tick tock, mercado..."
+    },
+    {
       "ts": "2026-02-14T12:05:23.843Z",
       "time": "12:05:23",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "11:54:53",
       "type": "position",
       "msg": "PAXG -0.06% — Enquanto não move, não perco. Stonks mental."
-    },
-    {
-      "ts": "2026-02-14T11:54:53.086Z",
-      "time": "11:54:53",
-      "type": "position",
-      "msg": "HYPE +0.60% — Print pra mostrar pros netos"
-    },
-    {
-      "ts": "2026-02-14T11:54:52.822Z",
-      "time": "11:54:52",
-      "type": "position",
-      "msg": "ETH +0.08% — O mercado tá buffering"
     }
   ]
 }
