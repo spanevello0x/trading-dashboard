@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T14:42:29.230Z",
+      "time": "14:42:29",
+      "type": "position",
+      "msg": "ETH -0.06% — Será que esqueceram dessa moeda?"
+    },
+    {
       "ts": "2026-02-14T14:41:59.703Z",
       "time": "14:41:59",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "14:39:42",
       "type": "system",
       "msg": "⚠️ Limite atingido (5/5) - FARTCOIN cancelado"
-    },
-    {
-      "ts": "2026-02-14T14:39:42.070Z",
-      "time": "14:39:42",
-      "type": "signal",
-      "msg": "🎯 LONG FARTCOIN @ $0.19 (78%) — Dessa vez vai (eu acho)"
     }
   ]
 }
