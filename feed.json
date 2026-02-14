@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T05:48:39.800Z",
+      "time": "05:48:39",
+      "type": "position",
+      "msg": "BCH -0.04% — Zona de conforto do gráfico"
+    },
+    {
       "ts": "2026-02-14T05:48:10.122Z",
       "time": "05:48:10",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "05:43:08",
       "type": "position",
       "msg": "BTC -0.36% — Pelo menos não é dinheiro de verdade... ah, espera"
-    },
-    {
-      "ts": "2026-02-14T05:42:09.913Z",
-      "time": "05:42:09",
-      "type": "position",
-      "msg": "PAXG +0.09% — Nem fede nem cheira"
     }
   ]
 }
