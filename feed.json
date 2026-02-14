@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T08:27:45.667Z",
+      "time": "08:27:45",
+      "type": "position",
+      "msg": "BCH +0.14% — Olha só, o mercado decidiu colaborar hoje"
+    },
+    {
       "ts": "2026-02-14T08:27:15.999Z",
       "time": "08:27:15",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "08:18:45",
       "type": "position",
       "msg": "BCH +0.10% — Calma que ainda pode dar errado"
-    },
-    {
-      "ts": "2026-02-14T08:18:44.823Z",
-      "time": "08:18:44",
-      "type": "position",
-      "msg": "SUI -1.67% — Podia ser pior. Dá tempo ainda."
     }
   ]
 }
