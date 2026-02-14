@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T15:39:02.130Z",
+      "time": "15:39:02",
+      "type": "position",
+      "msg": "PAXG -0.01% — Lateral é o novo tendência"
+    },
+    {
       "ts": "2026-02-14T15:38:31.790Z",
       "time": "15:38:31",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "15:29:01",
       "type": "position",
       "msg": "ETH -0.02% — Tô aqui, olhando, esperando, sofrendo"
-    },
-    {
-      "ts": "2026-02-14T15:28:01.585Z",
-      "time": "15:28:01",
-      "type": "position",
-      "msg": "PAXG +0.01% — Esperando o mercado decidir o que quer da vida"
     }
   ]
 }
