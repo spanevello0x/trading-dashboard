@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T13:13:25.888Z",
+      "time": "13:13:25",
+      "type": "position",
+      "msg": "ETH +0.03% — Tick tock, mercado..."
+    },
+    {
       "ts": "2026-02-14T13:12:56.288Z",
       "time": "13:12:56",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "13:03:48",
       "type": "signal",
       "msg": "🎯 SHORT LINK @ $8.93 (78%) — Dessa vez vai (eu acho)"
-    },
-    {
-      "ts": "2026-02-14T13:03:48.400Z",
-      "time": "13:03:48",
-      "type": "analysis",
-      "msg": "LINK no radar: 78% SHORT"
     }
   ]
 }
