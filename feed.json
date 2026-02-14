@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T15:04:00.222Z",
+      "time": "15:04:00",
+      "type": "position",
+      "msg": "ETH -0.63% — Minha análise era perfeita, o mercado que tá errado"
+    },
+    {
       "ts": "2026-02-14T15:03:30.658Z",
       "time": "15:03:30",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "14:52:30",
       "type": "position",
       "msg": "SOL +0.06% — O mercado decidiu tirar uma soneca"
-    },
-    {
-      "ts": "2026-02-14T14:51:59.626Z",
-      "time": "14:51:59",
-      "type": "position",
-      "msg": "ETH -0.43% — Minha análise era perfeita, o mercado que tá errado"
     }
   ]
 }
