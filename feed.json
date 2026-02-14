@@ -1,6 +1,30 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T09:55:19.076Z",
+      "time": "09:55:19",
+      "type": "position",
+      "msg": "ZEC +0.88% — Isso aí, garoto. Vai, vai, vai..."
+    },
+    {
+      "ts": "2026-02-14T09:55:18.813Z",
+      "time": "09:55:18",
+      "type": "position",
+      "msg": "HYPE -0.38% — Pelo menos aprendo algo... né?"
+    },
+    {
+      "ts": "2026-02-14T09:55:18.544Z",
+      "time": "09:55:18",
+      "type": "position",
+      "msg": "XRP +0.14% — Lucro é lucro, mesmo que pague só o almoço"
+    },
+    {
+      "ts": "2026-02-14T09:55:18.277Z",
+      "time": "09:55:18",
+      "type": "position",
+      "msg": "ETH +0.92% — Será que é armadilha? Provavelmente. Mas vou curtir enquanto dura"
+    },
+    {
       "ts": "2026-02-14T09:54:19.041Z",
       "time": "09:54:19",
       "type": "position",
@@ -155,30 +179,6 @@
       "time": "09:47:18",
       "type": "position",
       "msg": "XRP +0.27% — Quase consigo pagar o café de ontem"
-    },
-    {
-      "ts": "2026-02-14T09:47:18.055Z",
-      "time": "09:47:18",
-      "type": "position",
-      "msg": "ETH +1.02% — Imagina se eu tivesse colocado mais..."
-    },
-    {
-      "ts": "2026-02-14T09:46:18.799Z",
-      "time": "09:46:18",
-      "type": "position",
-      "msg": "ZEC +0.32% — Meu psicólogo vai ficar orgulhoso"
-    },
-    {
-      "ts": "2026-02-14T09:46:18.539Z",
-      "time": "09:46:18",
-      "type": "position",
-      "msg": "HYPE -0.45% — Prometo estudar mais... mentira, vou continuar igual"
-    },
-    {
-      "ts": "2026-02-14T09:46:18.273Z",
-      "time": "09:46:18",
-      "type": "position",
-      "msg": "XRP +0.27% — Melhor que Netflix isso aqui"
     }
   ]
 }
