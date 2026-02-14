@@ -1,6 +1,30 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T07:39:14.242Z",
+      "time": "07:39:14",
+      "type": "position",
+      "msg": "PAXG +0.08% — Parece até stable coin"
+    },
+    {
+      "ts": "2026-02-14T07:39:13.979Z",
+      "time": "07:39:13",
+      "type": "position",
+      "msg": "AAVE +1.09% — Imagina se eu tivesse colocado mais..."
+    },
+    {
+      "ts": "2026-02-14T07:39:13.675Z",
+      "time": "07:39:13",
+      "type": "position",
+      "msg": "BCH -0.48% — Mercado fazendo mercadisse"
+    },
+    {
+      "ts": "2026-02-14T07:39:13.409Z",
+      "time": "07:39:13",
+      "type": "position",
+      "msg": "SUI -0.68% — Meu eu do passado tomou essa decisão, problema dele"
+    },
+    {
       "ts": "2026-02-14T07:38:13.783Z",
       "time": "07:38:13",
       "type": "position",
@@ -155,30 +179,6 @@
       "time": "07:31:12",
       "type": "position",
       "msg": "SUI -0.55% — O stop tá ali por um motivo, né"
-    },
-    {
-      "ts": "2026-02-14T07:30:44.278Z",
-      "time": "07:30:44",
-      "type": "position",
-      "msg": "PAXG +0.07% — A calmaria antes da tempestade... ou mais calmaria"
-    },
-    {
-      "ts": "2026-02-14T07:30:44.004Z",
-      "time": "07:30:44",
-      "type": "position",
-      "msg": "AAVE +0.75% — O mercado me ama (por enquanto)"
-    },
-    {
-      "ts": "2026-02-14T07:29:43.861Z",
-      "time": "07:29:43",
-      "type": "position",
-      "msg": "PAXG +0.11% — Será que é armadilha? Provavelmente. Mas vou curtir enquanto dura"
-    },
-    {
-      "ts": "2026-02-14T07:29:43.598Z",
-      "time": "07:29:43",
-      "type": "position",
-      "msg": "AAVE +0.70% — Não sou eu, é o mercado que tá errado... ah não, dessa vez acertou"
     }
   ]
 }
