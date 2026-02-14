@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T13:00:25.983Z",
+      "time": "13:00:25",
+      "type": "position",
+      "msg": "ZEC -0.57% — Loss building character 💪"
+    },
+    {
+      "ts": "2026-02-14T13:00:25.696Z",
+      "time": "13:00:25",
+      "type": "position",
+      "msg": "HYPE +0.05% — O mercado decidiu tirar uma soneca"
+    },
+    {
+      "ts": "2026-02-14T13:00:25.392Z",
+      "time": "13:00:25",
+      "type": "position",
+      "msg": "ETH +0.15% — Alguém avisa o mercado que eu tô comprado"
+    },
+    {
       "ts": "2026-02-14T12:59:25.619Z",
       "time": "12:59:25",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "12:54:43",
       "type": "analysis",
       "msg": "BNB no radar: 78% SHORT"
-    },
-    {
-      "ts": "2026-02-14T12:54:42.576Z",
-      "time": "12:54:42",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - VIRTUAL cancelado"
-    },
-    {
-      "ts": "2026-02-14T12:54:42.240Z",
-      "time": "12:54:42",
-      "type": "signal",
-      "msg": "🎯 SHORT VIRTUAL @ $0.67 (89%) — Essa eu senti"
-    },
-    {
-      "ts": "2026-02-14T12:54:42.239Z",
-      "time": "12:54:42",
-      "type": "analysis",
-      "msg": "Hmm, VIRTUAL mostrando sinais de SHORT (89%)"
     }
   ]
 }
