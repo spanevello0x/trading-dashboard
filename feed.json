@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T05:33:08.952Z",
+      "time": "05:33:08",
+      "type": "position",
+      "msg": "HYPE +0.52% — Verde combina comigo"
+    },
+    {
+      "ts": "2026-02-14T05:33:08.131Z",
+      "time": "05:33:08",
+      "type": "position",
+      "msg": "BTC -0.34% — Isso é um teste de caráter, com certeza"
+    },
+    {
       "ts": "2026-02-14T05:32:40.450Z",
       "time": "05:32:40",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "05:27:37",
       "type": "position",
       "msg": "BTC -0.29% — Vermelho é a minha cor favorita agora"
-    },
-    {
-      "ts": "2026-02-14T05:26:38.178Z",
-      "time": "05:26:38",
-      "type": "position",
-      "msg": "BNB -0.25% — Sabia que não devia ter olhado"
-    },
-    {
-      "ts": "2026-02-14T05:26:37.918Z",
-      "time": "05:26:37",
-      "type": "position",
-      "msg": "BTC -0.27% — Quem mandou confiar em linha colorida"
     }
   ]
 }
