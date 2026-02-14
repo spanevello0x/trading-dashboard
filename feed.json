@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T13:54:57.733Z",
+      "time": "13:54:57",
+      "type": "position",
+      "msg": "SOL +0.00% — A calmaria antes da tempestade... ou mais calmaria"
+    },
+    {
       "ts": "2026-02-14T13:54:28.012Z",
       "time": "13:54:28",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "13:43:56",
       "type": "position",
       "msg": "ETH +0.16% — Calma que ainda pode dar errado"
-    },
-    {
-      "ts": "2026-02-14T13:42:57.458Z",
-      "time": "13:42:57",
-      "type": "position",
-      "msg": "HYPE +1.27% — Verde combina comigo"
     }
   ]
 }
