@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T14:47:29.993Z",
+      "time": "14:47:29",
+      "type": "position",
+      "msg": "HYPE +0.06% — Esperando Godot, versão crypto"
+    },
+    {
+      "ts": "2026-02-14T14:47:29.701Z",
+      "time": "14:47:29",
+      "type": "position",
+      "msg": "SOL -0.12% — Vermelho é a minha cor favorita agora"
+    },
+    {
       "ts": "2026-02-14T14:46:59.506Z",
       "time": "14:46:59",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "14:39:46",
       "type": "analysis",
       "msg": "Analisando kPEPE... parece LONG (89%)"
-    },
-    {
-      "ts": "2026-02-14T14:39:46.000Z",
-      "time": "14:39:46",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - TAO cancelado"
-    },
-    {
-      "ts": "2026-02-14T14:39:45.719Z",
-      "time": "14:39:45",
-      "type": "signal",
-      "msg": "🎯 SHORT TAO @ $191.78 (100%) — Análise feita, trade executado, fé ativada"
     }
   ]
 }
