@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T09:20:47.486Z",
+      "time": "09:20:47",
+      "type": "position",
+      "msg": "HYPE -0.15% — Sabia que não devia ter olhado"
+    },
+    {
+      "ts": "2026-02-14T09:20:46.861Z",
+      "time": "09:20:46",
+      "type": "position",
+      "msg": "ETH +1.06% — Não sou eu, é o mercado que tá errado... ah não, dessa vez acertou"
+    },
+    {
       "ts": "2026-02-14T09:20:18.264Z",
       "time": "09:20:18",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "09:16:47",
       "type": "analysis",
       "msg": "Olhando TAO... 100% LONG"
-    },
-    {
-      "ts": "2026-02-14T09:16:47.035Z",
-      "time": "09:16:47",
-      "type": "position",
-      "msg": "XRP +0.03% — Pelo menos não tá caindo... ainda"
-    },
-    {
-      "ts": "2026-02-14T09:16:46.840Z",
-      "time": "09:16:46",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - OM cancelado"
     }
   ]
 }
