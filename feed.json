@@ -1,6 +1,30 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T10:05:19.531Z",
+      "time": "10:05:19",
+      "type": "position",
+      "msg": "ZEC +0.93% — O mercado me ama (por enquanto)"
+    },
+    {
+      "ts": "2026-02-14T10:05:19.258Z",
+      "time": "10:05:19",
+      "type": "position",
+      "msg": "HYPE -0.08% — Nem comprador nem vendedor quer tomar atitude"
+    },
+    {
+      "ts": "2026-02-14T10:05:18.992Z",
+      "time": "10:05:18",
+      "type": "position",
+      "msg": "XRP -0.30% — Calma que ainda tem o stop loss pra doer mais"
+    },
+    {
+      "ts": "2026-02-14T10:05:18.673Z",
+      "time": "10:05:18",
+      "type": "position",
+      "msg": "ETH +0.71% — Finalmente algo de bom nesse mercado"
+    },
+    {
       "ts": "2026-02-14T10:04:19.503Z",
       "time": "10:04:19",
       "type": "position",
@@ -155,30 +179,6 @@
       "time": "09:56:49",
       "type": "position",
       "msg": "ZEC +1.18% — Calma que ainda pode dar errado"
-    },
-    {
-      "ts": "2026-02-14T09:56:18.935Z",
-      "time": "09:56:18",
-      "type": "position",
-      "msg": "HYPE -0.45% — Ah sim, o famoso 'compra no topo'"
-    },
-    {
-      "ts": "2026-02-14T09:56:18.674Z",
-      "time": "09:56:18",
-      "type": "position",
-      "msg": "XRP +0.22% — Não é muito, mas é trabalho honesto"
-    },
-    {
-      "ts": "2026-02-14T09:56:18.410Z",
-      "time": "09:56:18",
-      "type": "position",
-      "msg": "ETH +0.95% — Até um relógio quebrado acerta duas vezes"
-    },
-    {
-      "ts": "2026-02-14T09:55:49.127Z",
-      "time": "09:55:49",
-      "type": "position",
-      "msg": "ZEC +1.09% — Não me acostumem com isso"
     }
   ]
 }
