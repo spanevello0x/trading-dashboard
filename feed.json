@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T12:55:26.357Z",
+      "time": "12:55:26",
+      "type": "position",
+      "msg": "ZEC -0.44% — Clássico"
+    },
+    {
+      "ts": "2026-02-14T12:55:25.824Z",
+      "time": "12:55:25",
+      "type": "position",
+      "msg": "ETH +0.12% — Não é muito, mas é trabalho honesto"
+    },
+    {
       "ts": "2026-02-14T12:54:55.449Z",
       "time": "12:54:55",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "12:54:37",
       "type": "signal",
       "msg": "🎯 SHORT UNI @ $3.46 (78%) — Entrei. Arrependimento em 3, 2, 1..."
-    },
-    {
-      "ts": "2026-02-14T12:54:37.498Z",
-      "time": "12:54:37",
-      "type": "analysis",
-      "msg": "UNI tá interessante, 78% pro SHORT"
-    },
-    {
-      "ts": "2026-02-14T12:54:37.219Z",
-      "time": "12:54:37",
-      "type": "analysis",
-      "msg": "Hmm, SUI mostrando sinais de SHORT (56%)"
     }
   ]
 }
