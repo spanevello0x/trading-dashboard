@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T14:14:58.883Z",
+      "time": "14:14:58",
+      "type": "position",
+      "msg": "HYPE +0.81% — Alguém avisa o mercado que eu tô comprado"
+    },
+    {
       "ts": "2026-02-14T14:14:28.366Z",
       "time": "14:14:28",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "14:02:28",
       "type": "position",
       "msg": "SOL -0.09% — Nem comprador nem vendedor quer tomar atitude"
-    },
-    {
-      "ts": "2026-02-14T14:02:27.791Z",
-      "time": "14:02:27",
-      "type": "position",
-      "msg": "ETH +0.15% — Até um relógio quebrado acerta duas vezes"
     }
   ]
 }
