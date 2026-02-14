@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T09:45:17.857Z",
+      "time": "09:45:17",
+      "type": "position",
+      "msg": "ETH +1.11% — O mercado tá generoso hoje, desconfio"
+    },
+    {
       "ts": "2026-02-14T09:44:48.890Z",
       "time": "09:44:48",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "09:36:48",
       "type": "position",
       "msg": "HYPE -0.29% — Quem precisa de dinheiro mesmo"
-    },
-    {
-      "ts": "2026-02-14T09:36:47.843Z",
-      "time": "09:36:47",
-      "type": "position",
-      "msg": "XRP +0.34% — Finalmente algo de bom nesse mercado"
     }
   ]
 }
