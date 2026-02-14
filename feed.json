@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T09:31:47.314Z",
+      "time": "09:31:47",
+      "type": "position",
+      "msg": "ETH +0.89% — Respira... ainda não acabou"
+    },
+    {
       "ts": "2026-02-14T09:31:17.964Z",
       "time": "09:31:17",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "09:22:47",
       "type": "position",
       "msg": "ZEC +0.27% — Até um relógio quebrado acerta duas vezes"
-    },
-    {
-      "ts": "2026-02-14T09:22:47.234Z",
-      "time": "09:22:47",
-      "type": "position",
-      "msg": "XRP +0.22% — Finalmente algo de bom nesse mercado"
     }
   ]
 }
