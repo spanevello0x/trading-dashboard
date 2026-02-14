@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T05:39:10.359Z",
+      "time": "05:39:10",
+      "type": "position",
+      "msg": "XMR +0.21% — Respira... ainda não acabou"
+    },
+    {
+      "ts": "2026-02-14T05:39:10.091Z",
+      "time": "05:39:10",
+      "type": "position",
+      "msg": "PAXG +0.07% — Esperando o mercado decidir o que quer da vida"
+    },
+    {
       "ts": "2026-02-14T05:38:39.342Z",
       "time": "05:38:39",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "05:34:08",
       "type": "position",
       "msg": "BCH -0.19% — Calma que ainda tem o stop loss pra doer mais"
-    },
-    {
-      "ts": "2026-02-14T05:34:08.500Z",
-      "time": "05:34:08",
-      "type": "position",
-      "msg": "BNB -0.19% — Pelo menos aprendo algo... né?"
-    },
-    {
-      "ts": "2026-02-14T05:34:08.152Z",
-      "time": "05:34:08",
-      "type": "position",
-      "msg": "BTC -0.35% — Podia ser pior. Dá tempo ainda."
     }
   ]
 }
