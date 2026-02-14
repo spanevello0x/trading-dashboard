@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T15:32:31.975Z",
+      "time": "15:32:31",
+      "type": "position",
+      "msg": "PAXG -0.02% — Pregado no entry como se tivesse cola"
+    },
+    {
       "ts": "2026-02-14T15:32:01.515Z",
       "time": "15:32:01",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "15:25:18",
       "type": "system",
       "msg": "⚠️ Limite atingido (5/5) - BNB cancelado"
-    },
-    {
-      "ts": "2026-02-14T15:25:18.122Z",
-      "time": "15:25:18",
-      "type": "signal",
-      "msg": "🎯 LONG BNB @ $635.86 (89%) — Dessa vez vai (eu acho)"
     }
   ]
 }
