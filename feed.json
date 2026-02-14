@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T07:46:13.300Z",
+      "time": "07:46:13",
+      "type": "position",
+      "msg": "SUI -0.79% — Pelo menos não é dinheiro de verdade... ah, espera"
+    },
+    {
       "ts": "2026-02-14T07:45:43.790Z",
       "time": "07:45:43",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "07:37:13",
       "type": "position",
       "msg": "PAXG +0.08% — Esperando Godot, versão crypto"
-    },
-    {
-      "ts": "2026-02-14T07:37:13.416Z",
-      "time": "07:37:13",
-      "type": "position",
-      "msg": "AAVE +1.01% — Será que é armadilha? Provavelmente. Mas vou curtir enquanto dura"
     }
   ]
 }
