@@ -333,8 +333,8 @@
       return fills.filter(f => f.time >= cutoff);
     }
     
-    // Atualiza visual dos botões de período
-    function setChartPeriod(period) {
+    // Atualiza visual dos botões de período (global para onclick)
+    window.setChartPeriod = function(period) {
       currentPeriod = period;
       
       // Atualiza visual dos botões
