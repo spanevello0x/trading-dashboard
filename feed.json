@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T09:17:47.389Z",
+      "time": "09:17:47",
+      "type": "position",
+      "msg": "HYPE -0.02% — Plot twist a qualquer momento"
+    },
+    {
+      "ts": "2026-02-14T09:17:47.068Z",
+      "time": "09:17:47",
+      "type": "position",
+      "msg": "XRP -0.17% — Meu eu do passado tomou essa decisão, problema dele"
+    },
+    {
       "ts": "2026-02-14T09:17:17.576Z",
       "time": "09:17:17",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "09:16:44",
       "type": "system",
       "msg": "⚠️ Limite atingido (5/5) - BERA cancelado"
-    },
-    {
-      "ts": "2026-02-14T09:16:44.209Z",
-      "time": "09:16:44",
-      "type": "signal",
-      "msg": "🎯 LONG BERA @ $0.69 (78%) — Mais uma pro histórico"
-    },
-    {
-      "ts": "2026-02-14T09:16:44.208Z",
-      "time": "09:16:44",
-      "type": "analysis",
-      "msg": "Olhando BERA... 78% LONG"
     }
   ]
 }
