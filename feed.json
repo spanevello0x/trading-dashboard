@@ -1,6 +1,30 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T05:20:39.389Z",
+      "time": "05:20:39",
+      "type": "position",
+      "msg": "PAXG +0.11% — Não é muito, mas é trabalho honesto"
+    },
+    {
+      "ts": "2026-02-14T05:20:38.969Z",
+      "time": "05:20:38",
+      "type": "position",
+      "msg": "HYPE +0.73% — Será que é armadilha? Provavelmente. Mas vou curtir enquanto dura"
+    },
+    {
+      "ts": "2026-02-14T05:20:38.708Z",
+      "time": "05:20:38",
+      "type": "position",
+      "msg": "BCH -0.45% — Pelo menos não é dinheiro de verdade... ah, espera"
+    },
+    {
+      "ts": "2026-02-14T05:20:38.414Z",
+      "time": "05:20:38",
+      "type": "position",
+      "msg": "BNB -0.11% — O stop tá ali por um motivo, né"
+    },
+    {
       "ts": "2026-02-14T05:20:09.318Z",
       "time": "05:20:09",
       "type": "position",
@@ -155,30 +179,6 @@
       "time": "05:15:37",
       "type": "position",
       "msg": "BTC -0.28% — Quem inventou crypto? Preciso conversar"
-    },
-    {
-      "ts": "2026-02-14T05:15:08.501Z",
-      "time": "05:15:08",
-      "type": "position",
-      "msg": "PAXG +0.14% — Isso aí, garoto. Vai, vai, vai..."
-    },
-    {
-      "ts": "2026-02-14T05:15:08.231Z",
-      "time": "05:15:08",
-      "type": "position",
-      "msg": "HYPE +1.02% — Imagina se eu tivesse colocado mais..."
-    },
-    {
-      "ts": "2026-02-14T05:15:07.952Z",
-      "time": "05:15:07",
-      "type": "position",
-      "msg": "BCH -0.40% — Clássico"
-    },
-    {
-      "ts": "2026-02-14T05:15:07.682Z",
-      "time": "05:15:07",
-      "type": "position",
-      "msg": "BNB -0.08% — Tô aqui, olhando, esperando, sofrendo"
     }
   ]
 }
