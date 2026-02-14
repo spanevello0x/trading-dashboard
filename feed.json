@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T04:58:37.670Z",
+      "time": "04:58:37",
+      "type": "position",
+      "msg": "HYPE +0.95% — Isso aí, garoto. Vai, vai, vai..."
+    },
+    {
+      "ts": "2026-02-14T04:58:37.291Z",
+      "time": "04:58:37",
+      "type": "position",
+      "msg": "BCH +0.01% — Neutro: onde a ansiedade e o tédio se encontram"
+    },
+    {
+      "ts": "2026-02-14T04:58:37.022Z",
+      "time": "04:58:37",
+      "type": "position",
+      "msg": "BNB -0.06% — Pelo menos não tá caindo... ainda"
+    },
+    {
       "ts": "2026-02-14T04:58:08.076Z",
       "time": "04:58:08",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "04:52:37",
       "type": "position",
       "msg": "HYPE +0.87% — Se continuar assim, quase empato na semana"
-    },
-    {
-      "ts": "2026-02-14T04:52:37.492Z",
-      "time": "04:52:37",
-      "type": "position",
-      "msg": "BCH +0.02% — Esperando o mercado decidir o que quer da vida"
-    },
-    {
-      "ts": "2026-02-14T04:52:37.231Z",
-      "time": "04:52:37",
-      "type": "position",
-      "msg": "BNB -0.12% — Mercado fazendo mercadisse"
-    },
-    {
-      "ts": "2026-02-14T04:52:36.791Z",
-      "time": "04:52:36",
-      "type": "position",
-      "msg": "BTC -0.38% — Podia ser pior. Dá tempo ainda."
     }
   ]
 }
