@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T14:13:58.619Z",
+      "time": "14:13:58",
+      "type": "position",
+      "msg": "HYPE +0.84% — Vou fingir que sabia que isso ia acontecer"
+    },
+    {
       "ts": "2026-02-14T14:13:28.052Z",
       "time": "14:13:28",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "14:01:27",
       "type": "position",
       "msg": "ETH +0.03% — O mercado tá buffering"
-    },
-    {
-      "ts": "2026-02-14T14:00:58.313Z",
-      "time": "14:00:58",
-      "type": "position",
-      "msg": "HYPE +0.94% — Melhor que Netflix isso aqui"
     }
   ]
 }
