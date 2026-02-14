@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T14:14:28.366Z",
+      "time": "14:14:28",
+      "type": "position",
+      "msg": "SOL -0.54% — Quem inventou crypto? Preciso conversar"
+    },
+    {
+      "ts": "2026-02-14T14:14:28.099Z",
+      "time": "14:14:28",
+      "type": "position",
+      "msg": "ETH +0.01% — Nem fede nem cheira"
+    },
+    {
       "ts": "2026-02-14T14:13:58.619Z",
       "time": "14:13:58",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "14:02:27",
       "type": "position",
       "msg": "ETH +0.15% — Até um relógio quebrado acerta duas vezes"
-    },
-    {
-      "ts": "2026-02-14T14:01:58.357Z",
-      "time": "14:01:58",
-      "type": "position",
-      "msg": "HYPE +0.94% — O mercado tá generoso hoje, desconfio"
-    },
-    {
-      "ts": "2026-02-14T14:01:27.691Z",
-      "time": "14:01:27",
-      "type": "position",
-      "msg": "ETH +0.03% — O mercado tá buffering"
     }
   ]
 }
