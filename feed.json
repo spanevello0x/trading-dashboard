@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T09:59:19.767Z",
+      "time": "09:59:19",
+      "type": "position",
+      "msg": "ZEC +1.07% — O mercado me ama (por enquanto)"
+    },
+    {
       "ts": "2026-02-14T09:58:49.257Z",
       "time": "09:58:49",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "09:51:18",
       "type": "position",
       "msg": "XRP -0.01% — Tick tock, mercado..."
-    },
-    {
-      "ts": "2026-02-14T09:51:18.138Z",
-      "time": "09:51:18",
-      "type": "position",
-      "msg": "ETH +0.95% — Não é muito, mas é trabalho honesto"
     }
   ]
 }
