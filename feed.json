@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T15:37:02.026Z",
+      "time": "15:37:02",
+      "type": "position",
+      "msg": "PAXG -0.01% — Dormiu no ponto"
+    },
+    {
       "ts": "2026-02-14T15:36:31.745Z",
       "time": "15:36:31",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "15:26:31",
       "type": "position",
       "msg": "ETH +0.03% — Tô aqui, olhando, esperando, sofrendo"
-    },
-    {
-      "ts": "2026-02-14T15:26:01.225Z",
-      "time": "15:26:01",
-      "type": "position",
-      "msg": "SOL +0.59% — Meu psicólogo vai ficar orgulhoso"
     }
   ]
 }
