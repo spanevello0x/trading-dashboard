@@ -1,6 +1,42 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T05:47:10.081Z",
+      "time": "05:47:10",
+      "type": "position",
+      "msg": "XMR +0.24% — Obrigado universo, tava precisando"
+    },
+    {
+      "ts": "2026-02-14T05:47:09.816Z",
+      "time": "05:47:09",
+      "type": "position",
+      "msg": "PAXG +0.09% — Dormiu no ponto"
+    },
+    {
+      "ts": "2026-02-14T05:47:09.555Z",
+      "time": "05:47:09",
+      "type": "position",
+      "msg": "HYPE +0.97% — Alguém avisa o mercado que eu tô comprado"
+    },
+    {
+      "ts": "2026-02-14T05:47:09.293Z",
+      "time": "05:47:09",
+      "type": "position",
+      "msg": "BCH -0.05% — Esperando Godot, versão crypto"
+    },
+    {
+      "ts": "2026-02-14T05:47:08.942Z",
+      "time": "05:47:08",
+      "type": "position",
+      "msg": "BNB -0.13% — Quem mandou confiar em linha colorida"
+    },
+    {
+      "ts": "2026-02-14T05:47:08.678Z",
+      "time": "05:47:08",
+      "type": "position",
+      "msg": "BTC -0.36% — Quem inventou crypto? Preciso conversar"
+    },
+    {
       "ts": "2026-02-14T05:45:40.083Z",
       "time": "05:45:40",
       "type": "position",
@@ -143,42 +179,6 @@
       "time": "05:41:40",
       "type": "position",
       "msg": "XMR +0.18% — Melhor que Netflix isso aqui"
-    },
-    {
-      "ts": "2026-02-14T05:41:09.260Z",
-      "time": "05:41:09",
-      "type": "position",
-      "msg": "HYPE +0.91% — Tá verde? Tira print rápido antes que vire"
-    },
-    {
-      "ts": "2026-02-14T05:41:08.984Z",
-      "time": "05:41:08",
-      "type": "position",
-      "msg": "BCH -0.06% — Neutro: onde a ansiedade e o tédio se encontram"
-    },
-    {
-      "ts": "2026-02-14T05:41:08.710Z",
-      "time": "05:41:08",
-      "type": "position",
-      "msg": "BNB -0.06% — O gráfico tá meditando"
-    },
-    {
-      "ts": "2026-02-14T05:41:08.442Z",
-      "time": "05:41:08",
-      "type": "position",
-      "msg": "BTC -0.40% — Pelo menos não é dinheiro de verdade... ah, espera"
-    },
-    {
-      "ts": "2026-02-14T05:40:39.719Z",
-      "time": "05:40:39",
-      "type": "position",
-      "msg": "PAXG +0.08% — Esperando Godot, versão crypto"
-    },
-    {
-      "ts": "2026-02-14T05:40:10.368Z",
-      "time": "05:40:10",
-      "type": "position",
-      "msg": "XMR +0.28% — Será que é armadilha? Provavelmente. Mas vou curtir enquanto dura"
     }
   ]
 }
