@@ -1,6 +1,36 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T07:05:42.616Z",
+      "time": "07:05:42",
+      "type": "position",
+      "msg": "PAXG +0.04% — Neutro: onde a ansiedade e o tédio se encontram"
+    },
+    {
+      "ts": "2026-02-14T07:05:42.349Z",
+      "time": "07:05:42",
+      "type": "position",
+      "msg": "AAVE +0.10% — Nem pra cima nem pra baixo. Ansiedade infinita."
+    },
+    {
+      "ts": "2026-02-14T07:05:42.088Z",
+      "time": "07:05:42",
+      "type": "position",
+      "msg": "BCH -0.31% — Vermelho é a minha cor favorita agora"
+    },
+    {
+      "ts": "2026-02-14T07:05:41.824Z",
+      "time": "07:05:41",
+      "type": "position",
+      "msg": "SUI -0.34% — Loss building character 💪"
+    },
+    {
+      "ts": "2026-02-14T07:05:41.559Z",
+      "time": "07:05:41",
+      "type": "position",
+      "msg": "BTC -0.23% — Vou culpar a lua, deve ser lua cheia"
+    },
+    {
       "ts": "2026-02-14T07:04:42.567Z",
       "time": "07:04:42",
       "type": "position",
@@ -149,36 +179,6 @@
       "time": "07:00:32",
       "type": "analysis",
       "msg": "MOODENG no radar: 56% LONG"
-    },
-    {
-      "ts": "2026-02-14T07:00:31.530Z",
-      "time": "07:00:31",
-      "type": "analysis",
-      "msg": "Olhando kPEPE... 67% SHORT"
-    },
-    {
-      "ts": "2026-02-14T07:00:30.605Z",
-      "time": "07:00:30",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - TAO cancelado"
-    },
-    {
-      "ts": "2026-02-14T07:00:30.331Z",
-      "time": "07:00:30",
-      "type": "signal",
-      "msg": "🎯 LONG TAO @ $193.55 (89%) — Bora, confia no pai"
-    },
-    {
-      "ts": "2026-02-14T07:00:30.331Z",
-      "time": "07:00:30",
-      "type": "analysis",
-      "msg": "Analisando TAO... parece LONG (89%)"
-    },
-    {
-      "ts": "2026-02-14T07:00:30.053Z",
-      "time": "07:00:30",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - OM cancelado"
     }
   ]
 }
