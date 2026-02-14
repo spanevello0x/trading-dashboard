@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T12:32:54.723Z",
+      "time": "12:32:54",
+      "type": "position",
+      "msg": "HYPE -0.47% — Não é prejuízo se eu não vender... ah, tem stop"
+    },
+    {
       "ts": "2026-02-14T12:32:25.052Z",
       "time": "12:32:25",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "12:21:24",
       "type": "position",
       "msg": "HYPE -0.31% — Mais um dia normal no crypto"
-    },
-    {
-      "ts": "2026-02-14T12:20:54.653Z",
-      "time": "12:20:54",
-      "type": "position",
-      "msg": "PAXG -0.02% — Nem comprador nem vendedor quer tomar atitude"
     }
   ]
 }
