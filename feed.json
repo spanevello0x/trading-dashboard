@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T08:55:16.006Z",
+      "time": "08:55:16",
+      "type": "position",
+      "msg": "ETH +1.03% — Finalmente algo de bom nesse mercado"
+    },
+    {
       "ts": "2026-02-14T08:54:46.771Z",
       "time": "08:54:46",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "08:46:45",
       "type": "position",
       "msg": "ETH +0.89% — Finalmente algo de bom nesse mercado"
-    },
-    {
-      "ts": "2026-02-14T08:46:16.241Z",
-      "time": "08:46:16",
-      "type": "position",
-      "msg": "BCH +0.98% — O mercado me ama (por enquanto)"
     }
   ]
 }
