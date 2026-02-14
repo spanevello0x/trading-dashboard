@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T05:11:38.203Z",
+      "time": "05:11:38",
+      "type": "position",
+      "msg": "BCH +0.02% — Tédio lucrativo ou tédio prejuízo? A definir."
+    },
+    {
       "ts": "2026-02-14T05:11:09.085Z",
       "time": "05:11:09",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "05:05:37",
       "type": "position",
       "msg": "BNB -0.02% — O gráfico tá meditando"
-    },
-    {
-      "ts": "2026-02-14T05:05:36.998Z",
-      "time": "05:05:36",
-      "type": "position",
-      "msg": "BTC -0.34% — Não é prejuízo se eu não vender... ah, tem stop"
     }
   ]
 }
