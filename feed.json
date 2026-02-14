@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T07:14:12.423Z",
+      "time": "07:14:12",
+      "type": "position",
+      "msg": "AAVE +0.25% — Respira... ainda não acabou"
+    },
+    {
+      "ts": "2026-02-14T07:14:12.160Z",
+      "time": "07:14:12",
+      "type": "position",
+      "msg": "BCH -0.34% — O gráfico parecia tão bonito..."
+    },
+    {
       "ts": "2026-02-14T07:13:42.791Z",
       "time": "07:13:42",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "07:06:42",
       "type": "position",
       "msg": "PAXG +0.04% — Tédio lucrativo ou tédio prejuízo? A definir."
-    },
-    {
-      "ts": "2026-02-14T07:06:42.366Z",
-      "time": "07:06:42",
-      "type": "position",
-      "msg": "AAVE +0.12% — Calma que ainda pode dar errado"
-    },
-    {
-      "ts": "2026-02-14T07:06:42.097Z",
-      "time": "07:06:42",
-      "type": "position",
-      "msg": "BCH -0.33% — Ah sim, o famoso 'compra no topo'"
     }
   ]
 }
