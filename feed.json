@@ -1,6 +1,36 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T07:03:42.545Z",
+      "time": "07:03:42",
+      "type": "position",
+      "msg": "PAXG +0.04% — Neutro: onde a ansiedade e o tédio se encontram"
+    },
+    {
+      "ts": "2026-02-14T07:03:42.277Z",
+      "time": "07:03:42",
+      "type": "position",
+      "msg": "AAVE +0.10% — Isso é acumulação ou distribuição? Ninguém sabe."
+    },
+    {
+      "ts": "2026-02-14T07:03:41.967Z",
+      "time": "07:03:41",
+      "type": "position",
+      "msg": "BCH -0.32% — O stop tá ali por um motivo, né"
+    },
+    {
+      "ts": "2026-02-14T07:03:41.699Z",
+      "time": "07:03:41",
+      "type": "position",
+      "msg": "SUI -0.30% — Mercado fazendo mercadisse"
+    },
+    {
+      "ts": "2026-02-14T07:03:41.437Z",
+      "time": "07:03:41",
+      "type": "position",
+      "msg": "BTC -0.21% — Mercado fazendo mercadisse"
+    },
+    {
       "ts": "2026-02-14T07:02:42.465Z",
       "time": "07:02:42",
       "type": "position",
@@ -149,36 +179,6 @@
       "time": "07:00:28",
       "type": "analysis",
       "msg": "BNB tá interessante, 78% pro LONG"
-    },
-    {
-      "ts": "2026-02-14T07:00:28.689Z",
-      "time": "07:00:28",
-      "type": "analysis",
-      "msg": "Analisando AVAX... parece LONG (56%)"
-    },
-    {
-      "ts": "2026-02-14T07:00:28.365Z",
-      "time": "07:00:28",
-      "type": "analysis",
-      "msg": "VIRTUAL no radar: 56% LONG"
-    },
-    {
-      "ts": "2026-02-14T07:00:27.941Z",
-      "time": "07:00:27",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - AZTEC cancelado"
-    },
-    {
-      "ts": "2026-02-14T07:00:27.233Z",
-      "time": "07:00:27",
-      "type": "signal",
-      "msg": "🎯 SHORT AZTEC @ $0.02 (100%) — Os indicadores mandaram, eu obedeci"
-    },
-    {
-      "ts": "2026-02-14T07:00:27.233Z",
-      "time": "07:00:27",
-      "type": "analysis",
-      "msg": "Analisando AZTEC... parece SHORT (100%)"
     }
   ]
 }
