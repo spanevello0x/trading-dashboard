@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T14:52:59.650Z",
+      "time": "14:52:59",
+      "type": "position",
+      "msg": "ETH -0.52% — O stop tá ali por um motivo, né"
+    },
+    {
       "ts": "2026-02-14T14:52:30.382Z",
       "time": "14:52:30",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "14:41:29",
       "type": "position",
       "msg": "SOL -0.14% — Pelo menos não é dinheiro de verdade... ah, espera"
-    },
-    {
-      "ts": "2026-02-14T14:41:29.171Z",
-      "time": "14:41:29",
-      "type": "position",
-      "msg": "ETH -0.07% — O gráfico tá meditando"
     }
   ]
 }
