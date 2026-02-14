@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T04:54:06.791Z",
+      "time": "04:54:06",
+      "type": "position",
+      "msg": "BNB -0.08% — Se mexer muito, assusta"
+    },
+    {
+      "ts": "2026-02-14T04:54:06.515Z",
+      "time": "04:54:06",
+      "type": "position",
+      "msg": "BTC -0.41% — Pelo menos não apostei a casa... dessa vez"
+    },
+    {
       "ts": "2026-02-14T04:53:38.678Z",
       "time": "04:53:38",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "04:49:36",
       "type": "position",
       "msg": "BTC -0.35% — Quem precisa de dinheiro mesmo"
-    },
-    {
-      "ts": "2026-02-14T04:48:37.595Z",
-      "time": "04:48:37",
-      "type": "position",
-      "msg": "XMR +0.85% — Será que é armadilha? Provavelmente. Mas vou curtir enquanto dura"
-    },
-    {
-      "ts": "2026-02-14T04:48:37.330Z",
-      "time": "04:48:37",
-      "type": "position",
-      "msg": "PAXG +0.20% — Print pra mostrar pros netos"
     }
   ]
 }
