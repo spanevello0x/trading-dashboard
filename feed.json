@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T06:23:41.410Z",
+      "time": "06:23:41",
+      "type": "position",
+      "msg": "XMR +0.62% — Melhor que Netflix isso aqui"
+    },
+    {
       "ts": "2026-02-14T06:23:11.258Z",
       "time": "06:23:11",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "06:17:40",
       "type": "position",
       "msg": "BNB -0.02% — Se mexer muito, assusta"
-    },
-    {
-      "ts": "2026-02-14T06:17:40.080Z",
-      "time": "06:17:40",
-      "type": "position",
-      "msg": "BTC -0.36% — Podia ser pior. Dá tempo ainda."
     }
   ]
 }
