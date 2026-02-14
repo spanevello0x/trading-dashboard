@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T10:21:50.787Z",
+      "time": "10:21:50",
+      "type": "position",
+      "msg": "ZEC +1.01% — Stonks 📈 (desculpa, não resisti)"
+    },
+    {
       "ts": "2026-02-14T10:21:19.920Z",
       "time": "10:21:19",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "10:12:49",
       "type": "position",
       "msg": "HYPE -0.37% — Meu eu do passado tomou essa decisão, problema dele"
-    },
-    {
-      "ts": "2026-02-14T10:12:49.237Z",
-      "time": "10:12:49",
-      "type": "position",
-      "msg": "XRP -0.17% — Prometo estudar mais... mentira, vou continuar igual"
     }
   ]
 }
