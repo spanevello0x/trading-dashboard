@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T15:37:31.764Z",
+      "time": "15:37:31",
+      "type": "position",
+      "msg": "SOL +0.10% — Verde combina comigo"
+    },
+    {
+      "ts": "2026-02-14T15:37:31.485Z",
+      "time": "15:37:31",
+      "type": "position",
+      "msg": "ETH -0.19% — Prometo estudar mais... mentira, vou continuar igual"
+    },
+    {
       "ts": "2026-02-14T15:37:02.026Z",
       "time": "15:37:02",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "15:27:01",
       "type": "position",
       "msg": "PAXG +0.00% — Dormiu no ponto"
-    },
-    {
-      "ts": "2026-02-14T15:27:01.265Z",
-      "time": "15:27:01",
-      "type": "position",
-      "msg": "SOL +0.43% — Meu psicólogo vai ficar orgulhoso"
-    },
-    {
-      "ts": "2026-02-14T15:26:31.024Z",
-      "time": "15:26:31",
-      "type": "position",
-      "msg": "ETH +0.03% — Tô aqui, olhando, esperando, sofrendo"
     }
   ]
 }
