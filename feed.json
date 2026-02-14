@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T11:55:23.188Z",
+      "time": "11:55:23",
+      "type": "position",
+      "msg": "HYPE +0.82% — Olha só, o mercado decidiu colaborar hoje"
+    },
+    {
       "ts": "2026-02-14T11:54:53.349Z",
       "time": "11:54:53",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "11:47:11",
       "type": "signal",
       "msg": "🎯 LONG ARB @ $0.12 (89%) — Análise feita, trade executado, fé ativada"
-    },
-    {
-      "ts": "2026-02-14T11:47:11.820Z",
-      "time": "11:47:11",
-      "type": "analysis",
-      "msg": "ARB tá interessante, 89% pro LONG"
     }
   ]
 }
