@@ -324,17 +324,107 @@
     }
     
     function generateThoughts(positions, mids) {
-      const msgs = {
-        profit_high: ["{coin} 🚀 +{pnl}% voando!", "{coin} explodindo +{pnl}%!", "💰 {coin} +{pnl}%!"],
-        profit_med: ["{coin} +{pnl}% 📈", "Bom! {coin} +{pnl}%", "{coin} subindo +{pnl}%"],
-        profit_low: ["{coin} +{pnl}%", "Verde em {coin} +{pnl}%"],
-        loss_low: ["{coin} {pnl}%", "{coin} {pnl}% aguardando"],
-        loss_med: ["😬 {coin} {pnl}%", "{coin} caindo {pnl}%"],
-        loss_high: ["⚠️ {coin} {pnl}%!", "🔴 {coin} {pnl}%"]
-      };
-      
+      // Pensamentos sarcásticos - 30 por humor
+      const bullish = [
+        "Olha só, o mercado decidiu colaborar hoje",
+        "Quem diria, acertei uma",
+        "Não me acostumem com isso",
+        "Tá bom demais pra ser verdade... ops, não deveria falar isso",
+        "Stonks 📈 (desculpa, não resisti)",
+        "Meu psicólogo vai ficar orgulhoso",
+        "Finalmente algo de bom nesse mercado",
+        "Verde combina comigo",
+        "Será que é armadilha? Provavelmente. Mas vou curtir enquanto dura",
+        "Até um relógio quebrado acerta duas vezes",
+        "Não sou eu, é o mercado que tá errado... ah não, dessa vez acertou",
+        "Print pra mostrar pros netos",
+        "Quase consigo pagar o café de ontem",
+        "O mercado me ama (por enquanto)",
+        "Tá subindo? Deixa eu não olhar pra não dar azar",
+        "Calma que ainda pode dar errado",
+        "Isso aí, garoto. Vai, vai, vai...",
+        "Vou fingir que sabia que isso ia acontecer",
+        "Alguém avisa o mercado que eu tô comprado",
+        "Melhor que Netflix isso aqui",
+        "Não é muito, mas é trabalho honesto",
+        "Se continuar assim, quase empato na semana",
+        "Respira... ainda não acabou",
+        "Tá verde? Tira print rápido antes que vire",
+        "Obrigado universo, tava precisando",
+        "Imagina se eu tivesse colocado mais...",
+        "Vou comemorar quando fechar. Talvez.",
+        "O mercado tá generoso hoje, desconfio",
+        "Será que alguém sabe algo que eu não sei? Sempre sabem.",
+        "Lucro é lucro, mesmo que pague só o almoço"
+      ];
+
+      const bearish = [
+        "Clássico",
+        "Sabia que não devia ter olhado",
+        "O mercado escolheu violência hoje",
+        "Pelo menos não é dinheiro de verdade... ah, espera",
+        "Tá bom, universo, entendi o recado",
+        "Mais um dia normal no crypto",
+        "Quem mandou confiar em linha colorida",
+        "Respira... é só número na tela",
+        "Podia ser pior. Dá tempo ainda.",
+        "O stop tá ali por um motivo, né",
+        "Mercado fazendo mercadisse",
+        "Ah sim, o famoso 'compra no topo'",
+        "Minha análise era perfeita, o mercado que tá errado",
+        "Pelo menos aprendo algo... né?",
+        "Vermelho é a minha cor favorita agora",
+        "Não é prejuízo se eu não vender... ah, tem stop",
+        "Quem precisa de dinheiro mesmo",
+        "O gráfico parecia tão bonito...",
+        "Isso é um teste de caráter, com certeza",
+        "Amanhã é outro dia (espero)",
+        "Calma que ainda tem o stop loss pra doer mais",
+        "Vou culpar a lua, deve ser lua cheia",
+        "Pelo menos não apostei a casa... dessa vez",
+        "O mercado acordou e escolheu me machucar",
+        "Tá difícil defender essa entrada",
+        "Prometo estudar mais... mentira, vou continuar igual",
+        "Quem inventou crypto? Preciso conversar",
+        "Meu eu do passado tomou essa decisão, problema dele",
+        "Loss building character 💪",
+        "Pelo menos o stop existe. Graças a Deus pelo stop."
+      ];
+
+      const neutral = [
+        "Tá ali, existindo",
+        "O mercado tá pensando...",
+        "Nem pra cima nem pra baixo. Ansiedade infinita.",
+        "Esperando o mercado decidir o que quer da vida",
+        "Lateral é o novo tendência",
+        "Tick tock, mercado...",
+        "Será que esqueceram dessa moeda?",
+        "O gráfico tá meditando",
+        "Consolidação ou indecisão? Sim.",
+        "Tô aqui, olhando, esperando, sofrendo",
+        "O mercado foi tomar café, já volta",
+        "Nem fede nem cheira",
+        "Plot twist a qualquer momento",
+        "A calmaria antes da tempestade... ou mais calmaria",
+        "Enquanto não move, não perco. Stonks mental.",
+        "Pregado no entry como se tivesse cola",
+        "O mercado tá no modo avião",
+        "Dormiu no ponto",
+        "Isso é acumulação ou distribuição? Ninguém sabe.",
+        "Vai, faz alguma coisa",
+        "Tédio lucrativo ou tédio prejuízo? A definir.",
+        "Pelo menos não tá caindo... ainda",
+        "O mercado tá buffering",
+        "Zona de conforto do gráfico",
+        "Nem comprador nem vendedor quer tomar atitude",
+        "Parece até stable coin",
+        "Esperando Godot, versão crypto",
+        "Se mexer muito, assusta",
+        "Neutro: onde a ansiedade e o tédio se encontram",
+        "O mercado decidiu tirar uma soneca"
+      ];
+
       const pick = arr => arr[Math.floor(Math.random() * arr.length)];
-      const fill = (t, v) => t.replace('{coin}', v.coin).replace('{pnl}', v.pnl);
       
       for (const p of positions) {
         const coin = p.position.coin;
@@ -346,18 +436,22 @@
         const key = `pos_${coin}`;
         const last = prevData[key];
         
-        if (last === undefined || Math.abs(pnlPct - last) >= 0.25) {
+        // Só atualiza se mudou >0.2% ou é primeira vez
+        if (last === undefined || Math.abs(pnlPct - last) >= 0.2) {
           prevData[key] = pnlPct;
           
-          let cat;
-          if (pnlPct >= 1.2) cat = 'profit_high';
-          else if (pnlPct >= 0.4) cat = 'profit_med';
-          else if (pnlPct >= 0) cat = 'profit_low';
-          else if (pnlPct >= -0.5) cat = 'loss_low';
-          else if (pnlPct >= -0.8) cat = 'loss_med';
-          else cat = 'loss_high';
+          let thought;
+          const pnlStr = pnlPct >= 0 ? `+${pnlPct.toFixed(2)}%` : `${pnlPct.toFixed(2)}%`;
           
-          addThought(fill(pick(msgs[cat]), { coin, pnl: pnlPct.toFixed(2) }));
+          if (pnlPct > 0.1) {
+            thought = pick(bullish);
+          } else if (pnlPct < -0.1) {
+            thought = pick(bearish);
+          } else {
+            thought = pick(neutral);
+          }
+          
+          addThought(`${coin} ${pnlStr} — ${thought}`);
         }
       }
     }
