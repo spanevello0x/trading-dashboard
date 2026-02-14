@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T13:30:26.659Z",
+      "time": "13:30:26",
+      "type": "position",
+      "msg": "SOL +0.22% — Não é muito, mas é trabalho honesto"
+    },
+    {
+      "ts": "2026-02-14T13:30:26.395Z",
+      "time": "13:30:26",
+      "type": "position",
+      "msg": "ETH +0.20% — Será que alguém sabe algo que eu não sei? Sempre sabem."
+    },
+    {
       "ts": "2026-02-14T13:29:56.920Z",
       "time": "13:29:56",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "13:19:26",
       "type": "position",
       "msg": "SOL -0.19% — Pelo menos aprendo algo... né?"
-    },
-    {
-      "ts": "2026-02-14T13:18:56.965Z",
-      "time": "13:18:56",
-      "type": "position",
-      "msg": "HYPE +0.69% — Não é muito, mas é trabalho honesto"
-    },
-    {
-      "ts": "2026-02-14T13:18:56.021Z",
-      "time": "13:18:56",
-      "type": "position",
-      "msg": "ETH +0.27% — Vou fingir que sabia que isso ia acontecer"
     }
   ]
 }
