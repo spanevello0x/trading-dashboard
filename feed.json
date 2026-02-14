@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T15:23:31.932Z",
+      "time": "15:23:31",
+      "type": "position",
+      "msg": "HYPE +0.17% — Verde combina comigo"
+    },
+    {
+      "ts": "2026-02-14T15:23:31.118Z",
+      "time": "15:23:31",
+      "type": "position",
+      "msg": "SOL +0.36% — Melhor que Netflix isso aqui"
+    },
+    {
       "ts": "2026-02-14T15:22:31.513Z",
       "time": "15:22:31",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "15:20:16",
       "type": "analysis",
       "msg": "AZTEC no radar: 89% LONG"
-    },
-    {
-      "ts": "2026-02-14T15:20:16.186Z",
-      "time": "15:20:16",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - DOGE cancelado"
-    },
-    {
-      "ts": "2026-02-14T15:20:15.909Z",
-      "time": "15:20:15",
-      "type": "signal",
-      "msg": "🎯 LONG DOGE @ $0.10 (100%) — Os indicadores mandaram, eu obedeci"
     }
   ]
 }
