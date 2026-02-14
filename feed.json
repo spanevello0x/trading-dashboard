@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T08:26:15.946Z",
+      "time": "08:26:15",
+      "type": "position",
+      "msg": "PAXG +0.05% — O mercado tá pensando..."
+    },
+    {
       "ts": "2026-02-14T08:25:45.433Z",
       "time": "08:25:45",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "08:17:15",
       "type": "position",
       "msg": "SUI -1.66% — O mercado escolheu violência hoje"
-    },
-    {
-      "ts": "2026-02-14T08:16:45.334Z",
-      "time": "08:16:45",
-      "type": "position",
-      "msg": "PAXG +0.03% — O gráfico tá meditando"
     }
   ]
 }
