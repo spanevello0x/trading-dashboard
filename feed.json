@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T11:05:21.761Z",
+      "time": "11:05:21",
+      "type": "position",
+      "msg": "ZEC +0.56% — Respira... ainda não acabou"
+    },
+    {
       "ts": "2026-02-14T11:04:51.711Z",
       "time": "11:04:51",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "10:56:50",
       "type": "position",
       "msg": "XRP -0.41% — Prometo estudar mais... mentira, vou continuar igual"
-    },
-    {
-      "ts": "2026-02-14T10:56:21.378Z",
-      "time": "10:56:21",
-      "type": "position",
-      "msg": "ZEC +0.47% — Tá subindo? Deixa eu não olhar pra não dar azar"
     }
   ]
 }
