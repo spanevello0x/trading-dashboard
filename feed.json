@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T09:34:17.998Z",
+      "time": "09:34:17",
+      "type": "position",
+      "msg": "HYPE -0.01% — O mercado tá pensando..."
+    },
+    {
+      "ts": "2026-02-14T09:34:17.733Z",
+      "time": "09:34:17",
+      "type": "position",
+      "msg": "XRP -0.02% — Nem pra cima nem pra baixo. Ansiedade infinita."
+    },
+    {
       "ts": "2026-02-14T09:33:48.203Z",
       "time": "09:33:48",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "09:26:17",
       "type": "position",
       "msg": "XRP +0.19% — Se continuar assim, quase empato na semana"
-    },
-    {
-      "ts": "2026-02-14T09:25:47.125Z",
-      "time": "09:25:47",
-      "type": "position",
-      "msg": "ETH +0.83% — Melhor que Netflix isso aqui"
-    },
-    {
-      "ts": "2026-02-14T09:25:17.907Z",
-      "time": "09:25:17",
-      "type": "position",
-      "msg": "ZEC +0.41% — Vou fingir que sabia que isso ia acontecer"
     }
   ]
 }
