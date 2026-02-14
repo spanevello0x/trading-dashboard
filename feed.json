@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T09:56:49.200Z",
+      "time": "09:56:49",
+      "type": "position",
+      "msg": "ZEC +1.18% — Calma que ainda pode dar errado"
+    },
+    {
       "ts": "2026-02-14T09:56:18.935Z",
       "time": "09:56:18",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "09:48:48",
       "type": "position",
       "msg": "XRP +0.37% — Alguém avisa o mercado que eu tô comprado"
-    },
-    {
-      "ts": "2026-02-14T09:48:48.125Z",
-      "time": "09:48:48",
-      "type": "position",
-      "msg": "ETH +1.04% — Stonks 📈 (desculpa, não resisti)"
     }
   ]
 }
