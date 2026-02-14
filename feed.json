@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T12:41:55.199Z",
+      "time": "12:41:55",
+      "type": "position",
+      "msg": "ZEC -0.18% — Loss building character 💪"
+    },
+    {
+      "ts": "2026-02-14T12:41:54.656Z",
+      "time": "12:41:54",
+      "type": "position",
+      "msg": "HYPE -0.74% — Tá difícil defender essa entrada"
+    },
+    {
       "ts": "2026-02-14T12:40:54.942Z",
       "time": "12:40:54",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "12:40:06",
       "type": "analysis",
       "msg": "UNI tá interessante, 56% pro SHORT"
-    },
-    {
-      "ts": "2026-02-14T12:40:05.592Z",
-      "time": "12:40:05",
-      "type": "analysis",
-      "msg": "SUI tá interessante, 56% pro SHORT"
-    },
-    {
-      "ts": "2026-02-14T12:40:05.256Z",
-      "time": "12:40:05",
-      "type": "analysis",
-      "msg": "PUMP no radar: 56% LONG"
     }
   ]
 }
