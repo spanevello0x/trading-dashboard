@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T06:59:42.290Z",
+      "time": "06:59:42",
+      "type": "position",
+      "msg": "TAO +1.91% — Melhor que Netflix isso aqui"
+    },
+    {
+      "ts": "2026-02-14T06:59:41.288Z",
+      "time": "06:59:41",
+      "type": "position",
+      "msg": "BTC -0.21% — Ah sim, o famoso 'compra no topo'"
+    },
+    {
       "ts": "2026-02-14T06:58:43.200Z",
       "time": "06:58:43",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "06:52:42",
       "type": "position",
       "msg": "PAXG -0.00% — O mercado foi tomar café, já volta"
-    },
-    {
-      "ts": "2026-02-14T06:52:41.967Z",
-      "time": "06:52:41",
-      "type": "position",
-      "msg": "TAO +0.91% — Não sou eu, é o mercado que tá errado... ah não, dessa vez acertou"
-    },
-    {
-      "ts": "2026-02-14T06:52:41.697Z",
-      "time": "06:52:41",
-      "type": "position",
-      "msg": "BCH -0.16% — Calma que ainda tem o stop loss pra doer mais"
     }
   ]
 }
