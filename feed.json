@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T09:13:47.587Z",
+      "time": "09:13:47",
+      "type": "position",
+      "msg": "PAXG +0.03% — Esperando o mercado decidir o que quer da vida"
+    },
+    {
+      "ts": "2026-02-14T09:13:47.313Z",
+      "time": "09:13:47",
+      "type": "position",
+      "msg": "BCH +0.52% — Lucro é lucro, mesmo que pague só o almoço"
+    },
+    {
+      "ts": "2026-02-14T09:13:46.786Z",
+      "time": "09:13:46",
+      "type": "position",
+      "msg": "ETH +1.01% — Tá subindo? Deixa eu não olhar pra não dar azar"
+    },
+    {
       "ts": "2026-02-14T09:13:16.956Z",
       "time": "09:13:16",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "09:06:16",
       "type": "position",
       "msg": "ETH +1.37% — Não me acostumem com isso"
-    },
-    {
-      "ts": "2026-02-14T09:05:17.210Z",
-      "time": "09:05:17",
-      "type": "position",
-      "msg": "PAXG +0.01% — A calmaria antes da tempestade... ou mais calmaria"
-    },
-    {
-      "ts": "2026-02-14T09:05:16.942Z",
-      "time": "09:05:16",
-      "type": "position",
-      "msg": "BCH +0.86% — Alguém avisa o mercado que eu tô comprado"
-    },
-    {
-      "ts": "2026-02-14T09:05:16.568Z",
-      "time": "09:05:16",
-      "type": "position",
-      "msg": "SUI -2.75% — Pelo menos não apostei a casa... dessa vez"
     }
   ]
 }
