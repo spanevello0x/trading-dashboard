@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T05:02:38.433Z",
+      "time": "05:02:38",
+      "type": "position",
+      "msg": "XMR +0.09% — Tick tock, mercado..."
+    },
+    {
+      "ts": "2026-02-14T05:02:37.618Z",
+      "time": "05:02:37",
+      "type": "position",
+      "msg": "BCH +0.09% — O mercado tá no modo avião"
+    },
+    {
       "ts": "2026-02-14T05:02:08.293Z",
       "time": "05:02:08",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "04:57:07",
       "type": "position",
       "msg": "HYPE +0.87% — Tá subindo? Deixa eu não olhar pra não dar azar"
-    },
-    {
-      "ts": "2026-02-14T04:57:07.303Z",
-      "time": "04:57:07",
-      "type": "position",
-      "msg": "BCH +0.02% — Tô aqui, olhando, esperando, sofrendo"
-    },
-    {
-      "ts": "2026-02-14T04:57:07.041Z",
-      "time": "04:57:07",
-      "type": "position",
-      "msg": "BNB -0.07% — Isso é acumulação ou distribuição? Ninguém sabe."
     }
   ]
 }
