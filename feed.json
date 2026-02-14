@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T05:25:38.067Z",
+      "time": "05:25:38",
+      "type": "position",
+      "msg": "BNB -0.26% — Calma que ainda tem o stop loss pra doer mais"
+    },
+    {
+      "ts": "2026-02-14T05:25:37.806Z",
+      "time": "05:25:37",
+      "type": "position",
+      "msg": "BTC -0.27% — Tá bom, universo, entendi o recado"
+    },
+    {
       "ts": "2026-02-14T05:24:39.365Z",
       "time": "05:24:39",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "05:19:38",
       "type": "position",
       "msg": "HYPE +0.69% — Calma que ainda pode dar errado"
-    },
-    {
-      "ts": "2026-02-14T05:19:38.262Z",
-      "time": "05:19:38",
-      "type": "position",
-      "msg": "BCH -0.48% — Prometo estudar mais... mentira, vou continuar igual"
-    },
-    {
-      "ts": "2026-02-14T05:19:37.994Z",
-      "time": "05:19:37",
-      "type": "position",
-      "msg": "BNB -0.14% — Sabia que não devia ter olhado"
     }
   ]
 }
