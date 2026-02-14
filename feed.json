@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T10:32:20.237Z",
+      "time": "10:32:20",
+      "type": "position",
+      "msg": "PAXG -0.00% — O mercado decidiu tirar uma soneca"
+    },
+    {
+      "ts": "2026-02-14T10:32:19.977Z",
+      "time": "10:32:19",
+      "type": "position",
+      "msg": "HYPE -0.48% — Ah sim, o famoso 'compra no topo'"
+    },
+    {
+      "ts": "2026-02-14T10:32:19.711Z",
+      "time": "10:32:19",
+      "type": "position",
+      "msg": "XRP -0.32% — Clássico"
+    },
+    {
       "ts": "2026-02-14T10:31:20.544Z",
       "time": "10:31:20",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "10:24:19",
       "type": "position",
       "msg": "PAXG +0.01% — Neutro: onde a ansiedade e o tédio se encontram"
-    },
-    {
-      "ts": "2026-02-14T10:24:19.648Z",
-      "time": "10:24:19",
-      "type": "position",
-      "msg": "HYPE -0.30% — O mercado acordou e escolheu me machucar"
-    },
-    {
-      "ts": "2026-02-14T10:24:19.388Z",
-      "time": "10:24:19",
-      "type": "position",
-      "msg": "XRP -0.48% — Meu eu do passado tomou essa decisão, problema dele"
-    },
-    {
-      "ts": "2026-02-14T10:24:09.725Z",
-      "time": "10:24:09",
-      "type": "analysis",
-      "msg": "Olhando JUP... 56% LONG"
     }
   ]
 }
