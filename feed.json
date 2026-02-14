@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T12:58:25.516Z",
+      "time": "12:58:25",
+      "type": "position",
+      "msg": "HYPE -0.11% — Tá bom, universo, entendi o recado"
+    },
+    {
       "ts": "2026-02-14T12:57:55.773Z",
       "time": "12:57:55",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "12:54:41",
       "type": "analysis",
       "msg": "Analisando BERA... parece SHORT (89%)"
-    },
-    {
-      "ts": "2026-02-14T12:54:39.814Z",
-      "time": "12:54:39",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - FARTCOIN cancelado"
     }
   ]
 }
