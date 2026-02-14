@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T12:39:25.130Z",
+      "time": "12:39:25",
+      "type": "position",
+      "msg": "PAXG -0.05% — O mercado tá pensando..."
+    },
+    {
+      "ts": "2026-02-14T12:39:24.854Z",
+      "time": "12:39:24",
+      "type": "position",
+      "msg": "HYPE -0.67% — Calma que ainda tem o stop loss pra doer mais"
+    },
+    {
+      "ts": "2026-02-14T12:39:24.586Z",
+      "time": "12:39:24",
+      "type": "position",
+      "msg": "ETH -0.97% — Loss building character 💪"
+    },
+    {
       "ts": "2026-02-14T12:38:24.782Z",
       "time": "12:38:24",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "12:28:24",
       "type": "position",
       "msg": "HYPE -0.43% — Vou culpar a lua, deve ser lua cheia"
-    },
-    {
-      "ts": "2026-02-14T12:28:24.276Z",
-      "time": "12:28:24",
-      "type": "position",
-      "msg": "ETH -0.23% — Meu eu do passado tomou essa decisão, problema dele"
-    },
-    {
-      "ts": "2026-02-14T12:26:54.830Z",
-      "time": "12:26:54",
-      "type": "position",
-      "msg": "PAXG -0.06% — Esperando Godot, versão crypto"
-    },
-    {
-      "ts": "2026-02-14T12:26:54.562Z",
-      "time": "12:26:54",
-      "type": "position",
-      "msg": "HYPE -0.47% — Meu eu do passado tomou essa decisão, problema dele"
     }
   ]
 }
