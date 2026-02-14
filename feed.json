@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T13:58:28.107Z",
+      "time": "13:58:28",
+      "type": "position",
+      "msg": "HYPE +1.22% — Imagina se eu tivesse colocado mais..."
+    },
+    {
+      "ts": "2026-02-14T13:58:27.534Z",
+      "time": "13:58:27",
+      "type": "position",
+      "msg": "ETH +0.16% — Melhor que Netflix isso aqui"
+    },
+    {
       "ts": "2026-02-14T13:57:57.824Z",
       "time": "13:57:57",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "13:46:27",
       "type": "position",
       "msg": "HYPE +1.07% — Será que alguém sabe algo que eu não sei? Sempre sabem."
-    },
-    {
-      "ts": "2026-02-14T13:46:27.428Z",
-      "time": "13:46:27",
-      "type": "position",
-      "msg": "SOL -0.18% — Quem inventou crypto? Preciso conversar"
-    },
-    {
-      "ts": "2026-02-14T13:46:27.166Z",
-      "time": "13:46:27",
-      "type": "position",
-      "msg": "ETH +0.07% — Esperando Godot, versão crypto"
     }
   ]
 }
