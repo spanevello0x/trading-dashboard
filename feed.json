@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T15:00:30.431Z",
+      "time": "15:00:30",
+      "type": "position",
+      "msg": "ETH -0.52% — Mais um dia normal no crypto"
+    },
+    {
       "ts": "2026-02-14T15:00:00.469Z",
       "time": "15:00:00",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "14:48:59",
       "type": "position",
       "msg": "SOL -0.11% — O stop tá ali por um motivo, né"
-    },
-    {
-      "ts": "2026-02-14T14:47:59.601Z",
-      "time": "14:47:59",
-      "type": "position",
-      "msg": "ETH -0.12% — Pelo menos o stop existe. Graças a Deus pelo stop."
     }
   ]
 }
