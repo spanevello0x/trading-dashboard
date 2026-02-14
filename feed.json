@@ -1,6 +1,36 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T06:31:41.867Z",
+      "time": "06:31:41",
+      "type": "position",
+      "msg": "XMR +0.32% — Não é muito, mas é trabalho honesto"
+    },
+    {
+      "ts": "2026-02-14T06:31:41.437Z",
+      "time": "06:31:41",
+      "type": "position",
+      "msg": "PAXG +0.16% — Tá bom demais pra ser verdade... ops, não deveria falar isso"
+    },
+    {
+      "ts": "2026-02-14T06:31:41.169Z",
+      "time": "06:31:41",
+      "type": "position",
+      "msg": "HYPE +1.23% — Olha só, o mercado decidiu colaborar hoje"
+    },
+    {
+      "ts": "2026-02-14T06:31:40.898Z",
+      "time": "06:31:40",
+      "type": "position",
+      "msg": "BCH -0.19% — Tá difícil defender essa entrada"
+    },
+    {
+      "ts": "2026-02-14T06:31:40.633Z",
+      "time": "06:31:40",
+      "type": "position",
+      "msg": "BNB -0.11% — Tá difícil defender essa entrada"
+    },
+    {
       "ts": "2026-02-14T06:31:10.335Z",
       "time": "06:31:10",
       "type": "position",
@@ -149,36 +179,6 @@
       "time": "06:25:41",
       "type": "position",
       "msg": "XMR +0.36% — Verde combina comigo"
-    },
-    {
-      "ts": "2026-02-14T06:25:11.327Z",
-      "time": "06:25:11",
-      "type": "position",
-      "msg": "PAXG +0.16% — Olha só, o mercado decidiu colaborar hoje"
-    },
-    {
-      "ts": "2026-02-14T06:25:11.062Z",
-      "time": "06:25:11",
-      "type": "position",
-      "msg": "HYPE +1.38% — O mercado me ama (por enquanto)"
-    },
-    {
-      "ts": "2026-02-14T06:25:10.794Z",
-      "time": "06:25:10",
-      "type": "position",
-      "msg": "BCH -0.05% — A calmaria antes da tempestade... ou mais calmaria"
-    },
-    {
-      "ts": "2026-02-14T06:25:10.494Z",
-      "time": "06:25:10",
-      "type": "position",
-      "msg": "BNB -0.00% — Será que esqueceram dessa moeda?"
-    },
-    {
-      "ts": "2026-02-14T06:25:10.217Z",
-      "time": "06:25:10",
-      "type": "position",
-      "msg": "BTC -0.35% — Pelo menos o stop existe. Graças a Deus pelo stop."
     }
   ]
 }
