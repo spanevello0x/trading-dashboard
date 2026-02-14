@@ -197,11 +197,13 @@
   <script>
     const WALLET = '0x4FFf1187E66b66bC8E31886F2b861f951736a276';
     const HL_API = 'https://api.hyperliquid.xyz/info';
+    const FEED_URL = 'https://raw.githubusercontent.com/spanevello0x/trading-dashboard/main/feed.json';
     const INITIAL_CAPITAL = 15.52;
     
     let feedItems = [];
     let prevData = {};
     let pnlChart = null;
+    let lastFeedTs = '';
     
     // Formatters
     const fmt = (n, d=2) => '$' + parseFloat(n).toFixed(d);
@@ -212,6 +214,27 @@
     async function hlPost(body) {
       const res = await fetch(HL_API, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(body) });
       return res.json();
+    }
+    
+    // Carrega feed do GitHub (persistido pelo bot)
+    async function loadFeedFromGithub() {
+      try {
+        const res = await fetch(FEED_URL + '?t=' + Date.now()); // Cache bust
+        if (res.ok) {
+          const data = await res.json();
+          if (data.feed && data.feed.length > 0) {
+            // Só atualiza se tiver dados novos
+            const newTs = data.feed[0]?.ts || '';
+            if (newTs !== lastFeedTs) {
+              lastFeedTs = newTs;
+              feedItems = data.feed.map(f => ({ time: f.time, msg: f.msg }));
+              document.getElementById('thought-count').textContent = feedItems.length;
+            }
+          }
+        }
+      } catch (e) {
+        console.log('Feed fallback to local generation');
+      }
     }
     
     function addThought(msg) {
@@ -491,6 +514,9 @@
     
     async function fetchData() {
       try {
+        // Carrega feed do GitHub primeiro
+        await loadFeedFromGithub();
+        
         const [account, mids, fills] = await Promise.all([
           hlPost({ type: 'clearinghouseState', user: WALLET }),
           hlPost({ type: 'allMids' }),
@@ -521,8 +547,11 @@
         // Chart
         updateChart(fills || []);
         
-        // Thoughts
-        generateThoughts(positions, mids);
+        // Thoughts - agora vem do GitHub via loadFeedFromGithub()
+        // generateThoughts só é fallback se GitHub falhar
+        if (feedItems.length === 0) {
+          generateThoughts(positions, mids);
+        }
         
         // Positions
         const posEl = document.getElementById('positions');
