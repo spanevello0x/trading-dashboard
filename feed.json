@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T05:03:37.194Z",
+      "time": "05:03:37",
+      "type": "position",
+      "msg": "BNB -0.03% — Lateral é o novo tendência"
+    },
+    {
+      "ts": "2026-02-14T05:03:36.927Z",
+      "time": "05:03:36",
+      "type": "position",
+      "msg": "BTC -0.35% — Respira... é só número na tela"
+    },
+    {
       "ts": "2026-02-14T05:03:08.650Z",
       "time": "05:03:08",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "04:58:37",
       "type": "position",
       "msg": "BNB -0.06% — Pelo menos não tá caindo... ainda"
-    },
-    {
-      "ts": "2026-02-14T04:58:08.076Z",
-      "time": "04:58:08",
-      "type": "position",
-      "msg": "XMR +0.46% — Meu psicólogo vai ficar orgulhoso"
-    },
-    {
-      "ts": "2026-02-14T04:58:07.778Z",
-      "time": "04:58:07",
-      "type": "position",
-      "msg": "PAXG +0.23% — Será que é armadilha? Provavelmente. Mas vou curtir enquanto dura"
     }
   ]
 }
