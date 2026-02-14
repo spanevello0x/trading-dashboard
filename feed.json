@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T08:05:44.846Z",
+      "time": "08:05:44",
+      "type": "position",
+      "msg": "PAXG +0.00% — Neutro: onde a ansiedade e o tédio se encontram"
+    },
+    {
+      "ts": "2026-02-14T08:05:44.577Z",
+      "time": "08:05:44",
+      "type": "position",
+      "msg": "BCH +0.23% — Não sou eu, é o mercado que tá errado... ah não, dessa vez acertou"
+    },
+    {
       "ts": "2026-02-14T08:05:14.275Z",
       "time": "08:05:14",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "07:56:44",
       "type": "position",
       "msg": "PAXG -0.01% — Consolidação ou indecisão? Sim."
-    },
-    {
-      "ts": "2026-02-14T07:56:44.211Z",
-      "time": "07:56:44",
-      "type": "position",
-      "msg": "BCH -0.15% — O stop tá ali por um motivo, né"
-    },
-    {
-      "ts": "2026-02-14T07:56:43.947Z",
-      "time": "07:56:43",
-      "type": "position",
-      "msg": "SUI -0.89% — Clássico"
     }
   ]
 }
