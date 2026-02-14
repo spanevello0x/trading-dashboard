@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T07:21:13.588Z",
+      "time": "07:21:13",
+      "type": "position",
+      "msg": "PAXG +0.06% — Neutro: onde a ansiedade e o tédio se encontram"
+    },
+    {
+      "ts": "2026-02-14T07:21:12.817Z",
+      "time": "07:21:12",
+      "type": "position",
+      "msg": "AAVE +0.16% — Será que alguém sabe algo que eu não sei? Sempre sabem."
+    },
+    {
+      "ts": "2026-02-14T07:21:12.243Z",
+      "time": "07:21:12",
+      "type": "position",
+      "msg": "SUI -0.30% — Prometo estudar mais... mentira, vou continuar igual"
+    },
+    {
       "ts": "2026-02-14T07:20:42.503Z",
       "time": "07:20:42",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "07:12:42",
       "type": "position",
       "msg": "AAVE +0.24% — Meu psicólogo vai ficar orgulhoso"
-    },
-    {
-      "ts": "2026-02-14T07:12:42.136Z",
-      "time": "07:12:42",
-      "type": "position",
-      "msg": "BCH -0.30% — O mercado acordou e escolheu me machucar"
-    },
-    {
-      "ts": "2026-02-14T07:12:41.843Z",
-      "time": "07:12:41",
-      "type": "position",
-      "msg": "SUI -0.40% — Pelo menos não é dinheiro de verdade... ah, espera"
-    },
-    {
-      "ts": "2026-02-14T07:11:41.507Z",
-      "time": "07:11:41",
-      "type": "system",
-      "msg": "⏰ BTC expirou (30 candles) — Cancelando"
     }
   ]
 }
