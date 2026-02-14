@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T15:41:32.116Z",
+      "time": "15:41:32",
+      "type": "position",
+      "msg": "PAXG -0.03% — Consolidação ou indecisão? Sim."
+    },
+    {
       "ts": "2026-02-14T15:41:01.974Z",
       "time": "15:41:01",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "15:31:01",
       "type": "position",
       "msg": "ETH -0.04% — Nem pra cima nem pra baixo. Ansiedade infinita."
-    },
-    {
-      "ts": "2026-02-14T15:30:31.682Z",
-      "time": "15:30:31",
-      "type": "position",
-      "msg": "PAXG -0.02% — Será que esqueceram dessa moeda?"
     }
   ]
 }
