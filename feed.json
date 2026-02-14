@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T08:02:14.417Z",
+      "time": "08:02:14",
+      "type": "position",
+      "msg": "BCH +0.05% — Esperando Godot, versão crypto"
+    },
+    {
       "ts": "2026-02-14T08:01:14.697Z",
       "time": "08:01:14",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "07:53:43",
       "type": "position",
       "msg": "SUI -0.85% — Sabia que não devia ter olhado"
-    },
-    {
-      "ts": "2026-02-14T07:53:43.619Z",
-      "time": "07:53:43",
-      "type": "position",
-      "msg": "ETH -0.05% — Esperando Godot, versão crypto"
     }
   ]
 }
