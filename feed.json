@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T15:11:31.364Z",
+      "time": "15:11:31",
+      "type": "position",
+      "msg": "HYPE +0.09% — Esperando Godot, versão crypto"
+    },
+    {
+      "ts": "2026-02-14T15:11:30.780Z",
+      "time": "15:11:30",
+      "type": "position",
+      "msg": "ETH -0.41% — Quem inventou crypto? Preciso conversar"
+    },
+    {
       "ts": "2026-02-14T15:11:00.647Z",
       "time": "15:11:00",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "15:00:00",
       "type": "position",
       "msg": "HYPE +0.15% — Respira... ainda não acabou"
-    },
-    {
-      "ts": "2026-02-14T15:00:00.204Z",
-      "time": "15:00:00",
-      "type": "position",
-      "msg": "SOL +0.13% — Tá verde? Tira print rápido antes que vire"
-    },
-    {
-      "ts": "2026-02-14T14:59:29.977Z",
-      "time": "14:59:29",
-      "type": "position",
-      "msg": "ETH -0.57% — Mais um dia normal no crypto"
     }
   ]
 }
