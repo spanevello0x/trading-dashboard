@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T15:35:31.661Z",
+      "time": "15:35:31",
+      "type": "position",
+      "msg": "SOL +0.40% — Não me acostumem com isso"
+    },
+    {
+      "ts": "2026-02-14T15:35:31.395Z",
+      "time": "15:35:31",
+      "type": "position",
+      "msg": "ETH -0.00% — O mercado tá buffering"
+    },
+    {
       "ts": "2026-02-14T15:34:32.492Z",
       "time": "15:34:32",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "15:25:22",
       "type": "signal",
       "msg": "🎯 LONG JUP @ $0.16 (100%) — Bora, confia no pai"
-    },
-    {
-      "ts": "2026-02-14T15:25:21.915Z",
-      "time": "15:25:21",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - LINK cancelado"
-    },
-    {
-      "ts": "2026-02-14T15:25:21.644Z",
-      "time": "15:25:21",
-      "type": "signal",
-      "msg": "🎯 LONG LINK @ $9.04 (100%) — Vamo ver no que dá"
     }
   ]
 }
