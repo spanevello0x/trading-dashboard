@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T09:56:18.935Z",
+      "time": "09:56:18",
+      "type": "position",
+      "msg": "HYPE -0.45% — Ah sim, o famoso 'compra no topo'"
+    },
+    {
+      "ts": "2026-02-14T09:56:18.674Z",
+      "time": "09:56:18",
+      "type": "position",
+      "msg": "XRP +0.22% — Não é muito, mas é trabalho honesto"
+    },
+    {
+      "ts": "2026-02-14T09:56:18.410Z",
+      "time": "09:56:18",
+      "type": "position",
+      "msg": "ETH +0.95% — Até um relógio quebrado acerta duas vezes"
+    },
+    {
       "ts": "2026-02-14T09:55:49.127Z",
       "time": "09:55:49",
       "type": "position",
@@ -161,24 +179,6 @@
       "time": "09:48:48",
       "type": "position",
       "msg": "ETH +1.04% — Stonks 📈 (desculpa, não resisti)"
-    },
-    {
-      "ts": "2026-02-14T09:48:18.802Z",
-      "time": "09:48:18",
-      "type": "position",
-      "msg": "ZEC +0.33% — Meu psicólogo vai ficar orgulhoso"
-    },
-    {
-      "ts": "2026-02-14T09:47:18.868Z",
-      "time": "09:47:18",
-      "type": "position",
-      "msg": "ZEC +0.59% — Não é muito, mas é trabalho honesto"
-    },
-    {
-      "ts": "2026-02-14T09:47:18.589Z",
-      "time": "09:47:18",
-      "type": "position",
-      "msg": "HYPE -0.39% — O stop tá ali por um motivo, né"
     }
   ]
 }
