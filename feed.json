@@ -1,6 +1,30 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T07:38:13.783Z",
+      "time": "07:38:13",
+      "type": "position",
+      "msg": "PAXG +0.08% — Enquanto não move, não perco. Stonks mental."
+    },
+    {
+      "ts": "2026-02-14T07:38:13.511Z",
+      "time": "07:38:13",
+      "type": "position",
+      "msg": "AAVE +1.03% — Quase consigo pagar o café de ontem"
+    },
+    {
+      "ts": "2026-02-14T07:38:13.247Z",
+      "time": "07:38:13",
+      "type": "position",
+      "msg": "BCH -0.49% — Mercado fazendo mercadisse"
+    },
+    {
+      "ts": "2026-02-14T07:38:12.936Z",
+      "time": "07:38:12",
+      "type": "position",
+      "msg": "SUI -0.67% — Mais um dia normal no crypto"
+    },
+    {
       "ts": "2026-02-14T07:37:13.757Z",
       "time": "07:37:13",
       "type": "position",
@@ -155,30 +179,6 @@
       "time": "07:29:43",
       "type": "position",
       "msg": "AAVE +0.70% — Não sou eu, é o mercado que tá errado... ah não, dessa vez acertou"
-    },
-    {
-      "ts": "2026-02-14T07:29:43.333Z",
-      "time": "07:29:43",
-      "type": "position",
-      "msg": "BCH -0.35% — Respira... é só número na tela"
-    },
-    {
-      "ts": "2026-02-14T07:29:42.992Z",
-      "time": "07:29:42",
-      "type": "position",
-      "msg": "SUI -0.58% — Calma que ainda tem o stop loss pra doer mais"
-    },
-    {
-      "ts": "2026-02-14T07:28:13.853Z",
-      "time": "07:28:13",
-      "type": "position",
-      "msg": "PAXG +0.11% — Stonks 📈 (desculpa, não resisti)"
-    },
-    {
-      "ts": "2026-02-14T07:28:13.581Z",
-      "time": "07:28:13",
-      "type": "position",
-      "msg": "AAVE +0.65% — Tá bom demais pra ser verdade... ops, não deveria falar isso"
     }
   ]
 }
