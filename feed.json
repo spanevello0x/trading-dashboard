@@ -1,6 +1,30 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T07:28:13.853Z",
+      "time": "07:28:13",
+      "type": "position",
+      "msg": "PAXG +0.11% — Stonks 📈 (desculpa, não resisti)"
+    },
+    {
+      "ts": "2026-02-14T07:28:13.581Z",
+      "time": "07:28:13",
+      "type": "position",
+      "msg": "AAVE +0.65% — Tá bom demais pra ser verdade... ops, não deveria falar isso"
+    },
+    {
+      "ts": "2026-02-14T07:28:13.320Z",
+      "time": "07:28:13",
+      "type": "position",
+      "msg": "BCH -0.33% — Mercado fazendo mercadisse"
+    },
+    {
+      "ts": "2026-02-14T07:28:12.969Z",
+      "time": "07:28:12",
+      "type": "position",
+      "msg": "SUI -0.53% — Loss building character 💪"
+    },
+    {
       "ts": "2026-02-14T07:27:13.280Z",
       "time": "07:27:13",
       "type": "position",
@@ -155,30 +179,6 @@
       "time": "07:19:43",
       "type": "position",
       "msg": "AAVE +0.27% — Vou fingir que sabia que isso ia acontecer"
-    },
-    {
-      "ts": "2026-02-14T07:19:42.722Z",
-      "time": "07:19:42",
-      "type": "position",
-      "msg": "SUI -0.48% — Amanhã é outro dia (espero)"
-    },
-    {
-      "ts": "2026-02-14T07:19:12.959Z",
-      "time": "07:19:12",
-      "type": "position",
-      "msg": "BCH -0.40% — Vermelho é a minha cor favorita agora"
-    },
-    {
-      "ts": "2026-02-14T07:18:43.212Z",
-      "time": "07:18:43",
-      "type": "position",
-      "msg": "PAXG +0.06% — Tédio lucrativo ou tédio prejuízo? A definir."
-    },
-    {
-      "ts": "2026-02-14T07:18:42.946Z",
-      "time": "07:18:42",
-      "type": "position",
-      "msg": "AAVE +0.34% — Não me acostumem com isso"
     }
   ]
 }
