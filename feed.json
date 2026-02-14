@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T08:03:14.561Z",
+      "time": "08:03:14",
+      "type": "position",
+      "msg": "BCH +0.09% — Plot twist a qualquer momento"
+    },
+    {
       "ts": "2026-02-14T08:02:44.813Z",
       "time": "08:02:44",
       "type": "position",
@@ -173,12 +179,6 @@
       "time": "07:54:43",
       "type": "position",
       "msg": "SUI -0.85% — O gráfico parecia tão bonito..."
-    },
-    {
-      "ts": "2026-02-14T07:54:43.661Z",
-      "time": "07:54:43",
-      "type": "position",
-      "msg": "ETH -0.08% — Enquanto não move, não perco. Stonks mental."
     }
   ]
 }
