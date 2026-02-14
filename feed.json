@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-14T13:09:26.145Z",
+      "time": "13:09:26",
+      "type": "position",
+      "msg": "HYPE +0.10% — O mercado decidiu tirar uma soneca"
+    },
+    {
+      "ts": "2026-02-14T13:09:25.872Z",
+      "time": "13:09:25",
+      "type": "position",
+      "msg": "SOL -0.56% — Isso é um teste de caráter, com certeza"
+    },
+    {
       "ts": "2026-02-14T13:08:55.588Z",
       "time": "13:08:55",
       "type": "position",
@@ -167,18 +179,6 @@
       "time": "13:03:46",
       "type": "system",
       "msg": "⚠️ Limite atingido (5/5) - TAO cancelado"
-    },
-    {
-      "ts": "2026-02-14T13:03:45.712Z",
-      "time": "13:03:45",
-      "type": "signal",
-      "msg": "🎯 SHORT TAO @ $192.89 (100%) — Nova aposta na mesa"
-    },
-    {
-      "ts": "2026-02-14T13:03:45.711Z",
-      "time": "13:03:45",
-      "type": "analysis",
-      "msg": "TAO no radar: 100% SHORT"
     }
   ]
 }
