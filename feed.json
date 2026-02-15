@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T07:52:15.718Z",
+      "time": "07:52:15",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 ETH -0.35% — Perfeito. Agora os dois lados tão perdendo. Maravilha."
+    },
+    {
+      "ts": "2026-02-15T07:52:09.839Z",
+      "time": "07:52:09",
+      "type": "position",
+      "msg": "📈 SOL +0.85% — Meu psicólogo vai ficar orgulhoso"
+    },
+    {
+      "ts": "2026-02-15T07:52:09.570Z",
+      "time": "07:52:09",
+      "type": "position",
+      "msg": "📈 ETH -0.05% — Plot twist a qualquer momento"
+    },
+    {
       "ts": "2026-02-15T07:51:45.718Z",
       "time": "07:51:45",
       "type": "mirror-thought",
@@ -281,24 +299,6 @@
       "time": "07:39:38",
       "type": "position",
       "msg": "📈 ETH +0.07% — Pregado no entry como se tivesse cola"
-    },
-    {
-      "ts": "2026-02-15T07:39:15.685Z",
-      "time": "07:39:15",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP -0.20% — Não era pra isso acontecer. Culpa do QuickBot de alguma forma."
-    },
-    {
-      "ts": "2026-02-15T07:38:45.684Z",
-      "time": "07:38:45",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 ETH +0.48% — Se fosse fácil, qualquer um fazia. Mas só eu faço."
-    },
-    {
-      "ts": "2026-02-15T07:38:38.682Z",
-      "time": "07:38:38",
-      "type": "position",
-      "msg": "📈 SOL +1.08% — O mercado tá generoso hoje, desconfio"
     }
   ]
 }
