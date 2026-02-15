@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T03:33:24.537Z",
+      "time": "03:33:24",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC +0.32% — Ganhando dinheiro e reclamando. Multitarefa."
+    },
+    {
       "ts": "2026-02-15T03:32:58.289Z",
       "time": "03:32:58",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "03:23:54",
       "type": "mirror-thought",
       "msg": "🪞 📉 XRP -0.07% — O emocionante mundo do zero por cento"
-    },
-    {
-      "ts": "2026-02-15T03:23:24.524Z",
-      "time": "03:23:24",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 ETH -0.11% — Se o QuickBot não tivesse... ah, deixa pra lá"
     }
   ]
 }
