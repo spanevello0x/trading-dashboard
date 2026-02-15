@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T03:53:58.935Z",
+      "time": "03:53:58",
+      "type": "position",
+      "msg": "📉 ETH +0.44% — Imagina se eu tivesse colocado mais..."
+    },
+    {
+      "ts": "2026-02-15T03:53:55.102Z",
+      "time": "03:53:55",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC +0.10% — Esperando o próximo desastre ou milagre. Tanto faz."
+    },
+    {
       "ts": "2026-02-15T03:53:29.267Z",
       "time": "03:53:29",
       "type": "position",
@@ -287,18 +299,6 @@
       "time": "03:41:28",
       "type": "position",
       "msg": "📉 ETH +1.24% — Obrigado universo, tava precisando"
-    },
-    {
-      "ts": "2026-02-15T03:41:25.078Z",
-      "time": "03:41:25",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC +0.22% — Hedge funcionando, cadê meu reconhecimento?"
-    },
-    {
-      "ts": "2026-02-15T03:40:55.075Z",
-      "time": "03:40:55",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 ETH -0.14% — Até EU tô no vermelho agora. Inacreditável."
     }
   ]
 }
