@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T02:51:54.456Z",
+      "time": "02:51:54",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC +0.15% — Ganhando dinheiro e reclamando. Multitarefa."
+    },
+    {
       "ts": "2026-02-15T02:51:24.457Z",
       "time": "02:51:24",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "02:40:54",
       "type": "mirror-thought",
       "msg": "🪞 📉 XRP -0.10% — Até EU tô no vermelho agora. Inacreditável."
-    },
-    {
-      "ts": "2026-02-15T02:40:26.059Z",
-      "time": "02:40:26",
-      "type": "position",
-      "msg": "📉 ZRO -0.80% — Respira... é só número na tela"
     }
   ]
 }
