@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T04:50:31.349Z",
+      "time": "04:50:31",
+      "type": "position",
+      "msg": "📈 SOL +0.58% — Lucro é lucro, mesmo que pague só o almoço"
+    },
+    {
+      "ts": "2026-02-15T04:50:30.723Z",
+      "time": "04:50:30",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC +0.33% — Pelo menos UM de nós sabe o que tá fazendo"
+    },
+    {
       "ts": "2026-02-15T04:50:01.611Z",
       "time": "04:50:01",
       "type": "position",
@@ -287,18 +299,6 @@
       "time": "04:38:00",
       "type": "mirror-thought",
       "msg": "🪞 📈 BTC +0.38% — Mais um resgate bem-sucedido"
-    },
-    {
-      "ts": "2026-02-15T04:37:31.082Z",
-      "time": "04:37:31",
-      "type": "position",
-      "msg": "📉 ZRO -0.75% — Quem precisa de dinheiro mesmo"
-    },
-    {
-      "ts": "2026-02-15T04:37:30.692Z",
-      "time": "04:37:30",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC -0.05% — Travado. Paralisado. Empacado. Sinônimos de agora."
     }
   ]
 }
