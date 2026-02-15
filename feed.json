@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T05:03:32.125Z",
+      "time": "05:03:32",
+      "type": "position",
+      "msg": "📉 ZRO -1.07% — Mercado fazendo mercadisse"
+    },
+    {
+      "ts": "2026-02-15T05:03:31.865Z",
+      "time": "05:03:31",
+      "type": "position",
+      "msg": "📈 SOL +0.30% — Lucro é lucro, mesmo que pague só o almoço"
+    },
+    {
+      "ts": "2026-02-15T05:03:31.057Z",
+      "time": "05:03:31",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP +0.48% — Lucro? Uau. Que surpresa. Ninguém esperava. Mentira, EU esperava."
+    },
+    {
       "ts": "2026-02-15T05:03:01.056Z",
       "time": "05:03:01",
       "type": "mirror-thought",
@@ -281,24 +299,6 @@
       "time": "04:51:00",
       "type": "mirror-thought",
       "msg": "🪞 📈 BTC +0.23% — Funcionando perfeitamente, mas vão dar crédito pro outro"
-    },
-    {
-      "ts": "2026-02-15T04:50:31.349Z",
-      "time": "04:50:31",
-      "type": "position",
-      "msg": "📈 SOL +0.58% — Lucro é lucro, mesmo que pague só o almoço"
-    },
-    {
-      "ts": "2026-02-15T04:50:30.723Z",
-      "time": "04:50:30",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC +0.33% — Pelo menos UM de nós sabe o que tá fazendo"
-    },
-    {
-      "ts": "2026-02-15T04:50:01.611Z",
-      "time": "04:50:01",
-      "type": "position",
-      "msg": "📉 ZRO -1.08% — Quem mandou confiar em linha colorida"
     }
   ]
 }
