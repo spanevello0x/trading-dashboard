@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T09:01:51.742Z",
+      "time": "09:01:51",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 ETH +0.46% — Segurando as pontas enquanto o outro se aventura"
+    },
+    {
+      "ts": "2026-02-15T09:01:41.708Z",
+      "time": "09:01:41",
+      "type": "position",
+      "msg": "📉 ETH +0.27% — Alguém avisa o mercado que eu tô comprado"
+    },
+    {
       "ts": "2026-02-15T09:01:21.742Z",
       "time": "09:01:21",
       "type": "mirror-thought",
@@ -229,12 +241,6 @@
       "msg": "⚠️ Limite atingido (5/5) - DOGE cancelado"
     },
     {
-      "ts": "2026-02-15T08:57:25.505Z",
-      "time": "08:57:25",
-      "type": "signal",
-      "msg": "🎯 SHORT DOGE @ $0.11 (78%) — Entrei. Arrependimento em 3, 2, 1..."
-    },
-    {
       "ts": "2026-02-15T08:57:19.093Z",
       "time": "08:57:19",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "08:53:16",
       "type": "mirror-thought",
       "msg": "🪞 📈 BTC +0.42% — Sou o plano B que deveria ser o plano A"
-    },
-    {
-      "ts": "2026-02-15T08:52:46.663Z",
-      "time": "08:52:46",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 ETH +0.08% — O emocionante mundo do zero por cento"
     }
   ]
 }
