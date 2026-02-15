@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T07:29:45.661Z",
+      "time": "07:29:45",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC +0.10% — Funcionando perfeitamente, mas vão dar crédito pro outro"
+    },
+    {
       "ts": "2026-02-15T07:29:15.659Z",
       "time": "07:29:15",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "07:16:15",
       "type": "mirror-thought",
       "msg": "🪞 📉 XRP +0.48% — Tá vendo? ERA pra ter confiado em mim desde o início"
-    },
-    {
-      "ts": "2026-02-15T07:16:07.500Z",
-      "time": "07:16:07",
-      "type": "position",
-      "msg": "📈 ETH -0.41% — Loss building character 💪"
     }
   ]
 }
