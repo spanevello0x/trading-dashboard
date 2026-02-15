@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T07:27:08.217Z",
+      "time": "07:27:08",
+      "type": "position",
+      "msg": "📈 SOL -0.14% — Tá difícil defender essa entrada"
+    },
+    {
+      "ts": "2026-02-15T07:27:07.903Z",
+      "time": "07:27:07",
+      "type": "position",
+      "msg": "📈 ETH -0.42% — Clássico"
+    },
+    {
+      "ts": "2026-02-15T07:26:45.654Z",
+      "time": "07:26:45",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC +0.19% — Alguém precisa ser o adulto responsável aqui"
+    },
+    {
       "ts": "2026-02-15T07:26:15.654Z",
       "time": "07:26:15",
       "type": "mirror-thought",
@@ -281,24 +299,6 @@
       "time": "07:13:45",
       "type": "mirror-thought",
       "msg": "🪞 📉 ETH +0.03% — Esperando o próximo desastre ou milagre. Tanto faz."
-    },
-    {
-      "ts": "2026-02-15T07:13:37.696Z",
-      "time": "07:13:37",
-      "type": "position",
-      "msg": "📈 SOL -0.10% — Vou culpar a lua, deve ser lua cheia"
-    },
-    {
-      "ts": "2026-02-15T07:13:15.628Z",
-      "time": "07:13:15",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 ETH -0.31% — Se eu pudesse, mandava o mercado se explicar"
-    },
-    {
-      "ts": "2026-02-15T07:13:07.405Z",
-      "time": "07:13:07",
-      "type": "position",
-      "msg": "📈 ETH -0.30% — Vou culpar a lua, deve ser lua cheia"
     }
   ]
 }
