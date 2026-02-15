@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T06:48:45.566Z",
+      "time": "06:48:45",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL -0.16% — Até o hedge sofre nesse mercado desgraçado"
+    },
+    {
       "ts": "2026-02-15T06:48:36.701Z",
       "time": "06:48:36",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "06:36:15",
       "type": "mirror-thought",
       "msg": "🪞 📉 ETH -0.03% — Lateral infinita. Que emocionante. Não."
-    },
-    {
-      "ts": "2026-02-15T06:35:45.220Z",
-      "time": "06:35:45",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 ETH -0.22% — Delta neutral de prejuízo. Inovador."
     }
   ]
 }
