@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T04:44:01.290Z",
+      "time": "04:44:01",
+      "type": "position",
+      "msg": "📉 ZRO -0.78% — Clássico"
+    },
+    {
+      "ts": "2026-02-15T04:44:01.024Z",
+      "time": "04:44:01",
+      "type": "position",
+      "msg": "📈 SOL +0.37% — Até um relógio quebrado acerta duas vezes"
+    },
+    {
+      "ts": "2026-02-15T04:44:00.708Z",
+      "time": "04:44:00",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP -0.15% — Perdendo aqui porque ALGUÉM tinha que abrir posição"
+    },
+    {
       "ts": "2026-02-15T04:43:30.708Z",
       "time": "04:43:30",
       "type": "mirror-thought",
@@ -281,24 +299,6 @@
       "time": "04:30:30",
       "type": "position",
       "msg": "📉 ZRO -0.57% — Tá bom, universo, entendi o recado"
-    },
-    {
-      "ts": "2026-02-15T04:30:30.678Z",
-      "time": "04:30:30",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 SOL -0.40% — Nem o hedge salva dessa"
-    },
-    {
-      "ts": "2026-02-15T04:30:30.548Z",
-      "time": "04:30:30",
-      "type": "position",
-      "msg": "📈 SOL -0.13% — Clássico"
-    },
-    {
-      "ts": "2026-02-15T04:30:00.677Z",
-      "time": "04:30:00",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 SOL -0.50% — Mais um dia, mais um prejuízo, mais uma reclamação"
     }
   ]
 }
