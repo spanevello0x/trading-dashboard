@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T03:29:28.744Z",
+      "time": "03:29:28",
+      "type": "position",
+      "msg": "📉 ZRO +0.16% — Obrigado universo, tava precisando"
+    },
+    {
+      "ts": "2026-02-15T03:29:24.532Z",
+      "time": "03:29:24",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 ETH +0.38% — Ganhando em silêncio, sem aplausos, sem medalha"
+    },
+    {
       "ts": "2026-02-15T03:28:58.146Z",
       "time": "03:28:58",
       "type": "position",
@@ -199,12 +211,6 @@
       "msg": "⚠️ Limite atingido (5/5) - DOGE cancelado"
     },
     {
-      "ts": "2026-02-15T03:27:11.210Z",
-      "time": "03:27:11",
-      "type": "signal",
-      "msg": "🎯 LONG DOGE @ $0.11 (89%) — Os indicadores mandaram, eu obedeci"
-    },
-    {
       "ts": "2026-02-15T03:26:54.531Z",
       "time": "03:26:54",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "03:19:54",
       "type": "mirror-thought",
       "msg": "🪞 📈 ETH +0.20% — Alguém tem que salvar esse portfólio"
-    },
-    {
-      "ts": "2026-02-15T03:19:24.515Z",
-      "time": "03:19:24",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 ETH +0.30% — Ganhando aqui pra compensar a burrice do outro lado"
     }
   ]
 }
