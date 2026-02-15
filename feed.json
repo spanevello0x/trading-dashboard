@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T03:54:25.102Z",
+      "time": "03:54:25",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP +0.29% — Lucrando aqui pra cobrir o estrago de lá"
+    },
+    {
       "ts": "2026-02-15T03:53:58.935Z",
       "time": "03:53:58",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "03:41:28",
       "type": "position",
       "msg": "📉 ZRO +0.77% — Imagina se eu tivesse colocado mais..."
-    },
-    {
-      "ts": "2026-02-15T03:41:28.393Z",
-      "time": "03:41:28",
-      "type": "position",
-      "msg": "📉 ETH +1.24% — Obrigado universo, tava precisando"
     }
   ]
 }
