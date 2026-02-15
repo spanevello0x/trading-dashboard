@@ -427,17 +427,17 @@
       const hlFiltered = filterByPeriod(allFillsHL, currentPeriod);
       const nadoFiltered = filterByPeriod(allFillsNADO, currentPeriod);
       
-      const hlData = processTradesForChart(hlFiltered, INITIAL_CAPITAL_HL);
-      const nadoData = processTradesForChart(nadoFiltered, INITIAL_CAPITAL_NADO);
+      const hlChartData = processTradesForChart(hlFiltered, INITIAL_CAPITAL_HL);
+      const nadoChartData = processTradesForChart(nadoFiltered, INITIAL_CAPITAL_NADO);
       
       // Update stats
-      document.getElementById('hl-winrate').textContent = hlData.total > 0 ? Math.round(hlData.wins/hlData.total*100) + '%' : '--%';
-      document.getElementById('hl-trades').textContent = hlData.total + ' trades';
+      document.getElementById('hl-winrate').textContent = hlChartData.total > 0 ? Math.round(hlChartData.wins/hlChartData.total*100) + '%' : '--%';
+      document.getElementById('hl-trades').textContent = hlChartData.total + ' trades';
       
       // Merge all timestamps for x-axis
       const allTimes = new Set([
-        ...hlData.points.map(p => p.time),
-        ...nadoData.points.map(p => p.time)
+        ...hlChartData.points.map(p => p.time),
+        ...nadoChartData.points.map(p => p.time)
       ]);
       const sortedTimes = Array.from(allTimes).sort((a, b) => a - b);
       
@@ -450,8 +450,8 @@
       let lastHl = 0, lastNado = 0;
       
       for (const t of sortedTimes) {
-        const hlPoint = hlData.points.find(p => p.time === t);
-        const nadoPoint = nadoData.points.find(p => p.time === t);
+        const hlPoint = hlChartData.points.find(p => p.time === t);
+        const nadoPoint = nadoChartData.points.find(p => p.time === t);
         
         if (hlPoint) lastHl = hlPoint.pnlPct;
         if (nadoPoint) lastNado = nadoPoint.pnlPct;
