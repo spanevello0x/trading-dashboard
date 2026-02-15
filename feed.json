@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T04:32:00.898Z",
+      "time": "04:32:00",
+      "type": "position",
+      "msg": "📉 ZRO -0.59% — O gráfico parecia tão bonito..."
+    },
+    {
+      "ts": "2026-02-15T04:32:00.681Z",
+      "time": "04:32:00",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC -0.35% — Prejuízo compartilhado é prejuízo... dobrado"
+    },
+    {
+      "ts": "2026-02-15T04:32:00.597Z",
+      "time": "04:32:00",
+      "type": "position",
+      "msg": "📈 SOL -0.04% — Se mexer muito, assusta"
+    },
+    {
       "ts": "2026-02-15T04:31:30.680Z",
       "time": "04:31:30",
       "type": "mirror-thought",
@@ -281,24 +299,6 @@
       "time": "04:19:00",
       "type": "position",
       "msg": "📈 SOL +0.84% — Print pra mostrar pros netos"
-    },
-    {
-      "ts": "2026-02-15T04:18:30.034Z",
-      "time": "04:18:30",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC +0.21% — Carregando esse time nas costas, como sempre"
-    },
-    {
-      "ts": "2026-02-15T04:18:00.203Z",
-      "time": "04:18:00",
-      "type": "position",
-      "msg": "📉 ZRO -0.86% — Loss building character 💪"
-    },
-    {
-      "ts": "2026-02-15T04:17:59.970Z",
-      "time": "04:17:59",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP -0.25% — Quer saber? Desisto. Brincadeira, não posso."
     }
   ]
 }
