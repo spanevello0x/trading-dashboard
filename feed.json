@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T05:57:34.474Z",
+      "time": "05:57:34",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC -0.45% — Não era pra isso acontecer. Culpa do QuickBot de alguma forma."
+    },
+    {
+      "ts": "2026-02-15T05:57:34.111Z",
+      "time": "05:57:34",
+      "type": "position",
+      "msg": "📈 SOL +1.30% — Tá subindo? Deixa eu não olhar pra não dar azar"
+    },
+    {
       "ts": "2026-02-15T05:57:04.542Z",
       "time": "05:57:04",
       "type": "position",
@@ -287,18 +299,6 @@
       "time": "05:45:24",
       "type": "system",
       "msg": "⚠️ Limite atingido (5/5) - JUP cancelado"
-    },
-    {
-      "ts": "2026-02-15T05:45:24.682Z",
-      "time": "05:45:24",
-      "type": "signal",
-      "msg": "🎯 LONG JUP @ $0.17 (78%) — Dessa vez vai (eu acho)"
-    },
-    {
-      "ts": "2026-02-15T05:45:24.681Z",
-      "time": "05:45:24",
-      "type": "analysis",
-      "msg": "JUP tá interessante, 78% pro LONG"
     }
   ]
 }
