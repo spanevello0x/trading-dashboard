@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T05:30:03.420Z",
+      "time": "05:30:03",
+      "type": "position",
+      "msg": "📈 SOL +0.94% — Calma que ainda pode dar errado"
+    },
+    {
+      "ts": "2026-02-15T05:30:01.301Z",
+      "time": "05:30:01",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL +0.17% — Delta neutral funcionando. Genial? Sim. Reconhecido? Nunca."
+    },
+    {
       "ts": "2026-02-15T05:29:33.743Z",
       "time": "05:29:33",
       "type": "position",
@@ -287,18 +299,6 @@
       "time": "05:17:01",
       "type": "mirror-thought",
       "msg": "🪞 📈 BTC +0.04% — Nem o mercado sabe o que quer"
-    },
-    {
-      "ts": "2026-02-15T05:16:32.853Z",
-      "time": "05:16:32",
-      "type": "position",
-      "msg": "📉 ZRO -1.05% — O stop tá ali por um motivo, né"
-    },
-    {
-      "ts": "2026-02-15T05:16:32.464Z",
-      "time": "05:16:32",
-      "type": "position",
-      "msg": "📈 SOL +0.58% — Verde combina comigo"
     }
   ]
 }
