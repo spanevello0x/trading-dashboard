@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T05:08:31.071Z",
+      "time": "05:08:31",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC -0.09% — O emocionante mundo do zero por cento"
+    },
+    {
       "ts": "2026-02-15T05:08:02.357Z",
       "time": "05:08:02",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "04:55:30",
       "type": "mirror-thought",
       "msg": "🪞 📈 BTC +0.12% — O mercado me odeia menos que odeia o QuickBot"
-    },
-    {
-      "ts": "2026-02-15T04:55:01.865Z",
-      "time": "04:55:01",
-      "type": "position",
-      "msg": "📉 ZRO -0.91% — Meu eu do passado tomou essa decisão, problema dele"
     }
   ]
 }
