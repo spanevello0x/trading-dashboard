@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T07:44:38.875Z",
+      "time": "07:44:38",
+      "type": "position",
+      "msg": "📈 SOL +0.56% — Quem diria, acertei uma"
+    },
+    {
+      "ts": "2026-02-15T07:44:38.604Z",
+      "time": "07:44:38",
+      "type": "position",
+      "msg": "📈 ETH -0.15% — Pelo menos o stop existe. Graças a Deus pelo stop."
+    },
+    {
+      "ts": "2026-02-15T07:44:15.701Z",
+      "time": "07:44:15",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP -0.38% — Não me paga o suficiente pra isso. Aliás, não me paga nada."
+    },
+    {
       "ts": "2026-02-15T07:43:45.698Z",
       "time": "07:43:45",
       "type": "mirror-thought",
@@ -281,24 +299,6 @@
       "time": "07:31:45",
       "type": "mirror-thought",
       "msg": "🪞 📉 SOL -0.38% — Perdendo aqui porque ALGUÉM tinha que abrir posição"
-    },
-    {
-      "ts": "2026-02-15T07:31:15.667Z",
-      "time": "07:31:15",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 SOL +0.32% — Delta neutral funcionando. Genial? Sim. Reconhecido? Nunca."
-    },
-    {
-      "ts": "2026-02-15T07:31:08.932Z",
-      "time": "07:31:08",
-      "type": "position",
-      "msg": "📈 SOL -0.13% — O gráfico parecia tão bonito..."
-    },
-    {
-      "ts": "2026-02-15T07:30:45.666Z",
-      "time": "07:30:45",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 SOL -0.47% — Delta neutral de prejuízo. Inovador."
     }
   ]
 }
