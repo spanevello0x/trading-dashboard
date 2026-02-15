@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T09:12:52.108Z",
+      "time": "09:12:52",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 ZEC -0.07% — Estável. Boring. Previsível."
+    },
+    {
       "ts": "2026-02-15T09:12:22.107Z",
       "time": "09:12:22",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "08:59:41",
       "type": "position",
       "msg": "📉 ZEC -0.12% — O gráfico parecia tão bonito..."
-    },
-    {
-      "ts": "2026-02-15T08:59:21.741Z",
-      "time": "08:59:21",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC +0.15% — Funcionando perfeitamente, mas vão dar crédito pro outro"
     }
   ]
 }
