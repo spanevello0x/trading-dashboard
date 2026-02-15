@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T03:29:58.735Z",
+      "time": "03:29:58",
+      "type": "position",
+      "msg": "📉 ETH +0.48% — Obrigado universo, tava precisando"
+    },
+    {
+      "ts": "2026-02-15T03:29:54.532Z",
+      "time": "03:29:54",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP -0.24% — Cadê a tal da proteção? Perdida junto com a esperança."
+    },
+    {
       "ts": "2026-02-15T03:29:28.744Z",
       "time": "03:29:28",
       "type": "position",
@@ -205,12 +217,6 @@
       "msg": "BERA tá interessante, 89% pro SHORT"
     },
     {
-      "ts": "2026-02-15T03:27:11.486Z",
-      "time": "03:27:11",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - DOGE cancelado"
-    },
-    {
       "ts": "2026-02-15T03:26:54.531Z",
       "time": "03:26:54",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "03:20:24",
       "type": "mirror-thought",
       "msg": "🪞 📈 BTC +0.47% — Ótimo, agora vou ter que ouvir que 'deu certo'"
-    },
-    {
-      "ts": "2026-02-15T03:19:54.516Z",
-      "time": "03:19:54",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 ETH +0.20% — Alguém tem que salvar esse portfólio"
     }
   ]
 }
