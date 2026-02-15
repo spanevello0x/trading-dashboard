@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T08:20:46.039Z",
+      "time": "08:20:46",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP -0.01% — Lateral é o novo tendência aparentemente"
+    },
+    {
       "ts": "2026-02-15T08:20:40.104Z",
       "time": "08:20:40",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "08:07:39",
       "type": "position",
       "msg": "📈 ETH -0.12% — Mais um dia normal no crypto"
-    },
-    {
-      "ts": "2026-02-15T08:07:15.744Z",
-      "time": "08:07:15",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 SOL -0.05% — Esperando o próximo desastre ou milagre. Tanto faz."
     }
   ]
 }
