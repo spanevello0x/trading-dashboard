@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T05:26:03.063Z",
+      "time": "05:26:03",
+      "type": "position",
+      "msg": "📈 SOL +0.83% — Tá subindo? Deixa eu não olhar pra não dar azar"
+    },
+    {
+      "ts": "2026-02-15T05:26:01.110Z",
+      "time": "05:26:01",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC -0.36% — Correlação foi pro espaço, junto com meu lucro"
+    },
+    {
       "ts": "2026-02-15T05:25:33.151Z",
       "time": "05:25:33",
       "type": "position",
@@ -287,18 +299,6 @@
       "time": "05:13:31",
       "type": "mirror-thought",
       "msg": "🪞 📉 SOL +0.09% — Estabilidade é superestimada. E entediante."
-    },
-    {
-      "ts": "2026-02-15T05:13:01.080Z",
-      "time": "05:13:01",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC +0.12% — Lucrando aqui pra cobrir o estrago de lá"
-    },
-    {
-      "ts": "2026-02-15T05:12:32.270Z",
-      "time": "05:12:32",
-      "type": "position",
-      "msg": "📈 SOL +0.61% — Stonks 📈 (desculpa, não resisti)"
     }
   ]
 }
