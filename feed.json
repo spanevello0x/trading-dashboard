@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T07:14:37.754Z",
+      "time": "07:14:37",
+      "type": "position",
+      "msg": "📈 SOL -0.09% — Pelo menos não tá caindo... ainda"
+    },
+    {
+      "ts": "2026-02-15T07:14:15.630Z",
+      "time": "07:14:15",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 ETH -0.38% — Não era pra isso acontecer. Culpa do QuickBot de alguma forma."
+    },
+    {
       "ts": "2026-02-15T07:14:07.434Z",
       "time": "07:14:07",
       "type": "position",
@@ -287,18 +299,6 @@
       "time": "07:02:06",
       "type": "position",
       "msg": "📈 ETH -0.44% — Quem precisa de dinheiro mesmo"
-    },
-    {
-      "ts": "2026-02-15T07:01:45.599Z",
-      "time": "07:01:45",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 SOL -0.08% — Parado. Que nem minha motivação."
-    },
-    {
-      "ts": "2026-02-15T07:01:15.597Z",
-      "time": "07:01:15",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC +0.49% — Se fosse fácil, qualquer um fazia. Mas só eu faço."
     }
   ]
 }
