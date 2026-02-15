@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T08:57:51.486Z",
+      "time": "08:57:51",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 ETH +0.24% — Obrigado por nada, eu que me viro mesmo"
+    },
+    {
+      "ts": "2026-02-15T08:57:41.818Z",
+      "time": "08:57:41",
+      "type": "position",
+      "msg": "📉 ZEC -0.00% — Parece até stable coin"
+    },
+    {
       "ts": "2026-02-15T08:57:32.427Z",
       "time": "08:57:32",
       "type": "mirror-open",
@@ -181,12 +193,6 @@
       "msg": "🎯 SHORT BCH @ $558.40 (89%) — Entrei. Arrependimento em 3, 2, 1..."
     },
     {
-      "ts": "2026-02-15T08:57:23.761Z",
-      "time": "08:57:23",
-      "type": "analysis",
-      "msg": "BCH tá interessante, 89% pro SHORT"
-    },
-    {
       "ts": "2026-02-15T08:57:19.093Z",
       "time": "08:57:19",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "08:49:16",
       "type": "mirror-thought",
       "msg": "🪞 📉 XRP -0.06% — Se tédio fosse trade, eu tava rico"
-    },
-    {
-      "ts": "2026-02-15T08:48:46.656Z",
-      "time": "08:48:46",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 ETH +0.26% — O mercado me odeia menos que odeia o QuickBot"
     }
   ]
 }
