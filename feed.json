@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T05:07:31.068Z",
+      "time": "05:07:31",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL +0.10% — Tô no lucro MAS NINGUÉM AGRADECE"
+    },
+    {
       "ts": "2026-02-15T05:07:02.462Z",
       "time": "05:07:02",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "04:54:30",
       "type": "mirror-thought",
       "msg": "🪞 📈 BTC +0.26% — Sou o plano B que deveria ser o plano A"
-    },
-    {
-      "ts": "2026-02-15T04:54:01.819Z",
-      "time": "04:54:01",
-      "type": "position",
-      "msg": "📉 ZRO -1.23% — Ah sim, o famoso 'compra no topo'"
     }
   ]
 }
