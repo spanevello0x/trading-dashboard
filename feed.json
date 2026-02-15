@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T04:38:00.776Z",
+      "time": "04:38:00",
+      "type": "position",
+      "msg": "📈 SOL +0.21% — O mercado tá generoso hoje, desconfio"
+    },
+    {
+      "ts": "2026-02-15T04:38:00.693Z",
+      "time": "04:38:00",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC +0.38% — Mais um resgate bem-sucedido"
+    },
+    {
       "ts": "2026-02-15T04:37:31.082Z",
       "time": "04:37:31",
       "type": "position",
@@ -287,18 +299,6 @@
       "time": "04:24:30",
       "type": "position",
       "msg": "📈 SOL +0.08% — Isso é acumulação ou distribuição? Ninguém sabe."
-    },
-    {
-      "ts": "2026-02-15T04:24:30.435Z",
-      "time": "04:24:30",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC -0.13% — Isso aqui tá pior que reunião de segunda-feira"
-    },
-    {
-      "ts": "2026-02-15T04:24:00.294Z",
-      "time": "04:24:00",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 SOL +0.46% — Meu trabalho é ingrato, mas faço com excelência"
     }
   ]
 }
