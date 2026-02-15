@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T02:55:56.467Z",
+      "time": "02:55:56",
+      "type": "position",
+      "msg": "📉 ETH +0.15% — Stonks 📈 (desculpa, não resisti)"
+    },
+    {
+      "ts": "2026-02-15T02:55:54.465Z",
+      "time": "02:55:54",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 ETH +0.08% — Sem novidades no front. Que surpresa."
+    },
+    {
       "ts": "2026-02-15T02:55:26.967Z",
       "time": "02:55:26",
       "type": "position",
@@ -287,18 +299,6 @@
       "time": "02:44:56",
       "type": "position",
       "msg": "📉 ZRO -0.60% — O stop tá ali por um motivo, né"
-    },
-    {
-      "ts": "2026-02-15T02:44:55.916Z",
-      "time": "02:44:55",
-      "type": "position",
-      "msg": "📉 ETH +0.44% — Alguém avisa o mercado que eu tô comprado"
-    },
-    {
-      "ts": "2026-02-15T02:44:54.451Z",
-      "time": "02:44:54",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP -0.34% — Meu trabalho é neutralizar, não fazer milagre"
     }
   ]
 }
