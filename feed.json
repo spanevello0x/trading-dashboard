@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T04:54:30.729Z",
+      "time": "04:54:30",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC +0.26% — Sou o plano B que deveria ser o plano A"
+    },
+    {
       "ts": "2026-02-15T04:54:01.819Z",
       "time": "04:54:01",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "04:42:00",
       "type": "mirror-thought",
       "msg": "🪞 📉 SOL +0.08% — Oscilando entre 'meh' e 'whatever'"
-    },
-    {
-      "ts": "2026-02-15T04:41:31.277Z",
-      "time": "04:41:31",
-      "type": "position",
-      "msg": "📉 ZRO -0.60% — Pelo menos aprendo algo... né?"
     }
   ]
 }
