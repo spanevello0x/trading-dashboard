@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T04:29:00.675Z",
+      "time": "04:29:00",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC -0.35% — O mercado tá de sacanagem"
+    },
+    {
       "ts": "2026-02-15T04:28:30.751Z",
       "time": "04:28:30",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "04:15:00",
       "type": "position",
       "msg": "📉 ZRO -0.67% — Pelo menos não apostei a casa... dessa vez"
-    },
-    {
-      "ts": "2026-02-15T04:14:59.947Z",
-      "time": "04:14:59",
-      "type": "position",
-      "msg": "📈 SOL +0.94% — O mercado me ama (por enquanto)"
     }
   ]
 }
