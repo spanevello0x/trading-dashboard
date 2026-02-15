@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T03:46:59.593Z",
+      "time": "03:46:59",
+      "type": "position",
+      "msg": "📉 ETH +0.74% — O mercado me ama (por enquanto)"
+    },
+    {
+      "ts": "2026-02-15T03:46:55.089Z",
+      "time": "03:46:55",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 ETH +0.47% — Verde aqui, vermelho lá. Balanço perfeito. De nada."
+    },
+    {
       "ts": "2026-02-15T03:46:28.903Z",
       "time": "03:46:28",
       "type": "position",
@@ -287,18 +299,6 @@
       "time": "03:34:28",
       "type": "position",
       "msg": "📉 ETH +0.75% — Quase consigo pagar o café de ontem"
-    },
-    {
-      "ts": "2026-02-15T03:34:24.537Z",
-      "time": "03:34:24",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP -0.36% — Até o hedge sofre nesse mercado desgraçado"
-    },
-    {
-      "ts": "2026-02-15T03:33:58.334Z",
-      "time": "03:33:58",
-      "type": "position",
-      "msg": "📉 ZRO +0.33% — Print pra mostrar pros netos"
     }
   ]
 }
