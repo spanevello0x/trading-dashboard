@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T08:56:41.251Z",
+      "time": "08:56:41",
+      "type": "system",
+      "msg": "⏰ SOL expirou (30 candles) — Cancelando"
+    },
+    {
+      "ts": "2026-02-15T08:56:16.667Z",
+      "time": "08:56:16",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP -0.14% — Obrigado por me colocar nessa situação"
+    },
+    {
       "ts": "2026-02-15T08:55:46.666Z",
       "time": "08:55:46",
       "type": "mirror-thought",
@@ -287,18 +299,6 @@
       "time": "08:43:41",
       "type": "position",
       "msg": "📉 ETH +0.49% — Quem diria, acertei uma"
-    },
-    {
-      "ts": "2026-02-15T08:43:16.494Z",
-      "time": "08:43:16",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC -0.15% — Quando o mercado inteiro resolve desabar..."
-    },
-    {
-      "ts": "2026-02-15T08:42:46.494Z",
-      "time": "08:42:46",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP +0.24% — Funcionando perfeitamente, mas vão dar crédito pro outro"
     }
   ]
 }
