@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T04:25:00.523Z",
+      "time": "04:25:00",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL -0.05% — Não ganha, não perde, não anima"
+    },
+    {
       "ts": "2026-02-15T04:24:30.736Z",
       "time": "04:24:30",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "04:11:59",
       "type": "mirror-thought",
       "msg": "🪞 📉 SOL -0.30% — Até o hedge sofre nesse mercado desgraçado"
-    },
-    {
-      "ts": "2026-02-15T04:11:29.898Z",
-      "time": "04:11:29",
-      "type": "position",
-      "msg": "📉 ZRO -0.39% — Vou culpar a lua, deve ser lua cheia"
     }
   ]
 }
