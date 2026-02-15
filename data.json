@@ -1,6 +1,12 @@
 {
-  "lastUpdate": "2026-02-15T01:57:53.835Z",
+  "lastUpdate": "2026-02-15T01:58:23.965Z",
   "feed": [
+    {
+      "ts": "2026-02-15T01:57:54.025Z",
+      "time": "01:57:54",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP -0.47% — Fantástico. Simplesmente fantástico. Odeio tudo."
+    },
     {
       "ts": "2026-02-15T01:57:24.024Z",
       "time": "01:57:24",
@@ -294,56 +300,50 @@
       "time": "01:38:03",
       "type": "position",
       "msg": "ETH +0.29% — O mercado me ama (por enquanto)"
-    },
-    {
-      "ts": "2026-02-15T01:37:33.840Z",
-      "time": "01:37:33",
-      "type": "position",
-      "msg": "OM -1.39% — Quem precisa de dinheiro mesmo"
     }
   ],
   "hl": {
-    "balance": 15.696187,
+    "balance": 15.716027,
     "positions": [
       {
         "coin": "BTC",
         "side": "SHORT",
         "size": 0.00032,
         "entry": 69697,
-        "pnl": 0.01792,
-        "pnlPct": 0.40173896
+        "pnl": 0.01952,
+        "pnlPct": 0.43760850999999995
       },
       {
         "coin": "ETH",
         "side": "SHORT",
         "size": 0.0076,
         "entry": 2065,
-        "pnl": 0.01976,
-        "pnlPct": 0.62953995
+        "pnl": 0.02128,
+        "pnlPct": 0.6779661
       },
       {
         "coin": "XRP",
         "side": "LONG",
         "size": 11,
         "entry": 1.4503,
-        "pnl": 0.8272,
-        "pnlPct": 25.925670550000003
+        "pnl": 0.8448,
+        "pnlPct": 26.47728056
       },
       {
         "coin": "ZRO",
         "side": "SHORT",
         "size": 8.5,
         "entry": 1.8619,
-        "pnl": -0.0204,
-        "pnlPct": -0.64450293
+        "pnl": -0.02295,
+        "pnlPct": -0.7250657899999999
       },
       {
         "coin": "OM",
         "side": "LONG",
         "size": 83.5,
         "entry": 0.06402,
-        "pnl": -0.11022,
-        "pnlPct": -6.185567010000001
+        "pnl": -0.10855,
+        "pnlPct": -6.0918463
       }
     ]
   },
@@ -354,9 +354,9 @@
         "coin": "BTC",
         "side": "LONG",
         "size": 0.0006,
-        "entry": 69666.5,
-        "price": 69666.5,
-        "notional": 41.799899999999994,
+        "entry": 69665.5,
+        "price": 69665.5,
+        "notional": 41.799299999999995,
         "pnl": 0,
         "pnlPct": 0
       },
@@ -374,9 +374,9 @@
         "coin": "XRP",
         "side": "SHORT",
         "size": 10,
-        "entry": 1.5260500000000001,
-        "price": 1.5260500000000001,
-        "notional": 15.2605,
+        "entry": 1.52725,
+        "price": 1.52725,
+        "notional": 15.2725,
         "pnl": 0,
         "pnlPct": 0
       }
