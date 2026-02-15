@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T06:35:06.078Z",
+      "time": "06:35:06",
+      "type": "position",
+      "msg": "📈 SOL -0.16% — Clássico"
+    },
+    {
+      "ts": "2026-02-15T06:34:45.219Z",
+      "time": "06:34:45",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL +0.42% — Compensando a incompetência alheia desde sempre"
+    },
+    {
       "ts": "2026-02-15T06:34:35.779Z",
       "time": "06:34:35",
       "type": "position",
@@ -271,12 +283,6 @@
       "msg": "VVV tá interessante, 56% pro SHORT"
     },
     {
-      "ts": "2026-02-15T06:26:59.157Z",
-      "time": "06:26:59",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - TAO cancelado"
-    },
-    {
       "ts": "2026-02-15T06:26:53.580Z",
       "time": "06:26:53",
       "type": "mirror-open",
@@ -293,12 +299,6 @@
       "time": "06:26:37",
       "type": "mirror-close",
       "msg": "🪞 ZEC fechado (+$0.00) — Fechado com sucesso. Obviamente."
-    },
-    {
-      "ts": "2026-02-15T06:26:19.968Z",
-      "time": "06:26:19",
-      "type": "mirror-close",
-      "msg": "🪞 SOL fechado (+$0.00) — Fechado com sucesso. Obviamente."
     }
   ]
 }
