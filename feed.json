@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T07:29:08.541Z",
+      "time": "07:29:08",
+      "type": "position",
+      "msg": "📈 SOL -0.18% — Loss building character 💪"
+    },
+    {
+      "ts": "2026-02-15T07:29:08.280Z",
+      "time": "07:29:08",
+      "type": "position",
+      "msg": "📈 ETH -0.38% — Vou culpar a lua, deve ser lua cheia"
+    },
+    {
+      "ts": "2026-02-15T07:28:45.658Z",
+      "time": "07:28:45",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC +0.39% — Tô no lucro MAS NINGUÉM AGRADECE"
+    },
+    {
       "ts": "2026-02-15T07:28:15.657Z",
       "time": "07:28:15",
       "type": "mirror-thought",
@@ -281,24 +299,6 @@
       "time": "07:15:45",
       "type": "mirror-thought",
       "msg": "🪞 📉 XRP -0.03% — O emocionante mundo do zero por cento"
-    },
-    {
-      "ts": "2026-02-15T07:15:37.824Z",
-      "time": "07:15:37",
-      "type": "position",
-      "msg": "📈 SOL -0.08% — Tick tock, mercado..."
-    },
-    {
-      "ts": "2026-02-15T07:15:15.632Z",
-      "time": "07:15:15",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 SOL -0.28% — Quando o mercado inteiro resolve desabar..."
-    },
-    {
-      "ts": "2026-02-15T07:15:07.459Z",
-      "time": "07:15:07",
-      "type": "position",
-      "msg": "📈 ETH -0.41% — Mais um dia normal no crypto"
     }
   ]
 }
