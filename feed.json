@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T04:13:30.235Z",
+      "time": "04:13:30",
+      "type": "position",
+      "msg": "📉 ZRO -0.50% — Mercado fazendo mercadisse"
+    },
+    {
+      "ts": "2026-02-15T04:13:29.340Z",
+      "time": "04:13:29",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL +0.41% — Delta neutral funcionando. Genial? Sim. Reconhecido? Nunca."
+    },
+    {
       "ts": "2026-02-15T04:12:59.715Z",
       "time": "04:12:59",
       "type": "position",
@@ -287,18 +299,6 @@
       "time": "04:00:59",
       "type": "position",
       "msg": "📉 ZRO -0.86% — Quem precisa de dinheiro mesmo"
-    },
-    {
-      "ts": "2026-02-15T04:00:59.243Z",
-      "time": "04:00:59",
-      "type": "position",
-      "msg": "📈 SOL +0.23% — Print pra mostrar pros netos"
-    },
-    {
-      "ts": "2026-02-15T04:00:59.063Z",
-      "time": "04:00:59",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 SOL -0.17% — O mercado acordou e escolheu caos"
     }
   ]
 }
