@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T01:51:24.014Z",
+      "time": "01:51:24",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP +0.01% — Range mais apertado que minha paciência"
+    },
+    {
       "ts": "2026-02-15T01:50:54.015Z",
       "time": "01:50:54",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "01:33:33",
       "type": "position",
       "msg": "ZRO +0.23% — Meu psicólogo vai ficar orgulhoso"
-    },
-    {
-      "ts": "2026-02-15T01:33:33.103Z",
-      "time": "01:33:33",
-      "type": "position",
-      "msg": "ETH +0.11% — Verde combina comigo"
     }
   ]
 }
