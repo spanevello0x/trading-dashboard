@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T01:50:54.015Z",
+      "time": "01:50:54",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 ETH -0.17% — Correlação foi pro espaço, junto com meu lucro"
+    },
+    {
       "ts": "2026-02-15T01:50:24.014Z",
       "time": "01:50:24",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "01:33:33",
       "type": "position",
       "msg": "ETH +0.11% — Verde combina comigo"
-    },
-    {
-      "ts": "2026-02-15T01:33:03.728Z",
-      "time": "01:33:03",
-      "type": "position",
-      "msg": "OM +0.03% — Esperando o mercado decidir o que quer da vida"
     }
   ]
 }
