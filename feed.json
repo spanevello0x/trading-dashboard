@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T07:10:45.623Z",
+      "time": "07:10:45",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 ETH +0.26% — Hedge funcionando, cadê meu reconhecimento?"
+    },
+    {
       "ts": "2026-02-15T07:10:37.392Z",
       "time": "07:10:37",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "06:58:15",
       "type": "mirror-thought",
       "msg": "🪞 📉 ETH -0.40% — Prejuízo compartilhado é prejuízo... dobrado"
-    },
-    {
-      "ts": "2026-02-15T06:57:45.585Z",
-      "time": "06:57:45",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC -0.01% — Nem sobe nem desce. Assim como minha esperança."
     }
   ]
 }
