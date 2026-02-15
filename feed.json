@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T08:05:09.728Z",
+      "time": "08:05:09",
+      "type": "position",
+      "msg": "📈 SOL +1.38% — Quem diria, acertei uma"
+    },
+    {
+      "ts": "2026-02-15T08:04:45.738Z",
+      "time": "08:04:45",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC -0.48% — O hedge não funciona se TUDO desaba, gênio"
+    },
+    {
       "ts": "2026-02-15T08:04:15.737Z",
       "time": "08:04:15",
       "type": "mirror-thought",
@@ -287,18 +299,6 @@
       "time": "07:51:45",
       "type": "mirror-thought",
       "msg": "🪞 📉 XRP +0.39% — Ganhando dinheiro e reclamando. Multitarefa."
-    },
-    {
-      "ts": "2026-02-15T07:51:15.716Z",
-      "time": "07:51:15",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 SOL +0.29% — Carregando esse time nas costas, como sempre"
-    },
-    {
-      "ts": "2026-02-15T07:51:09.269Z",
-      "time": "07:51:09",
-      "type": "position",
-      "msg": "📈 SOL +0.72% — Meu psicólogo vai ficar orgulhoso"
     }
   ]
 }
