@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T03:10:57.639Z",
+      "time": "03:10:57",
+      "type": "position",
+      "msg": "📈 OM -2.51% — Quem mandou confiar em linha colorida"
+    },
+    {
+      "ts": "2026-02-15T03:10:57.111Z",
+      "time": "03:10:57",
+      "type": "position",
+      "msg": "📉 ETH +0.16% — O mercado me ama (por enquanto)"
+    },
+    {
+      "ts": "2026-02-15T03:10:54.493Z",
+      "time": "03:10:54",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP +0.39% — O mercado me odeia menos que odeia o QuickBot"
+    },
+    {
       "ts": "2026-02-15T03:10:27.348Z",
       "time": "03:10:27",
       "type": "position",
@@ -271,12 +289,6 @@
       "msg": "📉 ZRO -0.32% — O stop tá ali por um motivo, né"
     },
     {
-      "ts": "2026-02-15T03:01:56.668Z",
-      "time": "03:01:56",
-      "type": "position",
-      "msg": "📉 ETH +0.28% — Obrigado universo, tava precisando"
-    },
-    {
       "ts": "2026-02-15T03:01:54.472Z",
       "time": "03:01:54",
       "type": "mirror-thought",
@@ -287,18 +299,6 @@
       "time": "03:01:24",
       "type": "mirror-thought",
       "msg": "🪞 📈 BTC +0.38% — Compensando a incompetência alheia desde sempre"
-    },
-    {
-      "ts": "2026-02-15T03:00:57.153Z",
-      "time": "03:00:57",
-      "type": "position",
-      "msg": "📈 OM -2.56% — Vermelho é a minha cor favorita agora"
-    },
-    {
-      "ts": "2026-02-15T03:00:54.473Z",
-      "time": "03:00:54",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 ETH +0.39% — Imagina se não tivesse eu aqui... caos total"
     }
   ]
 }
