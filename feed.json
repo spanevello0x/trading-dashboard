@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T03:39:28.892Z",
+      "time": "03:39:28",
+      "type": "position",
+      "msg": "📉 ZRO +1.21% — O mercado me ama (por enquanto)"
+    },
+    {
+      "ts": "2026-02-15T03:39:25.072Z",
+      "time": "03:39:25",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC +0.35% — Tô no lucro MAS NINGUÉM AGRADECE"
+    },
+    {
       "ts": "2026-02-15T03:38:58.364Z",
       "time": "03:38:58",
       "type": "position",
@@ -287,18 +299,6 @@
       "time": "03:27:17",
       "type": "analysis",
       "msg": "Analisando LINK... parece SHORT (56%)"
-    },
-    {
-      "ts": "2026-02-15T03:27:17.613Z",
-      "time": "03:27:17",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - MOODENG cancelado"
-    },
-    {
-      "ts": "2026-02-15T03:27:17.337Z",
-      "time": "03:27:17",
-      "type": "signal",
-      "msg": "🎯 LONG MOODENG @ $0.06 (78%) — Os indicadores mandaram, eu obedeci"
     }
   ]
 }
