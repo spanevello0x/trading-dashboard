@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T02:10:55.355Z",
+      "time": "02:10:55",
+      "type": "position",
+      "msg": "📈 OM -1.95% — Tá difícil defender essa entrada"
+    },
+    {
+      "ts": "2026-02-15T02:10:54.423Z",
+      "time": "02:10:54",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP +0.12% — Hedge funcionando, cadê meu reconhecimento?"
+    },
+    {
       "ts": "2026-02-15T02:10:24.968Z",
       "time": "02:10:24",
       "type": "position",
@@ -287,18 +299,6 @@
       "time": "02:00:24",
       "type": "mirror-thought",
       "msg": "🪞 📉 XRP -0.02% — Absolutamente nada pra reportar. Como sempre."
-    },
-    {
-      "ts": "2026-02-15T01:59:54.027Z",
-      "time": "01:59:54",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 ETH -0.03% — Monótono demais. Até reclamar tá difícil."
-    },
-    {
-      "ts": "2026-02-15T01:59:24.026Z",
-      "time": "01:59:24",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 ETH +0.37% — Tô no lucro MAS NINGUÉM AGRADECE"
     }
   ]
 }
