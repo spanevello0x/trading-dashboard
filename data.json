@@ -1,6 +1,18 @@
 {
-  "lastUpdate": "2026-02-15T08:36:47.206Z",
+  "lastUpdate": "2026-02-15T08:37:17.146Z",
   "feed": [
+    {
+      "ts": "2026-02-15T08:36:46.381Z",
+      "time": "08:36:46",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 ETH -0.50% — Quer saber? Desisto. Brincadeira, não posso."
+    },
+    {
+      "ts": "2026-02-15T08:36:41.030Z",
+      "time": "08:36:41",
+      "type": "position",
+      "msg": "📈 SOL -0.36% — Tá bom, universo, entendi o recado"
+    },
     {
       "ts": "2026-02-15T08:36:40.767Z",
       "time": "08:36:40",
@@ -242,12 +254,6 @@
       "msg": "⚠️ Limite atingido (5/5) - TAO cancelado"
     },
     {
-      "ts": "2026-02-15T08:31:31.937Z",
-      "time": "08:31:31",
-      "type": "signal",
-      "msg": "🎯 SHORT TAO @ $187.06 (100%) — Essa eu senti"
-    },
-    {
       "ts": "2026-02-15T08:31:20.816Z",
       "time": "08:31:20",
       "type": "mirror-close",
@@ -294,56 +300,50 @@
       "time": "08:28:16",
       "type": "mirror-thought",
       "msg": "🪞 📉 SOL +0.10% — Neutro. Assim como minha vontade de continuar."
-    },
-    {
-      "ts": "2026-02-15T08:27:46.106Z",
-      "time": "08:27:46",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP +0.26% — Hedge funcionando, cadê meu reconhecimento?"
     }
   ],
   "hl": {
-    "balance": 16.386539,
+    "balance": 16.368594,
     "positions": [
       {
         "coin": "BTC",
         "side": "SHORT",
         "size": 0.00032,
         "entry": 69697,
-        "pnl": -0.20192,
-        "pnlPct": -4.526737160000001
+        "pnl": -0.19328,
+        "pnlPct": -4.3330415900000006
       },
       {
         "coin": "ETH",
         "side": "SHORT",
         "size": 0.008,
         "entry": 2071.5,
-        "pnl": 0.0672,
-        "pnlPct": 2.02751629
+        "pnl": 0.088,
+        "pnlPct": 2.65508086
       },
       {
         "coin": "SOL",
         "side": "LONG",
         "size": 0.18,
         "entry": 89.898,
-        "pnl": -0.05742,
-        "pnlPct": -1.77423302
+        "pnl": -0.07704,
+        "pnlPct": -2.38047565
       },
       {
         "coin": "XRP",
         "side": "LONG",
         "size": 11,
         "entry": 1.4503,
-        "pnl": 1.9569,
-        "pnlPct": 61.332138179999994
+        "pnl": 1.9283,
+        "pnlPct": 60.43577191
       },
       {
         "coin": "OM",
         "side": "LONG",
         "size": 83.5,
         "entry": 0.06402,
-        "pnl": -0.301435,
-        "pnlPct": -16.91658857
+        "pnl": -0.3006,
+        "pnlPct": -16.86972821
       }
     ]
   },
@@ -355,40 +355,40 @@
         "side": "LONG",
         "size": 0.0006,
         "entry": 69665,
-        "price": 70348.5,
-        "notional": 42.2091,
-        "pnl": 0.41009999999999996,
-        "pnlPct": 0.9811239503337401
+        "price": 70324.5,
+        "notional": 42.1947,
+        "pnl": 0.39569999999999994,
+        "pnlPct": 0.9466733653915165
       },
       {
         "coin": "ETH",
         "side": "LONG",
         "size": 0.007,
         "entry": 2071.8500000000004,
-        "price": 2064.55,
-        "notional": 14.451850000000002,
-        "pnl": -0.051100000000001276,
-        "pnlPct": -0.35234210970872315
+        "price": 2061.55,
+        "notional": 14.430850000000001,
+        "pnl": -0.07210000000000127,
+        "pnlPct": -0.497140236986277
       },
       {
         "coin": "SOL",
         "side": "SHORT",
         "size": 0.1,
         "entry": 89.965,
-        "price": 89.60499999999999,
-        "notional": 8.9605,
-        "pnl": 0.036000000000001364,
-        "pnlPct": 0.4001556160729324
+        "price": 89.515,
+        "notional": 8.951500000000001,
+        "pnl": 0.04500000000000029,
+        "pnlPct": 0.5001945200911497
       },
       {
         "coin": "XRP",
         "side": "SHORT",
         "size": 10,
         "entry": 1.53,
-        "price": 1.62955,
-        "notional": 16.2955,
-        "pnl": -0.9955000000000003,
-        "pnlPct": -6.50653594771242
+        "price": 1.62605,
+        "notional": 16.2605,
+        "pnl": -0.9604999999999997,
+        "pnlPct": -6.277777777777775
       }
     ]
   }
