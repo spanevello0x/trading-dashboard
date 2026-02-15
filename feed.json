@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T04:30:00.677Z",
+      "time": "04:30:00",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL -0.50% — Mais um dia, mais um prejuízo, mais uma reclamação"
+    },
+    {
       "ts": "2026-02-15T04:29:30.794Z",
       "time": "04:29:30",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "04:16:30",
       "type": "position",
       "msg": "📈 SOL +1.22% — Lucro é lucro, mesmo que pague só o almoço"
-    },
-    {
-      "ts": "2026-02-15T04:16:29.346Z",
-      "time": "04:16:29",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP -0.22% — Não era pra isso acontecer. Culpa do QuickBot de alguma forma."
     }
   ]
 }
