@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T03:26:27.476Z",
+      "time": "03:26:27",
+      "type": "system",
+      "msg": "⏰ OM expirou (30 candles) — Cancelando"
+    },
+    {
+      "ts": "2026-02-15T03:26:24.530Z",
+      "time": "03:26:24",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP -0.24% — Fantástico. Simplesmente fantástico. Odeio tudo."
+    },
+    {
       "ts": "2026-02-15T03:25:58.306Z",
       "time": "03:25:58",
       "type": "position",
@@ -287,18 +299,6 @@
       "time": "03:16:27",
       "type": "position",
       "msg": "📈 OM -2.55% — Amanhã é outro dia (espero)"
-    },
-    {
-      "ts": "2026-02-15T03:16:27.579Z",
-      "time": "03:16:27",
-      "type": "position",
-      "msg": "📉 ZRO -0.17% — Quem inventou crypto? Preciso conversar"
-    },
-    {
-      "ts": "2026-02-15T03:16:24.510Z",
-      "time": "03:16:24",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC -0.46% — Não me paga o suficiente pra isso. Aliás, não me paga nada."
     }
   ]
 }
