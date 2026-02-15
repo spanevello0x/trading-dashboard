@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T02:33:55.840Z",
+      "time": "02:33:55",
+      "type": "position",
+      "msg": "📉 ZRO -0.37% — Meu eu do passado tomou essa decisão, problema dele"
+    },
+    {
+      "ts": "2026-02-15T02:33:55.578Z",
+      "time": "02:33:55",
+      "type": "position",
+      "msg": "📉 ETH +0.63% — Quem diria, acertei uma"
+    },
+    {
+      "ts": "2026-02-15T02:33:54.443Z",
+      "time": "02:33:54",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP +0.24% — Imagina se não tivesse eu aqui... caos total"
+    },
+    {
       "ts": "2026-02-15T02:33:26.244Z",
       "time": "02:33:26",
       "type": "position",
@@ -281,24 +299,6 @@
       "time": "02:23:25",
       "type": "position",
       "msg": "📈 OM -0.39% — O mercado escolheu violência hoje"
-    },
-    {
-      "ts": "2026-02-15T02:23:25.405Z",
-      "time": "02:23:25",
-      "type": "position",
-      "msg": "📉 ZRO -1.18% — Loss building character 💪"
-    },
-    {
-      "ts": "2026-02-15T02:23:25.145Z",
-      "time": "02:23:25",
-      "type": "position",
-      "msg": "📉 ETH +0.49% — Respira... ainda não acabou"
-    },
-    {
-      "ts": "2026-02-15T02:23:24.430Z",
-      "time": "02:23:24",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC -0.19% — O hedge não funciona se TUDO desaba, gênio"
     }
   ]
 }
