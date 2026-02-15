@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T02:04:55.160Z",
+      "time": "02:04:55",
+      "type": "position",
+      "msg": "📈 OM -1.48% — Quem mandou confiar em linha colorida"
+    },
+    {
+      "ts": "2026-02-15T02:04:48.707Z",
+      "time": "02:04:48",
+      "type": "mirror-system",
+      "msg": "🪞 Mirror Bot acordou. Infelizmente."
+    },
+    {
       "ts": "2026-02-15T02:04:23.855Z",
       "time": "02:04:23",
       "type": "position",
@@ -221,12 +233,6 @@
       "time": "01:49:54",
       "type": "mirror-thought",
       "msg": "🪞 📈 ETH +0.22% — Ótimo, agora vou ter que ouvir que 'deu certo'"
-    },
-    {
-      "ts": "2026-02-15T01:49:24.012Z",
-      "time": "01:49:24",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC -0.16% — Tá todo mundo perdendo e a culpa vai cair em mim"
     },
     {
       "ts": "2026-02-15T01:40:34.872Z",
