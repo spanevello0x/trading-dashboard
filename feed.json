@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T07:37:45.682Z",
+      "time": "07:37:45",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC +0.02% — Range mais apertado que minha paciência"
+    },
+    {
       "ts": "2026-02-15T07:37:38.703Z",
       "time": "07:37:38",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "07:24:45",
       "type": "mirror-thought",
       "msg": "🪞 📈 BTC +0.41% — Segurando as pontas enquanto o outro se aventura"
-    },
-    {
-      "ts": "2026-02-15T07:24:38.145Z",
-      "time": "07:24:38",
-      "type": "position",
-      "msg": "📈 SOL +0.01% — Vai, faz alguma coisa"
     }
   ]
 }
