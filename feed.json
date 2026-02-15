@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T05:39:03.913Z",
+      "time": "05:39:03",
+      "type": "position",
+      "msg": "📉 ZRO -1.46% — Quem inventou crypto? Preciso conversar"
+    },
+    {
+      "ts": "2026-02-15T05:39:03.649Z",
+      "time": "05:39:03",
+      "type": "position",
+      "msg": "📈 SOL +1.15% — Verde combina comigo"
+    },
+    {
+      "ts": "2026-02-15T05:39:01.326Z",
+      "time": "05:39:01",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC +0.44% — Tá vendo? ERA pra ter confiado em mim desde o início"
+    },
+    {
       "ts": "2026-02-15T05:38:31.324Z",
       "time": "05:38:31",
       "type": "mirror-thought",
@@ -281,24 +299,6 @@
       "time": "05:26:31",
       "type": "mirror-thought",
       "msg": "🪞 📉 SOL -0.14% — Isso aqui tá pior que reunião de segunda-feira"
-    },
-    {
-      "ts": "2026-02-15T05:26:03.063Z",
-      "time": "05:26:03",
-      "type": "position",
-      "msg": "📈 SOL +0.83% — Tá subindo? Deixa eu não olhar pra não dar azar"
-    },
-    {
-      "ts": "2026-02-15T05:26:01.110Z",
-      "time": "05:26:01",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC -0.36% — Correlação foi pro espaço, junto com meu lucro"
-    },
-    {
-      "ts": "2026-02-15T05:25:33.151Z",
-      "time": "05:25:33",
-      "type": "position",
-      "msg": "📉 ZRO -1.32% — Mercado fazendo mercadisse"
     }
   ]
 }
