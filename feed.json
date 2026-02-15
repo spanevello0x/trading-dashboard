@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T08:06:45.744Z",
+      "time": "08:06:45",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 ETH +0.44% — Ganhando dinheiro e reclamando. Multitarefa."
+    },
+    {
+      "ts": "2026-02-15T08:06:39.960Z",
+      "time": "08:06:39",
+      "type": "position",
+      "msg": "📈 SOL +1.41% — Calma que ainda pode dar errado"
+    },
+    {
       "ts": "2026-02-15T08:06:39.682Z",
       "time": "08:06:39",
       "type": "position",
@@ -287,18 +299,6 @@
       "time": "07:53:45",
       "type": "mirror-thought",
       "msg": "🪞 📉 XRP +0.43% — Delta neutral funcionando. Genial? Sim. Reconhecido? Nunca."
-    },
-    {
-      "ts": "2026-02-15T07:53:39.753Z",
-      "time": "07:53:39",
-      "type": "position",
-      "msg": "📈 SOL +0.84% — Será que é armadilha? Provavelmente. Mas vou curtir enquanto dura"
-    },
-    {
-      "ts": "2026-02-15T07:53:39.051Z",
-      "time": "07:53:39",
-      "type": "position",
-      "msg": "📈 ETH -0.17% — Mercado fazendo mercadisse"
     }
   ]
 }
