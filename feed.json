@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T03:35:28.523Z",
+      "time": "03:35:28",
+      "type": "position",
+      "msg": "📉 ZRO +0.91% — Tá subindo? Deixa eu não olhar pra não dar azar"
+    },
+    {
+      "ts": "2026-02-15T03:35:28.247Z",
+      "time": "03:35:28",
+      "type": "position",
+      "msg": "📉 ETH +0.87% — Olha só, o mercado decidiu colaborar hoje"
+    },
+    {
+      "ts": "2026-02-15T03:35:24.538Z",
+      "time": "03:35:24",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 ETH +0.07% — Nem o mercado sabe o que quer"
+    },
+    {
       "ts": "2026-02-15T03:34:54.538Z",
       "time": "03:34:54",
       "type": "mirror-thought",
@@ -265,18 +283,6 @@
       "msg": "🎯 SHORT TAO @ $189.97 (78%) — Setup alinhado, agora é com o mercado"
     },
     {
-      "ts": "2026-02-15T03:27:14.692Z",
-      "time": "03:27:14",
-      "type": "analysis",
-      "msg": "TAO tá interessante, 78% pro SHORT"
-    },
-    {
-      "ts": "2026-02-15T03:27:13.958Z",
-      "time": "03:27:13",
-      "type": "analysis",
-      "msg": "Analisando AVAX... parece SHORT (56%)"
-    },
-    {
       "ts": "2026-02-15T03:26:54.531Z",
       "time": "03:26:54",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "03:25:54",
       "type": "mirror-thought",
       "msg": "🪞 📈 BTC -0.00% — Nada acontece, feijoada"
-    },
-    {
-      "ts": "2026-02-15T03:25:24.529Z",
-      "time": "03:25:24",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP +0.11% — Se fosse fácil, qualquer um fazia. Mas só eu faço."
     }
   ]
 }
