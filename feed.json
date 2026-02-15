@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T06:15:04.910Z",
+      "time": "06:15:04",
+      "type": "position",
+      "msg": "📈 SOL +1.14% — Lucro é lucro, mesmo que pague só o almoço"
+    },
+    {
+      "ts": "2026-02-15T06:14:39.865Z",
+      "time": "06:14:39",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC +0.22% — Mais um dia salvando a pátria"
+    },
+    {
       "ts": "2026-02-15T06:14:35.257Z",
       "time": "06:14:35",
       "type": "position",
@@ -235,12 +247,6 @@
       "msg": "Olhando ASTER... 56% SHORT"
     },
     {
-      "ts": "2026-02-15T06:09:44.686Z",
-      "time": "06:09:44",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - ZRO cancelado"
-    },
-    {
       "ts": "2026-02-15T06:09:36.285Z",
       "time": "06:09:36",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "06:06:04",
       "type": "mirror-thought",
       "msg": "🪞 📈 ZEC -0.22% — Vermelho. Previsível. Irritante."
-    },
-    {
-      "ts": "2026-02-15T06:05:34.726Z",
-      "time": "06:05:34",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC +0.06% — Nem o mercado sabe o que quer"
     }
   ]
 }
