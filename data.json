@@ -1,23 +1,29 @@
 {
-  "lastUpdate": "2026-02-15T01:05:03.323Z",
+  "lastUpdate": "2026-02-15T01:05:33.223Z",
   "feed": [
     {
-      "ts": "2026-02-15T01:04:47.221Z",
-      "time": "01:04:47",
+      "ts": "2026-02-15T01:05:17.221Z",
+      "time": "01:05:17",
       "type": "mirror-thought",
-      "msg": "🪞 📉 XRP -0.38% — O mercado tá de sacanagem"
+      "msg": "🪞 📉 HYPE -0.36% — Nem o hedge salva dessa"
     },
     {
-      "ts": "2026-02-15T01:04:17.221Z",
-      "time": "01:04:17",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP +0.14% — Delta neutral funcionando. Genial? Sim. Reconhecido? Nunca."
+      "ts": "2026-02-15T01:05:02.709Z",
+      "time": "01:05:02",
+      "type": "position",
+      "msg": "OM +2.76% — Verde combina comigo"
     },
     {
-      "ts": "2026-02-15T01:04:13.235Z",
-      "time": "01:04:13",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 HYPE -0.33% — Até EU tô no vermelho agora. Inacreditável."
+      "ts": "2026-02-15T01:05:02.398Z",
+      "time": "01:05:02",
+      "type": "position",
+      "msg": "HYPE +0.19% — Respira... ainda não acabou"
+    },
+    {
+      "ts": "2026-02-15T01:05:02.029Z",
+      "time": "01:05:02",
+      "type": "position",
+      "msg": "ZRO -0.10% — Pelo menos o stop existe. Graças a Deus pelo stop."
     },
     {
       "ts": "2026-02-15T01:04:02.598Z",
@@ -180,68 +186,50 @@
       "time": "00:56:59",
       "type": "analysis",
       "msg": "MOODENG no radar: 56% LONG"
-    },
-    {
-      "ts": "2026-02-15T00:56:58.980Z",
-      "time": "00:56:58",
-      "type": "analysis",
-      "msg": "ARB tá interessante, 56% pro SHORT"
-    },
-    {
-      "ts": "2026-02-15T00:56:58.624Z",
-      "time": "00:56:58",
-      "type": "analysis",
-      "msg": "Olhando kPEPE... 67% LONG"
-    },
-    {
-      "ts": "2026-02-15T00:56:58.347Z",
-      "time": "00:56:58",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - XMR cancelado"
     }
   ],
   "hl": {
-    "balance": 16.110689,
+    "balance": 16.132194,
     "positions": [
       {
         "coin": "BTC",
         "side": "SHORT",
         "size": 0.00032,
         "entry": 69697,
-        "pnl": -0.02656,
-        "pnlPct": -0.59543452
+        "pnl": -0.03488,
+        "pnlPct": -0.7819561799999999
       },
       {
         "coin": "XRP",
         "side": "LONG",
         "size": 11,
         "entry": 1.4503,
-        "pnl": 0.8459,
-        "pnlPct": 26.511756190000003
+        "pnl": 0.9295,
+        "pnlPct": 29.13190374
       },
       {
         "coin": "ZRO",
         "side": "SHORT",
         "size": 8.5,
         "entry": 1.8619,
-        "pnl": -0.01615,
-        "pnlPct": -0.5102314800000001
+        "pnl": -0.05355,
+        "pnlPct": -1.6918201800000001
       },
       {
         "coin": "HYPE",
         "side": "LONG",
         "size": 0.49,
         "entry": 31.906,
-        "pnl": 0.0294,
-        "pnlPct": 0.9402620199999999
+        "pnl": 0.03724,
+        "pnlPct": 1.1909985600000002
       },
       {
         "coin": "OM",
         "side": "LONG",
         "size": 83.5,
         "entry": 0.06402,
-        "pnl": 0.147795,
-        "pnlPct": 8.29428304
+        "pnl": 0.12358,
+        "pnlPct": 6.93533271
       }
     ]
   },
