@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T02:54:54.463Z",
+      "time": "02:54:54",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 ETH -0.44% — Não era assim no backtest"
+    },
+    {
       "ts": "2026-02-15T02:54:26.937Z",
       "time": "02:54:26",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "02:44:24",
       "type": "mirror-thought",
       "msg": "🪞 📉 XRP -0.15% — Se eu pudesse, mandava o mercado se explicar"
-    },
-    {
-      "ts": "2026-02-15T02:43:55.828Z",
-      "time": "02:43:55",
-      "type": "position",
-      "msg": "📉 ETH +0.17% — Será que alguém sabe algo que eu não sei? Sempre sabem."
     }
   ]
 }
