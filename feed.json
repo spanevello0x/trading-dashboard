@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T02:46:24.453Z",
+      "time": "02:46:24",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP -0.09% — Estabilidade é superestimada. E entediante."
+    },
+    {
       "ts": "2026-02-15T02:45:56.959Z",
       "time": "02:45:56",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "02:35:55",
       "type": "position",
       "msg": "📉 ETH +0.72% — Será que é armadilha? Provavelmente. Mas vou curtir enquanto dura"
-    },
-    {
-      "ts": "2026-02-15T02:35:54.445Z",
-      "time": "02:35:54",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 ETH -0.21% — Prejuízo compartilhado é prejuízo... dobrado"
     }
   ]
 }
