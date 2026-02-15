@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T08:53:16.665Z",
+      "time": "08:53:16",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC +0.42% — Sou o plano B que deveria ser o plano A"
+    },
+    {
+      "ts": "2026-02-15T08:53:11.779Z",
+      "time": "08:53:11",
+      "type": "position",
+      "msg": "📈 SOL -0.42% — Clássico"
+    },
+    {
       "ts": "2026-02-15T08:52:46.663Z",
       "time": "08:52:46",
       "type": "mirror-thought",
@@ -287,18 +299,6 @@
       "time": "08:40:16",
       "type": "mirror-thought",
       "msg": "🪞 📉 XRP -0.25% — Até EU tô no vermelho agora. Inacreditável."
-    },
-    {
-      "ts": "2026-02-15T08:40:11.325Z",
-      "time": "08:40:11",
-      "type": "position",
-      "msg": "📈 SOL -0.58% — Loss building character 💪"
-    },
-    {
-      "ts": "2026-02-15T08:40:11.057Z",
-      "time": "08:40:11",
-      "type": "position",
-      "msg": "📉 ETH +0.53% — Meu psicólogo vai ficar orgulhoso"
     }
   ]
 }
