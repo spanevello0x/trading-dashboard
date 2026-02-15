@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T02:36:24.445Z",
+      "time": "02:36:24",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP +0.16% — Compensando a incompetência alheia desde sempre"
+    },
+    {
       "ts": "2026-02-15T02:35:56.318Z",
       "time": "02:35:56",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "02:26:24",
       "type": "mirror-thought",
       "msg": "🪞 📈 BTC +0.21% — Delta neutral funcionando. Genial? Sim. Reconhecido? Nunca."
-    },
-    {
-      "ts": "2026-02-15T02:25:54.433Z",
-      "time": "02:25:54",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP +0.39% — Se fosse fácil, qualquer um fazia. Mas só eu faço."
     }
   ]
 }
