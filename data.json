@@ -1,6 +1,78 @@
 {
-  "lastUpdate": "2026-02-15T00:57:02.643Z",
+  "lastUpdate": "2026-02-15T00:57:32.562Z",
   "feed": [
+    {
+      "ts": "2026-02-15T00:57:11.259Z",
+      "time": "00:57:11",
+      "type": "mirror-system",
+      "msg": "🪞 Mirror Bot online. Hora de trabalhar enquanto outros descansam."
+    },
+    {
+      "ts": "2026-02-15T00:57:01.032Z",
+      "time": "00:57:01",
+      "type": "system",
+      "msg": "⚠️ Limite atingido (5/5) - JUP cancelado"
+    },
+    {
+      "ts": "2026-02-15T00:57:00.751Z",
+      "time": "00:57:00",
+      "type": "signal",
+      "msg": "🎯 LONG JUP @ $0.17 (100%) — Os indicadores mandaram, eu obedeci"
+    },
+    {
+      "ts": "2026-02-15T00:57:00.750Z",
+      "time": "00:57:00",
+      "type": "analysis",
+      "msg": "JUP no radar: 100% LONG"
+    },
+    {
+      "ts": "2026-02-15T00:56:59.573Z",
+      "time": "00:56:59",
+      "type": "analysis",
+      "msg": "LINK no radar: 56% SHORT"
+    },
+    {
+      "ts": "2026-02-15T00:56:59.282Z",
+      "time": "00:56:59",
+      "type": "analysis",
+      "msg": "MOODENG no radar: 56% LONG"
+    },
+    {
+      "ts": "2026-02-15T00:56:58.980Z",
+      "time": "00:56:58",
+      "type": "analysis",
+      "msg": "ARB tá interessante, 56% pro SHORT"
+    },
+    {
+      "ts": "2026-02-15T00:56:58.624Z",
+      "time": "00:56:58",
+      "type": "analysis",
+      "msg": "Olhando kPEPE... 67% LONG"
+    },
+    {
+      "ts": "2026-02-15T00:56:58.347Z",
+      "time": "00:56:58",
+      "type": "system",
+      "msg": "⚠️ Limite atingido (5/5) - XMR cancelado"
+    },
+    {
+      "ts": "2026-02-15T00:56:58.002Z",
+      "time": "00:56:58",
+      "type": "signal",
+      "msg": "🎯 SHORT XMR @ $354.11 (100%) — Vamo ver no que dá"
+    },
+    {
+      "ts": "2026-02-15T00:56:58.001Z",
+      "time": "00:56:58",
+      "type": "analysis",
+      "msg": "Analisando XMR... parece SHORT (100%)"
+    },
+    {
+      "ts": "2026-02-15T00:56:57.679Z",
+      "time": "00:56:57",
+      "type": "analysis",
+      "msg": "Analisando VVV... parece LONG (56%)"
+    },
     {
       "ts": "2026-02-15T00:56:56.956Z",
       "time": "00:56:56",
@@ -114,116 +186,50 @@
       "time": "00:56:41",
       "type": "execution",
       "msg": "📤 Abrindo LONG em XPL..."
-    },
-    {
-      "ts": "2026-02-15T00:56:40.039Z",
-      "time": "00:56:40",
-      "type": "execution",
-      "msg": "⚙️ Leverage: 5x"
-    },
-    {
-      "ts": "2026-02-15T00:56:39.763Z",
-      "time": "00:56:39",
-      "type": "signal",
-      "msg": "🎯 LONG XPL @ $0.10 (100%) — Nova aposta na mesa"
-    },
-    {
-      "ts": "2026-02-15T00:56:39.763Z",
-      "time": "00:56:39",
-      "type": "analysis",
-      "msg": "Analisando XPL... parece LONG (100%)"
-    },
-    {
-      "ts": "2026-02-15T00:56:39.164Z",
-      "time": "00:56:39",
-      "type": "error",
-      "msg": "❌ Falha na execução: Order has invalid price."
-    },
-    {
-      "ts": "2026-02-15T00:56:37.283Z",
-      "time": "00:56:37",
-      "type": "execution",
-      "msg": "📤 Abrindo SHORT em MON..."
-    },
-    {
-      "ts": "2026-02-15T00:56:36.093Z",
-      "time": "00:56:36",
-      "type": "execution",
-      "msg": "⚙️ Leverage: 5x"
-    },
-    {
-      "ts": "2026-02-15T00:56:35.818Z",
-      "time": "00:56:35",
-      "type": "signal",
-      "msg": "🎯 SHORT MON @ $0.02 (89%) — Dessa vez vai (eu acho)"
-    },
-    {
-      "ts": "2026-02-15T00:56:35.818Z",
-      "time": "00:56:35",
-      "type": "analysis",
-      "msg": "MON tá interessante, 89% pro SHORT"
-    },
-    {
-      "ts": "2026-02-15T00:56:35.538Z",
-      "time": "00:56:35",
-      "type": "analysis",
-      "msg": "UNI no radar: 56% LONG"
-    },
-    {
-      "ts": "2026-02-15T00:56:35.245Z",
-      "time": "00:56:35",
-      "type": "analysis",
-      "msg": "SUI no radar: 56% LONG"
-    },
-    {
-      "ts": "2026-02-15T00:56:34.404Z",
-      "time": "00:56:34",
-      "type": "error",
-      "msg": "❌ Falha na execução: Order has invalid price."
     }
   ],
   "hl": {
-    "balance": 15.901678,
+    "balance": 15.936438,
     "positions": [
       {
         "coin": "BTC",
         "side": "SHORT",
         "size": 0.00032,
         "entry": 69697,
-        "pnl": -0.01152,
-        "pnlPct": -0.25826076
+        "pnl": -0.02176,
+        "pnlPct": -0.48782587
       },
       {
         "coin": "XRP",
         "side": "LONG",
         "size": 11,
         "entry": 1.4503,
-        "pnl": 0.7942,
-        "pnlPct": 24.89140178
+        "pnl": 0.8162,
+        "pnlPct": 25.580914290000003
       },
       {
         "coin": "ZRO",
         "side": "SHORT",
         "size": 8.5,
         "entry": 1.8619,
-        "pnl": 0.00425,
-        "pnlPct": 0.13427144
+        "pnl": 0.0085,
+        "pnlPct": 0.26854289
       },
       {
         "coin": "HYPE",
         "side": "LONG",
         "size": 0.49,
         "entry": 31.906,
-        "pnl": 0.00833,
-        "pnlPct": 0.26640757
+        "pnl": 0.01372,
+        "pnlPct": 0.43878894
       },
       {
         "coin": "OM",
         "side": "LONG",
         "size": 83.5,
         "entry": 0.06402,
-        "pnl": -0.00334,
-        "pnlPct": -0.18744142
+        "pnl": 0.01002,
+        "pnlPct": 0.5623242700000001
       }
     ]
   },
