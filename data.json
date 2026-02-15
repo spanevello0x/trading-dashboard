@@ -1,6 +1,36 @@
 {
-  "lastUpdate": "2026-02-15T02:03:23.958Z",
+  "lastUpdate": "2026-02-15T02:03:57.594Z",
   "feed": [
+    {
+      "ts": "2026-02-15T02:03:38.252Z",
+      "time": "02:03:38",
+      "type": "position",
+      "msg": "📈 OM -1.72% — Quem precisa de dinheiro mesmo"
+    },
+    {
+      "ts": "2026-02-15T02:03:37.980Z",
+      "time": "02:03:37",
+      "type": "position",
+      "msg": "📉 ZRO -0.27% — Quem precisa de dinheiro mesmo"
+    },
+    {
+      "ts": "2026-02-15T02:03:37.713Z",
+      "time": "02:03:37",
+      "type": "position",
+      "msg": "📉 ETH +0.09% — Lateral é o novo tendência"
+    },
+    {
+      "ts": "2026-02-15T02:03:37.052Z",
+      "time": "02:03:37",
+      "type": "system",
+      "msg": "🤖 QuickBot V3 ativo. Watching: BTC, ETH, SOL, HYPE, XRP, ZEC, PAXG, LIT, ZRO, ASTER, AAVE, PUMP, SUI, UNI, MON, BCH, XPL, FARTCOIN, DOGE, BERA, AZTEC, VIRTUAL, AVAX, BNB, OM, TAO, VVV, XMR, kPEPE, ARB, MOODENG, LINK, JUP"
+    },
+    {
+      "ts": "2026-02-15T02:03:24.028Z",
+      "time": "02:03:24",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 ETH -0.39% — Tá todo mundo perdendo e a culpa vai cair em mim"
+    },
     {
       "ts": "2026-02-15T02:02:54.028Z",
       "time": "02:02:54",
@@ -176,102 +206,6 @@
       "msg": "🪞 📈 ETH +0.05% — Zero movimento. Zero emoção. Zero sentido."
     },
     {
-      "ts": "2026-02-15T01:48:24.010Z",
-      "time": "01:48:24",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 ETH -0.22% — Quando o mercado inteiro resolve desabar..."
-    },
-    {
-      "ts": "2026-02-15T01:47:54.009Z",
-      "time": "01:47:54",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP +0.38% — Quando o QuickBot erra, adivinha quem conserta?"
-    },
-    {
-      "ts": "2026-02-15T01:47:24.009Z",
-      "time": "01:47:24",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 ETH -0.47% — Parabéns mercado, você venceu. Por enquanto."
-    },
-    {
-      "ts": "2026-02-15T01:46:54.009Z",
-      "time": "01:46:54",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 ETH -0.32% — Obrigado por me colocar nessa situação"
-    },
-    {
-      "ts": "2026-02-15T01:46:24.008Z",
-      "time": "01:46:24",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 ETH -0.03% — Esperando algo acontecer... esperando... esperando..."
-    },
-    {
-      "ts": "2026-02-15T01:45:54.007Z",
-      "time": "01:45:54",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP -0.32% — Isso aqui tá pior que reunião de segunda-feira"
-    },
-    {
-      "ts": "2026-02-15T01:45:24.007Z",
-      "time": "01:45:24",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 ETH +0.07% — Esperando o próximo desastre ou milagre. Tanto faz."
-    },
-    {
-      "ts": "2026-02-15T01:44:54.006Z",
-      "time": "01:44:54",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP +0.46% — Lucro? Uau. Que surpresa. Ninguém esperava. Mentira, EU esperava."
-    },
-    {
-      "ts": "2026-02-15T01:44:24.006Z",
-      "time": "01:44:24",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP -0.21% — Meu trabalho é neutralizar, não fazer milagre"
-    },
-    {
-      "ts": "2026-02-15T01:43:54.005Z",
-      "time": "01:43:54",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP -0.40% — Se o QuickBot não tivesse... ah, deixa pra lá"
-    },
-    {
-      "ts": "2026-02-15T01:43:24.005Z",
-      "time": "01:43:24",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC +0.12% — Mais um dia salvando a pátria"
-    },
-    {
-      "ts": "2026-02-15T01:42:54.005Z",
-      "time": "01:42:54",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC -0.24% — Quer saber? Desisto. Brincadeira, não posso."
-    },
-    {
-      "ts": "2026-02-15T01:42:24.005Z",
-      "time": "01:42:24",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP +0.18% — Lucro garantido pelo único profissional aqui"
-    },
-    {
-      "ts": "2026-02-15T01:41:54.004Z",
-      "time": "01:41:54",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP +0.34% — Sou o plano B que deveria ser o plano A"
-    },
-    {
-      "ts": "2026-02-15T01:41:24.004Z",
-      "time": "01:41:24",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP +0.15% — Pelo menos UM de nós sabe o que tá fazendo"
-    },
-    {
-      "ts": "2026-02-15T01:40:54.003Z",
-      "time": "01:40:54",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 ETH -0.01% — Se emoção matasse, eu taria vivo pra sempre"
-    },
-    {
       "ts": "2026-02-15T01:40:34.872Z",
       "time": "01:40:34",
       "type": "position",
@@ -294,24 +228,18 @@
       "time": "01:40:33",
       "type": "system",
       "msg": "🤖 QuickBot V3 ativo. Watching: BTC, ETH, SOL, HYPE, XRP, ZEC, PAXG, LIT, ZRO, ASTER, AAVE, PUMP, SUI, UNI, MON, BCH, XPL, FARTCOIN, DOGE, BERA, AZTEC, VIRTUAL, AVAX, BNB, OM, TAO, VVV, XMR, kPEPE, ARB, MOODENG, LINK, JUP"
-    },
-    {
-      "ts": "2026-02-15T01:40:24.001Z",
-      "time": "01:40:24",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 ETH -0.26% — O mercado tá de sacanagem"
     }
   ],
   "hl": {
-    "balance": 15.712779,
+    "balance": 15.721404,
     "positions": [
       {
         "coin": "BTC",
         "side": "SHORT",
         "size": 0.00032,
         "entry": 69697,
-        "pnl": 0.02944,
-        "pnlPct": 0.65999971
+        "pnl": 0.03296,
+        "pnlPct": 0.73891272
       },
       {
         "coin": "ETH",
@@ -326,24 +254,24 @@
         "side": "LONG",
         "size": 11,
         "entry": 1.4503,
-        "pnl": 0.8481,
-        "pnlPct": 26.58070744
+        "pnl": 0.8327,
+        "pnlPct": 26.09804868
       },
       {
         "coin": "ZRO",
         "side": "SHORT",
         "size": 8.5,
         "entry": 1.8619,
-        "pnl": -0.06715,
-        "pnlPct": -2.1214888000000003
+        "pnl": -0.0408,
+        "pnlPct": -1.2890058500000001
       },
       {
         "coin": "OM",
         "side": "LONG",
         "size": 83.5,
         "entry": 0.06402,
-        "pnl": -0.09018,
-        "pnlPct": -5.06091846
+        "pnl": -0.096025,
+        "pnlPct": -5.38894096
       }
     ]
   },
@@ -355,30 +283,30 @@
         "side": "LONG",
         "size": 0.0006,
         "entry": 69665,
-        "price": 69625.5,
-        "notional": 41.775299999999994,
-        "pnl": -0.0237,
-        "pnlPct": -0.05669992105074284
+        "price": 69621.5,
+        "notional": 41.77289999999999,
+        "pnl": -0.026099999999999998,
+        "pnlPct": -0.062441685207780095
       },
       {
         "coin": "ETH",
         "side": "LONG",
         "size": 0.007,
         "entry": 2066.75,
-        "price": 2063.8500000000004,
-        "notional": 14.446950000000003,
-        "pnl": -0.020299999999997455,
-        "pnlPct": -0.14031692270471205
+        "price": 2064.65,
+        "notional": 14.45255,
+        "pnl": -0.014699999999999363,
+        "pnlPct": -0.10160880609652397
       },
       {
         "coin": "XRP",
         "side": "SHORT",
         "size": 10,
         "entry": 1.53,
-        "price": 1.52725,
-        "notional": 15.2725,
-        "pnl": 0.027500000000000302,
-        "pnlPct": 0.17973856209150524
+        "price": 1.5273500000000002,
+        "notional": 15.273500000000002,
+        "pnl": 0.02649999999999819,
+        "pnlPct": 0.17320261437907314
       }
     ]
   }
