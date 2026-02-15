@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T04:52:01.728Z",
+      "time": "04:52:01",
+      "type": "position",
+      "msg": "📉 ZRO -1.40% — Clássico"
+    },
+    {
+      "ts": "2026-02-15T04:52:00.725Z",
+      "time": "04:52:00",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL -0.37% — Eu AVISEI que isso podia acontecer. Avisei? Não? Deveria ter avisado."
+    },
+    {
       "ts": "2026-02-15T04:51:31.396Z",
       "time": "04:51:31",
       "type": "position",
@@ -287,18 +299,6 @@
       "time": "04:39:30",
       "type": "mirror-thought",
       "msg": "🪞 📈 BTC +0.01% — Neutro. Assim como minha vontade de continuar."
-    },
-    {
-      "ts": "2026-02-15T04:39:01.213Z",
-      "time": "04:39:01",
-      "type": "position",
-      "msg": "📉 ZRO -0.74% — Tá difícil defender essa entrada"
-    },
-    {
-      "ts": "2026-02-15T04:39:00.853Z",
-      "time": "04:39:00",
-      "type": "position",
-      "msg": "📈 SOL +0.06% — Tá ali, existindo"
     }
   ]
 }
