@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T02:24:54.432Z",
+      "time": "02:24:54",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 ETH +0.10% — Esperando algo acontecer... esperando... esperando..."
+    },
+    {
       "ts": "2026-02-15T02:24:25.734Z",
       "time": "02:24:25",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "02:14:55",
       "type": "position",
       "msg": "📉 ETH +0.28% — Tá verde? Tira print rápido antes que vire"
-    },
-    {
-      "ts": "2026-02-15T02:14:54.425Z",
-      "time": "02:14:54",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 ETH +0.09% — Aguardando o mercado decidir o que quer da vida"
     }
   ]
 }
