@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T06:35:45.220Z",
+      "time": "06:35:45",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 ETH -0.22% — Delta neutral de prejuízo. Inovador."
+    },
+    {
       "ts": "2026-02-15T06:35:36.410Z",
       "time": "06:35:36",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "06:26:53",
       "type": "mirror-open",
       "msg": "🪞 📉 Abrindo SHORT ETH @ $2093.35 — Começando mais um trabalho não reconhecido"
-    },
-    {
-      "ts": "2026-02-15T06:26:40.822Z",
-      "time": "06:26:40",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP +0.38% — Ganhando aqui pra compensar a burrice do outro lado"
     }
   ]
 }
