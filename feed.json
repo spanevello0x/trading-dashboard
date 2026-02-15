@@ -1,6 +1,30 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T02:42:56.489Z",
+      "time": "02:42:56",
+      "type": "position",
+      "msg": "📈 OM -2.30% — Loss building character 💪"
+    },
+    {
+      "ts": "2026-02-15T02:42:56.219Z",
+      "time": "02:42:56",
+      "type": "position",
+      "msg": "📉 ZRO -1.00% — Quem mandou confiar em linha colorida"
+    },
+    {
+      "ts": "2026-02-15T02:42:55.804Z",
+      "time": "02:42:55",
+      "type": "position",
+      "msg": "📉 ETH +0.23% — Vou fingir que sabia que isso ia acontecer"
+    },
+    {
+      "ts": "2026-02-15T02:42:54.448Z",
+      "time": "02:42:54",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC -0.18% — Quer saber? Desisto. Brincadeira, não posso."
+    },
+    {
       "ts": "2026-02-15T02:42:24.448Z",
       "time": "02:42:24",
       "type": "mirror-thought",
@@ -275,30 +299,6 @@
       "time": "02:32:55",
       "type": "position",
       "msg": "📉 ETH +0.54% — Tá bom demais pra ser verdade... ops, não deveria falar isso"
-    },
-    {
-      "ts": "2026-02-15T02:32:54.443Z",
-      "time": "02:32:54",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC -0.28% — Isso aqui tá pior que reunião de segunda-feira"
-    },
-    {
-      "ts": "2026-02-15T02:32:26.194Z",
-      "time": "02:32:26",
-      "type": "position",
-      "msg": "📈 OM -1.56% — O stop tá ali por um motivo, né"
-    },
-    {
-      "ts": "2026-02-15T02:32:24.441Z",
-      "time": "02:32:24",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP +0.09% — Consolidação ou preguiça do mercado? Provavelmente preguiça."
-    },
-    {
-      "ts": "2026-02-15T02:31:54.440Z",
-      "time": "02:31:54",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP -0.08% — Lateral é o novo tendência aparentemente"
     }
   ]
 }
