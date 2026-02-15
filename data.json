@@ -1,6 +1,18 @@
 {
-  "lastUpdate": "2026-02-15T08:36:17.226Z",
+  "lastUpdate": "2026-02-15T08:36:47.206Z",
   "feed": [
+    {
+      "ts": "2026-02-15T08:36:40.767Z",
+      "time": "08:36:40",
+      "type": "position",
+      "msg": "📉 ETH +0.42% — Print pra mostrar pros netos"
+    },
+    {
+      "ts": "2026-02-15T08:36:16.380Z",
+      "time": "08:36:16",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL +0.27% — Tô no lucro MAS NINGUÉM AGRADECE"
+    },
     {
       "ts": "2026-02-15T08:35:46.379Z",
       "time": "08:35:46",
@@ -236,12 +248,6 @@
       "msg": "🎯 SHORT TAO @ $187.06 (100%) — Essa eu senti"
     },
     {
-      "ts": "2026-02-15T08:31:31.936Z",
-      "time": "08:31:31",
-      "type": "analysis",
-      "msg": "Analisando TAO... parece SHORT (100%)"
-    },
-    {
       "ts": "2026-02-15T08:31:20.816Z",
       "time": "08:31:20",
       "type": "mirror-close",
@@ -294,56 +300,50 @@
       "time": "08:27:46",
       "type": "mirror-thought",
       "msg": "🪞 📉 XRP +0.26% — Hedge funcionando, cadê meu reconhecimento?"
-    },
-    {
-      "ts": "2026-02-15T08:27:16.104Z",
-      "time": "08:27:16",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP -0.42% — Cadê a tal da proteção? Perdida junto com a esperança."
     }
   ],
   "hl": {
-    "balance": 16.319049,
+    "balance": 16.386539,
     "positions": [
       {
         "coin": "BTC",
         "side": "SHORT",
         "size": 0.00032,
         "entry": 69697,
-        "pnl": -0.16448,
-        "pnlPct": -3.6873897
+        "pnl": -0.20192,
+        "pnlPct": -4.526737160000001
       },
       {
         "coin": "ETH",
         "side": "SHORT",
         "size": 0.008,
         "entry": 2071.5,
-        "pnl": 0.0992,
-        "pnlPct": 2.9930002399999998
+        "pnl": 0.0672,
+        "pnlPct": 2.02751629
       },
       {
         "coin": "SOL",
         "side": "LONG",
         "size": 0.18,
         "entry": 89.898,
-        "pnl": -0.09144,
-        "pnlPct": -2.82542437
+        "pnl": -0.05742,
+        "pnlPct": -1.77423302
       },
       {
         "coin": "XRP",
         "side": "LONG",
         "size": 11,
         "entry": 1.4503,
-        "pnl": 1.859,
-        "pnlPct": 58.26380749
+        "pnl": 1.9569,
+        "pnlPct": 61.332138179999994
       },
       {
         "coin": "OM",
         "side": "LONG",
         "size": 83.5,
         "entry": 0.06402,
-        "pnl": -0.306445,
-        "pnlPct": -17.1977507
+        "pnl": -0.301435,
+        "pnlPct": -16.91658857
       }
     ]
   },
@@ -355,40 +355,40 @@
         "side": "LONG",
         "size": 0.0006,
         "entry": 69665,
-        "price": 70209.5,
-        "notional": 42.125699999999995,
-        "pnl": 0.3267,
-        "pnlPct": 0.7815976458766956
+        "price": 70348.5,
+        "notional": 42.2091,
+        "pnl": 0.41009999999999996,
+        "pnlPct": 0.9811239503337401
       },
       {
         "coin": "ETH",
         "side": "LONG",
         "size": 0.007,
         "entry": 2071.8500000000004,
-        "price": 2059.25,
-        "notional": 14.41475,
-        "pnl": -0.08820000000000255,
-        "pnlPct": -0.6081521345657437
+        "price": 2064.55,
+        "notional": 14.451850000000002,
+        "pnl": -0.051100000000001276,
+        "pnlPct": -0.35234210970872315
       },
       {
         "coin": "SOL",
         "side": "SHORT",
         "size": 0.1,
         "entry": 89.965,
-        "price": 89.41499999999999,
-        "notional": 8.9415,
-        "pnl": 0.05500000000000114,
-        "pnlPct": 0.6113488578891917
+        "price": 89.60499999999999,
+        "notional": 8.9605,
+        "pnl": 0.036000000000001364,
+        "pnlPct": 0.4001556160729324
       },
       {
         "coin": "XRP",
         "side": "SHORT",
         "size": 10,
         "entry": 1.53,
-        "price": 1.61995,
-        "notional": 16.1995,
-        "pnl": -0.8994999999999997,
-        "pnlPct": -5.87908496732026
+        "price": 1.62955,
+        "notional": 16.2955,
+        "pnl": -0.9955000000000003,
+        "pnlPct": -6.50653594771242
       }
     ]
   }

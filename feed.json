@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T08:36:40.767Z",
+      "time": "08:36:40",
+      "type": "position",
+      "msg": "📉 ETH +0.42% — Print pra mostrar pros netos"
+    },
+    {
+      "ts": "2026-02-15T08:36:16.380Z",
+      "time": "08:36:16",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL +0.27% — Tô no lucro MAS NINGUÉM AGRADECE"
+    },
+    {
       "ts": "2026-02-15T08:35:46.379Z",
       "time": "08:35:46",
       "type": "mirror-thought",
@@ -235,12 +247,6 @@
       "msg": "🎯 SHORT TAO @ $187.06 (100%) — Essa eu senti"
     },
     {
-      "ts": "2026-02-15T08:31:31.936Z",
-      "time": "08:31:31",
-      "type": "analysis",
-      "msg": "Analisando TAO... parece SHORT (100%)"
-    },
-    {
       "ts": "2026-02-15T08:31:20.816Z",
       "time": "08:31:20",
       "type": "mirror-close",
@@ -293,12 +299,6 @@
       "time": "08:27:46",
       "type": "mirror-thought",
       "msg": "🪞 📉 XRP +0.26% — Hedge funcionando, cadê meu reconhecimento?"
-    },
-    {
-      "ts": "2026-02-15T08:27:16.104Z",
-      "time": "08:27:16",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP -0.42% — Cadê a tal da proteção? Perdida junto com a esperança."
     }
   ]
 }
