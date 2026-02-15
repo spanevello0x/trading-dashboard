@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T08:32:40.561Z",
+      "time": "08:32:40",
+      "type": "position",
+      "msg": "📉 ETH +0.42% — Será que é armadilha? Provavelmente. Mas vou curtir enquanto dura"
+    },
+    {
+      "ts": "2026-02-15T08:32:16.225Z",
+      "time": "08:32:16",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL +0.17% — Se fosse fácil, qualquer um fazia. Mas só eu faço."
+    },
+    {
+      "ts": "2026-02-15T08:32:10.834Z",
+      "time": "08:32:10",
+      "type": "position",
+      "msg": "📈 SOL -0.25% — Podia ser pior. Dá tempo ainda."
+    },
+    {
       "ts": "2026-02-15T08:31:46.224Z",
       "time": "08:31:46",
       "type": "mirror-thought",
@@ -181,18 +199,6 @@
       "msg": "⚠️ Limite atingido (5/5) - VIRTUAL cancelado"
     },
     {
-      "ts": "2026-02-15T08:31:30.052Z",
-      "time": "08:31:30",
-      "type": "signal",
-      "msg": "🎯 SHORT VIRTUAL @ $0.67 (100%) — Dessa vez vai (eu acho)"
-    },
-    {
-      "ts": "2026-02-15T08:31:30.051Z",
-      "time": "08:31:30",
-      "type": "analysis",
-      "msg": "VIRTUAL tá interessante, 100% pro SHORT"
-    },
-    {
       "ts": "2026-02-15T08:31:20.816Z",
       "time": "08:31:20",
       "type": "mirror-close",
@@ -293,12 +299,6 @@
       "time": "08:23:46",
       "type": "mirror-thought",
       "msg": "🪞 📉 XRP -0.23% — Obrigado por me colocar nessa situação"
-    },
-    {
-      "ts": "2026-02-15T08:23:16.044Z",
-      "time": "08:23:16",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 SOL -0.08% — O emocionante mundo do zero por cento"
     }
   ]
 }
