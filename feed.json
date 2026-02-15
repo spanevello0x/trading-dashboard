@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T02:13:54.423Z",
+      "time": "02:13:54",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC -0.26% — Não era pra isso acontecer. Culpa do QuickBot de alguma forma."
+    },
+    {
       "ts": "2026-02-15T02:13:25.337Z",
       "time": "02:13:25",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "02:03:54",
       "type": "mirror-thought",
       "msg": "🪞 📈 ETH +0.15% — Imagina se não tivesse eu aqui... caos total"
-    },
-    {
-      "ts": "2026-02-15T02:03:24.028Z",
-      "time": "02:03:24",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 ETH -0.39% — Tá todo mundo perdendo e a culpa vai cair em mim"
     }
   ]
 }

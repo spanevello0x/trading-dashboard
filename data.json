@@ -1,6 +1,12 @@
 {
-  "lastUpdate": "2026-02-15T02:13:35.624Z",
+  "lastUpdate": "2026-02-15T02:14:05.757Z",
   "feed": [
+    {
+      "ts": "2026-02-15T02:13:54.423Z",
+      "time": "02:13:54",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC -0.26% — Não era pra isso acontecer. Culpa do QuickBot de alguma forma."
+    },
     {
       "ts": "2026-02-15T02:13:25.337Z",
       "time": "02:13:25",
@@ -294,24 +300,18 @@
       "time": "02:03:54",
       "type": "mirror-thought",
       "msg": "🪞 📈 ETH +0.15% — Imagina se não tivesse eu aqui... caos total"
-    },
-    {
-      "ts": "2026-02-15T02:03:24.028Z",
-      "time": "02:03:24",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 ETH -0.39% — Tá todo mundo perdendo e a culpa vai cair em mim"
     }
   ],
   "hl": {
-    "balance": 15.607594,
+    "balance": 15.622779,
     "positions": [
       {
         "coin": "BTC",
         "side": "SHORT",
         "size": 0.00032,
         "entry": 69697,
-        "pnl": 0.05728,
-        "pnlPct": 1.28412988
+        "pnl": 0.05472,
+        "pnlPct": 1.2267386
       },
       {
         "coin": "ETH",
@@ -334,16 +334,16 @@
         "side": "SHORT",
         "size": 8.5,
         "entry": 1.8619,
-        "pnl": -0.2329,
-        "pnlPct": -7.35807508
+        "pnl": -0.221,
+        "pnlPct": -6.98211504
       },
       {
         "coin": "OM",
         "side": "LONG",
         "size": 83.5,
         "entry": 0.06402,
-        "pnl": -0.080995,
-        "pnlPct": -4.54545455
+        "pnl": -0.07515,
+        "pnlPct": -4.21743205
       }
     ]
   },
@@ -355,10 +355,10 @@
         "side": "LONG",
         "size": 0.0006,
         "entry": 69665,
-        "price": 69544.5,
-        "notional": 41.726699999999994,
-        "pnl": -0.07229999999999999,
-        "pnlPct": -0.17297064523074715
+        "price": 69545.5,
+        "notional": 41.7273,
+        "pnl": -0.0717,
+        "pnlPct": -0.17153520419148782
       },
       {
         "coin": "ETH",
@@ -375,10 +375,10 @@
         "side": "SHORT",
         "size": 10,
         "entry": 1.53,
-        "price": 1.52725,
-        "notional": 15.2725,
-        "pnl": 0.027500000000000302,
-        "pnlPct": 0.17973856209150524
+        "price": 1.5271499999999998,
+        "notional": 15.271499999999998,
+        "pnl": 0.028500000000002412,
+        "pnlPct": 0.18627450980393734
       }
     ]
   }
