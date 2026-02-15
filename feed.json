@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T07:58:39.480Z",
+      "time": "07:58:39",
+      "type": "position",
+      "msg": "📈 SOL +0.81% — Se continuar assim, quase empato na semana"
+    },
+    {
+      "ts": "2026-02-15T07:58:15.727Z",
+      "time": "07:58:15",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 ETH -0.22% — Se eu pudesse, mandava o mercado se explicar"
+    },
+    {
       "ts": "2026-02-15T07:58:09.362Z",
       "time": "07:58:09",
       "type": "position",
@@ -287,18 +299,6 @@
       "time": "07:45:38",
       "type": "position",
       "msg": "📈 ETH -0.13% — Quem inventou crypto? Preciso conversar"
-    },
-    {
-      "ts": "2026-02-15T07:45:15.704Z",
-      "time": "07:45:15",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 ETH +0.48% — Pelo menos UM de nós sabe o que tá fazendo"
-    },
-    {
-      "ts": "2026-02-15T07:44:45.702Z",
-      "time": "07:44:45",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP -0.37% — Quer saber? Desisto. Brincadeira, não posso."
     }
   ]
 }
