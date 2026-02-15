@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T05:54:04.286Z",
+      "time": "05:54:04",
+      "type": "position",
+      "msg": "📉 ZEC +0.24% — Será que alguém sabe algo que eu não sei? Sempre sabem."
+    },
+    {
+      "ts": "2026-02-15T05:54:04.103Z",
+      "time": "05:54:04",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP +0.46% — Quando o QuickBot erra, adivinha quem conserta?"
+    },
+    {
+      "ts": "2026-02-15T05:54:04.009Z",
+      "time": "05:54:04",
+      "type": "position",
+      "msg": "📈 SOL +1.51% — O mercado tá generoso hoje, desconfio"
+    },
+    {
       "ts": "2026-02-15T05:53:34.102Z",
       "time": "05:53:34",
       "type": "mirror-thought",
@@ -277,28 +295,10 @@
       "msg": "Analisando kPEPE... parece SHORT (67%)"
     },
     {
-      "ts": "2026-02-15T05:45:22.321Z",
-      "time": "05:45:22",
-      "type": "analysis",
-      "msg": "Olhando XMR... 56% LONG"
-    },
-    {
-      "ts": "2026-02-15T05:45:22.042Z",
-      "time": "05:45:22",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - VVV cancelado"
-    },
-    {
       "ts": "2026-02-15T05:45:01.339Z",
       "time": "05:45:01",
       "type": "mirror-thought",
       "msg": "🪞 📈 BTC +0.49% — Mais um resgate bem-sucedido"
-    },
-    {
-      "ts": "2026-02-15T05:44:31.338Z",
-      "time": "05:44:31",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC +0.28% — Tô no lucro MAS NINGUÉM AGRADECE"
     }
   ]
 }
