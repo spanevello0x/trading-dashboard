@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T08:49:41.243Z",
+      "time": "08:49:41",
+      "type": "position",
+      "msg": "📉 ETH +0.27% — Stonks 📈 (desculpa, não resisti)"
+    },
+    {
+      "ts": "2026-02-15T08:49:16.658Z",
+      "time": "08:49:16",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP -0.06% — Se tédio fosse trade, eu tava rico"
+    },
+    {
       "ts": "2026-02-15T08:48:46.656Z",
       "time": "08:48:46",
       "type": "mirror-thought",
@@ -287,18 +299,6 @@
       "time": "08:36:40",
       "type": "position",
       "msg": "📉 ETH +0.42% — Print pra mostrar pros netos"
-    },
-    {
-      "ts": "2026-02-15T08:36:16.380Z",
-      "time": "08:36:16",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 SOL +0.27% — Tô no lucro MAS NINGUÉM AGRADECE"
-    },
-    {
-      "ts": "2026-02-15T08:35:46.379Z",
-      "time": "08:35:46",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 SOL +0.20% — Delta neutral funcionando. Genial? Sim. Reconhecido? Nunca."
     }
   ]
 }
