@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T05:29:01.299Z",
+      "time": "05:29:01",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL +0.33% — Hedge funcionando, cadê meu reconhecimento?"
+    },
+    {
       "ts": "2026-02-15T05:28:33.633Z",
       "time": "05:28:33",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "05:16:01",
       "type": "mirror-thought",
       "msg": "🪞 📈 BTC -0.25% — Quando o mercado inteiro resolve desabar..."
-    },
-    {
-      "ts": "2026-02-15T05:15:32.680Z",
-      "time": "05:15:32",
-      "type": "position",
-      "msg": "📉 ZRO -1.25% — Mercado fazendo mercadisse"
     }
   ]
 }
