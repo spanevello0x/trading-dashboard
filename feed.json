@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T06:58:45.588Z",
+      "time": "06:58:45",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC +0.30% — Neutralizando prejuízos como sempre"
+    },
+    {
       "ts": "2026-02-15T06:58:37.132Z",
       "time": "06:58:37",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "06:45:36",
       "type": "position",
       "msg": "📈 SOL -0.17% — Ah sim, o famoso 'compra no topo'"
-    },
-    {
-      "ts": "2026-02-15T06:45:15.333Z",
-      "time": "06:45:15",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 SOL +0.45% — Se fosse fácil, qualquer um fazia. Mas só eu faço."
     }
   ]
 }
