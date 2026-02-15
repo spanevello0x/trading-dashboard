@@ -264,6 +264,10 @@
     const NADO_WALLET = '0xFd72A18A054FD2AfEB6e9f7788cFbF51A52E3787';
     const HL_API = 'https://api.hyperliquid.xyz/info';
     const FEED_URL = 'https://raw.githubusercontent.com/spanevello0x/trading-dashboard/main/feed.json';
+    const DATA_URL = 'https://raw.githubusercontent.com/spanevello0x/trading-dashboard/main/data.json';
+    
+    // Cache de dados NADO
+    let nadoData = { balance: 0, positions: [] };
     const INITIAL_CAPITAL_HL = 15.52;
     const INITIAL_CAPITAL_NADO = 15.50;
     
@@ -469,19 +473,28 @@
     
     async function loadFeed() {
       try {
-        const res = await fetch(FEED_URL + '?t=' + Date.now());
-        if (res.ok) {
-          const data = await res.json();
-          if (data.feed) {
-            // Separa HL e NADO
-            hlFeedItems = data.feed.filter(f => !f.msg.includes('NADO')).slice(0, 25);
-            nadoFeedItems = data.feed.filter(f => f.msg.includes('NADO') || f.type === 'mirror').slice(0, 25);
+        // Carrega feed.json (pensamentos)
+        const feedRes = await fetch(FEED_URL + '?t=' + Date.now());
+        if (feedRes.ok) {
+          const feedJson = await feedRes.json();
+          if (feedJson.feed) {
+            hlFeedItems = feedJson.feed.filter(f => !f.msg?.includes('🪞')).slice(0, 25);
+            nadoFeedItems = feedJson.feed.filter(f => f.msg?.includes('🪞') || f.type === 'mirror').slice(0, 25);
             
             document.getElementById('hl-thought-count').textContent = hlFeedItems.length;
             document.getElementById('nado-thought-count').textContent = nadoFeedItems.length;
           }
         }
-      } catch(e) {}
+        
+        // Carrega data.json (posições reais da NADO)
+        const dataRes = await fetch(DATA_URL + '?t=' + Date.now());
+        if (dataRes.ok) {
+          const dataJson = await dataRes.json();
+          if (dataJson.nado) {
+            nadoData = dataJson.nado;
+          }
+        }
+      } catch(e) { console.error('loadFeed error:', e); }
     }
     
     function renderFeeds() {
@@ -640,26 +653,39 @@
         allFillsNADO = []; // TODO: fetch NADO fills when API available
         updateChart();
         
-        // NADO (placeholder - API não disponível diretamente)
-        // Por enquanto mostra dados do feed
-        document.getElementById('nado-equity').textContent = '$15.50';
-        document.getElementById('nado-pnl').textContent = '--';
-        document.getElementById('nado-positions').textContent = nadoFeedItems.filter(f => f.msg.includes('Abrindo')).length || '0';
+        // NADO - Dados reais da exchange via data.json
+        const nadoEquity = nadoData.balance || 0;
+        const nadoPnl = nadoData.positions?.reduce((s, p) => s + (p.pnl || 0), 0) || 0;
+        
+        document.getElementById('nado-equity').textContent = fmt(nadoEquity);
+        document.getElementById('nado-pnl').textContent = nadoPnl !== 0 ? ((nadoPnl >= 0 ? '+' : '') + fmt(nadoPnl, 3)) : '--';
+        document.getElementById('nado-pnl').className = 'font-bold mono ' + (nadoPnl >= 0 ? 'text-accent-green' : 'text-accent-red');
+        document.getElementById('nado-positions').textContent = nadoData.positions?.length || 0;
         
         const nadoPosList = document.getElementById('nado-positions-list');
-        const mirrorTrades = nadoFeedItems.filter(f => f.msg.includes('✅') && f.msg.includes('@'));
-        nadoPosList.innerHTML = mirrorTrades.length > 0
-          ? mirrorTrades.slice(0, 5).map(f => `
-              <div class="flex items-center justify-between py-1.5 px-2 bg-dark-700/50 rounded">
-                <span class="text-xs text-gray-300">${f.msg.replace('🪞 NADO: ', '')}</span>
-              </div>
-            `).join('')
-          : '<div class="text-gray-500 text-center py-4 text-xs">Aguardando trades...</div>';
+        nadoPosList.innerHTML = nadoData.positions?.length > 0
+          ? nadoData.positions.map(p => {
+              const isLong = p.side === 'LONG';
+              const pnl = p.pnl || 0;
+              return `
+                <div class="flex items-center justify-between py-1.5 px-2 bg-dark-700/50 rounded">
+                  <div class="flex items-center gap-2">
+                    <span class="font-medium">${p.coin}</span>
+                    <span class="text-xs px-1 rounded ${isLong ? 'bg-accent-green/20 text-accent-green' : 'bg-accent-red/20 text-accent-red'}">${isLong ? 'L' : 'S'}</span>
+                    <span class="text-xs text-gray-500">${p.size?.toFixed(4) || '--'}</span>
+                  </div>
+                  <span class="mono text-sm ${pnl >= 0 ? 'text-accent-green' : 'text-accent-red'}">${pnl !== 0 ? ((pnl >= 0 ? '+' : '') + fmt(pnl, 3)) : '--'}</span>
+                </div>
+              `;
+            }).join('')
+          : '<div class="text-gray-500 text-center py-4 text-xs">Sem posições</div>';
         
-        // Totals
-        document.getElementById('total-equity').textContent = fmt(hlEquity + 15.50);
-        document.getElementById('total-pnl').textContent = (hlPnl >= 0 ? '+' : '') + fmt(hlPnl, 3);
-        document.getElementById('total-pnl').className = 'text-2xl font-bold mono ' + (hlPnl >= 0 ? 'text-accent-green' : 'text-accent-red');
+        // Totals (HL + NADO)
+        const totalEquity = hlEquity + nadoEquity;
+        const totalPnl = hlPnl + nadoPnl;
+        document.getElementById('total-equity').textContent = fmt(totalEquity);
+        document.getElementById('total-pnl').textContent = (totalPnl >= 0 ? '+' : '') + fmt(totalPnl, 3);
+        document.getElementById('total-pnl').className = 'text-2xl font-bold mono ' + (totalPnl >= 0 ? 'text-accent-green' : 'text-accent-red');
         
         // Render feeds and trades
         renderFeeds();
