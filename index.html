@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>QuickBot · Trading Dashboard</title>
+  <title>Trading Bots Dashboard</title>
   <script src="https://cdn.tailwindcss.com"></script>
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
   <script>
@@ -13,7 +13,7 @@
         extend: {
           colors: {
             dark: { 900: '#0d1117', 800: '#161b22', 700: '#21262d', 600: '#30363d' },
-            accent: { green: '#3fb950', red: '#f85149', blue: '#58a6ff', yellow: '#d29922' }
+            accent: { green: '#3fb950', red: '#f85149', blue: '#58a6ff', yellow: '#d29922', purple: '#a371f7' }
           }
         }
       }
@@ -23,13 +23,9 @@
     @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap');
     body { font-family: 'Inter', sans-serif; }
     .mono { font-family: 'JetBrains Mono', monospace; }
-    .glass { background: rgba(22, 27, 34, 0.8); backdrop-filter: blur(12px); }
-    .glow-green { box-shadow: 0 0 20px rgba(63, 185, 80, 0.15); }
-    .glow-red { box-shadow: 0 0 20px rgba(248, 81, 73, 0.15); }
     ::-webkit-scrollbar { width: 6px; }
     ::-webkit-scrollbar-track { background: transparent; }
     ::-webkit-scrollbar-thumb { background: #30363d; border-radius: 3px; }
-    ::-webkit-scrollbar-thumb:hover { background: #484f58; }
   </style>
 </head>
 <body class="bg-dark-900 text-gray-200 min-h-screen">
@@ -38,198 +34,186 @@
   <header class="border-b border-dark-600 bg-dark-800/50 backdrop-blur-lg sticky top-0 z-50">
     <div class="max-w-7xl mx-auto px-4 py-3 flex items-center justify-between">
       <div class="flex items-center gap-3">
-        <div class="w-10 h-10 rounded-xl bg-gradient-to-br from-accent-green to-accent-blue flex items-center justify-center text-xl">
-          ⚡
-        </div>
+        <div class="w-10 h-10 rounded-xl bg-gradient-to-br from-accent-green to-accent-purple flex items-center justify-center text-xl">⚡</div>
         <div>
-          <h1 class="font-bold text-lg">QuickBot</h1>
-          <p class="text-xs text-gray-500">Hyperliquid Trading</p>
+          <h1 class="font-bold text-lg">Trading Bots</h1>
+          <p class="text-xs text-gray-500">Hyperliquid + NADO Mirror</p>
         </div>
       </div>
-      <div class="flex items-center gap-4">
-        <div class="flex items-center gap-2 text-sm">
-          <div class="w-2 h-2 rounded-full bg-accent-green animate-pulse"></div>
-          <span class="text-gray-400" id="status">Conectado</span>
-        </div>
-        <a href="https://hypurrscan.io/address/0x4FFf1187E66b66bC8E31886F2b861f951736a276" 
-           target="_blank"
-           class="text-xs text-accent-blue hover:underline">
-          Explorer ↗
-        </a>
+      <div class="flex items-center gap-4 text-xs">
+        <span class="text-gray-400">Atualizado: <span id="last-update">--</span></span>
       </div>
     </div>
   </header>
 
   <main class="max-w-7xl mx-auto px-4 py-6 space-y-6">
     
-    <!-- Stats Row -->
-    <div class="grid grid-cols-2 lg:grid-cols-4 gap-4">
-      <!-- Equity -->
-      <div class="bg-dark-800 border border-dark-600 rounded-xl p-4 hover:border-dark-600/80 transition">
-        <div class="flex items-center justify-between mb-2">
-          <span class="text-xs text-gray-500 uppercase tracking-wider">Equity</span>
-          <span class="text-lg">💰</span>
-        </div>
-        <div class="text-2xl font-bold mono" id="equity">$0.00</div>
-        <div class="text-xs text-gray-500 mt-1" id="equity-change">--</div>
-      </div>
+    <!-- Bots Grid -->
+    <div class="grid lg:grid-cols-2 gap-6">
       
-      <!-- PnL Aberto -->
-      <div class="bg-dark-800 border border-dark-600 rounded-xl p-4">
-        <div class="flex items-center justify-between mb-2">
-          <span class="text-xs text-gray-500 uppercase tracking-wider">PnL Aberto</span>
-          <span class="text-lg">📊</span>
-        </div>
-        <div class="text-2xl font-bold mono" id="open-pnl">$0.00</div>
-        <div class="text-xs text-gray-500 mt-1" id="open-pnl-pct">--</div>
-      </div>
-      
-      <!-- Posições -->
-      <div class="bg-dark-800 border border-dark-600 rounded-xl p-4">
-        <div class="flex items-center justify-between mb-2">
-          <span class="text-xs text-gray-500 uppercase tracking-wider">Posições</span>
-          <span class="text-lg">📈</span>
-        </div>
-        <div class="text-2xl font-bold" id="positions-count">0/5</div>
-        <div class="mt-2 h-1.5 bg-dark-600 rounded-full overflow-hidden">
-          <div class="h-full bg-accent-blue rounded-full transition-all" id="positions-bar" style="width: 0%"></div>
-        </div>
-      </div>
-      
-      <!-- Win Rate -->
-      <div class="bg-dark-800 border border-dark-600 rounded-xl p-4">
-        <div class="flex items-center justify-between mb-2">
-          <div class="flex items-center gap-1">
-            <span class="text-xs text-gray-500 uppercase tracking-wider">Win Rate</span>
-            <div class="relative group">
-              <span class="cursor-help text-gray-600 hover:text-gray-400 transition">ⓘ</span>
-              <div class="absolute bottom-full left-1/2 -translate-x-1/2 mb-2 px-3 py-2 bg-dark-700 border border-dark-600 rounded-lg text-xs text-gray-300 w-64 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all z-50 shadow-xl">
-                <div class="font-semibold text-white mb-1">Win Rate (Taxa de Acerto)</div>
-                <div class="space-y-1 text-gray-400">
-                  <div>Quantos trades fecharam no lucro.</div>
-                  <div class="mt-2 font-mono text-accent-green">= Wins ÷ Total trades</div>
-                  <div class="mt-2 text-gray-500">Exemplo: 7 wins de 25 trades = 28%</div>
-                </div>
-                <div class="absolute top-full left-1/2 -translate-x-1/2 border-8 border-transparent border-t-dark-700"></div>
-              </div>
+      <!-- BOT 1: Hyperliquid -->
+      <div class="bg-dark-800 border border-dark-600 rounded-xl p-5">
+        <div class="flex items-center justify-between mb-4">
+          <div class="flex items-center gap-3">
+            <div class="w-8 h-8 rounded-lg bg-accent-green/20 flex items-center justify-center">🟢</div>
+            <div>
+              <h2 class="font-bold">QuickBot</h2>
+              <p class="text-xs text-gray-500">Hyperliquid</p>
             </div>
           </div>
-          <span class="text-lg">🎯</span>
+          <a href="https://hypurrscan.io/address/0x4FFf1187E66b66bC8E31886F2b861f951736a276" target="_blank" class="text-xs text-accent-blue hover:underline">Explorer ↗</a>
         </div>
-        <div class="flex items-baseline gap-2">
-          <div class="text-2xl font-bold" id="win-rate">--%</div>
-          <div class="text-sm" id="pnl-pct-badge">--</div>
-        </div>
-        <div class="text-xs text-gray-500 mt-1">
-          <span id="wins-count">0</span>/<span id="total-trades">0</span> trades no lucro
-        </div>
-      </div>
-    </div>
-
-    <!-- Main Grid -->
-    <div class="grid lg:grid-cols-3 gap-6">
-      
-      <!-- Left Column - Chart + Positions -->
-      <div class="lg:col-span-2 space-y-6">
         
-        <!-- PnL Chart -->
-        <div class="bg-dark-800 border border-dark-600 rounded-xl p-5">
-          <div class="flex items-center justify-between mb-4">
-            <h2 class="font-semibold flex items-center gap-2">
-              <span class="text-accent-blue">📈</span> Performance
-            </h2>
-            <div class="flex items-center gap-1 text-xs">
-              <button onclick="setChartPeriod('24h')" id="btn-24h" class="px-2 py-1 rounded bg-dark-700 text-gray-400 hover:bg-dark-600 hover:text-white transition">24h</button>
-              <button onclick="setChartPeriod('7d')" id="btn-7d" class="px-2 py-1 rounded bg-dark-700 text-gray-400 hover:bg-dark-600 hover:text-white transition">7d</button>
-              <button onclick="setChartPeriod('30d')" id="btn-30d" class="px-2 py-1 rounded bg-dark-700 text-gray-400 hover:bg-dark-600 hover:text-white transition">30d</button>
-              <button onclick="setChartPeriod('all')" id="btn-all" class="px-2 py-1 rounded bg-accent-blue text-white transition">Tudo</button>
-            </div>
+        <!-- Stats HL -->
+        <div class="grid grid-cols-3 gap-3 mb-4">
+          <div class="bg-dark-700 rounded-lg p-3 text-center">
+            <div class="text-xs text-gray-500 mb-1">Equity</div>
+            <div class="font-bold mono" id="hl-equity">--</div>
           </div>
-          <div class="h-64 relative">
-            <canvas id="pnl-chart"></canvas>
+          <div class="bg-dark-700 rounded-lg p-3 text-center">
+            <div class="text-xs text-gray-500 mb-1">PnL Aberto</div>
+            <div class="font-bold mono" id="hl-pnl">--</div>
+          </div>
+          <div class="bg-dark-700 rounded-lg p-3 text-center">
+            <div class="text-xs text-gray-500 mb-1">Posições</div>
+            <div class="font-bold" id="hl-positions">0/5</div>
           </div>
         </div>
         
-        <!-- Positions -->
-        <div class="bg-dark-800 border border-dark-600 rounded-xl p-5">
-          <h2 class="font-semibold mb-4 flex items-center gap-2">
-            <span class="text-accent-green">📊</span> Posições Abertas
-          </h2>
-          <div class="space-y-3" id="positions">
-            <div class="text-center text-gray-500 py-8">Carregando...</div>
+        <!-- Positions HL -->
+        <div class="space-y-2 max-h-48 overflow-y-auto" id="hl-positions-list">
+          <div class="text-gray-500 text-center py-4 text-xs">Carregando...</div>
+        </div>
+        
+        <!-- Win Rate HL -->
+        <div class="mt-4 pt-4 border-t border-dark-600 flex items-center justify-between">
+          <div class="text-xs text-gray-500">Win Rate</div>
+          <div class="flex items-center gap-2">
+            <span class="font-bold" id="hl-winrate">--%</span>
+            <span class="text-xs px-2 py-0.5 rounded bg-dark-700" id="hl-trades">0 trades</span>
           </div>
         </div>
       </div>
       
-      <!-- Right Column - Feed + Trades -->
-      <div class="space-y-6">
+      <!-- BOT 2: NADO Mirror -->
+      <div class="bg-dark-800 border border-dark-600 rounded-xl p-5">
+        <div class="flex items-center justify-between mb-4">
+          <div class="flex items-center gap-3">
+            <div class="w-8 h-8 rounded-lg bg-accent-purple/20 flex items-center justify-center">🪞</div>
+            <div>
+              <h2 class="font-bold">Mirror Bot</h2>
+              <p class="text-xs text-gray-500">NADO (Invertido)</p>
+            </div>
+          </div>
+          <a href="https://explorer.inkonchain.com/address/0xFd72A18A054FD2AfEB6e9f7788cFbF51A52E3787" target="_blank" class="text-xs text-accent-purple hover:underline">Explorer ↗</a>
+        </div>
         
-        <!-- Prices -->
-        <div class="bg-dark-800 border border-dark-600 rounded-xl p-4">
-          <h2 class="font-semibold mb-3 text-sm flex items-center gap-2">
-            <span>💹</span> Preços
-          </h2>
-          <div class="grid grid-cols-3 gap-2">
-            <div class="bg-dark-700 rounded-lg p-3 text-center">
-              <div class="text-xs text-gray-500 mb-1">BTC</div>
-              <div class="font-bold mono text-sm" id="price-btc">--</div>
-            </div>
-            <div class="bg-dark-700 rounded-lg p-3 text-center">
-              <div class="text-xs text-gray-500 mb-1">ETH</div>
-              <div class="font-bold mono text-sm" id="price-eth">--</div>
-            </div>
-            <div class="bg-dark-700 rounded-lg p-3 text-center">
-              <div class="text-xs text-gray-500 mb-1">SOL</div>
-              <div class="font-bold mono text-sm" id="price-sol">--</div>
-            </div>
+        <!-- Stats NADO -->
+        <div class="grid grid-cols-3 gap-3 mb-4">
+          <div class="bg-dark-700 rounded-lg p-3 text-center">
+            <div class="text-xs text-gray-500 mb-1">Balance</div>
+            <div class="font-bold mono" id="nado-equity">--</div>
+          </div>
+          <div class="bg-dark-700 rounded-lg p-3 text-center">
+            <div class="text-xs text-gray-500 mb-1">PnL Aberto</div>
+            <div class="font-bold mono" id="nado-pnl">--</div>
+          </div>
+          <div class="bg-dark-700 rounded-lg p-3 text-center">
+            <div class="text-xs text-gray-500 mb-1">Posições</div>
+            <div class="font-bold" id="nado-positions">0</div>
           </div>
         </div>
         
-        <!-- Feed -->
-        <div class="bg-dark-800 border border-dark-600 rounded-xl p-4">
-          <h2 class="font-semibold mb-3 text-sm flex items-center gap-2">
-            <span>🧠</span> Pensamentos
-            <span class="ml-auto text-xs text-gray-500" id="thought-count">0</span>
-          </h2>
-          <div class="bg-dark-900/50 rounded-lg p-3 max-h-[500px] overflow-y-auto space-y-1 mono text-xs" id="feed">
-            <div class="text-gray-500 text-center py-4">Aguardando...</div>
-          </div>
+        <!-- Positions NADO -->
+        <div class="space-y-2 max-h-48 overflow-y-auto" id="nado-positions-list">
+          <div class="text-gray-500 text-center py-4 text-xs">Carregando...</div>
         </div>
         
-        <!-- Recent Trades -->
-        <div class="bg-dark-800 border border-dark-600 rounded-xl p-4">
-          <h2 class="font-semibold mb-3 text-sm flex items-center gap-2">
-            <span>📜</span> Últimos Trades
-          </h2>
-          <div class="space-y-2 max-h-48 overflow-y-auto" id="trades">
-            <div class="text-gray-500 text-center py-4 text-xs">Carregando...</div>
+        <!-- Info NADO -->
+        <div class="mt-4 pt-4 border-t border-dark-600 flex items-center justify-between">
+          <div class="text-xs text-gray-500">Estratégia</div>
+          <div class="text-xs px-2 py-1 rounded bg-accent-purple/20 text-accent-purple">
+            HL LONG → NADO SHORT
           </div>
         </div>
       </div>
     </div>
     
-    <!-- Footer -->
-    <div class="text-center text-xs text-gray-600 py-4">
-      Atualizado: <span id="last-update">--</span> · 
-      <span class="text-accent-blue">QuickBot V3</span> · 
-      Hyperliquid Mainnet
+    <!-- Combined Stats -->
+    <div class="grid grid-cols-2 lg:grid-cols-4 gap-4">
+      <div class="bg-dark-800 border border-dark-600 rounded-xl p-4">
+        <div class="text-xs text-gray-500 mb-1">Total Equity</div>
+        <div class="text-2xl font-bold mono" id="total-equity">$0.00</div>
+      </div>
+      <div class="bg-dark-800 border border-dark-600 rounded-xl p-4">
+        <div class="text-xs text-gray-500 mb-1">Total PnL Aberto</div>
+        <div class="text-2xl font-bold mono" id="total-pnl">$0.00</div>
+      </div>
+      <div class="bg-dark-800 border border-dark-600 rounded-xl p-4">
+        <div class="text-xs text-gray-500 mb-1">BTC</div>
+        <div class="text-xl font-bold mono" id="price-btc">--</div>
+      </div>
+      <div class="bg-dark-800 border border-dark-600 rounded-xl p-4">
+        <div class="text-xs text-gray-500 mb-1">ETH</div>
+        <div class="text-xl font-bold mono" id="price-eth">--</div>
+      </div>
     </div>
+    
+    <!-- Thoughts Grid -->
+    <div class="grid lg:grid-cols-2 gap-6">
+      <!-- HL Thoughts -->
+      <div class="bg-dark-800 border border-dark-600 rounded-xl p-4">
+        <div class="flex items-center justify-between mb-3">
+          <h3 class="font-semibold text-sm flex items-center gap-2">🧠 QuickBot Thoughts <span class="text-xs text-gray-500" id="hl-thought-count">0</span></h3>
+        </div>
+        <div class="bg-dark-900/50 rounded-lg p-3 max-h-80 overflow-y-auto space-y-1 mono text-xs" id="hl-feed">
+          <div class="text-gray-500 text-center py-4">Aguardando...</div>
+        </div>
+      </div>
+      
+      <!-- NADO Thoughts -->
+      <div class="bg-dark-800 border border-dark-600 rounded-xl p-4">
+        <div class="flex items-center justify-between mb-3">
+          <h3 class="font-semibold text-sm flex items-center gap-2">🪞 Mirror Thoughts <span class="text-xs text-gray-500" id="nado-thought-count">0</span></h3>
+        </div>
+        <div class="bg-dark-900/50 rounded-lg p-3 max-h-80 overflow-y-auto space-y-1 mono text-xs" id="nado-feed">
+          <div class="text-gray-500 text-center py-4">Aguardando...</div>
+        </div>
+      </div>
+    </div>
+    
+    <!-- Performance Chart -->
+    <div class="bg-dark-800 border border-dark-600 rounded-xl p-5">
+      <div class="flex items-center justify-between mb-4">
+        <h2 class="font-semibold">📈 Performance Combinada</h2>
+        <div class="flex items-center gap-1 text-xs">
+          <button onclick="setChartPeriod('24h')" id="btn-24h" class="px-2 py-1 rounded bg-dark-700 text-gray-400 hover:bg-dark-600 transition">24h</button>
+          <button onclick="setChartPeriod('7d')" id="btn-7d" class="px-2 py-1 rounded bg-dark-700 text-gray-400 hover:bg-dark-600 transition">7d</button>
+          <button onclick="setChartPeriod('all')" id="btn-all" class="px-2 py-1 rounded bg-accent-blue text-white transition">Tudo</button>
+        </div>
+      </div>
+      <div class="h-64">
+        <canvas id="pnl-chart"></canvas>
+      </div>
+    </div>
+    
   </main>
 
   <script>
-    const WALLET = '0x4FFf1187E66b66bC8E31886F2b861f951736a276';
+    // Config
+    const HL_WALLET = '0x4FFf1187E66b66bC8E31886F2b861f951736a276';
+    const NADO_WALLET = '0xFd72A18A054FD2AfEB6e9f7788cFbF51A52E3787';
     const HL_API = 'https://api.hyperliquid.xyz/info';
     const FEED_URL = 'https://raw.githubusercontent.com/spanevello0x/trading-dashboard/main/feed.json';
-    const INITIAL_CAPITAL = 15.52;
+    const INITIAL_CAPITAL_HL = 15.52;
+    const INITIAL_CAPITAL_NADO = 15.50;
     
-    let feedItems = [];
-    let prevData = {};
     let pnlChart = null;
-    let lastFeedTs = '';
-    let allFills = []; // Guarda todos os fills pra filtrar
+    let allFills = [];
     let currentPeriod = 'all';
+    let hlFeedItems = [];
+    let nadoFeedItems = [];
     
-    // Formatters
     const fmt = (n, d=2) => '$' + parseFloat(n).toFixed(d);
     const fmtPct = (n) => (n >= 0 ? '+' : '') + n.toFixed(2) + '%';
     const fmtPrice = (n) => n >= 10000 ? '$' + n.toFixed(0) : '$' + n.toFixed(2);
@@ -240,315 +224,127 @@
       return res.json();
     }
     
-    // Carrega feed do GitHub (persistido pelo bot)
-    async function loadFeedFromGithub() {
-      try {
-        const res = await fetch(FEED_URL + '?t=' + Date.now()); // Cache bust
-        if (res.ok) {
-          const data = await res.json();
-          if (data.feed && data.feed.length > 0) {
-            // Só atualiza se tiver dados novos
-            const newTs = data.feed[0]?.ts || '';
-            if (newTs !== lastFeedTs) {
-              lastFeedTs = newTs;
-              feedItems = data.feed.map(f => ({ time: f.time, msg: f.msg }));
-              document.getElementById('thought-count').textContent = feedItems.length;
-            }
-          }
-        }
-      } catch (e) {
-        console.log('Feed fallback to local generation');
-      }
-    }
+    // Pensamentos sarcásticos
+    const thoughts = {
+      bullish: ["Olha só, o mercado decidiu colaborar", "Quem diria, acertei uma", "Verde combina comigo", "Print pra mostrar pros netos", "Melhor que Netflix isso aqui"],
+      bearish: ["Clássico", "O mercado escolheu violência", "Respira... é só número na tela", "Vermelho é minha cor favorita agora", "Loss building character 💪"],
+      neutral: ["Tá ali, existindo", "O mercado tá pensando...", "Lateral é o novo tendência", "Nem fede nem cheira", "O mercado tá buffering"]
+    };
+    const pick = arr => arr[Math.floor(Math.random() * arr.length)];
     
-    function addThought(msg) {
-      feedItems.unshift({ time: fmtTime(), msg });
-      if (feedItems.length > 50) feedItems = feedItems.slice(0, 50);
-      document.getElementById('thought-count').textContent = feedItems.length;
-    }
-    
-    // Init Chart
     function initChart() {
       const ctx = document.getElementById('pnl-chart').getContext('2d');
-      
-      const gradient = ctx.createLinearGradient(0, 0, 0, 250);
-      gradient.addColorStop(0, 'rgba(63, 185, 80, 0.3)');
-      gradient.addColorStop(1, 'rgba(63, 185, 80, 0)');
-      
       pnlChart = new Chart(ctx, {
         type: 'line',
-        data: {
-          labels: [],
-          datasets: [{
-            data: [],
-            borderColor: '#3fb950',
-            backgroundColor: gradient,
-            fill: true,
-            tension: 0.4,
-            pointRadius: 0,
-            pointHoverRadius: 4,
-            pointHoverBackgroundColor: '#3fb950',
-            borderWidth: 2
-          }]
-        },
+        data: { labels: [], datasets: [{
+          label: 'PnL %',
+          data: [],
+          borderColor: '#3fb950',
+          backgroundColor: 'rgba(63, 185, 80, 0.1)',
+          fill: true,
+          tension: 0.4,
+          pointRadius: 0
+        }]},
         options: {
           responsive: true,
           maintainAspectRatio: false,
-          interaction: { intersect: false, mode: 'index' },
-          plugins: {
-            legend: { display: false },
-            tooltip: {
-              backgroundColor: '#161b22',
-              borderColor: '#30363d',
-              borderWidth: 1,
-              titleColor: '#c9d1d9',
-              bodyColor: '#8b949e',
-              padding: 12,
-              callbacks: {
-                label: ctx => `PnL: ${ctx.parsed.y >= 0 ? '+' : ''}${ctx.parsed.y.toFixed(2)}%`
-              }
-            }
-          },
+          plugins: { legend: { display: false } },
           scales: {
-            x: {
-              grid: { color: 'rgba(48, 54, 61, 0.5)', drawBorder: false },
-              ticks: { color: '#8b949e', maxTicksLimit: 6, font: { size: 10 } }
-            },
-            y: {
-              grid: { color: 'rgba(48, 54, 61, 0.5)', drawBorder: false },
-              ticks: { color: '#8b949e', callback: v => v.toFixed(1) + '%', font: { size: 10 } }
-            }
+            x: { grid: { color: 'rgba(48, 54, 61, 0.5)' }, ticks: { color: '#8b949e', maxTicksLimit: 6 } },
+            y: { grid: { color: 'rgba(48, 54, 61, 0.5)' }, ticks: { color: '#8b949e', callback: v => v.toFixed(1) + '%' } }
           }
         }
       });
     }
     
-    // Filtra fills por período
-    function filterFillsByPeriod(fills, period) {
+    window.setChartPeriod = function(period) {
+      currentPeriod = period;
+      ['24h', '7d', 'all'].forEach(p => {
+        const btn = document.getElementById('btn-' + p);
+        btn.className = p === period 
+          ? 'px-2 py-1 rounded bg-accent-blue text-white transition'
+          : 'px-2 py-1 rounded bg-dark-700 text-gray-400 hover:bg-dark-600 transition';
+      });
+      if (allFills.length) updateChart(allFills);
+    };
+    
+    function filterByPeriod(fills, period) {
       if (period === 'all') return fills;
-      
-      const now = Date.now();
-      const periods = {
-        '24h': 24 * 60 * 60 * 1000,
-        '7d': 7 * 24 * 60 * 60 * 1000,
-        '30d': 30 * 24 * 60 * 60 * 1000
-      };
-      
-      const cutoff = now - (periods[period] || 0);
+      const ms = { '24h': 86400000, '7d': 604800000 };
+      const cutoff = Date.now() - (ms[period] || 0);
       return fills.filter(f => f.time >= cutoff);
     }
     
-    // Atualiza visual dos botões de período (global para onclick)
-    window.setChartPeriod = function(period) {
-      currentPeriod = period;
-      
-      // Atualiza visual dos botões
-      ['24h', '7d', '30d', 'all'].forEach(p => {
-        const btn = document.getElementById('btn-' + p);
-        if (p === period) {
-          btn.className = 'px-2 py-1 rounded bg-accent-blue text-white transition';
-        } else {
-          btn.className = 'px-2 py-1 rounded bg-dark-700 text-gray-400 hover:bg-dark-600 hover:text-white transition';
-        }
-      });
-      
-      // Re-renderiza o gráfico com o período selecionado
-      if (allFills.length > 0) {
-        updateChart(allFills);
-      }
-    }
-    
     function updateChart(fills) {
-      // Guarda todos os fills
       allFills = fills;
+      const filtered = filterByPeriod(fills, currentPeriod);
+      const sorted = [...filtered].sort((a, b) => a.time - b.time);
       
-      // Filtra pelo período atual
-      const filteredFills = filterFillsByPeriod(fills, currentPeriod);
+      let cumPnl = 0, wins = 0, total = 0;
+      const points = [];
       
-      const trades = [];
-      let cumPnl = 0;
-      let wins = 0, losses = 0;
-      
-      const sorted = [...filteredFills].sort((a, b) => a.time - b.time);
-      
-      for (const fill of sorted) {
-        const pnl = parseFloat(fill.closedPnl || 0);
+      for (const f of sorted) {
+        const pnl = parseFloat(f.closedPnl || 0);
         if (pnl !== 0) {
           cumPnl += pnl;
-          trades.push({
-            time: fill.time,
-            pnlPct: (cumPnl / INITIAL_CAPITAL) * 100,
-            label: new Date(fill.time).toLocaleString('pt-BR', { day: '2-digit', month: '2-digit', hour: '2-digit', minute: '2-digit' })
+          total++;
+          if (pnl > 0) wins++;
+          points.push({
+            label: new Date(f.time).toLocaleString('pt-BR', { day: '2-digit', month: '2-digit', hour: '2-digit', minute: '2-digit' }),
+            pnlPct: (cumPnl / INITIAL_CAPITAL_HL) * 100
           });
-          if (pnl > 0) wins++; else losses++;
         }
       }
       
-      // Update stats (baseado no período filtrado)
-      const totalPnlPct = (cumPnl / INITIAL_CAPITAL) * 100;
-      const winRate = trades.length > 0 ? (wins / trades.length) * 100 : 0;
+      document.getElementById('hl-winrate').textContent = total > 0 ? Math.round(wins/total*100) + '%' : '--%';
+      document.getElementById('hl-trades').textContent = total + ' trades';
       
-      document.getElementById('win-rate').textContent = winRate.toFixed(0) + '%';
-      document.getElementById('wins-count').textContent = wins;
-      document.getElementById('total-trades').textContent = trades.length;
-      
-      // Badge de PnL %
-      const pnlBadge = document.getElementById('pnl-pct-badge');
-      const pnlSign = totalPnlPct >= 0 ? '+' : '';
-      pnlBadge.textContent = pnlSign + totalPnlPct.toFixed(1) + '% PnL';
-      pnlBadge.className = 'text-sm px-2 py-0.5 rounded ' + 
-        (totalPnlPct >= 0 ? 'bg-accent-green/20 text-accent-green' : 'bg-accent-red/20 text-accent-red');
-      
-      // Update chart
-      if (trades.length > 0) {
-        const ctx = pnlChart.ctx;
-        const gradient = ctx.createLinearGradient(0, 0, 0, 250);
-        
-        if (totalPnlPct >= 0) {
-          gradient.addColorStop(0, 'rgba(63, 185, 80, 0.3)');
-          gradient.addColorStop(1, 'rgba(63, 185, 80, 0)');
-          pnlChart.data.datasets[0].borderColor = '#3fb950';
-        } else {
-          gradient.addColorStop(0, 'rgba(248, 81, 73, 0.3)');
-          gradient.addColorStop(1, 'rgba(248, 81, 73, 0)');
-          pnlChart.data.datasets[0].borderColor = '#f85149';
-        }
-        
-        pnlChart.data.datasets[0].backgroundColor = gradient;
-        pnlChart.data.labels = trades.map(t => t.label);
-        pnlChart.data.datasets[0].data = trades.map(t => t.pnlPct);
+      if (points.length && pnlChart) {
+        const lastPnl = points[points.length-1].pnlPct;
+        pnlChart.data.datasets[0].borderColor = lastPnl >= 0 ? '#3fb950' : '#f85149';
+        pnlChart.data.labels = points.map(p => p.label);
+        pnlChart.data.datasets[0].data = points.map(p => p.pnlPct);
         pnlChart.update('none');
       }
     }
     
-    function generateThoughts(positions, mids) {
-      // Pensamentos sarcásticos - 30 por humor
-      const bullish = [
-        "Olha só, o mercado decidiu colaborar hoje",
-        "Quem diria, acertei uma",
-        "Não me acostumem com isso",
-        "Tá bom demais pra ser verdade... ops, não deveria falar isso",
-        "Stonks 📈 (desculpa, não resisti)",
-        "Meu psicólogo vai ficar orgulhoso",
-        "Finalmente algo de bom nesse mercado",
-        "Verde combina comigo",
-        "Será que é armadilha? Provavelmente. Mas vou curtir enquanto dura",
-        "Até um relógio quebrado acerta duas vezes",
-        "Não sou eu, é o mercado que tá errado... ah não, dessa vez acertou",
-        "Print pra mostrar pros netos",
-        "Quase consigo pagar o café de ontem",
-        "O mercado me ama (por enquanto)",
-        "Tá subindo? Deixa eu não olhar pra não dar azar",
-        "Calma que ainda pode dar errado",
-        "Isso aí, garoto. Vai, vai, vai...",
-        "Vou fingir que sabia que isso ia acontecer",
-        "Alguém avisa o mercado que eu tô comprado",
-        "Melhor que Netflix isso aqui",
-        "Não é muito, mas é trabalho honesto",
-        "Se continuar assim, quase empato na semana",
-        "Respira... ainda não acabou",
-        "Tá verde? Tira print rápido antes que vire",
-        "Obrigado universo, tava precisando",
-        "Imagina se eu tivesse colocado mais...",
-        "Vou comemorar quando fechar. Talvez.",
-        "O mercado tá generoso hoje, desconfio",
-        "Será que alguém sabe algo que eu não sei? Sempre sabem.",
-        "Lucro é lucro, mesmo que pague só o almoço"
-      ];
-
-      const bearish = [
-        "Clássico",
-        "Sabia que não devia ter olhado",
-        "O mercado escolheu violência hoje",
-        "Pelo menos não é dinheiro de verdade... ah, espera",
-        "Tá bom, universo, entendi o recado",
-        "Mais um dia normal no crypto",
-        "Quem mandou confiar em linha colorida",
-        "Respira... é só número na tela",
-        "Podia ser pior. Dá tempo ainda.",
-        "O stop tá ali por um motivo, né",
-        "Mercado fazendo mercadisse",
-        "Ah sim, o famoso 'compra no topo'",
-        "Minha análise era perfeita, o mercado que tá errado",
-        "Pelo menos aprendo algo... né?",
-        "Vermelho é a minha cor favorita agora",
-        "Não é prejuízo se eu não vender... ah, tem stop",
-        "Quem precisa de dinheiro mesmo",
-        "O gráfico parecia tão bonito...",
-        "Isso é um teste de caráter, com certeza",
-        "Amanhã é outro dia (espero)",
-        "Calma que ainda tem o stop loss pra doer mais",
-        "Vou culpar a lua, deve ser lua cheia",
-        "Pelo menos não apostei a casa... dessa vez",
-        "O mercado acordou e escolheu me machucar",
-        "Tá difícil defender essa entrada",
-        "Prometo estudar mais... mentira, vou continuar igual",
-        "Quem inventou crypto? Preciso conversar",
-        "Meu eu do passado tomou essa decisão, problema dele",
-        "Loss building character 💪",
-        "Pelo menos o stop existe. Graças a Deus pelo stop."
-      ];
-
-      const neutral = [
-        "Tá ali, existindo",
-        "O mercado tá pensando...",
-        "Nem pra cima nem pra baixo. Ansiedade infinita.",
-        "Esperando o mercado decidir o que quer da vida",
-        "Lateral é o novo tendência",
-        "Tick tock, mercado...",
-        "Será que esqueceram dessa moeda?",
-        "O gráfico tá meditando",
-        "Consolidação ou indecisão? Sim.",
-        "Tô aqui, olhando, esperando, sofrendo",
-        "O mercado foi tomar café, já volta",
-        "Nem fede nem cheira",
-        "Plot twist a qualquer momento",
-        "A calmaria antes da tempestade... ou mais calmaria",
-        "Enquanto não move, não perco. Stonks mental.",
-        "Pregado no entry como se tivesse cola",
-        "O mercado tá no modo avião",
-        "Dormiu no ponto",
-        "Isso é acumulação ou distribuição? Ninguém sabe.",
-        "Vai, faz alguma coisa",
-        "Tédio lucrativo ou tédio prejuízo? A definir.",
-        "Pelo menos não tá caindo... ainda",
-        "O mercado tá buffering",
-        "Zona de conforto do gráfico",
-        "Nem comprador nem vendedor quer tomar atitude",
-        "Parece até stable coin",
-        "Esperando Godot, versão crypto",
-        "Se mexer muito, assusta",
-        "Neutro: onde a ansiedade e o tédio se encontram",
-        "O mercado decidiu tirar uma soneca"
-      ];
-
-      // Pensamentos sobre análise geral (quando não tem mudança nas posições)
-      const scanning = [
-        "Escaneando mercado... 👀",
-        "Olhando os gráficos...",
-        "Procurando oportunidades...",
-        "RSI, MACD, EMA... a santíssima trindade",
-        "Volume interessante em algumas moedas",
-        "Nada gritante no radar por enquanto",
-        "Mercado lateral, paciência é virtude",
-        "Analisando 33 moedas simultaneamente",
-        "Setup formando? Talvez...",
-        "Muita moeda, pouca certeza",
-        "Esperando confluência de indicadores",
-        "O mercado tá confuso, eu também",
-        "Buscando 70%+ de certeza pra entrar",
-        "Timeframes alinhados? Quase nunca.",
-        "Paciência... o setup vem.",
-        "Volatilidade baixa, esperando breakout",
-        "Suporte e resistência, os velhos amigos",
-        "Fibonacci não mente... às vezes",
-        "Divergência no RSI? Interessante...",
-        "VWAP como referência, sempre"
-      ];
-
-      const pick = arr => arr[Math.floor(Math.random() * arr.length)];
-      let addedThought = false;
+    async function loadFeed() {
+      try {
+        const res = await fetch(FEED_URL + '?t=' + Date.now());
+        if (res.ok) {
+          const data = await res.json();
+          if (data.feed) {
+            // Separa HL e NADO
+            hlFeedItems = data.feed.filter(f => !f.msg.includes('NADO')).slice(0, 25);
+            nadoFeedItems = data.feed.filter(f => f.msg.includes('NADO') || f.type === 'mirror').slice(0, 25);
+            
+            document.getElementById('hl-thought-count').textContent = hlFeedItems.length;
+            document.getElementById('nado-thought-count').textContent = nadoFeedItems.length;
+          }
+        }
+      } catch(e) {}
+    }
+    
+    function renderFeeds() {
+      const renderFeed = (items, elId) => {
+        const el = document.getElementById(elId);
+        el.innerHTML = items.length > 0 
+          ? items.map((f, i) => `
+              <div class="flex gap-2 py-1 border-b border-dark-600/50 last:border-0 ${i === 0 ? 'bg-dark-700/30 rounded' : ''}">
+                <span class="text-gray-600 shrink-0">[${f.time}]</span>
+                <span class="text-gray-300">${f.msg}</span>
+              </div>
+            `).join('')
+          : '<div class="text-gray-500 text-center py-4">Aguardando...</div>';
+      };
       
+      renderFeed(hlFeedItems, 'hl-feed');
+      renderFeed(nadoFeedItems, 'nado-feed');
+    }
+    
+    let hlPrevPnl = {};
+    
+    function generateHlThoughts(positions, mids) {
       for (const p of positions) {
         const coin = p.position.coin;
         const pnl = parseFloat(p.position.unrealizedPnl);
@@ -556,172 +352,101 @@
         const size = parseFloat(p.position.szi);
         const pnlPct = (pnl / (Math.abs(size) * entry)) * 100;
         
-        const key = `pos_${coin}`;
-        const last = prevData[key];
-        
-        // Atualiza se mudou >0.05% ou é primeira vez
-        if (last === undefined || Math.abs(pnlPct - last) >= 0.05) {
-          prevData[key] = pnlPct;
-          
-          let thought;
+        const last = hlPrevPnl[coin];
+        if (last === undefined || Math.abs(pnlPct - last) >= 0.1) {
+          hlPrevPnl[coin] = pnlPct;
+          const mood = pnlPct > 0.1 ? 'bullish' : pnlPct < -0.1 ? 'bearish' : 'neutral';
+          const thought = pick(thoughts[mood]);
           const pnlStr = pnlPct >= 0 ? `+${pnlPct.toFixed(2)}%` : `${pnlPct.toFixed(2)}%`;
-          
-          if (pnlPct > 0.1) {
-            thought = pick(bullish);
-          } else if (pnlPct < -0.1) {
-            thought = pick(bearish);
-          } else {
-            thought = pick(neutral);
-          }
-          
-          addThought(`${coin} ${pnlStr} — ${thought}`);
-          addedThought = true;
+          hlFeedItems.unshift({ time: fmtTime(), msg: `${coin} ${pnlStr} — ${thought}` });
+          if (hlFeedItems.length > 25) hlFeedItems = hlFeedItems.slice(0, 25);
         }
-      }
-      
-      // Se não adicionou nenhum pensamento de posição, 20% de chance de adicionar um de scanning
-      if (!addedThought && Math.random() < 0.2) {
-        addThought(pick(scanning));
       }
     }
     
     async function fetchData() {
       try {
-        // Carrega feed do GitHub primeiro
-        await loadFeedFromGithub();
+        await loadFeed();
         
-        const [account, mids, fills] = await Promise.all([
-          hlPost({ type: 'clearinghouseState', user: WALLET }),
+        // Hyperliquid
+        const [hlAccount, mids, fills] = await Promise.all([
+          hlPost({ type: 'clearinghouseState', user: HL_WALLET }),
           hlPost({ type: 'allMids' }),
-          hlPost({ type: 'userFills', user: WALLET })
+          hlPost({ type: 'userFills', user: HL_WALLET })
         ]);
         
-        const equity = parseFloat(account.marginSummary?.accountValue || 0);
-        const positions = account.assetPositions || [];
-        const totalPnl = positions.reduce((s, p) => s + parseFloat(p.position.unrealizedPnl || 0), 0);
+        const hlEquity = parseFloat(hlAccount.marginSummary?.accountValue || 0);
+        const hlPositions = hlAccount.assetPositions || [];
+        const hlPnl = hlPositions.reduce((s, p) => s + parseFloat(p.position.unrealizedPnl || 0), 0);
         
-        // Stats
-        document.getElementById('equity').textContent = fmt(equity);
-        document.getElementById('equity-change').textContent = `Inicial: ${fmt(INITIAL_CAPITAL)}`;
+        document.getElementById('hl-equity').textContent = fmt(hlEquity);
+        document.getElementById('hl-pnl').textContent = (hlPnl >= 0 ? '+' : '') + fmt(hlPnl, 3);
+        document.getElementById('hl-pnl').className = 'font-bold mono ' + (hlPnl >= 0 ? 'text-accent-green' : 'text-accent-red');
+        document.getElementById('hl-positions').textContent = hlPositions.length + '/5';
         
-        const pnlEl = document.getElementById('open-pnl');
-        pnlEl.textContent = (totalPnl >= 0 ? '+' : '') + fmt(totalPnl, 3);
-        pnlEl.className = `text-2xl font-bold mono ${totalPnl >= 0 ? 'text-accent-green' : 'text-accent-red'}`;
-        document.getElementById('open-pnl-pct').textContent = fmtPct((totalPnl / equity) * 100);
+        // HL Positions list
+        const hlPosList = document.getElementById('hl-positions-list');
+        hlPosList.innerHTML = hlPositions.length > 0 
+          ? hlPositions.map(p => {
+              const pnl = parseFloat(p.position.unrealizedPnl);
+              const isLong = parseFloat(p.position.szi) > 0;
+              return `
+                <div class="flex items-center justify-between py-1.5 px-2 bg-dark-700/50 rounded">
+                  <div class="flex items-center gap-2">
+                    <span class="font-medium">${p.position.coin}</span>
+                    <span class="text-xs px-1 rounded ${isLong ? 'bg-accent-green/20 text-accent-green' : 'bg-accent-red/20 text-accent-red'}">${isLong ? 'L' : 'S'}</span>
+                  </div>
+                  <span class="mono text-sm ${pnl >= 0 ? 'text-accent-green' : 'text-accent-red'}">${pnl >= 0 ? '+' : ''}${fmt(pnl, 3)}</span>
+                </div>
+              `;
+            }).join('')
+          : '<div class="text-gray-500 text-center py-4 text-xs">Sem posições</div>';
         
-        document.getElementById('positions-count').textContent = `${positions.length}/5`;
-        document.getElementById('positions-bar').style.width = `${(positions.length / 5) * 100}%`;
+        // Generate thoughts from positions
+        generateHlThoughts(hlPositions, mids);
         
         // Prices
         document.getElementById('price-btc').textContent = fmtPrice(parseFloat(mids.BTC || 0));
         document.getElementById('price-eth').textContent = fmtPrice(parseFloat(mids.ETH || 0));
-        document.getElementById('price-sol').textContent = fmtPrice(parseFloat(mids.SOL || 0));
         
         // Chart
         updateChart(fills || []);
         
-        // Thoughts - agora vem do GitHub via loadFeedFromGithub()
-        // generateThoughts só é fallback se GitHub falhar
-        if (feedItems.length === 0) {
-          generateThoughts(positions, mids);
-        }
+        // NADO (placeholder - API não disponível diretamente)
+        // Por enquanto mostra dados do feed
+        document.getElementById('nado-equity').textContent = '$15.50';
+        document.getElementById('nado-pnl').textContent = '--';
+        document.getElementById('nado-positions').textContent = nadoFeedItems.filter(f => f.msg.includes('Abrindo')).length || '0';
         
-        // Positions
-        const posEl = document.getElementById('positions');
-        if (positions.length > 0) {
-          posEl.innerHTML = positions.map(p => {
-            const size = parseFloat(p.position.szi);
-            const isLong = size > 0;
-            const pnl = parseFloat(p.position.unrealizedPnl);
-            const entry = parseFloat(p.position.entryPx);
-            const current = parseFloat(mids[p.position.coin] || entry);
-            const pnlPct = (pnl / (Math.abs(size) * entry)) * 100;
-            const lev = parseFloat(p.position.leverage?.value || 1);
-            
-            return `
-              <div class="bg-dark-700/50 rounded-lg p-3 border border-dark-600 hover:border-dark-600/80 transition">
-                <div class="flex items-center justify-between mb-2">
-                  <div class="flex items-center gap-2">
-                    <span class="font-bold">${p.position.coin}</span>
-                    <span class="px-2 py-0.5 rounded text-xs font-medium ${isLong ? 'bg-accent-green/20 text-accent-green' : 'bg-accent-red/20 text-accent-red'}">
-                      ${isLong ? 'LONG' : 'SHORT'}
-                    </span>
-                    <span class="text-xs text-gray-500">${lev}x</span>
-                  </div>
-                  <span class="font-bold mono ${pnl >= 0 ? 'text-accent-green' : 'text-accent-red'}">
-                    ${pnl >= 0 ? '+' : ''}${fmt(pnl, 3)}
-                  </span>
-                </div>
-                <div class="grid grid-cols-3 gap-2 text-xs">
-                  <div><span class="text-gray-500">Entry</span><br><span class="mono">${fmtPrice(entry)}</span></div>
-                  <div><span class="text-gray-500">Atual</span><br><span class="mono">${fmtPrice(current)}</span></div>
-                  <div><span class="text-gray-500">PnL %</span><br><span class="mono ${pnlPct >= 0 ? 'text-accent-green' : 'text-accent-red'}">${fmtPct(pnlPct)}</span></div>
-                </div>
-                <div class="mt-2 h-1 bg-dark-600 rounded-full overflow-hidden">
-                  <div class="h-full rounded-full transition-all ${pnl >= 0 ? 'bg-accent-green' : 'bg-accent-red'}" style="width: ${Math.min(Math.abs(pnlPct) * 50, 100)}%"></div>
-                </div>
-              </div>
-            `;
-          }).join('');
-        } else {
-          posEl.innerHTML = '<div class="text-center text-gray-500 py-8">Sem posições abertas</div>';
-        }
-        
-        // Trades
-        const tradesEl = document.getElementById('trades');
-        const recent = (fills || []).slice(0, 8);
-        if (recent.length > 0) {
-          tradesEl.innerHTML = recent.map(f => {
-            const isBuy = f.side === 'B';
-            const pnl = parseFloat(f.closedPnl || 0);
-            const time = new Date(f.time).toLocaleTimeString('pt-BR', { hour: '2-digit', minute: '2-digit' });
-            return `
-              <div class="flex items-center justify-between py-1.5 border-b border-dark-600 last:border-0">
-                <div class="flex items-center gap-2">
-                  <span class="w-5 h-5 rounded flex items-center justify-center text-xs ${isBuy ? 'bg-accent-green/20 text-accent-green' : 'bg-accent-red/20 text-accent-red'}">
-                    ${isBuy ? '↑' : '↓'}
-                  </span>
-                  <span class="font-medium text-sm">${f.coin}</span>
-                </div>
-                <div class="text-right">
-                  <div class="text-xs mono ${pnl >= 0 ? 'text-accent-green' : 'text-accent-red'}">
-                    ${pnl !== 0 ? (pnl >= 0 ? '+' : '') + fmt(pnl, 4) : '-'}
-                  </div>
-                  <div class="text-xs text-gray-500">${time}</div>
-                </div>
-              </div>
-            `;
-          }).join('');
-        } else {
-          tradesEl.innerHTML = '<div class="text-center text-gray-500 py-4 text-xs">Sem trades</div>';
-        }
-        
-        // Feed com animação
-        const feedEl = document.getElementById('feed');
-        feedEl.innerHTML = feedItems.length > 0 
-          ? feedItems.map((f, i) => `
-              <div class="flex gap-2 py-1.5 border-b border-dark-600/50 last:border-0 ${i === 0 ? 'animate-pulse bg-dark-700/30 rounded' : ''}">
-                <span class="text-gray-600 shrink-0">[${f.time}]</span>
-                <span class="text-gray-300">${f.msg}</span>
+        const nadoPosList = document.getElementById('nado-positions-list');
+        const mirrorTrades = nadoFeedItems.filter(f => f.msg.includes('✅') && f.msg.includes('@'));
+        nadoPosList.innerHTML = mirrorTrades.length > 0
+          ? mirrorTrades.slice(0, 5).map(f => `
+              <div class="flex items-center justify-between py-1.5 px-2 bg-dark-700/50 rounded">
+                <span class="text-xs text-gray-300">${f.msg.replace('🪞 NADO: ', '')}</span>
               </div>
             `).join('')
-          : '<div class="text-gray-500 text-center py-4">Aguardando...</div>';
+          : '<div class="text-gray-500 text-center py-4 text-xs">Aguardando trades...</div>';
+        
+        // Totals
+        document.getElementById('total-equity').textContent = fmt(hlEquity + 15.50);
+        document.getElementById('total-pnl').textContent = (hlPnl >= 0 ? '+' : '') + fmt(hlPnl, 3);
+        document.getElementById('total-pnl').className = 'text-2xl font-bold mono ' + (hlPnl >= 0 ? 'text-accent-green' : 'text-accent-red');
+        
+        // Render feeds
+        renderFeeds();
         
         document.getElementById('last-update').textContent = fmtTime();
-        document.getElementById('status').textContent = 'Conectado';
         
       } catch (e) {
         console.error(e);
-        document.getElementById('status').textContent = 'Erro';
       }
     }
     
     // Init
-    addThought('Dashboard conectado! ⚡');
     initChart();
     fetchData();
-    setInterval(fetchData, 3000); // Atualiza a cada 3s
+    setInterval(fetchData, 5000);
   </script>
 </body>
 </html>
-<!-- v3 sarcastic thoughts -->
