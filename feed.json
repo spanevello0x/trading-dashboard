@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T04:20:30.288Z",
+      "time": "04:20:30",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL -0.41% — Se eu pudesse, mandava o mercado se explicar"
+    },
+    {
       "ts": "2026-02-15T04:20:00.386Z",
       "time": "04:20:00",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "04:07:30",
       "type": "position",
       "msg": "📉 ZRO -0.73% — Minha análise era perfeita, o mercado que tá errado"
-    },
-    {
-      "ts": "2026-02-15T04:07:29.925Z",
-      "time": "04:07:29",
-      "type": "position",
-      "msg": "📈 SOL +0.37% — Print pra mostrar pros netos"
     }
   ]
 }
