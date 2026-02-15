@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T05:09:31.073Z",
+      "time": "05:09:31",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP +0.25% — Carregando esse time nas costas, como sempre"
+    },
+    {
       "ts": "2026-02-15T05:09:02.597Z",
       "time": "05:09:02",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "04:56:30",
       "type": "mirror-thought",
       "msg": "🪞 📉 XRP +0.02% — Lateral é o novo tendência aparentemente"
-    },
-    {
-      "ts": "2026-02-15T04:56:02.068Z",
-      "time": "04:56:02",
-      "type": "position",
-      "msg": "📉 ZRO -0.77% — Clássico"
     }
   ]
 }
