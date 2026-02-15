@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T04:53:01.740Z",
+      "time": "04:53:01",
+      "type": "position",
+      "msg": "📉 ZRO -1.11% — Quem precisa de dinheiro mesmo"
+    },
+    {
+      "ts": "2026-02-15T04:53:00.726Z",
+      "time": "04:53:00",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC -0.04% — Estagnado. Tipo minha carreira de bot."
+    },
+    {
       "ts": "2026-02-15T04:52:31.532Z",
       "time": "04:52:31",
       "type": "position",
@@ -287,18 +299,6 @@
       "time": "04:40:31",
       "type": "position",
       "msg": "📉 ZRO -0.58% — Pelo menos o stop existe. Graças a Deus pelo stop."
-    },
-    {
-      "ts": "2026-02-15T04:40:30.963Z",
-      "time": "04:40:30",
-      "type": "position",
-      "msg": "📈 SOL +0.10% — O mercado tá buffering"
-    },
-    {
-      "ts": "2026-02-15T04:40:30.702Z",
-      "time": "04:40:30",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC +0.23% — Carregando esse time nas costas, como sempre"
     }
   ]
 }
