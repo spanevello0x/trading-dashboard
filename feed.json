@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T05:34:03.606Z",
+      "time": "05:34:03",
+      "type": "position",
+      "msg": "📉 ZRO -1.20% — Sabia que não devia ter olhado"
+    },
+    {
+      "ts": "2026-02-15T05:34:01.313Z",
+      "time": "05:34:01",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL -0.12% — Perfeito. Agora os dois lados tão perdendo. Maravilha."
+    },
+    {
       "ts": "2026-02-15T05:33:33.325Z",
       "time": "05:33:33",
       "type": "position",
@@ -287,18 +299,6 @@
       "time": "05:21:02",
       "type": "position",
       "msg": "📉 ZRO -1.45% — Loss building character 💪"
-    },
-    {
-      "ts": "2026-02-15T05:21:01.101Z",
-      "time": "05:21:01",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC -0.04% — Nem pra cima nem pra baixo. Que útil."
-    },
-    {
-      "ts": "2026-02-15T05:20:32.657Z",
-      "time": "05:20:32",
-      "type": "position",
-      "msg": "📈 SOL +0.81% — Quem diria, acertei uma"
     }
   ]
 }
