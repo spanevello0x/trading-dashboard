@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T07:43:08.927Z",
+      "time": "07:43:08",
+      "type": "position",
+      "msg": "📈 SOL +0.64% — Alguém avisa o mercado que eu tô comprado"
+    },
+    {
+      "ts": "2026-02-15T07:43:08.664Z",
+      "time": "07:43:08",
+      "type": "position",
+      "msg": "📈 ETH -0.08% — Dormiu no ponto"
+    },
+    {
+      "ts": "2026-02-15T07:42:45.695Z",
+      "time": "07:42:45",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP +0.15% — Meu trabalho é ingrato, mas faço com excelência"
+    },
+    {
       "ts": "2026-02-15T07:42:15.694Z",
       "time": "07:42:15",
       "type": "mirror-thought",
@@ -281,24 +299,6 @@
       "time": "07:30:15",
       "type": "mirror-thought",
       "msg": "🪞 📉 ETH -0.11% — Eu AVISEI que isso podia acontecer. Avisei? Não? Deveria ter avisado."
-    },
-    {
-      "ts": "2026-02-15T07:30:08.801Z",
-      "time": "07:30:08",
-      "type": "position",
-      "msg": "📈 SOL -0.18% — Podia ser pior. Dá tempo ainda."
-    },
-    {
-      "ts": "2026-02-15T07:29:45.661Z",
-      "time": "07:29:45",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC +0.10% — Funcionando perfeitamente, mas vão dar crédito pro outro"
-    },
-    {
-      "ts": "2026-02-15T07:29:15.659Z",
-      "time": "07:29:15",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP +0.08% — Monótono demais. Até reclamar tá difícil."
     }
   ]
 }
