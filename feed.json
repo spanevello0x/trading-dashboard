@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T06:19:39.875Z",
+      "time": "06:19:39",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 ZEC +0.05% — Nem pra cima nem pra baixo. Que útil."
+    },
+    {
       "ts": "2026-02-15T06:19:35.424Z",
       "time": "06:19:35",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "06:09:50",
       "type": "analysis",
       "msg": "Olhando XMR... 89% LONG"
-    },
-    {
-      "ts": "2026-02-15T06:09:50.132Z",
-      "time": "06:09:50",
-      "type": "analysis",
-      "msg": "TAO no radar: 67% LONG"
     }
   ]
 }
