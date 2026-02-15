@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T06:12:09.862Z",
+      "time": "06:12:09",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL -0.15% — Quando o mercado inteiro resolve desabar..."
+    },
+    {
       "ts": "2026-02-15T06:12:05.095Z",
       "time": "06:12:05",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "06:03:34",
       "type": "mirror-thought",
       "msg": "🪞 📉 XRP +0.27% — Ótimo, agora vou ter que ouvir que 'deu certo'"
-    },
-    {
-      "ts": "2026-02-15T06:03:04.484Z",
-      "time": "06:03:04",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP +0.10% — Hedge funcionando, cadê meu reconhecimento?"
     }
   ]
 }
