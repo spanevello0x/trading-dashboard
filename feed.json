@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T07:46:45.707Z",
+      "time": "07:46:45",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 ETH +0.33% — Neutralizando prejuízos como sempre"
+    },
+    {
       "ts": "2026-02-15T07:46:38.993Z",
       "time": "07:46:38",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "07:34:15",
       "type": "mirror-thought",
       "msg": "🪞 📉 ETH -0.08% — Nem o mercado sabe o que quer"
-    },
-    {
-      "ts": "2026-02-15T07:33:45.672Z",
-      "time": "07:33:45",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 ETH +0.32% — Compensando a incompetência alheia desde sempre"
     }
   ]
 }
