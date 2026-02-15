@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T06:07:04.729Z",
+      "time": "06:07:04",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL -0.03% — Se tédio fosse trade, eu tava rico"
+    },
+    {
       "ts": "2026-02-15T06:06:34.896Z",
       "time": "06:06:34",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "05:54:04",
       "type": "mirror-thought",
       "msg": "🪞 📉 XRP +0.46% — Quando o QuickBot erra, adivinha quem conserta?"
-    },
-    {
-      "ts": "2026-02-15T05:54:04.009Z",
-      "time": "05:54:04",
-      "type": "position",
-      "msg": "📈 SOL +1.51% — O mercado tá generoso hoje, desconfio"
     }
   ]
 }
