@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T03:51:25.097Z",
+      "time": "03:51:25",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC -0.12% — Parabéns mercado, você venceu. Por enquanto."
+    },
+    {
       "ts": "2026-02-15T03:50:59.143Z",
       "time": "03:50:59",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "03:38:55",
       "type": "mirror-thought",
       "msg": "🪞 📈 BTC -0.21% — Fiz minha parte, o universo que não colaborou"
-    },
-    {
-      "ts": "2026-02-15T03:38:28.685Z",
-      "time": "03:38:28",
-      "type": "position",
-      "msg": "📉 ETH +1.33% — Alguém avisa o mercado que eu tô comprado"
     }
   ]
 }
