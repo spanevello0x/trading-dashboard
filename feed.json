@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T01:57:24.024Z",
+      "time": "01:57:24",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 ETH -0.16% — O hedge não funciona se TUDO desaba, gênio"
+    },
+    {
       "ts": "2026-02-15T01:56:54.023Z",
       "time": "01:56:54",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "01:37:33",
       "type": "position",
       "msg": "OM -1.39% — Quem precisa de dinheiro mesmo"
-    },
-    {
-      "ts": "2026-02-15T01:37:03.848Z",
-      "time": "01:37:03",
-      "type": "position",
-      "msg": "OM -1.19% — Vermelho é a minha cor favorita agora"
     }
   ]
 }
