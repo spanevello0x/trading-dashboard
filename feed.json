@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T01:53:24.018Z",
+      "time": "01:53:24",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC +0.27% — Obrigado por nada, eu que me viro mesmo"
+    },
+    {
       "ts": "2026-02-15T01:52:54.016Z",
       "time": "01:52:54",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "01:34:33",
       "type": "position",
       "msg": "OM -0.64% — O gráfico parecia tão bonito..."
-    },
-    {
-      "ts": "2026-02-15T01:34:33.429Z",
-      "time": "01:34:33",
-      "type": "position",
-      "msg": "ZRO +0.26% — Print pra mostrar pros netos"
     }
   ]
 }
