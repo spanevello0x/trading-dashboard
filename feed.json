@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T01:52:54.016Z",
+      "time": "01:52:54",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC -0.50% — Prejuízo compartilhado é prejuízo... dobrado"
+    },
+    {
       "ts": "2026-02-15T01:52:24.015Z",
       "time": "01:52:24",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "01:34:33",
       "type": "position",
       "msg": "ZRO +0.26% — Print pra mostrar pros netos"
-    },
-    {
-      "ts": "2026-02-15T01:34:33.167Z",
-      "time": "01:34:33",
-      "type": "position",
-      "msg": "ETH +0.10% — Até um relógio quebrado acerta duas vezes"
     }
   ]
 }
