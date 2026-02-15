@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T03:31:58.242Z",
+      "time": "03:31:58",
+      "type": "position",
+      "msg": "📉 ZRO +0.22% — Melhor que Netflix isso aqui"
+    },
+    {
+      "ts": "2026-02-15T03:31:54.536Z",
+      "time": "03:31:54",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC -0.25% — Não me paga o suficiente pra isso. Aliás, não me paga nada."
+    },
+    {
       "ts": "2026-02-15T03:31:27.990Z",
       "time": "03:31:27",
       "type": "position",
@@ -229,12 +241,6 @@
       "msg": "Analisando AZTEC... parece SHORT (78%)"
     },
     {
-      "ts": "2026-02-15T03:27:12.348Z",
-      "time": "03:27:12",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - BERA cancelado"
-    },
-    {
       "ts": "2026-02-15T03:26:54.531Z",
       "time": "03:26:54",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "03:22:24",
       "type": "mirror-thought",
       "msg": "🪞 📉 XRP -0.18% — Não era pra isso acontecer. Culpa do QuickBot de alguma forma."
-    },
-    {
-      "ts": "2026-02-15T03:21:54.520Z",
-      "time": "03:21:54",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP -0.35% — Correlação foi pro espaço, junto com meu lucro"
     }
   ]
 }
