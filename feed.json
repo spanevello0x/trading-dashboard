@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T04:45:01.542Z",
+      "time": "04:45:01",
+      "type": "position",
+      "msg": "📉 ZRO -0.54% — O stop tá ali por um motivo, né"
+    },
+    {
+      "ts": "2026-02-15T04:45:01.276Z",
+      "time": "04:45:01",
+      "type": "position",
+      "msg": "📈 SOL +0.26% — Vou fingir que sabia que isso ia acontecer"
+    },
+    {
+      "ts": "2026-02-15T04:45:00.710Z",
+      "time": "04:45:00",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC +0.17% — Tô no lucro MAS NINGUÉM AGRADECE"
+    },
+    {
       "ts": "2026-02-15T04:44:30.709Z",
       "time": "04:44:30",
       "type": "mirror-thought",
@@ -281,24 +299,6 @@
       "time": "04:32:00",
       "type": "mirror-thought",
       "msg": "🪞 📈 BTC -0.35% — Prejuízo compartilhado é prejuízo... dobrado"
-    },
-    {
-      "ts": "2026-02-15T04:32:00.597Z",
-      "time": "04:32:00",
-      "type": "position",
-      "msg": "📈 SOL -0.04% — Se mexer muito, assusta"
-    },
-    {
-      "ts": "2026-02-15T04:31:30.680Z",
-      "time": "04:31:30",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP +0.13% — Ótimo, agora vou ter que ouvir que 'deu certo'"
-    },
-    {
-      "ts": "2026-02-15T04:31:00.679Z",
-      "time": "04:31:00",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC -0.18% — Não era assim no backtest"
     }
   ]
 }
