@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T04:03:29.815Z",
+      "time": "04:03:29",
+      "type": "position",
+      "msg": "📉 ZRO -0.83% — O stop tá ali por um motivo, né"
+    },
+    {
+      "ts": "2026-02-15T04:03:29.325Z",
+      "time": "04:03:29",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC -0.36% — Correlação foi pro espaço, junto com meu lucro"
+    },
+    {
       "ts": "2026-02-15T04:02:59.364Z",
       "time": "04:02:59",
       "type": "position",
@@ -265,12 +277,6 @@
       "msg": "🎯 LONG AVAX @ $9.59 (78%) — Vamo ver no que dá"
     },
     {
-      "ts": "2026-02-15T03:56:14.056Z",
-      "time": "03:56:14",
-      "type": "analysis",
-      "msg": "Hmm, AVAX mostrando sinais de LONG (78%)"
-    },
-    {
       "ts": "2026-02-15T03:55:57.022Z",
       "time": "03:55:57",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "03:54:55",
       "type": "mirror-thought",
       "msg": "🪞 📉 XRP +0.20% — Alguém tem que salvar esse portfólio"
-    },
-    {
-      "ts": "2026-02-15T03:54:25.102Z",
-      "time": "03:54:25",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP +0.29% — Lucrando aqui pra cobrir o estrago de lá"
     }
   ]
 }
