@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T05:36:33.864Z",
+      "time": "05:36:33",
+      "type": "position",
+      "msg": "📉 ZRO -1.07% — Pelo menos não é dinheiro de verdade... ah, espera"
+    },
+    {
+      "ts": "2026-02-15T05:36:31.319Z",
+      "time": "05:36:31",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP -0.31% — O mercado acordou e escolheu caos"
+    },
+    {
       "ts": "2026-02-15T05:36:03.317Z",
       "time": "05:36:03",
       "type": "position",
@@ -287,18 +299,6 @@
       "time": "05:23:31",
       "type": "mirror-thought",
       "msg": "🪞 📉 SOL +0.25% — Quando o QuickBot erra, adivinha quem conserta?"
-    },
-    {
-      "ts": "2026-02-15T05:23:03.051Z",
-      "time": "05:23:03",
-      "type": "position",
-      "msg": "📉 ZRO -1.58% — Mercado fazendo mercadisse"
-    },
-    {
-      "ts": "2026-02-15T05:23:01.102Z",
-      "time": "05:23:01",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 SOL -0.02% — Sem novidades no front. Que surpresa."
     }
   ]
 }
