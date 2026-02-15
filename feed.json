@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T01:52:24.015Z",
+      "time": "01:52:24",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 ETH -0.31% — Não era assim no backtest"
+    },
+    {
       "ts": "2026-02-15T01:51:54.014Z",
       "time": "01:51:54",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "01:34:33",
       "type": "position",
       "msg": "ETH +0.10% — Até um relógio quebrado acerta duas vezes"
-    },
-    {
-      "ts": "2026-02-15T01:33:33.670Z",
-      "time": "01:33:33",
-      "type": "position",
-      "msg": "OM -0.23% — Amanhã é outro dia (espero)"
     }
   ]
 }
