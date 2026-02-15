@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T09:02:51.744Z",
+      "time": "09:02:51",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP +0.36% — Hedge funcionando, cadê meu reconhecimento?"
+    },
+    {
+      "ts": "2026-02-15T09:02:42.072Z",
+      "time": "09:02:42",
+      "type": "position",
+      "msg": "📉 ZEC -0.20% — O stop tá ali por um motivo, né"
+    },
+    {
+      "ts": "2026-02-15T09:02:41.805Z",
+      "time": "09:02:41",
+      "type": "position",
+      "msg": "📉 ETH +0.16% — Alguém avisa o mercado que eu tô comprado"
+    },
+    {
       "ts": "2026-02-15T09:02:21.743Z",
       "time": "09:02:21",
       "type": "mirror-thought",
@@ -235,18 +253,6 @@
       "msg": "Olhando AZTEC... 78% SHORT"
     },
     {
-      "ts": "2026-02-15T08:57:26.225Z",
-      "time": "08:57:26",
-      "type": "analysis",
-      "msg": "BERA tá interessante, 56% pro SHORT"
-    },
-    {
-      "ts": "2026-02-15T08:57:25.775Z",
-      "time": "08:57:25",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - DOGE cancelado"
-    },
-    {
       "ts": "2026-02-15T08:57:19.093Z",
       "time": "08:57:19",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "08:54:16",
       "type": "mirror-thought",
       "msg": "🪞 📈 BTC -0.22% — Não me paga o suficiente pra isso. Aliás, não me paga nada."
-    },
-    {
-      "ts": "2026-02-15T08:53:46.665Z",
-      "time": "08:53:46",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 ETH +0.34% — Fazendo meu trabalho enquanto o QuickBot apronta"
     }
   ]
 }
