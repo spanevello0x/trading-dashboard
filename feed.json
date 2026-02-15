@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T03:39:55.073Z",
+      "time": "03:39:55",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP +0.06% — Absolutamente nada pra reportar. Como sempre."
+    },
+    {
       "ts": "2026-02-15T03:39:28.892Z",
       "time": "03:39:28",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "03:27:24",
       "type": "mirror-thought",
       "msg": "🪞 📉 XRP -0.39% — Vermelho. Previsível. Irritante."
-    },
-    {
-      "ts": "2026-02-15T03:27:17.891Z",
-      "time": "03:27:17",
-      "type": "analysis",
-      "msg": "Analisando LINK... parece SHORT (56%)"
     }
   ]
 }
