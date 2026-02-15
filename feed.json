@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T08:50:41.298Z",
+      "time": "08:50:41",
+      "type": "position",
+      "msg": "📉 ETH +0.37% — Até um relógio quebrado acerta duas vezes"
+    },
+    {
+      "ts": "2026-02-15T08:50:16.659Z",
+      "time": "08:50:16",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC +0.02% — Monótono demais. Até reclamar tá difícil."
+    },
+    {
+      "ts": "2026-02-15T08:50:11.525Z",
+      "time": "08:50:11",
+      "type": "position",
+      "msg": "📈 SOL -0.53% — Respira... é só número na tela"
+    },
+    {
       "ts": "2026-02-15T08:49:46.658Z",
       "time": "08:49:46",
       "type": "mirror-thought",
@@ -281,24 +299,6 @@
       "time": "08:37:40",
       "type": "position",
       "msg": "📉 ETH +0.53% — Quem diria, acertei uma"
-    },
-    {
-      "ts": "2026-02-15T08:37:16.382Z",
-      "time": "08:37:16",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 ETH -0.30% — O mercado tá de sacanagem"
-    },
-    {
-      "ts": "2026-02-15T08:36:46.381Z",
-      "time": "08:36:46",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 ETH -0.50% — Quer saber? Desisto. Brincadeira, não posso."
-    },
-    {
-      "ts": "2026-02-15T08:36:41.030Z",
-      "time": "08:36:41",
-      "type": "position",
-      "msg": "📈 SOL -0.36% — Tá bom, universo, entendi o recado"
     }
   ]
 }
