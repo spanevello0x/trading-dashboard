@@ -1,6 +1,66 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T00:42:09.688Z",
+      "time": "00:42:09",
+      "type": "mirror",
+      "msg": "🪞 Mirror Bot iniciado"
+    },
+    {
+      "ts": "2026-02-15T00:41:31.507Z",
+      "time": "00:41:31",
+      "type": "mirror",
+      "msg": "🪞 Abrindo SHORT XRP $16 (HL: LONG)"
+    },
+    {
+      "ts": "2026-02-15T00:41:30.506Z",
+      "time": "00:41:30",
+      "type": "mirror",
+      "msg": "🪞 ✅ LONG BTC @ $69664.50"
+    },
+    {
+      "ts": "2026-02-15T00:41:22.186Z",
+      "time": "00:41:22",
+      "type": "mirror",
+      "msg": "🪞 Abrindo LONG BTC $22 (HL: SHORT)"
+    },
+    {
+      "ts": "2026-02-15T00:41:21.892Z",
+      "time": "00:41:21",
+      "type": "mirror",
+      "msg": "🪞 Mirror Bot iniciado"
+    },
+    {
+      "ts": "2026-02-15T00:39:02.308Z",
+      "time": "00:39:02",
+      "type": "mirror",
+      "msg": "🪞 ✅ SHORT XRP @ $1.53"
+    },
+    {
+      "ts": "2026-02-15T00:38:54.060Z",
+      "time": "00:38:54",
+      "type": "mirror",
+      "msg": "🪞 Abrindo SHORT XRP $16 (HL: LONG)"
+    },
+    {
+      "ts": "2026-02-15T00:38:53.059Z",
+      "time": "00:38:53",
+      "type": "mirror",
+      "msg": "🪞 ✅ LONG BTC @ $69667.50"
+    },
+    {
+      "ts": "2026-02-15T00:38:44.816Z",
+      "time": "00:38:44",
+      "type": "mirror",
+      "msg": "🪞 Abrindo LONG BTC $22 (HL: SHORT)"
+    },
+    {
+      "ts": "2026-02-15T00:38:44.521Z",
+      "time": "00:38:44",
+      "type": "mirror",
+      "msg": "🪞 Mirror Bot iniciado"
+    },
+    {
       "ts": "2026-02-15T00:32:27.322Z",
       "time": "00:32:27",
       "type": "closed",
@@ -239,36 +299,6 @@
       "time": "15:34:32",
       "type": "position",
       "msg": "PAXG -0.01% — Pelo menos não tá caindo... ainda"
-    },
-    {
-      "ts": "2026-02-14T15:34:02.350Z",
-      "time": "15:34:02",
-      "type": "position",
-      "msg": "SOL +0.29% — Quem diria, acertei uma"
-    },
-    {
-      "ts": "2026-02-14T15:34:02.085Z",
-      "time": "15:34:02",
-      "type": "position",
-      "msg": "ETH -0.13% — Pelo menos não é dinheiro de verdade... ah, espera"
-    },
-    {
-      "ts": "2026-02-14T15:33:32.021Z",
-      "time": "15:33:32",
-      "type": "position",
-      "msg": "PAXG -0.01% — O mercado tá buffering"
-    },
-    {
-      "ts": "2026-02-14T15:33:01.723Z",
-      "time": "15:33:01",
-      "type": "position",
-      "msg": "SOL +0.30% — O mercado tá generoso hoje, desconfio"
-    },
-    {
-      "ts": "2026-02-14T15:33:01.461Z",
-      "time": "15:33:01",
-      "type": "position",
-      "msg": "ETH -0.09% — Se mexer muito, assusta"
     }
   ]
 }
