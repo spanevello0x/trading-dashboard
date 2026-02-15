@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T04:27:30.671Z",
+      "time": "04:27:30",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP -0.04% — Estabilidade é superestimada. E entediante."
+    },
+    {
       "ts": "2026-02-15T04:27:00.736Z",
       "time": "04:27:00",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "04:13:59",
       "type": "position",
       "msg": "📈 SOL +1.08% — Não me acostumem com isso"
-    },
-    {
-      "ts": "2026-02-15T04:13:59.340Z",
-      "time": "04:13:59",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP +0.32% — Ganhando dinheiro e reclamando. Multitarefa."
     }
   ]
 }
