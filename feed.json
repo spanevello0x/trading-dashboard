@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T07:07:15.612Z",
+      "time": "07:07:15",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 ETH -0.02% — Mercado em coma. Eu também, emocionalmente."
+    },
+    {
       "ts": "2026-02-15T07:07:07.512Z",
       "time": "07:07:07",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "06:54:15",
       "type": "mirror-thought",
       "msg": "🪞 📉 SOL +0.37% — Alguém precisa ser o adulto responsável aqui"
-    },
-    {
-      "ts": "2026-02-15T06:54:06.776Z",
-      "time": "06:54:06",
-      "type": "position",
-      "msg": "📈 ETH -0.36% — Meu eu do passado tomou essa decisão, problema dele"
     }
   ]
 }
