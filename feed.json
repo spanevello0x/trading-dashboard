@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T02:42:24.448Z",
+      "time": "02:42:24",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC -0.26% — Fantástico. Simplesmente fantástico. Odeio tudo."
+    },
+    {
       "ts": "2026-02-15T02:41:56.430Z",
       "time": "02:41:56",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "02:31:54",
       "type": "mirror-thought",
       "msg": "🪞 📉 XRP -0.08% — Lateral é o novo tendência aparentemente"
-    },
-    {
-      "ts": "2026-02-15T02:31:25.820Z",
-      "time": "02:31:25",
-      "type": "position",
-      "msg": "📉 ZRO -0.55% — O mercado acordou e escolheu me machucar"
     }
   ]
 }
