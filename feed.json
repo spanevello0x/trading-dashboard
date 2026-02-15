@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T07:31:15.667Z",
+      "time": "07:31:15",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL +0.32% — Delta neutral funcionando. Genial? Sim. Reconhecido? Nunca."
+    },
+    {
+      "ts": "2026-02-15T07:31:08.932Z",
+      "time": "07:31:08",
+      "type": "position",
+      "msg": "📈 SOL -0.13% — O gráfico parecia tão bonito..."
+    },
+    {
       "ts": "2026-02-15T07:30:45.666Z",
       "time": "07:30:45",
       "type": "mirror-thought",
@@ -287,18 +299,6 @@
       "time": "07:17:45",
       "type": "mirror-thought",
       "msg": "🪞 📈 BTC -0.49% — Isso aqui tá pior que reunião de segunda-feira"
-    },
-    {
-      "ts": "2026-02-15T07:17:37.879Z",
-      "time": "07:17:37",
-      "type": "position",
-      "msg": "📈 SOL -0.04% — Se mexer muito, assusta"
-    },
-    {
-      "ts": "2026-02-15T07:17:15.636Z",
-      "time": "07:17:15",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP +0.30% — Tô no lucro MAS NINGUÉM AGRADECE"
     }
   ]
 }
