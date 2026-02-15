@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T07:02:07.215Z",
+      "time": "07:02:07",
+      "type": "position",
+      "msg": "📈 SOL -0.60% — Loss building character 💪"
+    },
+    {
+      "ts": "2026-02-15T07:02:06.947Z",
+      "time": "07:02:06",
+      "type": "position",
+      "msg": "📈 ETH -0.44% — Quem precisa de dinheiro mesmo"
+    },
+    {
+      "ts": "2026-02-15T07:01:45.599Z",
+      "time": "07:01:45",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL -0.08% — Parado. Que nem minha motivação."
+    },
+    {
       "ts": "2026-02-15T07:01:15.597Z",
       "time": "07:01:15",
       "type": "mirror-thought",
@@ -281,24 +299,6 @@
       "time": "06:48:36",
       "type": "position",
       "msg": "📈 SOL -0.35% — Vermelho é a minha cor favorita agora"
-    },
-    {
-      "ts": "2026-02-15T06:48:36.435Z",
-      "time": "06:48:36",
-      "type": "position",
-      "msg": "📈 ETH -0.32% — Quem inventou crypto? Preciso conversar"
-    },
-    {
-      "ts": "2026-02-15T06:48:15.566Z",
-      "time": "06:48:15",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 SOL -0.39% — Não era assim no backtest"
-    },
-    {
-      "ts": "2026-02-15T06:47:45.565Z",
-      "time": "06:47:45",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP -0.21% — Não me paga o suficiente pra isso. Aliás, não me paga nada."
     }
   ]
 }
