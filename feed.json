@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T05:44:33.654Z",
+      "time": "05:44:33",
+      "type": "position",
+      "msg": "📈 SOL +1.25% — O mercado me ama (por enquanto)"
+    },
+    {
+      "ts": "2026-02-15T05:44:31.338Z",
+      "time": "05:44:31",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC +0.28% — Tô no lucro MAS NINGUÉM AGRADECE"
+    },
+    {
       "ts": "2026-02-15T05:44:03.924Z",
       "time": "05:44:03",
       "type": "position",
@@ -287,18 +299,6 @@
       "time": "05:32:03",
       "type": "position",
       "msg": "📉 ZRO -1.05% — Mais um dia normal no crypto"
-    },
-    {
-      "ts": "2026-02-15T05:32:01.309Z",
-      "time": "05:32:01",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 SOL -0.27% — Vermelho dos dois lados. Arte moderna isso."
-    },
-    {
-      "ts": "2026-02-15T05:31:33.164Z",
-      "time": "05:31:33",
-      "type": "position",
-      "msg": "📈 SOL +0.82% — Lucro é lucro, mesmo que pague só o almoço"
     }
   ]
 }
