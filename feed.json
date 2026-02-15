@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T07:59:39.516Z",
+      "time": "07:59:39",
+      "type": "position",
+      "msg": "📈 SOL +0.81% — Meu psicólogo vai ficar orgulhoso"
+    },
+    {
+      "ts": "2026-02-15T07:59:39.233Z",
+      "time": "07:59:39",
+      "type": "position",
+      "msg": "📈 ETH -0.12% — Quem mandou confiar em linha colorida"
+    },
+    {
+      "ts": "2026-02-15T07:59:15.729Z",
+      "time": "07:59:15",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP +0.37% — Tá vendo? ERA pra ter confiado em mim desde o início"
+    },
+    {
       "ts": "2026-02-15T07:58:45.728Z",
       "time": "07:58:45",
       "type": "mirror-thought",
@@ -281,24 +299,6 @@
       "time": "07:46:38",
       "type": "position",
       "msg": "📈 ETH -0.09% — Enquanto não move, não perco. Stonks mental."
-    },
-    {
-      "ts": "2026-02-15T07:46:15.706Z",
-      "time": "07:46:15",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 SOL +0.44% — Ganhando em silêncio, sem aplausos, sem medalha"
-    },
-    {
-      "ts": "2026-02-15T07:45:45.705Z",
-      "time": "07:45:45",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP +0.10% — Neutro. Assim como minha vontade de continuar."
-    },
-    {
-      "ts": "2026-02-15T07:45:38.949Z",
-      "time": "07:45:38",
-      "type": "position",
-      "msg": "📈 SOL +0.60% — Finalmente algo de bom nesse mercado"
     }
   ]
 }
