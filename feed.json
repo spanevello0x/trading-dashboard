@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T07:52:45.718Z",
+      "time": "07:52:45",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC -0.30% — Vermelho dos dois lados. Arte moderna isso."
+    },
+    {
       "ts": "2026-02-15T07:52:15.718Z",
       "time": "07:52:15",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "07:39:38",
       "type": "position",
       "msg": "📈 SOL +0.84% — Calma que ainda pode dar errado"
-    },
-    {
-      "ts": "2026-02-15T07:39:38.401Z",
-      "time": "07:39:38",
-      "type": "position",
-      "msg": "📈 ETH +0.07% — Pregado no entry como se tivesse cola"
     }
   ]
 }
