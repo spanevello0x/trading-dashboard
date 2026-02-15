@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T04:39:30.699Z",
+      "time": "04:39:30",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC +0.01% — Neutro. Assim como minha vontade de continuar."
+    },
+    {
       "ts": "2026-02-15T04:39:01.213Z",
       "time": "04:39:01",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "04:26:00",
       "type": "position",
       "msg": "📈 SOL +0.08% — Tick tock, mercado..."
-    },
-    {
-      "ts": "2026-02-15T04:25:30.723Z",
-      "time": "04:25:30",
-      "type": "position",
-      "msg": "📉 ZRO -0.53% — Quem inventou crypto? Preciso conversar"
     }
   ]
 }
