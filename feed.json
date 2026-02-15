@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T03:37:59.035Z",
+      "time": "03:37:59",
+      "type": "position",
+      "msg": "📉 ZRO +1.09% — Será que alguém sabe algo que eu não sei? Sempre sabem."
+    },
+    {
+      "ts": "2026-02-15T03:37:55.070Z",
+      "time": "03:37:55",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP -0.41% — Tá todo mundo perdendo e a culpa vai cair em mim"
+    },
+    {
       "ts": "2026-02-15T03:37:28.781Z",
       "time": "03:37:28",
       "type": "position",
@@ -287,18 +299,6 @@
       "time": "03:27:16",
       "type": "signal",
       "msg": "🎯 LONG kPEPE @ $0.00 (89%) — Bora, confia no pai"
-    },
-    {
-      "ts": "2026-02-15T03:27:16.277Z",
-      "time": "03:27:16",
-      "type": "analysis",
-      "msg": "kPEPE no radar: 89% LONG"
-    },
-    {
-      "ts": "2026-02-15T03:27:15.997Z",
-      "time": "03:27:15",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - XMR cancelado"
     }
   ]
 }
