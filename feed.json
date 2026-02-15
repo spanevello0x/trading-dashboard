@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T04:49:31.568Z",
+      "time": "04:49:31",
+      "type": "position",
+      "msg": "📉 ZRO -0.83% — Isso é um teste de caráter, com certeza"
+    },
+    {
+      "ts": "2026-02-15T04:49:31.303Z",
+      "time": "04:49:31",
+      "type": "position",
+      "msg": "📈 SOL +0.57% — Será que alguém sabe algo que eu não sei? Sempre sabem."
+    },
+    {
+      "ts": "2026-02-15T04:49:30.721Z",
+      "time": "04:49:30",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC -0.31% — Se eu pudesse, mandava o mercado se explicar"
+    },
+    {
       "ts": "2026-02-15T04:49:00.719Z",
       "time": "04:49:00",
       "type": "mirror-thought",
@@ -281,24 +299,6 @@
       "time": "04:37:00",
       "type": "mirror-thought",
       "msg": "🪞 📈 BTC +0.05% — Zero movimento. Zero emoção. Zero sentido."
-    },
-    {
-      "ts": "2026-02-15T04:36:30.690Z",
-      "time": "04:36:30",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC +0.18% — Ganhando em silêncio, sem aplausos, sem medalha"
-    },
-    {
-      "ts": "2026-02-15T04:36:01.025Z",
-      "time": "04:36:01",
-      "type": "position",
-      "msg": "📉 ZRO -0.69% — Vermelho é a minha cor favorita agora"
-    },
-    {
-      "ts": "2026-02-15T04:36:00.689Z",
-      "time": "04:36:00",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC -0.23% — Meu trabalho é neutralizar, não fazer milagre"
     }
   ]
 }
