@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T05:31:01.304Z",
+      "time": "05:31:01",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP +0.12% — Imagina se não tivesse eu aqui... caos total"
+    },
+    {
       "ts": "2026-02-15T05:30:34.042Z",
       "time": "05:30:34",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "05:17:33",
       "type": "position",
       "msg": "📉 ZRO -1.26% — O mercado acordou e escolheu me machucar"
-    },
-    {
-      "ts": "2026-02-15T05:17:33.076Z",
-      "time": "05:17:33",
-      "type": "position",
-      "msg": "📈 SOL +0.81% — Imagina se eu tivesse colocado mais..."
     }
   ]
 }
