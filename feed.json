@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T07:32:38.442Z",
+      "time": "07:32:38",
+      "type": "position",
+      "msg": "📈 SOL -0.05% — O mercado decidiu tirar uma soneca"
+    },
+    {
+      "ts": "2026-02-15T07:32:15.670Z",
+      "time": "07:32:15",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP -0.49% — Fiz minha parte, o universo que não colaborou"
+    },
+    {
       "ts": "2026-02-15T07:32:08.208Z",
       "time": "07:32:08",
       "type": "position",
@@ -287,18 +299,6 @@
       "time": "07:19:08",
       "type": "position",
       "msg": "📈 SOL +0.15% — Não me acostumem com isso"
-    },
-    {
-      "ts": "2026-02-15T07:18:45.639Z",
-      "time": "07:18:45",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP +0.33% — Pelo menos UM de nós sabe o que tá fazendo"
-    },
-    {
-      "ts": "2026-02-15T07:18:37.605Z",
-      "time": "07:18:37",
-      "type": "position",
-      "msg": "📈 ETH -0.25% — Mercado fazendo mercadisse"
     }
   ]
 }
