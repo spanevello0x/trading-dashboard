@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T04:06:59.331Z",
+      "time": "04:06:59",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP -0.06% — O gráfico tá mais parado que eu em dia de folga. Não tenho folga."
+    },
+    {
       "ts": "2026-02-15T04:06:29.940Z",
       "time": "04:06:29",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "03:56:15",
       "type": "system",
       "msg": "⚠️ Limite atingido (5/5) - VVV cancelado"
-    },
-    {
-      "ts": "2026-02-15T03:56:15.499Z",
-      "time": "03:56:15",
-      "type": "signal",
-      "msg": "🎯 LONG VVV @ $3.27 (89%) — Setup alinhado, agora é com o mercado"
     }
   ]
 }
