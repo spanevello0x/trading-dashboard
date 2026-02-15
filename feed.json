@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T08:19:40.095Z",
+      "time": "08:19:40",
+      "type": "position",
+      "msg": "📈 ETH -0.25% — Minha análise era perfeita, o mercado que tá errado"
+    },
+    {
+      "ts": "2026-02-15T08:19:16.035Z",
+      "time": "08:19:16",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL -0.39% — O hedge não funciona se TUDO desaba, gênio"
+    },
+    {
       "ts": "2026-02-15T08:18:46.034Z",
       "time": "08:18:46",
       "type": "mirror-thought",
@@ -287,18 +299,6 @@
       "time": "08:06:15",
       "type": "mirror-thought",
       "msg": "🪞 📉 ETH -0.05% — Se tédio fosse trade, eu tava rico"
-    },
-    {
-      "ts": "2026-02-15T08:06:09.860Z",
-      "time": "08:06:09",
-      "type": "position",
-      "msg": "📈 SOL +1.19% — Tá subindo? Deixa eu não olhar pra não dar azar"
-    },
-    {
-      "ts": "2026-02-15T08:05:45.741Z",
-      "time": "08:05:45",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 SOL -0.22% — Delta neutral de prejuízo. Inovador."
     }
   ]
 }
