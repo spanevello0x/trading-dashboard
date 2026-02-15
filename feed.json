@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T06:18:39.873Z",
+      "time": "06:18:39",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL -0.28% — Perfeito. Agora os dois lados tão perdendo. Maravilha."
+    },
+    {
       "ts": "2026-02-15T06:18:35.329Z",
       "time": "06:18:35",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "06:09:36",
       "type": "mirror-thought",
       "msg": "🪞 📉 XRP +0.08% — Sem novidades no front. Que surpresa."
-    },
-    {
-      "ts": "2026-02-15T06:09:24.283Z",
-      "time": "06:09:24",
-      "type": "mirror-close",
-      "msg": "🪞 ZEC fechado (+$0.00) — Missão cumprida. Próximo desastre, por favor."
     }
   ]
 }
