@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T05:25:02.851Z",
+      "time": "05:25:02",
+      "type": "position",
+      "msg": "📈 SOL +0.88% — Melhor que Netflix isso aqui"
+    },
+    {
+      "ts": "2026-02-15T05:25:01.107Z",
+      "time": "05:25:01",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP +0.15% — Ganhando dinheiro e reclamando. Multitarefa."
+    },
+    {
       "ts": "2026-02-15T05:24:31.105Z",
       "time": "05:24:31",
       "type": "mirror-thought",
@@ -287,18 +299,6 @@
       "time": "05:12:02",
       "type": "position",
       "msg": "📉 ZRO -1.73% — Tá difícil defender essa entrada"
-    },
-    {
-      "ts": "2026-02-15T05:12:01.078Z",
-      "time": "05:12:01",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 SOL -0.18% — Obrigado por me colocar nessa situação"
-    },
-    {
-      "ts": "2026-02-15T05:11:32.470Z",
-      "time": "05:11:32",
-      "type": "position",
-      "msg": "📉 ZRO -1.38% — Quem inventou crypto? Preciso conversar"
     }
   ]
 }
