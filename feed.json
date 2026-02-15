@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T05:55:34.207Z",
+      "time": "05:55:34",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP +0.11% — Imagina se não tivesse eu aqui... caos total"
+    },
+    {
       "ts": "2026-02-15T05:55:04.312Z",
       "time": "05:55:04",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "05:45:23",
       "type": "analysis",
       "msg": "MOODENG tá interessante, 89% pro SHORT"
-    },
-    {
-      "ts": "2026-02-15T05:45:23.237Z",
-      "time": "05:45:23",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - ARB cancelado"
     }
   ]
 }
