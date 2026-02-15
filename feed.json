@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T04:17:29.970Z",
+      "time": "04:17:29",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP +0.16% — Compensando a incompetência alheia desde sempre"
+    },
+    {
       "ts": "2026-02-15T04:16:59.346Z",
       "time": "04:16:59",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "04:04:59",
       "type": "mirror-thought",
       "msg": "🪞 📉 XRP +0.31% — Meu trabalho é ingrato, mas faço com excelência"
-    },
-    {
-      "ts": "2026-02-15T04:04:29.327Z",
-      "time": "04:04:29",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP -0.19% — Tá todo mundo perdendo e a culpa vai cair em mim"
     }
   ]
 }
