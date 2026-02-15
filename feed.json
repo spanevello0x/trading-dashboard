@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T02:31:25.820Z",
+      "time": "02:31:25",
+      "type": "position",
+      "msg": "📉 ZRO -0.55% — O mercado acordou e escolheu me machucar"
+    },
+    {
+      "ts": "2026-02-15T02:31:25.555Z",
+      "time": "02:31:25",
+      "type": "position",
+      "msg": "📉 ETH +0.44% — O mercado tá generoso hoje, desconfio"
+    },
+    {
+      "ts": "2026-02-15T02:31:24.439Z",
+      "time": "02:31:24",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP -0.42% — Tá todo mundo perdendo e a culpa vai cair em mim"
+    },
+    {
       "ts": "2026-02-15T02:30:56.106Z",
       "time": "02:30:56",
       "type": "position",
@@ -281,24 +299,6 @@
       "time": "02:21:25",
       "type": "position",
       "msg": "📉 ZRO -1.39% — O gráfico parecia tão bonito..."
-    },
-    {
-      "ts": "2026-02-15T02:21:25.082Z",
-      "time": "02:21:25",
-      "type": "position",
-      "msg": "📉 ETH +0.32% — Tá subindo? Deixa eu não olhar pra não dar azar"
-    },
-    {
-      "ts": "2026-02-15T02:21:24.429Z",
-      "time": "02:21:24",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP -0.02% — Absolutamente nada pra reportar. Como sempre."
-    },
-    {
-      "ts": "2026-02-15T02:20:54.429Z",
-      "time": "02:20:54",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 ETH +0.02% — O emocionante mundo do zero por cento"
     }
   ]
 }
