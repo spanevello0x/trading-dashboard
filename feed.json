@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T02:50:24.455Z",
+      "time": "02:50:24",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 ETH +0.24% — Ganhando aqui pra compensar a burrice do outro lado"
+    },
+    {
       "ts": "2026-02-15T02:49:56.642Z",
       "time": "02:49:56",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "02:39:26",
       "type": "position",
       "msg": "📉 ZRO -0.29% — Pelo menos aprendo algo... né?"
-    },
-    {
-      "ts": "2026-02-15T02:39:24.446Z",
-      "time": "02:39:24",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 ETH -0.08% — Zero movimento. Zero emoção. Zero sentido."
     }
   ]
 }
