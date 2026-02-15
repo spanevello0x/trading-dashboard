@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T05:05:32.275Z",
+      "time": "05:05:32",
+      "type": "position",
+      "msg": "📉 ZRO -1.32% — Sabia que não devia ter olhado"
+    },
+    {
+      "ts": "2026-02-15T05:05:31.063Z",
+      "time": "05:05:31",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP -0.48% — Não era assim no backtest"
+    },
+    {
       "ts": "2026-02-15T05:05:01.061Z",
       "time": "05:05:01",
       "type": "mirror-thought",
@@ -287,18 +299,6 @@
       "time": "04:52:31",
       "type": "position",
       "msg": "📈 SOL +0.34% — Print pra mostrar pros netos"
-    },
-    {
-      "ts": "2026-02-15T04:52:30.725Z",
-      "time": "04:52:30",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC -0.25% — Perfeito. Agora os dois lados tão perdendo. Maravilha."
-    },
-    {
-      "ts": "2026-02-15T04:52:01.728Z",
-      "time": "04:52:01",
-      "type": "position",
-      "msg": "📉 ZRO -1.40% — Clássico"
     }
   ]
 }
