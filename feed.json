@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T08:38:40.894Z",
+      "time": "08:38:40",
+      "type": "position",
+      "msg": "📉 ETH +0.55% — Não me acostumem com isso"
+    },
+    {
+      "ts": "2026-02-15T08:38:16.489Z",
+      "time": "08:38:16",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 ETH +0.19% — Ganhando em silêncio, sem aplausos, sem medalha"
+    },
+    {
       "ts": "2026-02-15T08:37:46.488Z",
       "time": "08:37:46",
       "type": "mirror-thought",
@@ -253,12 +265,6 @@
       "msg": "🎯 SHORT XMR @ $348.58 (89%) — Bora, confia no pai"
     },
     {
-      "ts": "2026-02-15T08:31:32.878Z",
-      "time": "08:31:32",
-      "type": "analysis",
-      "msg": "Hmm, XMR mostrando sinais de SHORT (89%)"
-    },
-    {
       "ts": "2026-02-15T08:31:32.227Z",
       "time": "08:31:32",
       "type": "mirror-open",
@@ -293,12 +299,6 @@
       "time": "08:29:46",
       "type": "mirror-thought",
       "msg": "🪞 📈 BTC +0.12% — Mais um dia salvando a pátria"
-    },
-    {
-      "ts": "2026-02-15T08:29:16.109Z",
-      "time": "08:29:16",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 SOL +0.02% — Se emoção matasse, eu taria vivo pra sempre"
     }
   ]
 }
