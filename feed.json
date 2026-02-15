@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T08:42:41.016Z",
+      "time": "08:42:41",
+      "type": "position",
+      "msg": "📉 ETH +0.44% — Será que é armadilha? Provavelmente. Mas vou curtir enquanto dura"
+    },
+    {
+      "ts": "2026-02-15T08:42:16.493Z",
+      "time": "08:42:16",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 ETH -0.25% — Correlação foi pro espaço, junto com meu lucro"
+    },
+    {
       "ts": "2026-02-15T08:41:46.493Z",
       "time": "08:41:46",
       "type": "mirror-thought",
@@ -287,18 +299,6 @@
       "time": "08:31:35",
       "type": "analysis",
       "msg": "MOODENG tá interessante, 100% pro SHORT"
-    },
-    {
-      "ts": "2026-02-15T08:31:34.741Z",
-      "time": "08:31:34",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - ARB cancelado"
-    },
-    {
-      "ts": "2026-02-15T08:31:34.462Z",
-      "time": "08:31:34",
-      "type": "signal",
-      "msg": "🎯 SHORT ARB @ $0.12 (100%) — Setup alinhado, agora é com o mercado"
     }
   ]
 }
