@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T08:03:45.736Z",
+      "time": "08:03:45",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC +0.27% — Lucro garantido pelo único profissional aqui"
+    },
+    {
       "ts": "2026-02-15T08:03:15.735Z",
       "time": "08:03:15",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "07:50:15",
       "type": "mirror-thought",
       "msg": "🪞 📉 XRP +0.06% — Estabilidade é superestimada. E entediante."
-    },
-    {
-      "ts": "2026-02-15T07:50:09.145Z",
-      "time": "07:50:09",
-      "type": "position",
-      "msg": "📈 SOL +0.64% — Lucro é lucro, mesmo que pague só o almoço"
     }
   ]
 }
