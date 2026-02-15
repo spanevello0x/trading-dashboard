@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T04:02:29.540Z",
+      "time": "04:02:29",
+      "type": "position",
+      "msg": "📉 ZRO -0.69% — Tá difícil defender essa entrada"
+    },
+    {
+      "ts": "2026-02-15T04:02:29.165Z",
+      "time": "04:02:29",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC +0.48% — Ganhando em silêncio, sem aplausos, sem medalha"
+    },
+    {
       "ts": "2026-02-15T04:01:59.276Z",
       "time": "04:01:59",
       "type": "position",
@@ -253,12 +265,6 @@
       "msg": "⚠️ Limite atingido (5/5) - DOGE cancelado"
     },
     {
-      "ts": "2026-02-15T03:56:12.489Z",
-      "time": "03:56:12",
-      "type": "signal",
-      "msg": "🎯 LONG DOGE @ $0.11 (89%) — Bora, confia no pai"
-    },
-    {
       "ts": "2026-02-15T03:55:57.022Z",
       "time": "03:55:57",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "03:53:55",
       "type": "mirror-thought",
       "msg": "🪞 📈 BTC +0.10% — Esperando o próximo desastre ou milagre. Tanto faz."
-    },
-    {
-      "ts": "2026-02-15T03:53:25.101Z",
-      "time": "03:53:25",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC -0.37% — Se eu pudesse, mandava o mercado se explicar"
     }
   ]
 }
