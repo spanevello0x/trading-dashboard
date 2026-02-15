@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T07:32:45.670Z",
+      "time": "07:32:45",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 ETH +0.03% — Esperando algo acontecer... esperando... esperando..."
+    },
+    {
       "ts": "2026-02-15T07:32:38.442Z",
       "time": "07:32:38",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "07:19:15",
       "type": "mirror-thought",
       "msg": "🪞 📈 BTC +0.17% — O mercado me odeia menos que odeia o QuickBot"
-    },
-    {
-      "ts": "2026-02-15T07:19:08.022Z",
-      "time": "07:19:08",
-      "type": "position",
-      "msg": "📈 SOL +0.15% — Não me acostumem com isso"
     }
   ]
 }
