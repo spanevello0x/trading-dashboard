@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T02:44:56.342Z",
+      "time": "02:44:56",
+      "type": "position",
+      "msg": "📉 ZRO -0.60% — O stop tá ali por um motivo, né"
+    },
+    {
+      "ts": "2026-02-15T02:44:55.916Z",
+      "time": "02:44:55",
+      "type": "position",
+      "msg": "📉 ETH +0.44% — Alguém avisa o mercado que eu tô comprado"
+    },
+    {
+      "ts": "2026-02-15T02:44:54.451Z",
+      "time": "02:44:54",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP -0.34% — Meu trabalho é neutralizar, não fazer milagre"
+    },
+    {
       "ts": "2026-02-15T02:44:26.555Z",
       "time": "02:44:26",
       "type": "position",
@@ -281,24 +299,6 @@
       "time": "02:34:54",
       "type": "mirror-thought",
       "msg": "🪞 📈 BTC -0.50% — Não me paga o suficiente pra isso. Aliás, não me paga nada."
-    },
-    {
-      "ts": "2026-02-15T02:34:26.086Z",
-      "time": "02:34:26",
-      "type": "position",
-      "msg": "📈 OM -2.09% — Não é prejuízo se eu não vender... ah, tem stop"
-    },
-    {
-      "ts": "2026-02-15T02:34:24.443Z",
-      "time": "02:34:24",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC +0.38% — Neutralizando prejuízos como sempre"
-    },
-    {
-      "ts": "2026-02-15T02:33:55.840Z",
-      "time": "02:33:55",
-      "type": "position",
-      "msg": "📉 ZRO -0.37% — Meu eu do passado tomou essa decisão, problema dele"
     }
   ]
 }
