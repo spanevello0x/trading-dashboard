@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T08:07:39.552Z",
+      "time": "08:07:39",
+      "type": "position",
+      "msg": "📈 ETH -0.12% — Mais um dia normal no crypto"
+    },
+    {
+      "ts": "2026-02-15T08:07:15.744Z",
+      "time": "08:07:15",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL -0.05% — Esperando o próximo desastre ou milagre. Tanto faz."
+    },
+    {
       "ts": "2026-02-15T08:06:45.744Z",
       "time": "08:06:45",
       "type": "mirror-thought",
@@ -287,18 +299,6 @@
       "time": "07:54:39",
       "type": "position",
       "msg": "📈 ETH -0.13% — Quem inventou crypto? Preciso conversar"
-    },
-    {
-      "ts": "2026-02-15T07:54:15.721Z",
-      "time": "07:54:15",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC -0.09% — Mercado em coma. Eu também, emocionalmente."
-    },
-    {
-      "ts": "2026-02-15T07:53:45.720Z",
-      "time": "07:53:45",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP +0.43% — Delta neutral funcionando. Genial? Sim. Reconhecido? Nunca."
     }
   ]
 }
