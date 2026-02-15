@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T06:18:35.329Z",
+      "time": "06:18:35",
+      "type": "position",
+      "msg": "📉 ZEC -0.82% — O mercado acordou e escolheu me machucar"
+    },
+    {
+      "ts": "2026-02-15T06:18:35.070Z",
+      "time": "06:18:35",
+      "type": "position",
+      "msg": "📈 SOL +1.33% — Alguém avisa o mercado que eu tô comprado"
+    },
+    {
+      "ts": "2026-02-15T06:18:09.872Z",
+      "time": "06:18:09",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC -0.38% — Meu trabalho é neutralizar, não fazer milagre"
+    },
+    {
       "ts": "2026-02-15T06:17:39.872Z",
       "time": "06:17:39",
       "type": "mirror-thought",
@@ -271,18 +289,6 @@
       "msg": "⚠️ Limite atingido (5/5) - AZTEC cancelado"
     },
     {
-      "ts": "2026-02-15T06:09:48.569Z",
-      "time": "06:09:48",
-      "type": "signal",
-      "msg": "🎯 LONG AZTEC @ $0.02 (100%) — Mais uma pro histórico"
-    },
-    {
-      "ts": "2026-02-15T06:09:48.569Z",
-      "time": "06:09:48",
-      "type": "analysis",
-      "msg": "Analisando AZTEC... parece LONG (100%)"
-    },
-    {
       "ts": "2026-02-15T06:09:36.285Z",
       "time": "06:09:36",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "06:09:24",
       "type": "mirror-close",
       "msg": "🪞 ZEC fechado (+$0.00) — Missão cumprida. Próximo desastre, por favor."
-    },
-    {
-      "ts": "2026-02-15T06:09:04.734Z",
-      "time": "06:09:04",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC +0.41% — Lucro? Uau. Que surpresa. Ninguém esperava. Mentira, EU esperava."
     }
   ]
 }
