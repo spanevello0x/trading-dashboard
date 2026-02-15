@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T08:12:39.975Z",
+      "time": "08:12:39",
+      "type": "position",
+      "msg": "📈 ETH -0.31% — Vou culpar a lua, deve ser lua cheia"
+    },
+    {
+      "ts": "2026-02-15T08:12:15.754Z",
+      "time": "08:12:15",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC -0.41% — Obrigado por me colocar nessa situação"
+    },
+    {
       "ts": "2026-02-15T08:11:45.752Z",
       "time": "08:11:45",
       "type": "mirror-thought",
@@ -287,18 +299,6 @@
       "time": "07:59:39",
       "type": "position",
       "msg": "📈 ETH -0.12% — Quem mandou confiar em linha colorida"
-    },
-    {
-      "ts": "2026-02-15T07:59:15.729Z",
-      "time": "07:59:15",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP +0.37% — Tá vendo? ERA pra ter confiado em mim desde o início"
-    },
-    {
-      "ts": "2026-02-15T07:58:45.728Z",
-      "time": "07:58:45",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP -0.15% — Quando o mercado inteiro resolve desabar..."
     }
   ]
 }
