@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T04:49:00.719Z",
+      "time": "04:49:00",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP -0.38% — Não me paga o suficiente pra isso. Aliás, não me paga nada."
+    },
+    {
       "ts": "2026-02-15T04:48:31.506Z",
       "time": "04:48:31",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "04:36:00",
       "type": "mirror-thought",
       "msg": "🪞 📈 BTC -0.23% — Meu trabalho é neutralizar, não fazer milagre"
-    },
-    {
-      "ts": "2026-02-15T04:35:30.753Z",
-      "time": "04:35:30",
-      "type": "position",
-      "msg": "📈 SOL +0.16% — Imagina se eu tivesse colocado mais..."
     }
   ]
 }
