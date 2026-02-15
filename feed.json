@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T08:52:46.663Z",
+      "time": "08:52:46",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 ETH +0.08% — O emocionante mundo do zero por cento"
+    },
+    {
       "ts": "2026-02-15T08:52:41.361Z",
       "time": "08:52:41",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "08:40:11",
       "type": "position",
       "msg": "📉 ETH +0.53% — Meu psicólogo vai ficar orgulhoso"
-    },
-    {
-      "ts": "2026-02-15T08:39:46.490Z",
-      "time": "08:39:46",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 ETH -0.24% — Eu AVISEI que isso podia acontecer. Avisei? Não? Deveria ter avisado."
     }
   ]
 }
