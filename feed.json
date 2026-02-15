@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T06:16:09.868Z",
+      "time": "06:16:09",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC -0.17% — Se o QuickBot não tivesse... ah, deixa pra lá"
+    },
+    {
       "ts": "2026-02-15T06:16:05.226Z",
       "time": "06:16:05",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "06:07:34",
       "type": "mirror-thought",
       "msg": "🪞 📈 BTC -0.01% — O emocionante mundo do zero por cento"
-    },
-    {
-      "ts": "2026-02-15T06:07:04.729Z",
-      "time": "06:07:04",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 SOL -0.03% — Se tédio fosse trade, eu tava rico"
     }
   ]
 }
