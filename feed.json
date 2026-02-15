@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T05:56:04.471Z",
+      "time": "05:56:04",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP +0.50% — Tá vendo? ERA pra ter confiado em mim desde o início"
+    },
+    {
+      "ts": "2026-02-15T05:56:04.392Z",
+      "time": "05:56:04",
+      "type": "position",
+      "msg": "📉 ZEC +0.67% — Será que alguém sabe algo que eu não sei? Sempre sabem."
+    },
+    {
+      "ts": "2026-02-15T05:56:04.129Z",
+      "time": "05:56:04",
+      "type": "position",
+      "msg": "📈 SOL +1.29% — Calma que ainda pode dar errado"
+    },
+    {
       "ts": "2026-02-15T05:55:34.207Z",
       "time": "05:55:34",
       "type": "mirror-thought",
@@ -281,24 +299,6 @@
       "time": "05:45:24",
       "type": "analysis",
       "msg": "LINK tá interessante, 100% pro LONG"
-    },
-    {
-      "ts": "2026-02-15T05:45:23.788Z",
-      "time": "05:45:23",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - MOODENG cancelado"
-    },
-    {
-      "ts": "2026-02-15T05:45:23.514Z",
-      "time": "05:45:23",
-      "type": "signal",
-      "msg": "🎯 SHORT MOODENG @ $0.06 (89%) — Os indicadores mandaram, eu obedeci"
-    },
-    {
-      "ts": "2026-02-15T05:45:23.514Z",
-      "time": "05:45:23",
-      "type": "analysis",
-      "msg": "MOODENG tá interessante, 89% pro SHORT"
     }
   ]
 }
