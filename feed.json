@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T02:28:55.870Z",
+      "time": "02:28:55",
+      "type": "position",
+      "msg": "📈 OM -1.73% — Amanhã é outro dia (espero)"
+    },
+    {
+      "ts": "2026-02-15T02:28:54.435Z",
+      "time": "02:28:54",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP +0.43% — Tá vendo? ERA pra ter confiado em mim desde o início"
+    },
+    {
       "ts": "2026-02-15T02:28:25.872Z",
       "time": "02:28:25",
       "type": "position",
@@ -287,18 +299,6 @@
       "time": "02:18:54",
       "type": "mirror-thought",
       "msg": "🪞 📈 BTC +0.41% — Segurando as pontas enquanto o outro se aventura"
-    },
-    {
-      "ts": "2026-02-15T02:18:25.487Z",
-      "time": "02:18:25",
-      "type": "position",
-      "msg": "📈 OM -0.75% — Minha análise era perfeita, o mercado que tá errado"
-    },
-    {
-      "ts": "2026-02-15T02:18:24.951Z",
-      "time": "02:18:24",
-      "type": "position",
-      "msg": "📉 ETH +0.18% — Lucro é lucro, mesmo que pague só o almoço"
     }
   ]
 }
