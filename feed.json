@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T06:22:39.881Z",
+      "time": "06:22:39",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 ZEC -0.43% — Não era assim no backtest"
+    },
+    {
       "ts": "2026-02-15T06:22:35.492Z",
       "time": "06:22:35",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "06:10:09",
       "type": "mirror-thought",
       "msg": "🪞 📈 BTC +0.33% — O mercado me odeia menos que odeia o QuickBot"
-    },
-    {
-      "ts": "2026-02-15T06:10:04.993Z",
-      "time": "06:10:04",
-      "type": "position",
-      "msg": "📉 ZEC +0.20% — Será que é armadilha? Provavelmente. Mas vou curtir enquanto dura"
     }
   ]
 }
