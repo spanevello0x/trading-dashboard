@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T06:55:45.581Z",
+      "time": "06:55:45",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 ETH +0.36% — Pelo menos UM de nós sabe o que tá fazendo"
+    },
+    {
       "ts": "2026-02-15T06:55:37.063Z",
       "time": "06:55:37",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "06:43:06",
       "type": "position",
       "msg": "📈 ETH -0.15% — Mais um dia normal no crypto"
-    },
-    {
-      "ts": "2026-02-15T06:42:45.307Z",
-      "time": "06:42:45",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 ETH -0.50% — Quando o mercado inteiro resolve desabar..."
     }
   ]
 }
