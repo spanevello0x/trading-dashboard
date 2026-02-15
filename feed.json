@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T06:20:39.877Z",
+      "time": "06:20:39",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC -0.03% — Flat como a Terra. Brincadeira. Mas o mercado tá."
+    },
+    {
       "ts": "2026-02-15T06:20:35.464Z",
       "time": "06:20:35",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "06:09:52",
       "type": "analysis",
       "msg": "MOODENG no radar: 67% SHORT"
-    },
-    {
-      "ts": "2026-02-15T06:09:51.548Z",
-      "time": "06:09:51",
-      "type": "analysis",
-      "msg": "Hmm, kPEPE mostrando sinais de SHORT (67%)"
     }
   ]
 }
