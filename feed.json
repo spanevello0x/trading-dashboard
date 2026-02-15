@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T08:38:46.489Z",
+      "time": "08:38:46",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC -0.24% — Tá todo mundo perdendo e a culpa vai cair em mim"
+    },
+    {
+      "ts": "2026-02-15T08:38:41.161Z",
+      "time": "08:38:41",
+      "type": "position",
+      "msg": "📈 SOL -0.62% — Mais um dia normal no crypto"
+    },
+    {
       "ts": "2026-02-15T08:38:40.894Z",
       "time": "08:38:40",
       "type": "position",
@@ -259,12 +271,6 @@
       "msg": "⚠️ Limite atingido (5/5) - XMR cancelado"
     },
     {
-      "ts": "2026-02-15T08:31:32.879Z",
-      "time": "08:31:32",
-      "type": "signal",
-      "msg": "🎯 SHORT XMR @ $348.58 (89%) — Bora, confia no pai"
-    },
-    {
       "ts": "2026-02-15T08:31:32.227Z",
       "time": "08:31:32",
       "type": "mirror-open",
@@ -293,12 +299,6 @@
       "time": "08:30:16",
       "type": "mirror-thought",
       "msg": "🪞 📉 XRP -0.37% — Quando o mercado inteiro resolve desabar..."
-    },
-    {
-      "ts": "2026-02-15T08:29:46.110Z",
-      "time": "08:29:46",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC +0.12% — Mais um dia salvando a pátria"
     }
   ]
 }
