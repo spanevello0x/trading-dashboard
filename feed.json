@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T04:19:30.034Z",
+      "time": "04:19:30",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL +0.44% — Hedge funcionando, cadê meu reconhecimento?"
+    },
+    {
       "ts": "2026-02-15T04:19:00.290Z",
       "time": "04:19:00",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "04:06:29",
       "type": "position",
       "msg": "📉 ZRO -0.75% — Loss building character 💪"
-    },
-    {
-      "ts": "2026-02-15T04:06:29.520Z",
-      "time": "04:06:29",
-      "type": "position",
-      "msg": "📈 SOL +0.26% — Vou comemorar quando fechar. Talvez."
     }
   ]
 }
