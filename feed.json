@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T02:37:56.014Z",
+      "time": "02:37:56",
+      "type": "position",
+      "msg": "📉 ZRO -0.19% — Pelo menos não apostei a casa... dessa vez"
+    },
+    {
+      "ts": "2026-02-15T02:37:54.447Z",
+      "time": "02:37:54",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP +0.10% — Se fosse fácil, qualquer um fazia. Mas só eu faço."
+    },
+    {
       "ts": "2026-02-15T02:37:25.748Z",
       "time": "02:37:25",
       "type": "position",
@@ -287,18 +299,6 @@
       "time": "02:27:54",
       "type": "mirror-thought",
       "msg": "🪞 📈 BTC -0.34% — Fiz minha parte, o universo que não colaborou"
-    },
-    {
-      "ts": "2026-02-15T02:27:24.433Z",
-      "time": "02:27:24",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 ETH -0.36% — Meu trabalho é neutralizar, não fazer milagre"
-    },
-    {
-      "ts": "2026-02-15T02:26:56.591Z",
-      "time": "02:26:56",
-      "type": "position",
-      "msg": "📈 OM -1.44% — Tá difícil defender essa entrada"
     }
   ]
 }
