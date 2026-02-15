@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T06:51:06.521Z",
+      "time": "06:51:06",
+      "type": "position",
+      "msg": "📈 ETH -0.50% — O mercado escolheu violência hoje"
+    },
+    {
+      "ts": "2026-02-15T06:50:45.569Z",
+      "time": "06:50:45",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 ETH +0.13% — Compensando a incompetência alheia desde sempre"
+    },
+    {
       "ts": "2026-02-15T06:50:15.569Z",
       "time": "06:50:15",
       "type": "mirror-thought",
@@ -287,18 +299,6 @@
       "time": "06:38:15",
       "type": "mirror-thought",
       "msg": "🪞 📉 XRP -0.25% — Se eu pudesse, mandava o mercado se explicar"
-    },
-    {
-      "ts": "2026-02-15T06:38:05.926Z",
-      "time": "06:38:05",
-      "type": "position",
-      "msg": "📈 ETH -0.06% — Tá ali, existindo"
-    },
-    {
-      "ts": "2026-02-15T06:37:45.224Z",
-      "time": "06:37:45",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP +0.26% — Quando o QuickBot erra, adivinha quem conserta?"
     }
   ]
 }
