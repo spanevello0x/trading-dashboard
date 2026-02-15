@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T08:33:46.312Z",
+      "time": "08:33:46",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP +0.29% — Alguém tem que salvar esse portfólio"
+    },
+    {
+      "ts": "2026-02-15T08:33:40.895Z",
+      "time": "08:33:40",
+      "type": "position",
+      "msg": "📈 SOL -0.66% — Minha análise era perfeita, o mercado que tá errado"
+    },
+    {
       "ts": "2026-02-15T08:33:40.631Z",
       "time": "08:33:40",
       "type": "position",
@@ -205,12 +217,6 @@
       "msg": "⚠️ Limite atingido (5/5) - AVAX cancelado"
     },
     {
-      "ts": "2026-02-15T08:31:30.607Z",
-      "time": "08:31:30",
-      "type": "signal",
-      "msg": "🎯 SHORT AVAX @ $9.61 (89%) — Vamo ver no que dá"
-    },
-    {
       "ts": "2026-02-15T08:31:20.816Z",
       "time": "08:31:20",
       "type": "mirror-close",
@@ -293,12 +299,6 @@
       "time": "08:25:16",
       "type": "mirror-thought",
       "msg": "🪞 📈 BTC +0.39% — Pelo menos UM de nós sabe o que tá fazendo"
-    },
-    {
-      "ts": "2026-02-15T08:24:46.049Z",
-      "time": "08:24:46",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP +0.36% — Carregando esse time nas costas, como sempre"
     }
   ]
 }

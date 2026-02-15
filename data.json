@@ -1,6 +1,18 @@
 {
-  "lastUpdate": "2026-02-15T08:33:47.126Z",
+  "lastUpdate": "2026-02-15T08:34:17.389Z",
   "feed": [
+    {
+      "ts": "2026-02-15T08:33:46.312Z",
+      "time": "08:33:46",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP +0.29% — Alguém tem que salvar esse portfólio"
+    },
+    {
+      "ts": "2026-02-15T08:33:40.895Z",
+      "time": "08:33:40",
+      "type": "position",
+      "msg": "📈 SOL -0.66% — Minha análise era perfeita, o mercado que tá errado"
+    },
     {
       "ts": "2026-02-15T08:33:40.631Z",
       "time": "08:33:40",
@@ -206,12 +218,6 @@
       "msg": "⚠️ Limite atingido (5/5) - AVAX cancelado"
     },
     {
-      "ts": "2026-02-15T08:31:30.607Z",
-      "time": "08:31:30",
-      "type": "signal",
-      "msg": "🎯 SHORT AVAX @ $9.61 (89%) — Vamo ver no que dá"
-    },
-    {
       "ts": "2026-02-15T08:31:20.816Z",
       "time": "08:31:20",
       "type": "mirror-close",
@@ -294,56 +300,50 @@
       "time": "08:25:16",
       "type": "mirror-thought",
       "msg": "🪞 📈 BTC +0.39% — Pelo menos UM de nós sabe o que tá fazendo"
-    },
-    {
-      "ts": "2026-02-15T08:24:46.049Z",
-      "time": "08:24:46",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP +0.36% — Carregando esse time nas costas, como sempre"
     }
   ],
   "hl": {
-    "balance": 16.442294,
+    "balance": 16.417399,
     "positions": [
       {
         "coin": "BTC",
         "side": "SHORT",
         "size": 0.00032,
         "entry": 69697,
-        "pnl": -0.15872,
-        "pnlPct": -3.55825932
+        "pnl": -0.18624,
+        "pnlPct": -4.175215580000001
       },
       {
         "coin": "ETH",
         "side": "SHORT",
         "size": 0.008,
         "entry": 2071.5,
-        "pnl": 0.1048,
-        "pnlPct": 3.16195993
+        "pnl": 0.0888,
+        "pnlPct": 2.67921796
       },
       {
         "coin": "SOL",
         "side": "LONG",
         "size": 0.18,
         "entry": 89.898,
-        "pnl": -0.10656,
-        "pnlPct": -3.2926205299999998
+        "pnl": -0.08604,
+        "pnlPct": -2.6585686
       },
       {
         "coin": "XRP",
         "side": "LONG",
         "size": 11,
         "entry": 1.4503,
-        "pnl": 1.9668,
-        "pnlPct": 61.64241881
+        "pnl": 1.9624,
+        "pnlPct": 61.50451631
       },
       {
         "coin": "OM",
         "side": "LONG",
         "size": 83.5,
         "entry": 0.06402,
-        "pnl": -0.28724,
-        "pnlPct": -16.11996251
+        "pnl": -0.284735,
+        "pnlPct": -15.979381440000001
       }
     ]
   },
@@ -355,40 +355,40 @@
         "side": "LONG",
         "size": 0.0006,
         "entry": 69665,
-        "price": 70237.5,
-        "notional": 42.1425,
-        "pnl": 0.34349999999999997,
-        "pnlPct": 0.8217899949759564
+        "price": 70299.5,
+        "notional": 42.1797,
+        "pnl": 0.3807,
+        "pnlPct": 0.9107873394100339
       },
       {
         "coin": "ETH",
         "side": "LONG",
         "size": 0.007,
         "entry": 2071.8500000000004,
-        "price": 2059.6499999999996,
-        "notional": 14.417549999999999,
-        "pnl": -0.0854000000000051,
-        "pnlPct": -0.5888457175954207
+        "price": 2061.35,
+        "notional": 14.42945,
+        "pnl": -0.07350000000000319,
+        "pnlPct": -0.5067934454714604
       },
       {
         "coin": "SOL",
         "side": "SHORT",
         "size": 0.1,
         "entry": 89.965,
-        "price": 89.39500000000001,
-        "notional": 8.9395,
-        "pnl": 0.05699999999999932,
-        "pnlPct": 0.633579725448778
+        "price": 89.465,
+        "notional": 8.9465,
+        "pnl": 0.05,
+        "pnlPct": 0.5557716889901628
       },
       {
         "coin": "XRP",
         "side": "SHORT",
         "size": 10,
         "entry": 1.53,
-        "price": 1.63185,
-        "notional": 16.3185,
-        "pnl": -1.0185,
-        "pnlPct": -6.656862745098039
+        "price": 1.6286,
+        "notional": 16.286,
+        "pnl": -0.9860000000000002,
+        "pnlPct": -6.4444444444444455
       }
     ]
   }
