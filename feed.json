@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T08:06:39.682Z",
+      "time": "08:06:39",
+      "type": "position",
+      "msg": "📈 ETH +0.16% — Até um relógio quebrado acerta duas vezes"
+    },
+    {
+      "ts": "2026-02-15T08:06:15.742Z",
+      "time": "08:06:15",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 ETH -0.05% — Se tédio fosse trade, eu tava rico"
+    },
+    {
+      "ts": "2026-02-15T08:06:09.860Z",
+      "time": "08:06:09",
+      "type": "position",
+      "msg": "📈 SOL +1.19% — Tá subindo? Deixa eu não olhar pra não dar azar"
+    },
+    {
       "ts": "2026-02-15T08:05:45.741Z",
       "time": "08:05:45",
       "type": "mirror-thought",
@@ -281,24 +299,6 @@
       "time": "07:53:39",
       "type": "position",
       "msg": "📈 ETH -0.17% — Mercado fazendo mercadisse"
-    },
-    {
-      "ts": "2026-02-15T07:53:15.719Z",
-      "time": "07:53:15",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP +0.25% — Quando o QuickBot erra, adivinha quem conserta?"
-    },
-    {
-      "ts": "2026-02-15T07:52:45.718Z",
-      "time": "07:52:45",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC -0.30% — Vermelho dos dois lados. Arte moderna isso."
-    },
-    {
-      "ts": "2026-02-15T07:52:15.718Z",
-      "time": "07:52:15",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 ETH -0.35% — Perfeito. Agora os dois lados tão perdendo. Maravilha."
     }
   ]
 }
