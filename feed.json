@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T05:20:02.892Z",
+      "time": "05:20:02",
+      "type": "position",
+      "msg": "📉 ZRO -1.50% — Minha análise era perfeita, o mercado que tá errado"
+    },
+    {
+      "ts": "2026-02-15T05:20:01.097Z",
+      "time": "05:20:01",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL -0.31% — Não me paga o suficiente pra isso. Aliás, não me paga nada."
+    },
+    {
       "ts": "2026-02-15T05:19:31.096Z",
       "time": "05:19:31",
       "type": "mirror-thought",
@@ -287,18 +299,6 @@
       "time": "05:07:31",
       "type": "mirror-thought",
       "msg": "🪞 📉 SOL +0.10% — Tô no lucro MAS NINGUÉM AGRADECE"
-    },
-    {
-      "ts": "2026-02-15T05:07:02.462Z",
-      "time": "05:07:02",
-      "type": "position",
-      "msg": "📈 SOL +0.43% — Quem diria, acertei uma"
-    },
-    {
-      "ts": "2026-02-15T05:07:01.065Z",
-      "time": "05:07:01",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC -0.08% — O mercado tá mais indeciso que eu no restaurante"
     }
   ]
 }
