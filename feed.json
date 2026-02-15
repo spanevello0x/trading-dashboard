@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T02:02:54.028Z",
+      "time": "02:02:54",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 ETH +0.17% — Pelo menos UM de nós sabe o que tá fazendo"
+    },
+    {
       "ts": "2026-02-15T02:02:24.029Z",
       "time": "02:02:24",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "01:40:24",
       "type": "mirror-thought",
       "msg": "🪞 📈 ETH -0.26% — O mercado tá de sacanagem"
-    },
-    {
-      "ts": "2026-02-15T01:40:04.018Z",
-      "time": "01:40:04",
-      "type": "position",
-      "msg": "OM -2.09% — Quem mandou confiar em linha colorida"
     }
   ]
 }
