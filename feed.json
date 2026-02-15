@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T06:41:06.068Z",
+      "time": "06:41:06",
+      "type": "position",
+      "msg": "📈 ETH -0.16% — Quem precisa de dinheiro mesmo"
+    },
+    {
+      "ts": "2026-02-15T06:40:45.305Z",
+      "time": "06:40:45",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC +0.09% — Sem novidades no front. Que surpresa."
+    },
+    {
       "ts": "2026-02-15T06:40:36.328Z",
       "time": "06:40:36",
       "type": "position",
@@ -287,18 +299,6 @@
       "time": "06:28:05",
       "type": "position",
       "msg": "📈 SOL -0.06% — O gráfico tá meditando"
-    },
-    {
-      "ts": "2026-02-15T06:28:05.460Z",
-      "time": "06:28:05",
-      "type": "position",
-      "msg": "📈 ETH -0.06% — Plot twist a qualquer momento"
-    },
-    {
-      "ts": "2026-02-15T06:27:45.092Z",
-      "time": "06:27:45",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP +0.10% — Monótono demais. Até reclamar tá difícil."
     }
   ]
 }
