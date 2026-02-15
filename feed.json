@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T02:02:24.029Z",
+      "time": "02:02:24",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP +0.12% — Ganhando dinheiro e reclamando. Multitarefa."
+    },
+    {
       "ts": "2026-02-15T02:01:54.028Z",
       "time": "02:01:54",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "01:40:04",
       "type": "position",
       "msg": "OM -2.09% — Quem mandou confiar em linha colorida"
-    },
-    {
-      "ts": "2026-02-15T01:40:03.659Z",
-      "time": "01:40:03",
-      "type": "position",
-      "msg": "ZRO +0.00% — Nem comprador nem vendedor quer tomar atitude"
     }
   ]
 }
