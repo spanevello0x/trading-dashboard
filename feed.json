@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T09:07:52.096Z",
+      "time": "09:07:52",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 ETH +0.25% — Ganhando em silêncio, sem aplausos, sem medalha"
+    },
+    {
+      "ts": "2026-02-15T09:07:42.195Z",
+      "time": "09:07:42",
+      "type": "position",
+      "msg": "📉 ZEC -0.82% — Vou culpar a lua, deve ser lua cheia"
+    },
+    {
       "ts": "2026-02-15T09:07:22.095Z",
       "time": "09:07:22",
       "type": "mirror-thought",
@@ -287,18 +299,6 @@
       "time": "08:57:28",
       "type": "system",
       "msg": "⚠️ Limite atingido (5/5) - VVV cancelado"
-    },
-    {
-      "ts": "2026-02-15T08:57:28.642Z",
-      "time": "08:57:28",
-      "type": "signal",
-      "msg": "🎯 LONG VVV @ $4.16 (100%) — Entrei. Arrependimento em 3, 2, 1..."
-    },
-    {
-      "ts": "2026-02-15T08:57:28.642Z",
-      "time": "08:57:28",
-      "type": "analysis",
-      "msg": "Olhando VVV... 100% LONG"
     }
   ]
 }
