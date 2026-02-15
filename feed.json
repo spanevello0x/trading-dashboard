@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T06:08:34.953Z",
+      "time": "06:08:34",
+      "type": "position",
+      "msg": "📉 ZEC +1.82% — Alguém avisa o mercado que eu tô comprado"
+    },
+    {
+      "ts": "2026-02-15T06:08:34.733Z",
+      "time": "06:08:34",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC -0.45% — Fiz minha parte, o universo que não colaborou"
+    },
+    {
+      "ts": "2026-02-15T06:08:34.688Z",
+      "time": "06:08:34",
+      "type": "position",
+      "msg": "📈 SOL +1.34% — Será que alguém sabe algo que eu não sei? Sempre sabem."
+    },
+    {
       "ts": "2026-02-15T06:08:04.731Z",
       "time": "06:08:04",
       "type": "mirror-thought",
@@ -281,24 +299,6 @@
       "time": "05:56:04",
       "type": "position",
       "msg": "📈 SOL +1.29% — Calma que ainda pode dar errado"
-    },
-    {
-      "ts": "2026-02-15T05:55:34.207Z",
-      "time": "05:55:34",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP +0.11% — Imagina se não tivesse eu aqui... caos total"
-    },
-    {
-      "ts": "2026-02-15T05:55:04.312Z",
-      "time": "05:55:04",
-      "type": "position",
-      "msg": "📉 ZEC +0.59% — Alguém avisa o mercado que eu tô comprado"
-    },
-    {
-      "ts": "2026-02-15T05:55:04.206Z",
-      "time": "05:55:04",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 SOL -0.15% — Mais um dia, mais um prejuízo, mais uma reclamação"
     }
   ]
 }
