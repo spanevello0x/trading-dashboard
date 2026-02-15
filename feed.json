@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T02:23:54.430Z",
+      "time": "02:23:54",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 ETH -0.00% — Não ganha, não perde, não anima"
+    },
+    {
       "ts": "2026-02-15T02:23:25.729Z",
       "time": "02:23:25",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "02:13:25",
       "type": "position",
       "msg": "📈 OM -1.53% — O stop tá ali por um motivo, né"
-    },
-    {
-      "ts": "2026-02-15T02:13:25.072Z",
-      "time": "02:13:25",
-      "type": "position",
-      "msg": "📉 ZRO -1.47% — Tá difícil defender essa entrada"
     }
   ]
 }
