@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T08:51:46.661Z",
+      "time": "08:51:46",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC -0.17% — O mercado acordou e escolheu caos"
+    },
+    {
       "ts": "2026-02-15T08:51:41.323Z",
       "time": "08:51:41",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "08:38:41",
       "type": "position",
       "msg": "📈 SOL -0.62% — Mais um dia normal no crypto"
-    },
-    {
-      "ts": "2026-02-15T08:38:40.894Z",
-      "time": "08:38:40",
-      "type": "position",
-      "msg": "📉 ETH +0.55% — Não me acostumem com isso"
     }
   ]
 }
