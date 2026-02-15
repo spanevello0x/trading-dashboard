@@ -1,11 +1,17 @@
 {
-  "lastUpdate": "2026-02-15T01:00:03.763Z",
+  "lastUpdate": "2026-02-15T01:00:32.798Z",
   "feed": [
     {
-      "ts": "2026-02-15T00:59:50.058Z",
-      "time": "00:59:50",
-      "type": "mirror-system",
-      "msg": "🪞 Mirror Bot acordou. Infelizmente."
+      "ts": "2026-02-15T01:00:03.042Z",
+      "time": "01:00:03",
+      "type": "position",
+      "msg": "OM -0.11% — Quem inventou crypto? Preciso conversar"
+    },
+    {
+      "ts": "2026-02-15T01:00:02.755Z",
+      "time": "01:00:02",
+      "type": "position",
+      "msg": "HYPE +0.03% — Parece até stable coin"
     },
     {
       "ts": "2026-02-15T00:59:32.307Z",
@@ -174,62 +180,50 @@
       "time": "00:56:48",
       "type": "analysis",
       "msg": "Hmm, VIRTUAL mostrando sinais de LONG (56%)"
-    },
-    {
-      "ts": "2026-02-15T00:56:47.937Z",
-      "time": "00:56:47",
-      "type": "error",
-      "msg": "❌ Falha na execução: Order has invalid price."
-    },
-    {
-      "ts": "2026-02-15T00:56:46.157Z",
-      "time": "00:56:46",
-      "type": "execution",
-      "msg": "📤 Abrindo SHORT em AZTEC..."
     }
   ],
   "hl": {
-    "balance": 15.874473,
+    "balance": 15.901019,
     "positions": [
       {
         "coin": "BTC",
         "side": "SHORT",
         "size": 0.00032,
         "entry": 69697,
-        "pnl": -0.01536,
-        "pnlPct": -0.34434768
+        "pnl": -0.01184,
+        "pnlPct": -0.26543467
       },
       {
         "coin": "XRP",
         "side": "LONG",
         "size": 11,
         "entry": 1.4503,
-        "pnl": 0.7722,
-        "pnlPct": 24.20188926
+        "pnl": 0.7656,
+        "pnlPct": 23.99503551
       },
       {
         "coin": "ZRO",
         "side": "SHORT",
         "size": 8.5,
         "entry": 1.8619,
-        "pnl": 0.0051,
-        "pnlPct": 0.16112573
+        "pnl": 0.0136,
+        "pnlPct": 0.42966862
       },
       {
         "coin": "HYPE",
         "side": "LONG",
         "size": 0.49,
         "entry": 31.906,
-        "pnl": 0.01029,
-        "pnlPct": 0.32909171
+        "pnl": 0.01421,
+        "pnlPct": 0.45445998
       },
       {
         "coin": "OM",
         "side": "LONG",
         "size": 83.5,
         "entry": 0.06402,
-        "pnl": -0.007515,
-        "pnlPct": -0.42174321
+        "pnl": -0.010855,
+        "pnlPct": -0.60918463
       }
     ]
   },
