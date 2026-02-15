@@ -1,6 +1,42 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T06:26:35.854Z",
+      "time": "06:26:35",
+      "type": "execution",
+      "msg": "⚙️ Leverage: 5x"
+    },
+    {
+      "ts": "2026-02-15T06:26:35.490Z",
+      "time": "06:26:35",
+      "type": "signal",
+      "msg": "🎯 LONG ETH @ $2092.30 (78%) — Mais uma pro histórico"
+    },
+    {
+      "ts": "2026-02-15T06:26:35.490Z",
+      "time": "06:26:35",
+      "type": "analysis",
+      "msg": "ETH tá interessante, 78% pro LONG"
+    },
+    {
+      "ts": "2026-02-15T06:26:35.130Z",
+      "time": "06:26:35",
+      "type": "system",
+      "msg": "ZEC fechou — Done deal"
+    },
+    {
+      "ts": "2026-02-15T06:26:19.968Z",
+      "time": "06:26:19",
+      "type": "mirror-close",
+      "msg": "🪞 SOL fechado (+$0.00) — Fechado com sucesso. Obviamente."
+    },
+    {
+      "ts": "2026-02-15T06:26:09.889Z",
+      "time": "06:26:09",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP +0.42% — Fazendo meu trabalho enquanto o QuickBot apronta"
+    },
+    {
       "ts": "2026-02-15T06:26:05.152Z",
       "time": "06:26:05",
       "type": "system",
@@ -263,42 +299,6 @@
       "time": "06:15:04",
       "type": "position",
       "msg": "📈 SOL +1.14% — Lucro é lucro, mesmo que pague só o almoço"
-    },
-    {
-      "ts": "2026-02-15T06:14:39.865Z",
-      "time": "06:14:39",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC +0.22% — Mais um dia salvando a pátria"
-    },
-    {
-      "ts": "2026-02-15T06:14:35.257Z",
-      "time": "06:14:35",
-      "type": "position",
-      "msg": "📉 ZEC -0.79% — O mercado acordou e escolheu me machucar"
-    },
-    {
-      "ts": "2026-02-15T06:14:09.864Z",
-      "time": "06:14:09",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP -0.34% — Não me paga o suficiente pra isso. Aliás, não me paga nada."
-    },
-    {
-      "ts": "2026-02-15T06:14:05.208Z",
-      "time": "06:14:05",
-      "type": "position",
-      "msg": "📉 ZEC -0.45% — O stop tá ali por um motivo, né"
-    },
-    {
-      "ts": "2026-02-15T06:14:04.873Z",
-      "time": "06:14:04",
-      "type": "position",
-      "msg": "📈 SOL +1.11% — Será que alguém sabe algo que eu não sei? Sempre sabem."
-    },
-    {
-      "ts": "2026-02-15T06:13:39.863Z",
-      "time": "06:13:39",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 SOL -0.28% — Quer saber? Desisto. Brincadeira, não posso."
     }
   ]
 }
