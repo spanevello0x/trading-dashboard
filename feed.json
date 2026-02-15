@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T08:18:46.034Z",
+      "time": "08:18:46",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP -0.12% — Isso aqui tá pior que reunião de segunda-feira"
+    },
+    {
+      "ts": "2026-02-15T08:18:40.325Z",
+      "time": "08:18:40",
+      "type": "position",
+      "msg": "📈 SOL +1.00% — Tá bom demais pra ser verdade... ops, não deveria falar isso"
+    },
+    {
       "ts": "2026-02-15T08:18:40.012Z",
       "time": "08:18:40",
       "type": "position",
@@ -287,18 +299,6 @@
       "time": "08:05:45",
       "type": "mirror-thought",
       "msg": "🪞 📉 SOL -0.22% — Delta neutral de prejuízo. Inovador."
-    },
-    {
-      "ts": "2026-02-15T08:05:39.480Z",
-      "time": "08:05:39",
-      "type": "position",
-      "msg": "📈 ETH +0.02% — Lateral é o novo tendência"
-    },
-    {
-      "ts": "2026-02-15T08:05:15.740Z",
-      "time": "08:05:15",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP +0.22% — Tô no lucro MAS NINGUÉM AGRADECE"
     }
   ]
 }
