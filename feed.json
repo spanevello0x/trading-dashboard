@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T01:58:54.026Z",
+      "time": "01:58:54",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC +0.36% — Neutralizando prejuízos como sempre"
+    },
+    {
       "ts": "2026-02-15T01:58:24.025Z",
       "time": "01:58:24",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "01:38:03",
       "type": "position",
       "msg": "OM -1.59% — Sabia que não devia ter olhado"
-    },
-    {
-      "ts": "2026-02-15T01:38:03.563Z",
-      "time": "01:38:03",
-      "type": "position",
-      "msg": "ZRO +0.23% — Lucro é lucro, mesmo que pague só o almoço"
     }
   ]
 }
