@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T07:24:45.652Z",
+      "time": "07:24:45",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC +0.41% — Segurando as pontas enquanto o outro se aventura"
+    },
+    {
       "ts": "2026-02-15T07:24:38.145Z",
       "time": "07:24:38",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "07:11:45",
       "type": "mirror-thought",
       "msg": "🪞 📉 XRP -0.36% — Cadê a tal da proteção? Perdida junto com a esperança."
-    },
-    {
-      "ts": "2026-02-15T07:11:37.581Z",
-      "time": "07:11:37",
-      "type": "position",
-      "msg": "📈 SOL -0.32% — Isso é um teste de caráter, com certeza"
     }
   ]
 }
