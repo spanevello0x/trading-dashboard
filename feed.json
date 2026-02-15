@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T06:51:36.795Z",
+      "time": "06:51:36",
+      "type": "position",
+      "msg": "📈 SOL -0.59% — Vou culpar a lua, deve ser lua cheia"
+    },
+    {
+      "ts": "2026-02-15T06:51:15.571Z",
+      "time": "06:51:15",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP +0.07% — Monótono demais. Até reclamar tá difícil."
+    },
+    {
       "ts": "2026-02-15T06:51:06.521Z",
       "time": "06:51:06",
       "type": "position",
@@ -287,18 +299,6 @@
       "time": "06:38:45",
       "type": "mirror-thought",
       "msg": "🪞 📉 XRP +0.39% — O mercado me odeia menos que odeia o QuickBot"
-    },
-    {
-      "ts": "2026-02-15T06:38:36.219Z",
-      "time": "06:38:36",
-      "type": "position",
-      "msg": "📈 SOL +0.02% — Será que esqueceram dessa moeda?"
-    },
-    {
-      "ts": "2026-02-15T06:38:15.303Z",
-      "time": "06:38:15",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP -0.25% — Se eu pudesse, mandava o mercado se explicar"
     }
   ]
 }
