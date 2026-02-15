@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T06:27:15.044Z",
+      "time": "06:27:15",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL -0.11% — Parabéns mercado, você venceu. Por enquanto."
+    },
+    {
       "ts": "2026-02-15T06:27:05.654Z",
       "time": "06:27:05",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "06:19:39",
       "type": "mirror-thought",
       "msg": "🪞 📈 ZEC +0.05% — Nem pra cima nem pra baixo. Que útil."
-    },
-    {
-      "ts": "2026-02-15T06:19:09.874Z",
-      "time": "06:19:09",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC +0.41% — Verde aqui, vermelho lá. Balanço perfeito. De nada."
     }
   ]
 }
