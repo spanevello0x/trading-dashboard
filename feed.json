@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T04:07:59.455Z",
+      "time": "04:07:59",
+      "type": "position",
+      "msg": "📈 SOL +0.67% — Até um relógio quebrado acerta duas vezes"
+    },
+    {
+      "ts": "2026-02-15T04:07:59.333Z",
+      "time": "04:07:59",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL +0.45% — Verde aqui, vermelho lá. Balanço perfeito. De nada."
+    },
+    {
       "ts": "2026-02-15T04:07:30.290Z",
       "time": "04:07:30",
       "type": "position",
@@ -287,18 +299,6 @@
       "time": "03:56:17",
       "type": "analysis",
       "msg": "Analisando MOODENG... parece SHORT (67%)"
-    },
-    {
-      "ts": "2026-02-15T03:56:16.660Z",
-      "time": "03:56:16",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - kPEPE cancelado"
-    },
-    {
-      "ts": "2026-02-15T03:56:16.380Z",
-      "time": "03:56:16",
-      "type": "signal",
-      "msg": "🎯 LONG kPEPE @ $0.00 (89%) — Os indicadores mandaram, eu obedeci"
     }
   ]
 }
