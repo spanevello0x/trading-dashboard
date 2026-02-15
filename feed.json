@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T06:38:36.219Z",
+      "time": "06:38:36",
+      "type": "position",
+      "msg": "📈 SOL +0.02% — Será que esqueceram dessa moeda?"
+    },
+    {
+      "ts": "2026-02-15T06:38:15.303Z",
+      "time": "06:38:15",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP -0.25% — Se eu pudesse, mandava o mercado se explicar"
+    },
+    {
       "ts": "2026-02-15T06:38:05.926Z",
       "time": "06:38:05",
       "type": "position",
@@ -287,18 +299,6 @@
       "time": "06:27:02",
       "type": "analysis",
       "msg": "LINK tá interessante, 100% pro LONG"
-    },
-    {
-      "ts": "2026-02-15T06:27:02.112Z",
-      "time": "06:27:02",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - ARB cancelado"
-    },
-    {
-      "ts": "2026-02-15T06:27:01.473Z",
-      "time": "06:27:01",
-      "type": "signal",
-      "msg": "🎯 LONG ARB @ $0.12 (78%) — Setup alinhado, agora é com o mercado"
     }
   ]
 }
