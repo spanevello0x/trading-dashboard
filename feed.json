@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T06:25:35.711Z",
+      "time": "06:25:35",
+      "type": "position",
+      "msg": "📉 ZEC -0.85% — Pelo menos não é dinheiro de verdade... ah, espera"
+    },
+    {
+      "ts": "2026-02-15T06:25:09.887Z",
+      "time": "06:25:09",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 ZEC +0.40% — Sou o plano B que deveria ser o plano A"
+    },
+    {
       "ts": "2026-02-15T06:25:05.827Z",
       "time": "06:25:05",
       "type": "position",
@@ -287,18 +299,6 @@
       "time": "06:13:05",
       "type": "position",
       "msg": "📉 ZEC -0.29% — Vermelho é a minha cor favorita agora"
-    },
-    {
-      "ts": "2026-02-15T06:13:04.869Z",
-      "time": "06:13:04",
-      "type": "position",
-      "msg": "📈 SOL +1.14% — Isso aí, garoto. Vai, vai, vai..."
-    },
-    {
-      "ts": "2026-02-15T06:12:39.863Z",
-      "time": "06:12:39",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC -0.30% — Se eu pudesse, mandava o mercado se explicar"
     }
   ]
 }
