@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T03:41:55.079Z",
+      "time": "03:41:55",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP +0.14% — Mais um resgate bem-sucedido"
+    },
+    {
       "ts": "2026-02-15T03:41:28.662Z",
       "time": "03:41:28",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "03:29:24",
       "type": "mirror-thought",
       "msg": "🪞 📈 ETH +0.38% — Ganhando em silêncio, sem aplausos, sem medalha"
-    },
-    {
-      "ts": "2026-02-15T03:28:58.146Z",
-      "time": "03:28:58",
-      "type": "position",
-      "msg": "📉 ETH +0.36% — Não é muito, mas é trabalho honesto"
     }
   ]
 }
