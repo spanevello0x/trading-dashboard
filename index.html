@@ -282,7 +282,14 @@
     const fmt = (n, d=2) => '$' + parseFloat(n).toFixed(d);
     const fmtPct = (n) => (n >= 0 ? '+' : '') + n.toFixed(2) + '%';
     const fmtPrice = (n) => n >= 10000 ? '$' + n.toFixed(0) : '$' + n.toFixed(2);
-    const fmtTime = () => new Date().toLocaleTimeString('pt-BR');
+    
+    // Sempre usa horário de Brasília (UTC-3)
+    const toBrasilia = (date) => new Date(date).toLocaleString('pt-BR', { timeZone: 'America/Sao_Paulo' });
+    const fmtTime = () => new Date().toLocaleTimeString('pt-BR', { timeZone: 'America/Sao_Paulo' });
+    const fmtDateTime = (date) => new Date(date).toLocaleString('pt-BR', { 
+      timeZone: 'America/Sao_Paulo',
+      day: '2-digit', month: '2-digit', hour: '2-digit', minute: '2-digit' 
+    });
     
     async function hlPost(body) {
       const res = await fetch(HL_API, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(body) });
@@ -478,8 +485,22 @@
         if (feedRes.ok) {
           const feedJson = await feedRes.json();
           if (feedJson.feed) {
-            hlFeedItems = feedJson.feed.filter(f => !f.msg?.includes('🪞')).slice(0, 30);
-            nadoFeedItems = feedJson.feed.filter(f => f.msg?.includes('🪞') || f.type?.includes('mirror')).slice(0, 30);
+            // Tipos que são pensamentos (não execuções)
+            const thoughtTypes = ['position', 'analysis', 'signal', 'thought', 'mirror-thought', 'mirror-scan'];
+            // Tipos que são trades/execuções
+            const tradeTypes = ['execution', 'system', 'error', 'closed', 'mirror-open', 'mirror-close', 'mirror-system'];
+            
+            // HL: pensamentos (sem 🪞, tipo pensamento ou posição)
+            hlFeedItems = feedJson.feed.filter(f => 
+              !f.msg?.includes('🪞') && 
+              (thoughtTypes.includes(f.type) || f.type === 'position')
+            ).slice(0, 30);
+            
+            // NADO: pensamentos com 🪞 (tipos mirror-thought)
+            nadoFeedItems = feedJson.feed.filter(f => 
+              f.msg?.includes('🪞') && 
+              (f.type === 'mirror-thought' || f.type === 'mirror-scan' || f.type === 'mirror')
+            ).slice(0, 30);
             
             document.getElementById('hl-thought-count').textContent = hlFeedItems.length;
             document.getElementById('nado-thought-count').textContent = nadoFeedItems.length;
@@ -501,12 +522,17 @@
       const renderFeed = (items, elId) => {
         const el = document.getElementById(elId);
         el.innerHTML = items.length > 0 
-          ? items.map((f, i) => `
+          ? items.map((f, i) => {
+              // Converte timestamp para horário de Brasília
+              const timeBrasilia = f.ts 
+                ? new Date(f.ts).toLocaleTimeString('pt-BR', { timeZone: 'America/Sao_Paulo', hour: '2-digit', minute: '2-digit', second: '2-digit' })
+                : f.time;
+              return `
               <div class="flex gap-2 py-1 border-b border-dark-600/50 last:border-0 ${i === 0 ? 'bg-dark-700/30 rounded' : ''}">
-                <span class="text-gray-600 shrink-0">[${f.time}]</span>
+                <span class="text-gray-600 shrink-0">[${timeBrasilia}]</span>
                 <span class="text-gray-300">${f.msg}</span>
               </div>
-            `).join('')
+            `}).join('')
           : '<div class="text-gray-500 text-center py-4">Aguardando...</div>';
       };
       
@@ -541,7 +567,7 @@
         ? closedTrades.map(f => {
             const pnl = parseFloat(f.closedPnl);
             const isBuy = f.side === 'B';
-            const time = new Date(f.time).toLocaleString('pt-BR', { day: '2-digit', month: '2-digit', hour: '2-digit', minute: '2-digit' });
+            const time = fmtDateTime(f.time);
             return `
               <div class="flex items-center justify-between py-2 px-2 bg-dark-700/30 rounded text-xs">
                 <div class="flex items-center gap-2">
@@ -575,7 +601,7 @@
             const parts = msg.match(/(LONG|SHORT)\s+(\w+)\s+@\s+\$?([\d.]+)/);
             const coin = parts ? parts[2] : '???';
             const price = parts ? parts[3] : '--';
-            const time = new Date(f.ts).toLocaleString('pt-BR', { day: '2-digit', month: '2-digit', hour: '2-digit', minute: '2-digit' });
+            const time = fmtDateTime(f.ts);
             
             return `
               <div class="flex items-center justify-between py-2 px-2 bg-dark-700/30 rounded text-xs">
