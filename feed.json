@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T08:59:51.741Z",
+      "time": "08:59:51",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP +0.37% — Carregando esse time nas costas, como sempre"
+    },
+    {
+      "ts": "2026-02-15T08:59:41.904Z",
+      "time": "08:59:41",
+      "type": "position",
+      "msg": "📉 ZEC -0.12% — O gráfico parecia tão bonito..."
+    },
+    {
       "ts": "2026-02-15T08:59:21.741Z",
       "time": "08:59:21",
       "type": "mirror-thought",
@@ -205,12 +217,6 @@
       "msg": "⚠️ Limite atingido (5/5) - XPL cancelado"
     },
     {
-      "ts": "2026-02-15T08:57:24.522Z",
-      "time": "08:57:24",
-      "type": "signal",
-      "msg": "🎯 SHORT XPL @ $0.10 (78%) — Entrei. Arrependimento em 3, 2, 1..."
-    },
-    {
       "ts": "2026-02-15T08:57:19.093Z",
       "time": "08:57:19",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "08:51:16",
       "type": "mirror-thought",
       "msg": "🪞 📈 ETH -0.20% — Não era pra isso acontecer. Culpa do QuickBot de alguma forma."
-    },
-    {
-      "ts": "2026-02-15T08:50:46.659Z",
-      "time": "08:50:46",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 SOL +0.30% — Segurando as pontas enquanto o outro se aventura"
     }
   ]
 }
