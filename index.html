@@ -587,21 +587,19 @@
     }
     
     function renderNadoTrades() {
-      // Extrai trades do feed NADO (formato: "🪞 ✅ LONG BTC @ $69664.50" ou "🪞 ✅ SHORT XRP @ $1.53")
-      const nadoTrades = nadoFeedItems.filter(f => f.msg?.includes('✅') && f.msg?.includes('@'));
+      // NADO trades vem das posições em nadoData (com entry price)
+      const nadoTrades = nadoData.positions || [];
       
       document.getElementById('nado-trades-count').textContent = nadoTrades.length;
       
       const content = document.getElementById('nado-trades-content');
       content.innerHTML = nadoTrades.length > 0
-        ? nadoTrades.slice(0, 20).map(f => {
-            // Parse: "🪞 ✅ LONG BTC @ $69664.50"
-            const msg = f.msg.replace('🪞 ', '').replace('✅ ', '');
-            const isLong = msg.includes('LONG');
-            const parts = msg.match(/(LONG|SHORT)\s+(\w+)\s+@\s+\$?([\d.]+)/);
-            const coin = parts ? parts[2] : '???';
-            const price = parts ? parts[3] : '--';
-            const time = fmtDateTime(f.ts);
+        ? nadoTrades.map(p => {
+            const isLong = p.side === 'LONG';
+            const coin = p.coin;
+            const price = p.entry?.toFixed(2) || '--';
+            const pnl = p.pnl || 0;
+            const pnlStr = pnl !== 0 ? ((pnl >= 0 ? '+' : '') + fmt(pnl, 3)) : '';
             
             return `
               <div class="flex items-center justify-between py-2 px-2 bg-dark-700/30 rounded text-xs">
@@ -610,13 +608,13 @@
                     ${isLong ? '↑' : '↓'}
                   </span>
                   <span class="font-medium">${coin}</span>
-                  <span class="text-gray-500">${time}</span>
+                  <span class="text-gray-500 mono">@ $${price}</span>
                 </div>
-                <span class="mono text-gray-400">@ $${price}</span>
+                <span class="mono font-medium ${pnl >= 0 ? 'text-accent-green' : 'text-accent-red'}">${pnlStr}</span>
               </div>
             `;
           }).join('')
-        : '<div class="text-gray-500 text-center py-4 text-xs">Aguardando trades...</div>';
+        : '<div class="text-gray-500 text-center py-4 text-xs">Sem posições abertas</div>';
     }
     
     let hlPrevPnl = {};
