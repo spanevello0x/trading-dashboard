@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T03:38:28.685Z",
+      "time": "03:38:28",
+      "type": "position",
+      "msg": "📉 ETH +1.33% — Alguém avisa o mercado que eu tô comprado"
+    },
+    {
+      "ts": "2026-02-15T03:38:25.071Z",
+      "time": "03:38:25",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC +0.47% — Lucrando aqui pra cobrir o estrago de lá"
+    },
+    {
       "ts": "2026-02-15T03:37:59.035Z",
       "time": "03:37:59",
       "type": "position",
@@ -287,18 +299,6 @@
       "time": "03:27:16",
       "type": "analysis",
       "msg": "ARB no radar: 67% SHORT"
-    },
-    {
-      "ts": "2026-02-15T03:27:16.556Z",
-      "time": "03:27:16",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - kPEPE cancelado"
-    },
-    {
-      "ts": "2026-02-15T03:27:16.277Z",
-      "time": "03:27:16",
-      "type": "signal",
-      "msg": "🎯 LONG kPEPE @ $0.00 (89%) — Bora, confia no pai"
     }
   ]
 }
