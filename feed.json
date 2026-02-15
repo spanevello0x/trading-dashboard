@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T05:34:31.314Z",
+      "time": "05:34:31",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP -0.29% — Quer saber? Desisto. Brincadeira, não posso."
+    },
+    {
       "ts": "2026-02-15T05:34:03.606Z",
       "time": "05:34:03",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "05:21:31",
       "type": "mirror-thought",
       "msg": "🪞 📉 XRP -0.46% — Cadê a tal da proteção? Perdida junto com a esperança."
-    },
-    {
-      "ts": "2026-02-15T05:21:02.945Z",
-      "time": "05:21:02",
-      "type": "position",
-      "msg": "📉 ZRO -1.45% — Loss building character 💪"
     }
   ]
 }
