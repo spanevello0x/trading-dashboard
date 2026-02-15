@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T08:58:21.559Z",
+      "time": "08:58:21",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 ETH -0.34% — Parabéns mercado, você venceu. Por enquanto."
+    },
+    {
+      "ts": "2026-02-15T08:58:11.608Z",
+      "time": "08:58:11",
+      "type": "position",
+      "msg": "📉 ETH +0.19% — Tá verde? Tira print rápido antes que vire"
+    },
+    {
       "ts": "2026-02-15T08:57:51.486Z",
       "time": "08:57:51",
       "type": "mirror-thought",
@@ -187,12 +199,6 @@
       "msg": "⚠️ Limite atingido (5/5) - BCH cancelado"
     },
     {
-      "ts": "2026-02-15T08:57:23.761Z",
-      "time": "08:57:23",
-      "type": "signal",
-      "msg": "🎯 SHORT BCH @ $558.40 (89%) — Entrei. Arrependimento em 3, 2, 1..."
-    },
-    {
       "ts": "2026-02-15T08:57:19.093Z",
       "time": "08:57:19",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "08:49:46",
       "type": "mirror-thought",
       "msg": "🪞 📉 XRP -0.36% — Prejuízo compartilhado é prejuízo... dobrado"
-    },
-    {
-      "ts": "2026-02-15T08:49:16.658Z",
-      "time": "08:49:16",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP -0.06% — Se tédio fosse trade, eu tava rico"
     }
   ]
 }
