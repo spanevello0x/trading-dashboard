@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-02-15T00:48:02.319Z",
+  "lastUpdate": "2026-02-15T00:48:32.197Z",
   "feed": [
     {
       "ts": "2026-02-15T00:42:09.688Z",
@@ -303,31 +303,31 @@
     }
   ],
   "hl": {
-    "balance": 15.907761,
+    "balance": 15.903041,
     "positions": [
       {
         "coin": "BTC",
         "side": "SHORT",
         "size": 0.00032,
         "entry": 69697,
-        "pnl": 0.01376,
-        "pnlPct": 0.30847813
+        "pnl": 0.02144,
+        "pnlPct": 0.48065196
       },
       {
         "coin": "XRP",
         "side": "LONG",
         "size": 11,
         "entry": 1.4503,
-        "pnl": 0.7645,
-        "pnlPct": 23.96055988
+        "pnl": 0.7524,
+        "pnlPct": 23.581328
       },
       {
         "coin": "PAXG",
         "side": "LONG",
         "size": 0.003,
         "entry": 5030.2,
-        "pnl": -0.0225,
-        "pnlPct": -0.7454972
+        "pnl": -0.0228,
+        "pnlPct": -0.75543716
       }
     ]
   },
