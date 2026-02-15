@@ -1,6 +1,24 @@
 {
-  "lastUpdate": "2026-02-15T08:21:16.928Z",
+  "lastUpdate": "2026-02-15T08:21:46.818Z",
   "feed": [
+    {
+      "ts": "2026-02-15T08:21:40.159Z",
+      "time": "08:21:40",
+      "type": "position",
+      "msg": "📈 ETH -0.22% — O mercado escolheu violência hoje"
+    },
+    {
+      "ts": "2026-02-15T08:21:16.039Z",
+      "time": "08:21:16",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 ETH -0.39% — Vermelho dos dois lados. Arte moderna isso."
+    },
+    {
+      "ts": "2026-02-15T08:21:10.646Z",
+      "time": "08:21:10",
+      "type": "position",
+      "msg": "📈 SOL +1.01% — Será que é armadilha? Provavelmente. Mas vou curtir enquanto dura"
+    },
     {
       "ts": "2026-02-15T08:20:46.039Z",
       "time": "08:20:46",
@@ -282,60 +300,42 @@
       "time": "08:08:15",
       "type": "mirror-thought",
       "msg": "🪞 📉 ETH +0.01% — Consolidação ou preguiça do mercado? Provavelmente preguiça."
-    },
-    {
-      "ts": "2026-02-15T08:08:09.898Z",
-      "time": "08:08:09",
-      "type": "position",
-      "msg": "📈 SOL +1.24% — Se continuar assim, quase empato na semana"
-    },
-    {
-      "ts": "2026-02-15T08:07:45.744Z",
-      "time": "08:07:45",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP -0.03% — Nada acontece, feijoada"
-    },
-    {
-      "ts": "2026-02-15T08:07:39.552Z",
-      "time": "08:07:39",
-      "type": "position",
-      "msg": "📈 ETH -0.12% — Mais um dia normal no crypto"
     }
   ],
   "hl": {
-    "balance": 16.896049,
+    "balance": 16.916309,
     "positions": [
       {
         "coin": "BTC",
         "side": "SHORT",
         "size": 0.00032,
         "entry": 69697,
-        "pnl": -0.34912,
-        "pnlPct": -7.826735730000001
+        "pnl": -0.35008,
+        "pnlPct": -7.848257459999999
       },
       {
         "coin": "ETH",
         "side": "LONG",
         "size": 0.0077,
         "entry": 2092.4,
-        "pnl": -0.04009,
-        "pnlPct": -1.24414007
+        "pnl": -0.03547,
+        "pnlPct": -1.10076448
       },
       {
         "coin": "SOL",
         "side": "LONG",
         "size": 0.18,
         "entry": 89.898,
-        "pnl": 0.16416,
-        "pnlPct": 5.0724154
+        "pnl": 0.16866,
+        "pnlPct": 5.21146188
       },
       {
         "coin": "XRP",
         "side": "LONG",
         "size": 11,
         "entry": 1.4503,
-        "pnl": 2.2451,
-        "pnlPct": 70.36475211999999
+        "pnl": 2.2572,
+        "pnlPct": 70.743984
       },
       {
         "coin": "OM",
@@ -355,40 +355,40 @@
         "side": "LONG",
         "size": 0.0006,
         "entry": 69665,
-        "price": 70812.5,
-        "notional": 42.4875,
-        "pnl": 0.6884999999999999,
-        "pnlPct": 1.647168592550061
+        "price": 70820.5,
+        "notional": 42.49229999999999,
+        "pnl": 0.6932999999999999,
+        "pnlPct": 1.6586521208641354
       },
       {
         "coin": "ETH",
         "side": "SHORT",
         "size": 0.007,
         "entry": 2093.35,
-        "price": 2087.95,
-        "notional": 14.615649999999999,
-        "pnl": 0.03780000000000064,
-        "pnlPct": 0.2579597296199915
+        "price": 2088.8500000000004,
+        "notional": 14.621950000000004,
+        "pnl": 0.031499999999996815,
+        "pnlPct": 0.21496644134996754
       },
       {
         "coin": "SOL",
         "side": "SHORT",
         "size": 0.1,
         "entry": 89.965,
-        "price": 90.775,
-        "notional": 9.0775,
-        "pnl": -0.08100000000000024,
-        "pnlPct": -0.9003501361640662
+        "price": 90.88499999999999,
+        "notional": 9.0885,
+        "pnl": -0.09199999999999875,
+        "pnlPct": -1.0226199077418856
       },
       {
         "coin": "XRP",
         "side": "SHORT",
         "size": 10,
         "entry": 1.53,
-        "price": 1.65425,
-        "notional": 16.5425,
-        "pnl": -1.2424999999999997,
-        "pnlPct": -8.120915032679736
+        "price": 1.65645,
+        "notional": 16.5645,
+        "pnl": -1.2644999999999995,
+        "pnlPct": -8.264705882352938
       }
     ]
   }
