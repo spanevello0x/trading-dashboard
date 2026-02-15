@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T08:49:46.658Z",
+      "time": "08:49:46",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP -0.36% — Prejuízo compartilhado é prejuízo... dobrado"
+    },
+    {
       "ts": "2026-02-15T08:49:41.243Z",
       "time": "08:49:41",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "08:36:41",
       "type": "position",
       "msg": "📈 SOL -0.36% — Tá bom, universo, entendi o recado"
-    },
-    {
-      "ts": "2026-02-15T08:36:40.767Z",
-      "time": "08:36:40",
-      "type": "position",
-      "msg": "📉 ETH +0.42% — Print pra mostrar pros netos"
     }
   ]
 }
