@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T07:24:38.145Z",
+      "time": "07:24:38",
+      "type": "position",
+      "msg": "📈 SOL +0.01% — Vai, faz alguma coisa"
+    },
+    {
+      "ts": "2026-02-15T07:24:37.880Z",
+      "time": "07:24:37",
+      "type": "position",
+      "msg": "📈 ETH -0.39% — O mercado escolheu violência hoje"
+    },
+    {
+      "ts": "2026-02-15T07:24:15.651Z",
+      "time": "07:24:15",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 ETH -0.13% — Se o QuickBot não tivesse... ah, deixa pra lá"
+    },
+    {
       "ts": "2026-02-15T07:23:45.650Z",
       "time": "07:23:45",
       "type": "mirror-thought",
@@ -281,24 +299,6 @@
       "time": "07:11:37",
       "type": "position",
       "msg": "📈 SOL -0.32% — Isso é um teste de caráter, com certeza"
-    },
-    {
-      "ts": "2026-02-15T07:11:15.624Z",
-      "time": "07:11:15",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 SOL -0.42% — Meu trabalho é neutralizar, não fazer milagre"
-    },
-    {
-      "ts": "2026-02-15T07:10:45.623Z",
-      "time": "07:10:45",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 ETH +0.26% — Hedge funcionando, cadê meu reconhecimento?"
-    },
-    {
-      "ts": "2026-02-15T07:10:37.392Z",
-      "time": "07:10:37",
-      "type": "position",
-      "msg": "📈 ETH -0.43% — Pelo menos aprendo algo... né?"
     }
   ]
 }
