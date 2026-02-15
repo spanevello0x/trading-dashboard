@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T09:06:21.851Z",
+      "time": "09:06:21",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC -0.05% — Esperando algo acontecer... esperando... esperando..."
+    },
+    {
       "ts": "2026-02-15T09:05:51.850Z",
       "time": "09:05:51",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "08:57:19",
       "type": "mirror-thought",
       "msg": "🪞 📉 XRP +0.34% — Ganhando aqui pra compensar a burrice do outro lado"
-    },
-    {
-      "ts": "2026-02-15T08:56:56.577Z",
-      "time": "08:56:56",
-      "type": "mirror-close",
-      "msg": "🪞 SOL fechado (+$0.00) — Fechado com sucesso. Obviamente."
     }
   ]
 }
