@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T07:28:08.348Z",
+      "time": "07:28:08",
+      "type": "position",
+      "msg": "📈 SOL -0.14% — O stop tá ali por um motivo, né"
+    },
+    {
+      "ts": "2026-02-15T07:28:08.080Z",
+      "time": "07:28:08",
+      "type": "position",
+      "msg": "📈 ETH -0.41% — O stop tá ali por um motivo, né"
+    },
+    {
+      "ts": "2026-02-15T07:27:45.657Z",
+      "time": "07:27:45",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL +0.14% — Tá vendo? ERA pra ter confiado em mim desde o início"
+    },
+    {
       "ts": "2026-02-15T07:27:15.655Z",
       "time": "07:27:15",
       "type": "mirror-thought",
@@ -281,24 +299,6 @@
       "time": "07:14:45",
       "type": "mirror-thought",
       "msg": "🪞 📉 SOL -0.04% — Aguardando o mercado decidir o que quer da vida"
-    },
-    {
-      "ts": "2026-02-15T07:14:37.754Z",
-      "time": "07:14:37",
-      "type": "position",
-      "msg": "📈 SOL -0.09% — Pelo menos não tá caindo... ainda"
-    },
-    {
-      "ts": "2026-02-15T07:14:15.630Z",
-      "time": "07:14:15",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 ETH -0.38% — Não era pra isso acontecer. Culpa do QuickBot de alguma forma."
-    },
-    {
-      "ts": "2026-02-15T07:14:07.434Z",
-      "time": "07:14:07",
-      "type": "position",
-      "msg": "📈 ETH -0.27% — O gráfico parecia tão bonito..."
     }
   ]
 }
