@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T05:59:04.477Z",
+      "time": "05:59:04",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 ZEC +0.04% — Nada acontece, feijoada"
+    },
+    {
       "ts": "2026-02-15T05:58:34.476Z",
       "time": "05:58:34",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "05:46:04",
       "type": "mirror-thought",
       "msg": "🪞 📉 SOL +0.40% — Ganhando em silêncio, sem aplausos, sem medalha"
-    },
-    {
-      "ts": "2026-02-15T05:45:34.084Z",
-      "time": "05:45:34",
-      "type": "position",
-      "msg": "📉 ZEC +0.02% — Será que esqueceram dessa moeda?"
     }
   ]
 }
