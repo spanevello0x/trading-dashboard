@@ -1,6 +1,36 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T06:09:35.823Z",
+      "time": "06:09:35",
+      "type": "execution",
+      "msg": "⚙️ Leverage: 5x"
+    },
+    {
+      "ts": "2026-02-15T06:09:35.542Z",
+      "time": "06:09:35",
+      "type": "signal",
+      "msg": "🎯 SHORT ZEC @ $312.18 (100%) — Vamo ver no que dá"
+    },
+    {
+      "ts": "2026-02-15T06:09:35.541Z",
+      "time": "06:09:35",
+      "type": "analysis",
+      "msg": "Hmm, ZEC mostrando sinais de SHORT (100%)"
+    },
+    {
+      "ts": "2026-02-15T06:09:34.405Z",
+      "time": "06:09:34",
+      "type": "system",
+      "msg": "ZEC fechou — Arquivado"
+    },
+    {
+      "ts": "2026-02-15T06:09:24.283Z",
+      "time": "06:09:24",
+      "type": "mirror-close",
+      "msg": "🪞 ZEC fechado (+$0.00) — Missão cumprida. Próximo desastre, por favor."
+    },
+    {
       "ts": "2026-02-15T06:09:04.734Z",
       "time": "06:09:04",
       "type": "mirror-thought",
@@ -269,36 +299,6 @@
       "time": "05:57:34",
       "type": "position",
       "msg": "📈 SOL +1.30% — Tá subindo? Deixa eu não olhar pra não dar azar"
-    },
-    {
-      "ts": "2026-02-15T05:57:04.542Z",
-      "time": "05:57:04",
-      "type": "position",
-      "msg": "📉 ZEC +0.78% — Alguém avisa o mercado que eu tô comprado"
-    },
-    {
-      "ts": "2026-02-15T05:57:04.473Z",
-      "time": "05:57:04",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 SOL +0.34% — Se fosse fácil, qualquer um fazia. Mas só eu faço."
-    },
-    {
-      "ts": "2026-02-15T05:56:34.472Z",
-      "time": "05:56:34",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 SOL +0.05% — Se emoção matasse, eu taria vivo pra sempre"
-    },
-    {
-      "ts": "2026-02-15T05:56:04.471Z",
-      "time": "05:56:04",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP +0.50% — Tá vendo? ERA pra ter confiado em mim desde o início"
-    },
-    {
-      "ts": "2026-02-15T05:56:04.392Z",
-      "time": "05:56:04",
-      "type": "position",
-      "msg": "📉 ZEC +0.67% — Será que alguém sabe algo que eu não sei? Sempre sabem."
     }
   ]
 }
