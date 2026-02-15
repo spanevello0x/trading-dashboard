@@ -1,6 +1,12 @@
 {
-  "lastUpdate": "2026-02-15T05:59:42.697Z",
+  "lastUpdate": "2026-02-15T06:00:12.772Z",
   "feed": [
+    {
+      "ts": "2026-02-15T06:00:04.479Z",
+      "time": "06:00:04",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 ZEC -0.32% — Isso aqui tá pior que reunião de segunda-feira"
+    },
     {
       "ts": "2026-02-15T05:59:34.528Z",
       "time": "05:59:34",
@@ -294,24 +300,18 @@
       "time": "05:47:04",
       "type": "position",
       "msg": "📉 ZEC +0.13% — Respira... ainda não acabou"
-    },
-    {
-      "ts": "2026-02-15T05:47:04.095Z",
-      "time": "05:47:04",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC -0.45% — Meu trabalho é neutralizar, não fazer milagre"
     }
   ],
   "hl": {
-    "balance": 16.200469,
+    "balance": 16.222755,
     "positions": [
       {
         "coin": "BTC",
         "side": "SHORT",
         "size": 0.00032,
         "entry": 69697,
-        "pnl": -0.17408,
-        "pnlPct": -3.902607
+        "pnl": -0.17344,
+        "pnlPct": -3.88825918
       },
       {
         "coin": "SOL",
@@ -342,8 +342,8 @@
         "side": "SHORT",
         "size": 0.05,
         "entry": 319.8,
-        "pnl": 0.1335,
-        "pnlPct": 4.17448405
+        "pnl": 0.1395,
+        "pnlPct": 4.36210131
       }
     ]
   },
@@ -355,40 +355,40 @@
         "side": "LONG",
         "size": 0.0006,
         "entry": 69665,
-        "price": 70279.5,
-        "notional": 42.167699999999996,
-        "pnl": 0.36869999999999997,
-        "pnlPct": 0.8820785186248474
+        "price": 70268.5,
+        "notional": 42.1611,
+        "pnl": 0.3621,
+        "pnlPct": 0.866288667192995
       },
       {
         "coin": "SOL",
         "side": "SHORT",
         "size": 0.1,
         "entry": 88.535,
-        "price": 89.695,
-        "notional": 8.9695,
-        "pnl": -0.11599999999999966,
-        "pnlPct": -1.3102162986389527
+        "price": 89.655,
+        "notional": 8.9655,
+        "pnl": -0.11200000000000046,
+        "pnlPct": -1.265036426272101
       },
       {
         "coin": "XRP",
         "side": "SHORT",
         "size": 10,
         "entry": 1.53,
-        "price": 1.5836000000000001,
-        "notional": 15.836000000000002,
-        "pnl": -0.5360000000000009,
-        "pnlPct": -3.5032679738562154
+        "price": 1.58285,
+        "notional": 15.828500000000002,
+        "pnl": -0.5285000000000006,
+        "pnlPct": -3.454248366013076
       },
       {
         "coin": "ZEC",
         "side": "LONG",
         "size": 0.04,
         "entry": 319.95000000000005,
-        "price": 317.20500000000004,
-        "notional": 12.688200000000002,
-        "pnl": -0.10980000000000019,
-        "pnlPct": -0.857946554149087
+        "price": 317.325,
+        "notional": 12.693,
+        "pnl": -0.10500000000000227,
+        "pnlPct": -0.8204406938584331
       }
     ]
   }
