@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T02:19:25.648Z",
+      "time": "02:19:25",
+      "type": "position",
+      "msg": "📈 OM -0.62% — Sabia que não devia ter olhado"
+    },
+    {
+      "ts": "2026-02-15T02:19:25.018Z",
+      "time": "02:19:25",
+      "type": "position",
+      "msg": "📉 ETH +0.23% — Até um relógio quebrado acerta duas vezes"
+    },
+    {
+      "ts": "2026-02-15T02:19:24.428Z",
+      "time": "02:19:24",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 ETH +0.34% — O mercado me odeia menos que odeia o QuickBot"
+    },
+    {
       "ts": "2026-02-15T02:18:55.274Z",
       "time": "02:18:55",
       "type": "position",
@@ -277,28 +295,10 @@
       "msg": "📈 OM -1.80% — Pelo menos não apostei a casa... dessa vez"
     },
     {
-      "ts": "2026-02-15T02:09:55.072Z",
-      "time": "02:09:55",
-      "type": "position",
-      "msg": "📉 ZRO -0.58% — Tá difícil defender essa entrada"
-    },
-    {
-      "ts": "2026-02-15T02:09:54.810Z",
-      "time": "02:09:54",
-      "type": "position",
-      "msg": "📉 ETH +0.32% — Melhor que Netflix isso aqui"
-    },
-    {
       "ts": "2026-02-15T02:09:54.421Z",
       "time": "02:09:54",
       "type": "mirror-thought",
       "msg": "🪞 📈 ETH +0.12% — Fazendo meu trabalho enquanto o QuickBot apronta"
-    },
-    {
-      "ts": "2026-02-15T02:09:24.420Z",
-      "time": "02:09:24",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP -0.42% — Fantástico. Simplesmente fantástico. Odeio tudo."
     }
   ]
 }
