@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T08:22:46.043Z",
+      "time": "08:22:46",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 ETH -0.38% — O mercado acordou e escolheu caos"
+    },
+    {
+      "ts": "2026-02-15T08:22:40.448Z",
+      "time": "08:22:40",
+      "type": "position",
+      "msg": "📈 SOL +0.92% — Até um relógio quebrado acerta duas vezes"
+    },
+    {
       "ts": "2026-02-15T08:22:40.183Z",
       "time": "08:22:40",
       "type": "position",
@@ -287,18 +299,6 @@
       "time": "08:09:45",
       "type": "mirror-thought",
       "msg": "🪞 📉 XRP +0.29% — O mercado me odeia menos que odeia o QuickBot"
-    },
-    {
-      "ts": "2026-02-15T08:09:39.946Z",
-      "time": "08:09:39",
-      "type": "position",
-      "msg": "📈 SOL +1.19% — O mercado me ama (por enquanto)"
-    },
-    {
-      "ts": "2026-02-15T08:09:15.747Z",
-      "time": "08:09:15",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 ETH +0.12% — Ganhando aqui pra compensar a burrice do outro lado"
     }
   ]
 }
