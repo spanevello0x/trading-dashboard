@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T09:03:21.743Z",
+      "time": "09:03:21",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC -0.45% — Cadê a tal da proteção? Perdida junto com a esperança."
+    },
+    {
       "ts": "2026-02-15T09:02:51.744Z",
       "time": "09:02:51",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "08:54:46",
       "type": "mirror-thought",
       "msg": "🪞 📉 XRP +0.03% — Lateral é o novo tendência aparentemente"
-    },
-    {
-      "ts": "2026-02-15T08:54:16.664Z",
-      "time": "08:54:16",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC -0.22% — Não me paga o suficiente pra isso. Aliás, não me paga nada."
     }
   ]
 }
