@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T04:01:29.526Z",
+      "time": "04:01:29",
+      "type": "position",
+      "msg": "📉 ZRO -0.61% — Amanhã é outro dia (espero)"
+    },
+    {
+      "ts": "2026-02-15T04:01:29.064Z",
+      "time": "04:01:29",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL +0.19% — Ótimo, agora vou ter que ouvir que 'deu certo'"
+    },
+    {
       "ts": "2026-02-15T04:00:59.528Z",
       "time": "04:00:59",
       "type": "position",
@@ -241,12 +253,6 @@
       "msg": "Hmm, DOGE mostrando sinais de LONG (89%)"
     },
     {
-      "ts": "2026-02-15T03:56:11.961Z",
-      "time": "03:56:11",
-      "type": "analysis",
-      "msg": "FARTCOIN tá interessante, 67% pro LONG"
-    },
-    {
       "ts": "2026-02-15T03:55:57.022Z",
       "time": "03:55:57",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "03:52:55",
       "type": "mirror-thought",
       "msg": "🪞 📈 ETH -0.13% — Não era assim no backtest"
-    },
-    {
-      "ts": "2026-02-15T03:52:25.100Z",
-      "time": "03:52:25",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC +0.19% — Pelo menos UM de nós sabe o que tá fazendo"
     }
   ]
 }
