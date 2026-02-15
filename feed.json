@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T01:54:24.018Z",
+      "time": "01:54:24",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC +0.35% — Delta neutral funcionando. Genial? Sim. Reconhecido? Nunca."
+    },
+    {
       "ts": "2026-02-15T01:53:54.018Z",
       "time": "01:53:54",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "01:35:33",
       "type": "position",
       "msg": "ZRO +0.26% — Até um relógio quebrado acerta duas vezes"
-    },
-    {
-      "ts": "2026-02-15T01:35:33.285Z",
-      "time": "01:35:33",
-      "type": "position",
-      "msg": "ETH +0.29% — O mercado me ama (por enquanto)"
     }
   ]
 }
