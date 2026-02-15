@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T02:08:24.642Z",
+      "time": "02:08:24",
+      "type": "position",
+      "msg": "📉 ETH -0.09% — Enquanto não move, não perco. Stonks mental."
+    },
+    {
+      "ts": "2026-02-15T02:08:24.419Z",
+      "time": "02:08:24",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP -0.32% — Não era assim no backtest"
+    },
+    {
       "ts": "2026-02-15T02:07:55.129Z",
       "time": "02:07:55",
       "type": "position",
@@ -287,18 +299,6 @@
       "time": "01:53:24",
       "type": "mirror-thought",
       "msg": "🪞 📈 BTC +0.27% — Obrigado por nada, eu que me viro mesmo"
-    },
-    {
-      "ts": "2026-02-15T01:52:54.016Z",
-      "time": "01:52:54",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC -0.50% — Prejuízo compartilhado é prejuízo... dobrado"
-    },
-    {
-      "ts": "2026-02-15T01:40:34.872Z",
-      "time": "01:40:34",
-      "type": "position",
-      "msg": "OM -2.08% — Prometo estudar mais... mentira, vou continuar igual"
     }
   ]
 }
