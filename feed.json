@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T05:37:31.322Z",
+      "time": "05:37:31",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP -0.12% — Não me paga o suficiente pra isso. Aliás, não me paga nada."
+    },
+    {
       "ts": "2026-02-15T05:37:03.606Z",
       "time": "05:37:03",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "05:24:31",
       "type": "mirror-thought",
       "msg": "🪞 📉 XRP -0.05% — Monótono demais. Até reclamar tá difícil."
-    },
-    {
-      "ts": "2026-02-15T05:24:03.151Z",
-      "time": "05:24:03",
-      "type": "position",
-      "msg": "📉 ZRO -1.42% — Pelo menos aprendo algo... né?"
     }
   ]
 }
