@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T08:43:16.494Z",
+      "time": "08:43:16",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC -0.15% — Quando o mercado inteiro resolve desabar..."
+    },
+    {
       "ts": "2026-02-15T08:42:46.494Z",
       "time": "08:42:46",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "08:31:35",
       "type": "analysis",
       "msg": "Hmm, LINK mostrando sinais de SHORT (67%)"
-    },
-    {
-      "ts": "2026-02-15T08:31:35.431Z",
-      "time": "08:31:35",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - MOODENG cancelado"
     }
   ]
 }
