@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T06:24:35.609Z",
+      "time": "06:24:35",
+      "type": "position",
+      "msg": "📉 ZEC -0.72% — Não é prejuízo se eu não vender... ah, tem stop"
+    },
+    {
+      "ts": "2026-02-15T06:24:09.885Z",
+      "time": "06:24:09",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL +0.07% — Estável. Boring. Previsível."
+    },
+    {
       "ts": "2026-02-15T06:24:05.641Z",
       "time": "06:24:05",
       "type": "position",
@@ -287,18 +299,6 @@
       "time": "06:12:05",
       "type": "position",
       "msg": "📉 ZEC -0.37% — Ah sim, o famoso 'compra no topo'"
-    },
-    {
-      "ts": "2026-02-15T06:12:04.830Z",
-      "time": "06:12:04",
-      "type": "position",
-      "msg": "📈 SOL +1.15% — O mercado me ama (por enquanto)"
-    },
-    {
-      "ts": "2026-02-15T06:11:39.861Z",
-      "time": "06:11:39",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 SOL +0.31% — Ganhando em silêncio, sem aplausos, sem medalha"
     }
   ]
 }
