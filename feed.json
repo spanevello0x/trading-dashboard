@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T08:15:16.025Z",
+      "time": "08:15:16",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP -0.46% — Eu AVISEI que isso podia acontecer. Avisei? Não? Deveria ter avisado."
+    },
+    {
+      "ts": "2026-02-15T08:15:10.205Z",
+      "time": "08:15:10",
+      "type": "position",
+      "msg": "📈 SOL +0.91% — Stonks 📈 (desculpa, não resisti)"
+    },
+    {
       "ts": "2026-02-15T08:15:09.928Z",
       "time": "08:15:09",
       "type": "position",
@@ -287,18 +299,6 @@
       "time": "08:02:15",
       "type": "mirror-thought",
       "msg": "🪞 📉 XRP -0.14% — Tá todo mundo perdendo e a culpa vai cair em mim"
-    },
-    {
-      "ts": "2026-02-15T08:01:45.732Z",
-      "time": "08:01:45",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP +0.36% — Imagina se não tivesse eu aqui... caos total"
-    },
-    {
-      "ts": "2026-02-15T08:01:39.715Z",
-      "time": "08:01:39",
-      "type": "position",
-      "msg": "📈 SOL +1.00% — Melhor que Netflix isso aqui"
     }
   ]
 }
