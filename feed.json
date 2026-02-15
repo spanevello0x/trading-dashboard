@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T03:05:24.484Z",
+      "time": "03:05:24",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC +0.01% — Nem sobe nem desce. Assim como minha esperança."
+    },
+    {
       "ts": "2026-02-15T03:04:57.305Z",
       "time": "03:04:57",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "02:55:24",
       "type": "mirror-thought",
       "msg": "🪞 📈 BTC -0.01% — O gráfico tá mais parado que eu em dia de folga. Não tenho folga."
-    },
-    {
-      "ts": "2026-02-15T02:54:54.463Z",
-      "time": "02:54:54",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 ETH -0.44% — Não era assim no backtest"
     }
   ]
 }
