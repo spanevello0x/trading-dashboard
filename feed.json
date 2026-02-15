@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T01:59:24.026Z",
+      "time": "01:59:24",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 ETH +0.37% — Tô no lucro MAS NINGUÉM AGRADECE"
+    },
+    {
       "ts": "2026-02-15T01:58:54.026Z",
       "time": "01:58:54",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "01:38:33",
       "type": "position",
       "msg": "ETH +0.07% — Zona de conforto do gráfico"
-    },
-    {
-      "ts": "2026-02-15T01:38:03.827Z",
-      "time": "01:38:03",
-      "type": "position",
-      "msg": "OM -1.59% — Sabia que não devia ter olhado"
     }
   ]
 }
