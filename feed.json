@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T09:08:22.098Z",
+      "time": "09:08:22",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC -0.35% — Quando o mercado inteiro resolve desabar..."
+    },
+    {
+      "ts": "2026-02-15T09:08:11.978Z",
+      "time": "09:08:11",
+      "type": "position",
+      "msg": "📉 ETH -0.14% — Quem mandou confiar em linha colorida"
+    },
+    {
       "ts": "2026-02-15T09:07:52.096Z",
       "time": "09:07:52",
       "type": "mirror-thought",
@@ -287,18 +299,6 @@
       "time": "08:57:29",
       "type": "analysis",
       "msg": "ARB no radar: 56% SHORT"
-    },
-    {
-      "ts": "2026-02-15T08:57:29.274Z",
-      "time": "08:57:29",
-      "type": "analysis",
-      "msg": "Olhando XMR... 67% SHORT"
-    },
-    {
-      "ts": "2026-02-15T08:57:28.962Z",
-      "time": "08:57:28",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - VVV cancelado"
     }
   ]
 }
