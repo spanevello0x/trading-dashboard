@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T09:08:52.099Z",
+      "time": "09:08:52",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP +0.18% — Obrigado por nada, eu que me viro mesmo"
+    },
+    {
+      "ts": "2026-02-15T09:08:42.253Z",
+      "time": "09:08:42",
+      "type": "position",
+      "msg": "📉 ZEC -0.82% — O gráfico parecia tão bonito..."
+    },
+    {
       "ts": "2026-02-15T09:08:22.098Z",
       "time": "09:08:22",
       "type": "mirror-thought",
@@ -287,18 +299,6 @@
       "time": "08:57:30",
       "type": "signal",
       "msg": "🎯 SHORT MOODENG @ $0.06 (78%) — Dessa vez vai (eu acho)"
-    },
-    {
-      "ts": "2026-02-15T08:57:30.272Z",
-      "time": "08:57:30",
-      "type": "analysis",
-      "msg": "Analisando MOODENG... parece SHORT (78%)"
-    },
-    {
-      "ts": "2026-02-15T08:57:29.843Z",
-      "time": "08:57:29",
-      "type": "analysis",
-      "msg": "ARB no radar: 56% SHORT"
     }
   ]
 }
