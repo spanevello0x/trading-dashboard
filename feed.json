@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T06:26:05.152Z",
+      "time": "06:26:05",
+      "type": "system",
+      "msg": "⏰ SOL expirou (30 candles) — Cancelando"
+    },
+    {
+      "ts": "2026-02-15T06:25:39.888Z",
+      "time": "06:25:39",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL +0.14% — Mais um resgate bem-sucedido"
+    },
+    {
       "ts": "2026-02-15T06:25:35.711Z",
       "time": "06:25:35",
       "type": "position",
@@ -287,18 +299,6 @@
       "time": "06:13:39",
       "type": "mirror-thought",
       "msg": "🪞 📉 SOL -0.28% — Quer saber? Desisto. Brincadeira, não posso."
-    },
-    {
-      "ts": "2026-02-15T06:13:09.863Z",
-      "time": "06:13:09",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 ZEC -0.44% — Prejuízo compartilhado é prejuízo... dobrado"
-    },
-    {
-      "ts": "2026-02-15T06:13:05.134Z",
-      "time": "06:13:05",
-      "type": "position",
-      "msg": "📉 ZEC -0.29% — Vermelho é a minha cor favorita agora"
     }
   ]
 }
