@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T07:16:07.500Z",
+      "time": "07:16:07",
+      "type": "position",
+      "msg": "📈 ETH -0.41% — Loss building character 💪"
+    },
+    {
+      "ts": "2026-02-15T07:15:45.633Z",
+      "time": "07:15:45",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP -0.03% — O emocionante mundo do zero por cento"
+    },
+    {
       "ts": "2026-02-15T07:15:37.824Z",
       "time": "07:15:37",
       "type": "position",
@@ -287,18 +299,6 @@
       "time": "07:03:15",
       "type": "mirror-thought",
       "msg": "🪞 📉 SOL +0.11% — Ótimo, agora vou ter que ouvir que 'deu certo'"
-    },
-    {
-      "ts": "2026-02-15T07:03:07.233Z",
-      "time": "07:03:07",
-      "type": "position",
-      "msg": "📈 SOL -0.61% — Isso é um teste de caráter, com certeza"
-    },
-    {
-      "ts": "2026-02-15T07:03:06.972Z",
-      "time": "07:03:06",
-      "type": "position",
-      "msg": "📈 ETH -0.44% — O stop tá ali por um motivo, né"
     }
   ]
 }
