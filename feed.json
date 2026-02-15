@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T07:43:45.698Z",
+      "time": "07:43:45",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP -0.03% — Aguardando o mercado decidir o que quer da vida"
+    },
+    {
       "ts": "2026-02-15T07:43:15.698Z",
       "time": "07:43:15",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "07:30:45",
       "type": "mirror-thought",
       "msg": "🪞 📉 SOL -0.47% — Delta neutral de prejuízo. Inovador."
-    },
-    {
-      "ts": "2026-02-15T07:30:38.408Z",
-      "time": "07:30:38",
-      "type": "position",
-      "msg": "📈 ETH -0.45% — O mercado acordou e escolheu me machucar"
     }
   ]
 }
