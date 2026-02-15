@@ -478,8 +478,8 @@
         if (feedRes.ok) {
           const feedJson = await feedRes.json();
           if (feedJson.feed) {
-            hlFeedItems = feedJson.feed.filter(f => !f.msg?.includes('🪞')).slice(0, 25);
-            nadoFeedItems = feedJson.feed.filter(f => f.msg?.includes('🪞') || f.type === 'mirror').slice(0, 25);
+            hlFeedItems = feedJson.feed.filter(f => !f.msg?.includes('🪞')).slice(0, 30);
+            nadoFeedItems = feedJson.feed.filter(f => f.msg?.includes('🪞') || f.type?.includes('mirror')).slice(0, 30);
             
             document.getElementById('hl-thought-count').textContent = hlFeedItems.length;
             document.getElementById('nado-thought-count').textContent = nadoFeedItems.length;
@@ -653,8 +653,8 @@
             }).join('')
           : '<div class="text-gray-500 text-center py-4 text-xs">Sem posições</div>';
         
-        // Generate thoughts from positions
-        generateHlThoughts(hlPositions, mids);
+        // Pensamentos vêm do feed.json (gerados pelo bot no servidor)
+        // Não gerar no cliente para evitar duplicação
         
         // Prices
         document.getElementById('price-btc').textContent = fmtPrice(parseFloat(mids.BTC || 0));
