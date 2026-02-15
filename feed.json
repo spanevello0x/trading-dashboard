@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T05:02:32.105Z",
+      "time": "05:02:32",
+      "type": "position",
+      "msg": "📉 ZRO -1.16% — Amanhã é outro dia (espero)"
+    },
+    {
+      "ts": "2026-02-15T05:02:31.841Z",
+      "time": "05:02:31",
+      "type": "position",
+      "msg": "📈 SOL +0.48% — O mercado tá generoso hoje, desconfio"
+    },
+    {
+      "ts": "2026-02-15T05:02:31.054Z",
+      "time": "05:02:31",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL +0.19% — Ganhando dinheiro e reclamando. Multitarefa."
+    },
+    {
       "ts": "2026-02-15T05:02:01.053Z",
       "time": "05:02:01",
       "type": "mirror-thought",
@@ -281,24 +299,6 @@
       "time": "04:50:00",
       "type": "mirror-thought",
       "msg": "🪞 📉 SOL +0.30% — Alguém precisa ser o adulto responsável aqui"
-    },
-    {
-      "ts": "2026-02-15T04:49:31.568Z",
-      "time": "04:49:31",
-      "type": "position",
-      "msg": "📉 ZRO -0.83% — Isso é um teste de caráter, com certeza"
-    },
-    {
-      "ts": "2026-02-15T04:49:31.303Z",
-      "time": "04:49:31",
-      "type": "position",
-      "msg": "📈 SOL +0.57% — Será que alguém sabe algo que eu não sei? Sempre sabem."
-    },
-    {
-      "ts": "2026-02-15T04:49:30.721Z",
-      "time": "04:49:30",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC -0.31% — Se eu pudesse, mandava o mercado se explicar"
     }
   ]
 }
