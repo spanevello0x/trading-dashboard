@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T07:51:09.269Z",
+      "time": "07:51:09",
+      "type": "position",
+      "msg": "📈 SOL +0.72% — Meu psicólogo vai ficar orgulhoso"
+    },
+    {
+      "ts": "2026-02-15T07:51:09.004Z",
+      "time": "07:51:09",
+      "type": "position",
+      "msg": "📈 ETH -0.07% — Consolidação ou indecisão? Sim."
+    },
+    {
+      "ts": "2026-02-15T07:50:45.715Z",
+      "time": "07:50:45",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC -0.22% — Nem o hedge salva dessa"
+    },
+    {
       "ts": "2026-02-15T07:50:15.714Z",
       "time": "07:50:15",
       "type": "mirror-thought",
@@ -281,24 +299,6 @@
       "time": "07:38:15",
       "type": "mirror-thought",
       "msg": "🪞 📉 ETH -0.46% — Isso aqui tá pior que reunião de segunda-feira"
-    },
-    {
-      "ts": "2026-02-15T07:37:45.682Z",
-      "time": "07:37:45",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC +0.02% — Range mais apertado que minha paciência"
-    },
-    {
-      "ts": "2026-02-15T07:37:38.703Z",
-      "time": "07:37:38",
-      "type": "position",
-      "msg": "📈 SOL +0.86% — Quem diria, acertei uma"
-    },
-    {
-      "ts": "2026-02-15T07:37:38.414Z",
-      "time": "07:37:38",
-      "type": "position",
-      "msg": "📈 ETH +0.15% — Quase consigo pagar o café de ontem"
     }
   ]
 }
