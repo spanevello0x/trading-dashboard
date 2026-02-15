@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T05:27:01.113Z",
+      "time": "05:27:01",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP -0.18% — Se eu pudesse, mandava o mercado se explicar"
+    },
+    {
       "ts": "2026-02-15T05:26:33.202Z",
       "time": "05:26:33",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "05:14:01",
       "type": "mirror-thought",
       "msg": "🪞 📈 BTC +0.42% — Funcionando perfeitamente, mas vão dar crédito pro outro"
-    },
-    {
-      "ts": "2026-02-15T05:13:32.585Z",
-      "time": "05:13:32",
-      "type": "position",
-      "msg": "📉 ZRO -1.65% — Calma que ainda tem o stop loss pra doer mais"
     }
   ]
 }
