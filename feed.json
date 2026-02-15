@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T06:54:45.580Z",
+      "time": "06:54:45",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 ETH -0.37% — Obrigado por me colocar nessa situação"
+    },
+    {
       "ts": "2026-02-15T06:54:36.967Z",
       "time": "06:54:36",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "06:42:06",
       "type": "position",
       "msg": "📈 ETH -0.18% — Pelo menos o stop existe. Graças a Deus pelo stop."
-    },
-    {
-      "ts": "2026-02-15T06:41:45.306Z",
-      "time": "06:41:45",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 SOL -0.31% — Cadê a tal da proteção? Perdida junto com a esperança."
     }
   ]
 }
