@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T04:53:30.728Z",
+      "time": "04:53:30",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC +0.48% — Imagina se não tivesse eu aqui... caos total"
+    },
+    {
       "ts": "2026-02-15T04:53:01.740Z",
       "time": "04:53:01",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "04:41:00",
       "type": "mirror-thought",
       "msg": "🪞 📈 BTC -0.29% — Delta neutral de prejuízo. Inovador."
-    },
-    {
-      "ts": "2026-02-15T04:40:31.226Z",
-      "time": "04:40:31",
-      "type": "position",
-      "msg": "📉 ZRO -0.58% — Pelo menos o stop existe. Graças a Deus pelo stop."
     }
   ]
 }
