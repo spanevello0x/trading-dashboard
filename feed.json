@@ -1,10 +1,202 @@
 {
   "feed": [
     {
-      "ts": "2026-02-15T08:31:10.379Z",
-      "time": "08:31:10",
+      "ts": "2026-02-15T08:31:40.483Z",
+      "time": "08:31:40",
+      "type": "position",
+      "msg": "📉 ETH +0.16% — Verde combina comigo"
+    },
+    {
+      "ts": "2026-02-15T08:31:36.569Z",
+      "time": "08:31:36",
       "type": "system",
-      "msg": "ETH fechou — Essa história acabou"
+      "msg": "⚠️ Limite atingido (5/5) - JUP cancelado"
+    },
+    {
+      "ts": "2026-02-15T08:31:36.294Z",
+      "time": "08:31:36",
+      "type": "signal",
+      "msg": "🎯 SHORT JUP @ $0.17 (100%) — Dessa vez vai (eu acho)"
+    },
+    {
+      "ts": "2026-02-15T08:31:36.293Z",
+      "time": "08:31:36",
+      "type": "analysis",
+      "msg": "JUP tá interessante, 100% pro SHORT"
+    },
+    {
+      "ts": "2026-02-15T08:31:35.733Z",
+      "time": "08:31:35",
+      "type": "analysis",
+      "msg": "Hmm, LINK mostrando sinais de SHORT (67%)"
+    },
+    {
+      "ts": "2026-02-15T08:31:35.431Z",
+      "time": "08:31:35",
+      "type": "system",
+      "msg": "⚠️ Limite atingido (5/5) - MOODENG cancelado"
+    },
+    {
+      "ts": "2026-02-15T08:31:35.159Z",
+      "time": "08:31:35",
+      "type": "signal",
+      "msg": "🎯 SHORT MOODENG @ $0.06 (100%) — Nova aposta na mesa"
+    },
+    {
+      "ts": "2026-02-15T08:31:35.159Z",
+      "time": "08:31:35",
+      "type": "analysis",
+      "msg": "MOODENG tá interessante, 100% pro SHORT"
+    },
+    {
+      "ts": "2026-02-15T08:31:34.741Z",
+      "time": "08:31:34",
+      "type": "system",
+      "msg": "⚠️ Limite atingido (5/5) - ARB cancelado"
+    },
+    {
+      "ts": "2026-02-15T08:31:34.462Z",
+      "time": "08:31:34",
+      "type": "signal",
+      "msg": "🎯 SHORT ARB @ $0.12 (100%) — Setup alinhado, agora é com o mercado"
+    },
+    {
+      "ts": "2026-02-15T08:31:34.462Z",
+      "time": "08:31:34",
+      "type": "analysis",
+      "msg": "Hmm, ARB mostrando sinais de SHORT (100%)"
+    },
+    {
+      "ts": "2026-02-15T08:31:33.727Z",
+      "time": "08:31:33",
+      "type": "system",
+      "msg": "⚠️ Limite atingido (5/5) - kPEPE cancelado"
+    },
+    {
+      "ts": "2026-02-15T08:31:33.454Z",
+      "time": "08:31:33",
+      "type": "signal",
+      "msg": "🎯 SHORT kPEPE @ $0.00 (78%) — Os indicadores mandaram, eu obedeci"
+    },
+    {
+      "ts": "2026-02-15T08:31:33.454Z",
+      "time": "08:31:33",
+      "type": "analysis",
+      "msg": "kPEPE tá interessante, 78% pro SHORT"
+    },
+    {
+      "ts": "2026-02-15T08:31:33.154Z",
+      "time": "08:31:33",
+      "type": "system",
+      "msg": "⚠️ Limite atingido (5/5) - XMR cancelado"
+    },
+    {
+      "ts": "2026-02-15T08:31:32.879Z",
+      "time": "08:31:32",
+      "type": "signal",
+      "msg": "🎯 SHORT XMR @ $348.58 (89%) — Bora, confia no pai"
+    },
+    {
+      "ts": "2026-02-15T08:31:32.878Z",
+      "time": "08:31:32",
+      "type": "analysis",
+      "msg": "Hmm, XMR mostrando sinais de SHORT (89%)"
+    },
+    {
+      "ts": "2026-02-15T08:31:32.491Z",
+      "time": "08:31:32",
+      "type": "analysis",
+      "msg": "Analisando VVV... parece LONG (56%)"
+    },
+    {
+      "ts": "2026-02-15T08:31:32.227Z",
+      "time": "08:31:32",
+      "type": "mirror-open",
+      "msg": "🪞 📈 Abrindo LONG ETH @ $2071.85 — Mais trabalho pra mim. Que novidade."
+    },
+    {
+      "ts": "2026-02-15T08:31:32.212Z",
+      "time": "08:31:32",
+      "type": "system",
+      "msg": "⚠️ Limite atingido (5/5) - TAO cancelado"
+    },
+    {
+      "ts": "2026-02-15T08:31:31.937Z",
+      "time": "08:31:31",
+      "type": "signal",
+      "msg": "🎯 SHORT TAO @ $187.06 (100%) — Essa eu senti"
+    },
+    {
+      "ts": "2026-02-15T08:31:31.936Z",
+      "time": "08:31:31",
+      "type": "analysis",
+      "msg": "Analisando TAO... parece SHORT (100%)"
+    },
+    {
+      "ts": "2026-02-15T08:31:31.445Z",
+      "time": "08:31:31",
+      "type": "system",
+      "msg": "⚠️ Limite atingido (5/5) - BNB cancelado"
+    },
+    {
+      "ts": "2026-02-15T08:31:31.171Z",
+      "time": "08:31:31",
+      "type": "signal",
+      "msg": "🎯 SHORT BNB @ $631.96 (89%) — Os indicadores mandaram, eu obedeci"
+    },
+    {
+      "ts": "2026-02-15T08:31:31.171Z",
+      "time": "08:31:31",
+      "type": "analysis",
+      "msg": "Analisando BNB... parece SHORT (89%)"
+    },
+    {
+      "ts": "2026-02-15T08:31:30.892Z",
+      "time": "08:31:30",
+      "type": "system",
+      "msg": "⚠️ Limite atingido (5/5) - AVAX cancelado"
+    },
+    {
+      "ts": "2026-02-15T08:31:30.607Z",
+      "time": "08:31:30",
+      "type": "signal",
+      "msg": "🎯 SHORT AVAX @ $9.61 (89%) — Vamo ver no que dá"
+    },
+    {
+      "ts": "2026-02-15T08:31:30.606Z",
+      "time": "08:31:30",
+      "type": "analysis",
+      "msg": "AVAX no radar: 89% SHORT"
+    },
+    {
+      "ts": "2026-02-15T08:31:30.328Z",
+      "time": "08:31:30",
+      "type": "system",
+      "msg": "⚠️ Limite atingido (5/5) - VIRTUAL cancelado"
+    },
+    {
+      "ts": "2026-02-15T08:31:30.052Z",
+      "time": "08:31:30",
+      "type": "signal",
+      "msg": "🎯 SHORT VIRTUAL @ $0.67 (100%) — Dessa vez vai (eu acho)"
+    },
+    {
+      "ts": "2026-02-15T08:31:30.051Z",
+      "time": "08:31:30",
+      "type": "analysis",
+      "msg": "VIRTUAL tá interessante, 100% pro SHORT"
+    },
+    {
+      "ts": "2026-02-15T08:31:20.816Z",
+      "time": "08:31:20",
+      "type": "mirror-close",
+      "msg": "🪞 ETH fechado (+$0.00) — Lucro garantido. Agradeçam depois. Ou não."
+    },
+    {
+      "ts": "2026-02-15T08:31:16.112Z",
+      "time": "08:31:16",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC -0.29% — Meu trabalho é neutralizar, não fazer milagre"
     },
     {
       "ts": "2026-02-15T08:30:46.112Z",
@@ -13,34 +205,16 @@
       "msg": "🪞 📈 BTC -0.49% — Prejuízo compartilhado é prejuízo... dobrado"
     },
     {
-      "ts": "2026-02-15T08:30:40.601Z",
-      "time": "08:30:40",
-      "type": "position",
-      "msg": "📈 ETH -0.88% — Calma que ainda tem o stop loss pra doer mais"
-    },
-    {
       "ts": "2026-02-15T08:30:16.111Z",
       "time": "08:30:16",
       "type": "mirror-thought",
       "msg": "🪞 📉 XRP -0.37% — Quando o mercado inteiro resolve desabar..."
     },
     {
-      "ts": "2026-02-15T08:30:10.958Z",
-      "time": "08:30:10",
-      "type": "position",
-      "msg": "📈 SOL +0.05% — Isso é acumulação ou distribuição? Ninguém sabe."
-    },
-    {
       "ts": "2026-02-15T08:29:46.110Z",
       "time": "08:29:46",
       "type": "mirror-thought",
       "msg": "🪞 📈 BTC +0.12% — Mais um dia salvando a pátria"
-    },
-    {
-      "ts": "2026-02-15T08:29:40.463Z",
-      "time": "08:29:40",
-      "type": "position",
-      "msg": "📈 ETH -0.76% — Minha análise era perfeita, o mercado que tá errado"
     },
     {
       "ts": "2026-02-15T08:29:16.109Z",
@@ -55,28 +229,10 @@
       "msg": "🪞 📈 BTC +0.20% — Fazendo meu trabalho enquanto o QuickBot apronta"
     },
     {
-      "ts": "2026-02-15T08:28:40.837Z",
-      "time": "08:28:40",
-      "type": "position",
-      "msg": "📈 SOL +0.36% — Quase consigo pagar o café de ontem"
-    },
-    {
-      "ts": "2026-02-15T08:28:40.436Z",
-      "time": "08:28:40",
-      "type": "position",
-      "msg": "📈 ETH -0.68% — Pelo menos não é dinheiro de verdade... ah, espera"
-    },
-    {
       "ts": "2026-02-15T08:28:16.107Z",
       "time": "08:28:16",
       "type": "mirror-thought",
       "msg": "🪞 📉 SOL +0.10% — Neutro. Assim como minha vontade de continuar."
-    },
-    {
-      "ts": "2026-02-15T08:28:10.653Z",
-      "time": "08:28:10",
-      "type": "position",
-      "msg": "📈 SOL +0.69% — Se continuar assim, quase empato na semana"
     },
     {
       "ts": "2026-02-15T08:27:46.106Z",
@@ -85,22 +241,10 @@
       "msg": "🪞 📉 XRP +0.26% — Hedge funcionando, cadê meu reconhecimento?"
     },
     {
-      "ts": "2026-02-15T08:27:40.380Z",
-      "time": "08:27:40",
-      "type": "position",
-      "msg": "📈 ETH -0.47% — Prometo estudar mais... mentira, vou continuar igual"
-    },
-    {
       "ts": "2026-02-15T08:27:16.104Z",
       "time": "08:27:16",
       "type": "mirror-thought",
       "msg": "🪞 📉 XRP -0.42% — Cadê a tal da proteção? Perdida junto com a esperança."
-    },
-    {
-      "ts": "2026-02-15T08:27:10.631Z",
-      "time": "08:27:10",
-      "type": "position",
-      "msg": "📈 SOL +0.77% — Será que alguém sabe algo que eu não sei? Sempre sabem."
     },
     {
       "ts": "2026-02-15T08:26:46.104Z",
@@ -115,22 +259,10 @@
       "msg": "🪞 📈 BTC +0.49% — Alguém precisa ser o adulto responsável aqui"
     },
     {
-      "ts": "2026-02-15T08:26:10.549Z",
-      "time": "08:26:10",
-      "type": "position",
-      "msg": "📈 ETH -0.29% — Pelo menos não apostei a casa... dessa vez"
-    },
-    {
       "ts": "2026-02-15T08:25:46.051Z",
       "time": "08:25:46",
       "type": "mirror-thought",
       "msg": "🪞 📉 XRP +0.16% — Ganhando dinheiro e reclamando. Multitarefa."
-    },
-    {
-      "ts": "2026-02-15T08:25:41.093Z",
-      "time": "08:25:41",
-      "type": "position",
-      "msg": "📈 SOL +0.77% — Vou comemorar quando fechar. Talvez."
     },
     {
       "ts": "2026-02-15T08:25:16.050Z",
@@ -145,18 +277,6 @@
       "msg": "🪞 📉 XRP +0.36% — Carregando esse time nas costas, como sempre"
     },
     {
-      "ts": "2026-02-15T08:24:40.844Z",
-      "time": "08:24:40",
-      "type": "position",
-      "msg": "📈 SOL +0.84% — Será que alguém sabe algo que eu não sei? Sempre sabem."
-    },
-    {
-      "ts": "2026-02-15T08:24:40.583Z",
-      "time": "08:24:40",
-      "type": "position",
-      "msg": "📈 ETH -0.22% — Isso é um teste de caráter, com certeza"
-    },
-    {
       "ts": "2026-02-15T08:24:16.048Z",
       "time": "08:24:16",
       "type": "mirror-thought",
@@ -169,18 +289,6 @@
       "msg": "🪞 📉 XRP -0.23% — Obrigado por me colocar nessa situação"
     },
     {
-      "ts": "2026-02-15T08:23:40.579Z",
-      "time": "08:23:40",
-      "type": "position",
-      "msg": "📈 SOL +0.88% — Será que é armadilha? Provavelmente. Mas vou curtir enquanto dura"
-    },
-    {
-      "ts": "2026-02-15T08:23:40.318Z",
-      "time": "08:23:40",
-      "type": "position",
-      "msg": "📈 ETH -0.22% — Loss building character 💪"
-    },
-    {
       "ts": "2026-02-15T08:23:16.044Z",
       "time": "08:23:16",
       "type": "mirror-thought",
@@ -191,114 +299,6 @@
       "time": "08:22:46",
       "type": "mirror-thought",
       "msg": "🪞 📉 ETH -0.38% — O mercado acordou e escolheu caos"
-    },
-    {
-      "ts": "2026-02-15T08:22:40.448Z",
-      "time": "08:22:40",
-      "type": "position",
-      "msg": "📈 SOL +0.92% — Até um relógio quebrado acerta duas vezes"
-    },
-    {
-      "ts": "2026-02-15T08:22:40.183Z",
-      "time": "08:22:40",
-      "type": "position",
-      "msg": "📈 ETH -0.25% — O gráfico parecia tão bonito..."
-    },
-    {
-      "ts": "2026-02-15T08:22:16.041Z",
-      "time": "08:22:16",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC -0.31% — Até EU tô no vermelho agora. Inacreditável."
-    },
-    {
-      "ts": "2026-02-15T08:21:46.041Z",
-      "time": "08:21:46",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC -0.22% — Não era pra isso acontecer. Culpa do QuickBot de alguma forma."
-    },
-    {
-      "ts": "2026-02-15T08:21:40.159Z",
-      "time": "08:21:40",
-      "type": "position",
-      "msg": "📈 ETH -0.22% — O mercado escolheu violência hoje"
-    },
-    {
-      "ts": "2026-02-15T08:21:16.039Z",
-      "time": "08:21:16",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 ETH -0.39% — Vermelho dos dois lados. Arte moderna isso."
-    },
-    {
-      "ts": "2026-02-15T08:21:10.646Z",
-      "time": "08:21:10",
-      "type": "position",
-      "msg": "📈 SOL +1.01% — Será que é armadilha? Provavelmente. Mas vou curtir enquanto dura"
-    },
-    {
-      "ts": "2026-02-15T08:20:46.039Z",
-      "time": "08:20:46",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP -0.01% — Lateral é o novo tendência aparentemente"
-    },
-    {
-      "ts": "2026-02-15T08:20:40.104Z",
-      "time": "08:20:40",
-      "type": "position",
-      "msg": "📈 ETH -0.26% — Vou culpar a lua, deve ser lua cheia"
-    },
-    {
-      "ts": "2026-02-15T08:20:16.037Z",
-      "time": "08:20:16",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 ETH +0.15% — Sou o plano B que deveria ser o plano A"
-    },
-    {
-      "ts": "2026-02-15T08:19:46.036Z",
-      "time": "08:19:46",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP +0.26% — Delta neutral funcionando. Genial? Sim. Reconhecido? Nunca."
-    },
-    {
-      "ts": "2026-02-15T08:19:40.447Z",
-      "time": "08:19:40",
-      "type": "position",
-      "msg": "📈 SOL +0.98% — Stonks 📈 (desculpa, não resisti)"
-    },
-    {
-      "ts": "2026-02-15T08:19:40.095Z",
-      "time": "08:19:40",
-      "type": "position",
-      "msg": "📈 ETH -0.25% — Minha análise era perfeita, o mercado que tá errado"
-    },
-    {
-      "ts": "2026-02-15T08:19:16.035Z",
-      "time": "08:19:16",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 SOL -0.39% — O hedge não funciona se TUDO desaba, gênio"
-    },
-    {
-      "ts": "2026-02-15T08:18:46.034Z",
-      "time": "08:18:46",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP -0.12% — Isso aqui tá pior que reunião de segunda-feira"
-    },
-    {
-      "ts": "2026-02-15T08:18:40.325Z",
-      "time": "08:18:40",
-      "type": "position",
-      "msg": "📈 SOL +1.00% — Tá bom demais pra ser verdade... ops, não deveria falar isso"
-    },
-    {
-      "ts": "2026-02-15T08:18:40.012Z",
-      "time": "08:18:40",
-      "type": "position",
-      "msg": "📈 ETH -0.27% — Pelo menos aprendo algo... né?"
-    },
-    {
-      "ts": "2026-02-15T08:18:16.033Z",
-      "time": "08:18:16",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP +0.21% — Ganhando em silêncio, sem aplausos, sem medalha"
     }
   ]
 }
