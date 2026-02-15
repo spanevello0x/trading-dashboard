@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T04:35:00.687Z",
+      "time": "04:35:00",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL +0.44% — Mais um dia salvando a pátria"
+    },
+    {
       "ts": "2026-02-15T04:34:31.100Z",
       "time": "04:34:31",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "04:21:30",
       "type": "position",
       "msg": "📈 SOL +0.45% — Quase consigo pagar o café de ontem"
-    },
-    {
-      "ts": "2026-02-15T04:21:30.290Z",
-      "time": "04:21:30",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 SOL -0.09% — Nem o mercado sabe o que quer"
     }
   ]
 }
