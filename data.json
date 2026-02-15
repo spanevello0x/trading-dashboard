@@ -1,6 +1,30 @@
 {
-  "lastUpdate": "2026-02-15T02:35:35.710Z",
+  "lastUpdate": "2026-02-15T02:36:05.944Z",
   "feed": [
+    {
+      "ts": "2026-02-15T02:35:56.318Z",
+      "time": "02:35:56",
+      "type": "position",
+      "msg": "📈 OM -2.70% — Minha análise era perfeita, o mercado que tá errado"
+    },
+    {
+      "ts": "2026-02-15T02:35:56.053Z",
+      "time": "02:35:56",
+      "type": "position",
+      "msg": "📉 ZRO +0.00% — Consolidação ou indecisão? Sim."
+    },
+    {
+      "ts": "2026-02-15T02:35:55.759Z",
+      "time": "02:35:55",
+      "type": "position",
+      "msg": "📉 ETH +0.72% — Será que é armadilha? Provavelmente. Mas vou curtir enquanto dura"
+    },
+    {
+      "ts": "2026-02-15T02:35:54.445Z",
+      "time": "02:35:54",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 ETH -0.21% — Prejuízo compartilhado é prejuízo... dobrado"
+    },
     {
       "ts": "2026-02-15T02:35:26.146Z",
       "time": "02:35:26",
@@ -276,50 +300,26 @@
       "time": "02:25:54",
       "type": "mirror-thought",
       "msg": "🪞 📉 XRP +0.39% — Se fosse fácil, qualquer um fazia. Mas só eu faço."
-    },
-    {
-      "ts": "2026-02-15T02:25:26.331Z",
-      "time": "02:25:26",
-      "type": "position",
-      "msg": "📈 OM -0.86% — Amanhã é outro dia (espero)"
-    },
-    {
-      "ts": "2026-02-15T02:25:26.000Z",
-      "time": "02:25:26",
-      "type": "position",
-      "msg": "📉 ZRO -0.66% — Loss building character 💪"
-    },
-    {
-      "ts": "2026-02-15T02:25:25.625Z",
-      "time": "02:25:25",
-      "type": "position",
-      "msg": "📉 ETH +0.51% — Tá bom demais pra ser verdade... ops, não deveria falar isso"
-    },
-    {
-      "ts": "2026-02-15T02:25:24.432Z",
-      "time": "02:25:24",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC -0.34% — Quando o mercado inteiro resolve desabar..."
     }
   ],
   "hl": {
-    "balance": 15.806894,
+    "balance": 15.805094,
     "positions": [
       {
         "coin": "BTC",
         "side": "SHORT",
         "size": 0.00032,
         "entry": 69697,
-        "pnl": 0.10208,
-        "pnlPct": 2.28847727
+        "pnl": 0.1024,
+        "pnlPct": 2.29565118
       },
       {
         "coin": "ETH",
         "side": "SHORT",
         "size": 0.0076,
         "entry": 2065,
-        "pnl": 0.10792,
-        "pnlPct": 3.4382566599999995
+        "pnl": 0.11324,
+        "pnlPct": 3.6077481799999997
       },
       {
         "coin": "XRP",
@@ -334,16 +334,16 @@
         "side": "SHORT",
         "size": 8.5,
         "entry": 1.8619,
-        "pnl": -0.00425,
-        "pnlPct": -0.13427144
+        "pnl": 0,
+        "pnlPct": 0
       },
       {
         "coin": "OM",
         "side": "LONG",
         "size": 83.5,
         "entry": 0.06402,
-        "pnl": -0.132765,
-        "pnlPct": -7.450796630000001
+        "pnl": -0.144455,
+        "pnlPct": -8.10684161
       }
     ]
   },
@@ -355,30 +355,30 @@
         "side": "LONG",
         "size": 0.0006,
         "entry": 69665,
-        "price": 69412.5,
-        "notional": 41.647499999999994,
-        "pnl": -0.1515,
-        "pnlPct": -0.36244886241297636
+        "price": 69410.5,
+        "notional": 41.6463,
+        "pnl": -0.15269999999999997,
+        "pnlPct": -0.365319744491495
       },
       {
         "coin": "ETH",
         "side": "LONG",
         "size": 0.007,
         "entry": 2066.75,
-        "price": 2051.35,
-        "notional": 14.359449999999999,
-        "pnl": -0.10780000000000065,
-        "pnlPct": -0.7451312447078791
+        "price": 2050.95,
+        "notional": 14.356649999999998,
+        "pnl": -0.11060000000000128,
+        "pnlPct": -0.7644853030119841
       },
       {
         "coin": "XRP",
         "side": "SHORT",
         "size": 10,
         "entry": 1.53,
-        "price": 1.5197500000000002,
-        "notional": 15.197500000000002,
-        "pnl": 0.1024999999999987,
-        "pnlPct": 0.6699346405228673
+        "price": 1.51925,
+        "notional": 15.192499999999999,
+        "pnl": 0.10750000000000037,
+        "pnlPct": 0.7026143790849698
       }
     ]
   }
