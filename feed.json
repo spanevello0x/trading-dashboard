@@ -1,6 +1,30 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T03:08:57.806Z",
+      "time": "03:08:57",
+      "type": "position",
+      "msg": "📈 OM -2.11% — Mais um dia normal no crypto"
+    },
+    {
+      "ts": "2026-02-15T03:08:57.533Z",
+      "time": "03:08:57",
+      "type": "position",
+      "msg": "📉 ZRO -0.20% — Pelo menos não apostei a casa... dessa vez"
+    },
+    {
+      "ts": "2026-02-15T03:08:57.001Z",
+      "time": "03:08:57",
+      "type": "position",
+      "msg": "📉 ETH +0.20% — Não é muito, mas é trabalho honesto"
+    },
+    {
+      "ts": "2026-02-15T03:08:54.488Z",
+      "time": "03:08:54",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC -0.05% — Range mais apertado que minha paciência"
+    },
+    {
       "ts": "2026-02-15T03:08:24.487Z",
       "time": "03:08:24",
       "type": "mirror-thought",
@@ -271,34 +295,10 @@
       "msg": "📈 OM -2.67% — Podia ser pior. Dá tempo ainda."
     },
     {
-      "ts": "2026-02-15T02:59:27.025Z",
-      "time": "02:59:27",
-      "type": "position",
-      "msg": "📉 ZRO -0.40% — Respira... é só número na tela"
-    },
-    {
-      "ts": "2026-02-15T02:59:26.753Z",
-      "time": "02:59:26",
-      "type": "position",
-      "msg": "📉 ETH +0.21% — Calma que ainda pode dar errado"
-    },
-    {
       "ts": "2026-02-15T02:59:24.470Z",
       "time": "02:59:24",
       "type": "mirror-thought",
       "msg": "🪞 📈 BTC -0.08% — O mercado tá mais indeciso que eu no restaurante"
-    },
-    {
-      "ts": "2026-02-15T02:58:54.468Z",
-      "time": "02:58:54",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP -0.33% — Delta neutral de prejuízo. Inovador."
-    },
-    {
-      "ts": "2026-02-15T02:58:27.235Z",
-      "time": "02:58:27",
-      "type": "position",
-      "msg": "📈 OM -2.67% — Respira... é só número na tela"
     }
   ]
 }
