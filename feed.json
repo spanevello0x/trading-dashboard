@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T06:19:35.424Z",
+      "time": "06:19:35",
+      "type": "position",
+      "msg": "📉 ZEC -0.63% — O mercado escolheu violência hoje"
+    },
+    {
+      "ts": "2026-02-15T06:19:35.161Z",
+      "time": "06:19:35",
+      "type": "position",
+      "msg": "📈 SOL +1.27% — Tá bom demais pra ser verdade... ops, não deveria falar isso"
+    },
+    {
+      "ts": "2026-02-15T06:19:09.874Z",
+      "time": "06:19:09",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC +0.41% — Verde aqui, vermelho lá. Balanço perfeito. De nada."
+    },
+    {
       "ts": "2026-02-15T06:18:39.873Z",
       "time": "06:18:39",
       "type": "mirror-thought",
@@ -281,24 +299,6 @@
       "time": "06:09:50",
       "type": "analysis",
       "msg": "TAO no radar: 67% LONG"
-    },
-    {
-      "ts": "2026-02-15T06:09:49.855Z",
-      "time": "06:09:49",
-      "type": "analysis",
-      "msg": "Olhando BNB... 56% SHORT"
-    },
-    {
-      "ts": "2026-02-15T06:09:48.847Z",
-      "time": "06:09:48",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - AZTEC cancelado"
-    },
-    {
-      "ts": "2026-02-15T06:09:36.285Z",
-      "time": "06:09:36",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP +0.08% — Sem novidades no front. Que surpresa."
     }
   ]
 }
