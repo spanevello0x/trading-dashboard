@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T07:59:45.730Z",
+      "time": "07:59:45",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL -0.42% — Prejuízo compartilhado é prejuízo... dobrado"
+    },
+    {
       "ts": "2026-02-15T07:59:39.516Z",
       "time": "07:59:39",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "07:46:38",
       "type": "position",
       "msg": "📈 SOL +0.65% — Calma que ainda pode dar errado"
-    },
-    {
-      "ts": "2026-02-15T07:46:38.726Z",
-      "time": "07:46:38",
-      "type": "position",
-      "msg": "📈 ETH -0.09% — Enquanto não move, não perco. Stonks mental."
     }
   ]
 }
