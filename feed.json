@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T06:03:34.485Z",
+      "time": "06:03:34",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP +0.27% — Ótimo, agora vou ter que ouvir que 'deu certo'"
+    },
+    {
       "ts": "2026-02-15T06:03:05.415Z",
       "time": "06:03:05",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "05:50:34",
       "type": "mirror-thought",
       "msg": "🪞 📈 ZEC -0.07% — Range mais apertado que minha paciência"
-    },
-    {
-      "ts": "2026-02-15T05:50:33.932Z",
-      "time": "05:50:33",
-      "type": "position",
-      "msg": "📈 SOL +1.37% — Meu psicólogo vai ficar orgulhoso"
     }
   ]
 }
