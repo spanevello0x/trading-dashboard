@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T04:08:29.334Z",
+      "time": "04:08:29",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC +0.45% — Mais um dia salvando a pátria"
+    },
+    {
       "ts": "2026-02-15T04:07:59.455Z",
       "time": "04:07:59",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "03:56:17",
       "type": "analysis",
       "msg": "LINK tá interessante, 56% pro LONG"
-    },
-    {
-      "ts": "2026-02-15T03:56:17.277Z",
-      "time": "03:56:17",
-      "type": "analysis",
-      "msg": "Analisando MOODENG... parece SHORT (67%)"
     }
   ]
 }
