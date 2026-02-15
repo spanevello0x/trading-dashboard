@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T06:14:05.208Z",
+      "time": "06:14:05",
+      "type": "position",
+      "msg": "📉 ZEC -0.45% — O stop tá ali por um motivo, né"
+    },
+    {
+      "ts": "2026-02-15T06:14:04.873Z",
+      "time": "06:14:04",
+      "type": "position",
+      "msg": "📈 SOL +1.11% — Será que alguém sabe algo que eu não sei? Sempre sabem."
+    },
+    {
+      "ts": "2026-02-15T06:13:39.863Z",
+      "time": "06:13:39",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL -0.28% — Quer saber? Desisto. Brincadeira, não posso."
+    },
+    {
       "ts": "2026-02-15T06:13:09.863Z",
       "time": "06:13:09",
       "type": "mirror-thought",
@@ -217,18 +235,6 @@
       "msg": "🎯 LONG ZRO @ $1.90 (78%) — Setup alinhado, agora é com o mercado"
     },
     {
-      "ts": "2026-02-15T06:09:44.414Z",
-      "time": "06:09:44",
-      "type": "analysis",
-      "msg": "Olhando ZRO... 78% LONG"
-    },
-    {
-      "ts": "2026-02-15T06:09:44.114Z",
-      "time": "06:09:44",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - LIT cancelado"
-    },
-    {
       "ts": "2026-02-15T06:09:36.285Z",
       "time": "06:09:36",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "06:05:04",
       "type": "mirror-thought",
       "msg": "🪞 📉 XRP -0.07% — Esperando algo acontecer... esperando... esperando..."
-    },
-    {
-      "ts": "2026-02-15T06:04:34.487Z",
-      "time": "06:04:34",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 ZEC -0.34% — Eu AVISEI que isso podia acontecer. Avisei? Não? Deveria ter avisado."
     }
   ]
 }
