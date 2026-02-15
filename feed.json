@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T03:48:29.438Z",
+      "time": "03:48:29",
+      "type": "position",
+      "msg": "📉 ZRO -0.02% — Esperando Godot, versão crypto"
+    },
+    {
+      "ts": "2026-02-15T03:48:29.054Z",
+      "time": "03:48:29",
+      "type": "position",
+      "msg": "📉 ETH +0.62% — Stonks 📈 (desculpa, não resisti)"
+    },
+    {
+      "ts": "2026-02-15T03:48:25.092Z",
+      "time": "03:48:25",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 ETH -0.17% — Delta neutral de prejuízo. Inovador."
+    },
+    {
       "ts": "2026-02-15T03:47:55.092Z",
       "time": "03:47:55",
       "type": "mirror-thought",
@@ -281,24 +299,6 @@
       "time": "03:36:25",
       "type": "mirror-thought",
       "msg": "🪞 📈 BTC -0.44% — Quando o mercado inteiro resolve desabar..."
-    },
-    {
-      "ts": "2026-02-15T03:35:54.538Z",
-      "time": "03:35:54",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 ETH +0.27% — Sou o plano B que deveria ser o plano A"
-    },
-    {
-      "ts": "2026-02-15T03:35:28.523Z",
-      "time": "03:35:28",
-      "type": "position",
-      "msg": "📉 ZRO +0.91% — Tá subindo? Deixa eu não olhar pra não dar azar"
-    },
-    {
-      "ts": "2026-02-15T03:35:28.247Z",
-      "time": "03:35:28",
-      "type": "position",
-      "msg": "📉 ETH +0.87% — Olha só, o mercado decidiu colaborar hoje"
     }
   ]
 }
