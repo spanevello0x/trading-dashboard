@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T07:54:39.132Z",
+      "time": "07:54:39",
+      "type": "position",
+      "msg": "📈 ETH -0.13% — Quem inventou crypto? Preciso conversar"
+    },
+    {
+      "ts": "2026-02-15T07:54:15.721Z",
+      "time": "07:54:15",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC -0.09% — Mercado em coma. Eu também, emocionalmente."
+    },
+    {
       "ts": "2026-02-15T07:53:45.720Z",
       "time": "07:53:45",
       "type": "mirror-thought",
@@ -287,18 +299,6 @@
       "time": "07:41:15",
       "type": "mirror-thought",
       "msg": "🪞 📉 XRP +0.45% — Obrigado por nada, eu que me viro mesmo"
-    },
-    {
-      "ts": "2026-02-15T07:40:45.691Z",
-      "time": "07:40:45",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 SOL +0.41% — Ganhando aqui pra compensar a burrice do outro lado"
-    },
-    {
-      "ts": "2026-02-15T07:40:38.736Z",
-      "time": "07:40:38",
-      "type": "position",
-      "msg": "📈 SOL +0.67% — Tá verde? Tira print rápido antes que vire"
     }
   ]
 }
