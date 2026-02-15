@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T05:19:03.450Z",
+      "time": "05:19:03",
+      "type": "position",
+      "msg": "📈 SOL +0.89% — Imagina se eu tivesse colocado mais..."
+    },
+    {
+      "ts": "2026-02-15T05:19:01.095Z",
+      "time": "05:19:01",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL +0.05% — Se tédio fosse trade, eu tava rico"
+    },
+    {
       "ts": "2026-02-15T05:18:33.108Z",
       "time": "05:18:33",
       "type": "position",
@@ -287,18 +299,6 @@
       "time": "05:06:33",
       "type": "position",
       "msg": "📉 ZRO -1.86% — Quem inventou crypto? Preciso conversar"
-    },
-    {
-      "ts": "2026-02-15T05:06:31.065Z",
-      "time": "05:06:31",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 SOL +0.27% — Ganhando em silêncio, sem aplausos, sem medalha"
-    },
-    {
-      "ts": "2026-02-15T05:06:01.944Z",
-      "time": "05:06:01",
-      "type": "position",
-      "msg": "📈 SOL +0.48% — Vou comemorar quando fechar. Talvez."
     }
   ]
 }
