@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T04:40:00.700Z",
+      "time": "04:40:00",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL -0.02% — Aguardando o mercado decidir o que quer da vida"
+    },
+    {
       "ts": "2026-02-15T04:39:30.699Z",
       "time": "04:39:30",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "04:26:00",
       "type": "mirror-thought",
       "msg": "🪞 📉 SOL -0.26% — Obrigado por me colocar nessa situação"
-    },
-    {
-      "ts": "2026-02-15T04:26:00.311Z",
-      "time": "04:26:00",
-      "type": "position",
-      "msg": "📈 SOL +0.08% — Tick tock, mercado..."
     }
   ]
 }
