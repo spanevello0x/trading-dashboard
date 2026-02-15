@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T06:33:05.832Z",
+      "time": "06:33:05",
+      "type": "position",
+      "msg": "📈 ETH -0.08% — Neutro: onde a ansiedade e o tédio se encontram"
+    },
+    {
+      "ts": "2026-02-15T06:32:45.216Z",
+      "time": "06:32:45",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL -0.07% — Mercado em coma. Eu também, emocionalmente."
+    },
+    {
       "ts": "2026-02-15T06:32:35.970Z",
       "time": "06:32:35",
       "type": "position",
@@ -247,12 +259,6 @@
       "msg": "TAO no radar: 78% LONG"
     },
     {
-      "ts": "2026-02-15T06:26:58.542Z",
-      "time": "06:26:58",
-      "type": "analysis",
-      "msg": "BNB no radar: 67% LONG"
-    },
-    {
       "ts": "2026-02-15T06:26:53.580Z",
       "time": "06:26:53",
       "type": "mirror-open",
@@ -293,12 +299,6 @@
       "time": "06:25:09",
       "type": "mirror-thought",
       "msg": "🪞 📈 ZEC +0.40% — Sou o plano B que deveria ser o plano A"
-    },
-    {
-      "ts": "2026-02-15T06:24:39.886Z",
-      "time": "06:24:39",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC -0.31% — Isso aqui tá pior que reunião de segunda-feira"
     }
   ]
 }
