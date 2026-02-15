@@ -1,6 +1,30 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T03:25:28.259Z",
+      "time": "03:25:28",
+      "type": "position",
+      "msg": "📈 OM -2.59% — Clássico"
+    },
+    {
+      "ts": "2026-02-15T03:25:27.990Z",
+      "time": "03:25:27",
+      "type": "position",
+      "msg": "📉 ZRO +0.21% — Stonks 📈 (desculpa, não resisti)"
+    },
+    {
+      "ts": "2026-02-15T03:25:27.726Z",
+      "time": "03:25:27",
+      "type": "position",
+      "msg": "📉 ETH +0.39% — Não é muito, mas é trabalho honesto"
+    },
+    {
+      "ts": "2026-02-15T03:25:24.529Z",
+      "time": "03:25:24",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP +0.11% — Se fosse fácil, qualquer um fazia. Mas só eu faço."
+    },
+    {
       "ts": "2026-02-15T03:24:54.528Z",
       "time": "03:24:54",
       "type": "mirror-thought",
@@ -271,34 +295,10 @@
       "msg": "📉 ZRO +0.04% — Consolidação ou indecisão? Sim."
     },
     {
-      "ts": "2026-02-15T03:15:57.298Z",
-      "time": "03:15:57",
-      "type": "position",
-      "msg": "📉 ETH +0.39% — Calma que ainda pode dar errado"
-    },
-    {
       "ts": "2026-02-15T03:15:54.509Z",
       "time": "03:15:54",
       "type": "mirror-thought",
       "msg": "🪞 📉 XRP +0.40% — Hedge funcionando, cadê meu reconhecimento?"
-    },
-    {
-      "ts": "2026-02-15T03:15:27.907Z",
-      "time": "03:15:27",
-      "type": "position",
-      "msg": "📈 OM -2.33% — Pelo menos o stop existe. Graças a Deus pelo stop."
-    },
-    {
-      "ts": "2026-02-15T03:15:24.507Z",
-      "time": "03:15:24",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP +0.21% — Verde aqui, vermelho lá. Balanço perfeito. De nada."
-    },
-    {
-      "ts": "2026-02-15T03:14:57.779Z",
-      "time": "03:14:57",
-      "type": "position",
-      "msg": "📈 OM -2.59% — Vou culpar a lua, deve ser lua cheia"
     }
   ]
 }
