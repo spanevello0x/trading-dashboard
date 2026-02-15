@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T03:36:58.455Z",
+      "time": "03:36:58",
+      "type": "position",
+      "msg": "📉 ZRO +1.06% — Tá subindo? Deixa eu não olhar pra não dar azar"
+    },
+    {
+      "ts": "2026-02-15T03:36:55.067Z",
+      "time": "03:36:55",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 ETH -0.04% — Não ganha, não perde, não anima"
+    },
+    {
       "ts": "2026-02-15T03:36:28.152Z",
       "time": "03:36:28",
       "type": "position",
@@ -287,18 +299,6 @@
       "time": "03:27:15",
       "type": "analysis",
       "msg": "XMR no radar: 78% SHORT"
-    },
-    {
-      "ts": "2026-02-15T03:27:14.980Z",
-      "time": "03:27:14",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - TAO cancelado"
-    },
-    {
-      "ts": "2026-02-15T03:26:54.531Z",
-      "time": "03:26:54",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP +0.35% — Tá vendo? ERA pra ter confiado em mim desde o início"
     }
   ]
 }
