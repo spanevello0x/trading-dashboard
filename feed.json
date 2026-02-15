@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T07:23:45.650Z",
+      "time": "07:23:45",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP -0.03% — Lateral infinita. Que emocionante. Não."
+    },
+    {
       "ts": "2026-02-15T07:23:15.649Z",
       "time": "07:23:15",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "07:10:37",
       "type": "position",
       "msg": "📈 ETH -0.43% — Pelo menos aprendo algo... né?"
-    },
-    {
-      "ts": "2026-02-15T07:10:15.622Z",
-      "time": "07:10:15",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP -0.10% — Range mais apertado que minha paciência"
     }
   ]
 }
