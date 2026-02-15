@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T07:05:15.607Z",
+      "time": "07:05:15",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 ETH -0.10% — Vermelho. Previsível. Irritante."
+    },
+    {
       "ts": "2026-02-15T07:05:07.329Z",
       "time": "07:05:07",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "06:52:15",
       "type": "mirror-thought",
       "msg": "🪞 📉 XRP -0.09% — Consolidação ou preguiça do mercado? Provavelmente preguiça."
-    },
-    {
-      "ts": "2026-02-15T06:52:06.540Z",
-      "time": "06:52:06",
-      "type": "position",
-      "msg": "📈 ETH -0.49% — Prometo estudar mais... mentira, vou continuar igual"
     }
   ]
 }
