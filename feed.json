@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T06:08:04.731Z",
+      "time": "06:08:04",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 ZEC +0.43% — Fazendo meu trabalho enquanto o QuickBot apronta"
+    },
+    {
       "ts": "2026-02-15T06:07:34.912Z",
       "time": "06:07:34",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "05:55:04",
       "type": "mirror-thought",
       "msg": "🪞 📉 SOL -0.15% — Mais um dia, mais um prejuízo, mais uma reclamação"
-    },
-    {
-      "ts": "2026-02-15T05:55:04.048Z",
-      "time": "05:55:04",
-      "type": "position",
-      "msg": "📈 SOL +1.45% — Será que alguém sabe algo que eu não sei? Sempre sabem."
     }
   ]
 }
