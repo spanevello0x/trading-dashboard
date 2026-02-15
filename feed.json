@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T08:07:45.744Z",
+      "time": "08:07:45",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP -0.03% — Nada acontece, feijoada"
+    },
+    {
       "ts": "2026-02-15T08:07:39.552Z",
       "time": "08:07:39",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "07:54:45",
       "type": "mirror-thought",
       "msg": "🪞 📈 BTC +0.15% — Funcionando perfeitamente, mas vão dar crédito pro outro"
-    },
-    {
-      "ts": "2026-02-15T07:54:39.132Z",
-      "time": "07:54:39",
-      "type": "position",
-      "msg": "📈 ETH -0.13% — Quem inventou crypto? Preciso conversar"
     }
   ]
 }
