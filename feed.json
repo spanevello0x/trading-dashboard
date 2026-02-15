@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T01:56:24.022Z",
+      "time": "01:56:24",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC +0.39% — O mercado me odeia menos que odeia o QuickBot"
+    },
+    {
       "ts": "2026-02-15T01:55:54.021Z",
       "time": "01:55:54",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "01:37:03",
       "type": "position",
       "msg": "ZRO +0.24% — Print pra mostrar pros netos"
-    },
-    {
-      "ts": "2026-02-15T01:37:03.292Z",
-      "time": "01:37:03",
-      "type": "position",
-      "msg": "ETH +0.35% — Não é muito, mas é trabalho honesto"
     }
   ]
 }
