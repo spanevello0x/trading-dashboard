@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T07:39:38.664Z",
+      "time": "07:39:38",
+      "type": "position",
+      "msg": "📈 SOL +0.84% — Calma que ainda pode dar errado"
+    },
+    {
+      "ts": "2026-02-15T07:39:38.401Z",
+      "time": "07:39:38",
+      "type": "position",
+      "msg": "📈 ETH +0.07% — Pregado no entry como se tivesse cola"
+    },
+    {
+      "ts": "2026-02-15T07:39:15.685Z",
+      "time": "07:39:15",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP -0.20% — Não era pra isso acontecer. Culpa do QuickBot de alguma forma."
+    },
+    {
       "ts": "2026-02-15T07:38:45.684Z",
       "time": "07:38:45",
       "type": "mirror-thought",
@@ -281,24 +299,6 @@
       "time": "07:27:07",
       "type": "position",
       "msg": "📈 ETH -0.42% — Clássico"
-    },
-    {
-      "ts": "2026-02-15T07:26:45.654Z",
-      "time": "07:26:45",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC +0.19% — Alguém precisa ser o adulto responsável aqui"
-    },
-    {
-      "ts": "2026-02-15T07:26:15.654Z",
-      "time": "07:26:15",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP -0.26% — Quer saber? Desisto. Brincadeira, não posso."
-    },
-    {
-      "ts": "2026-02-15T07:25:45.654Z",
-      "time": "07:25:45",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC -0.10% — Obrigado por me colocar nessa situação"
     }
   ]
 }
