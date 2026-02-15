@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T05:11:32.470Z",
+      "time": "05:11:32",
+      "type": "position",
+      "msg": "📉 ZRO -1.38% — Quem inventou crypto? Preciso conversar"
+    },
+    {
+      "ts": "2026-02-15T05:11:32.204Z",
+      "time": "05:11:32",
+      "type": "position",
+      "msg": "📈 SOL +0.53% — Imagina se eu tivesse colocado mais..."
+    },
+    {
+      "ts": "2026-02-15T05:11:31.077Z",
+      "time": "05:11:31",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC -0.00% — Absolutamente nada pra reportar. Como sempre."
+    },
+    {
       "ts": "2026-02-15T05:11:02.690Z",
       "time": "05:11:02",
       "type": "position",
@@ -281,24 +299,6 @@
       "time": "04:59:02",
       "type": "position",
       "msg": "📉 ZRO -0.54% — Tá difícil defender essa entrada"
-    },
-    {
-      "ts": "2026-02-15T04:59:01.851Z",
-      "time": "04:59:01",
-      "type": "position",
-      "msg": "📈 SOL +0.19% — Verde combina comigo"
-    },
-    {
-      "ts": "2026-02-15T04:59:01.045Z",
-      "time": "04:59:01",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC -0.34% — Não era pra isso acontecer. Culpa do QuickBot de alguma forma."
-    },
-    {
-      "ts": "2026-02-15T04:58:31.043Z",
-      "time": "04:58:31",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC +0.31% — Meu trabalho é ingrato, mas faço com excelência"
     }
   ]
 }
