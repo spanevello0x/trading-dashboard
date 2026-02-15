@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T04:02:59.364Z",
+      "time": "04:02:59",
+      "type": "position",
+      "msg": "📈 SOL +0.46% — Verde combina comigo"
+    },
+    {
+      "ts": "2026-02-15T04:02:59.325Z",
+      "time": "04:02:59",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP -0.22% — O mercado tá de sacanagem"
+    },
+    {
       "ts": "2026-02-15T04:02:29.540Z",
       "time": "04:02:29",
       "type": "position",
@@ -259,12 +271,6 @@
       "msg": "Hmm, AVAX mostrando sinais de LONG (78%)"
     },
     {
-      "ts": "2026-02-15T03:56:12.813Z",
-      "time": "03:56:12",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - DOGE cancelado"
-    },
-    {
       "ts": "2026-02-15T03:55:57.022Z",
       "time": "03:55:57",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "03:54:25",
       "type": "mirror-thought",
       "msg": "🪞 📉 XRP +0.29% — Lucrando aqui pra cobrir o estrago de lá"
-    },
-    {
-      "ts": "2026-02-15T03:53:55.102Z",
-      "time": "03:53:55",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC +0.10% — Esperando o próximo desastre ou milagre. Tanto faz."
     }
   ]
 }
