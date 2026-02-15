@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T02:52:54.460Z",
+      "time": "02:52:54",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC +0.31% — Ótimo, agora vou ter que ouvir que 'deu certo'"
+    },
+    {
       "ts": "2026-02-15T02:52:26.740Z",
       "time": "02:52:26",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "02:41:54",
       "type": "mirror-thought",
       "msg": "🪞 📈 ETH -0.49% — O hedge não funciona se TUDO desaba, gênio"
-    },
-    {
-      "ts": "2026-02-15T02:41:26.194Z",
-      "time": "02:41:26",
-      "type": "position",
-      "msg": "📉 ZRO -1.04% — Quem mandou confiar em linha colorida"
     }
   ]
 }
