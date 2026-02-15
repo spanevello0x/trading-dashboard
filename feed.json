@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T05:43:03.869Z",
+      "time": "05:43:03",
+      "type": "position",
+      "msg": "📉 ZRO -1.96% — Prometo estudar mais... mentira, vou continuar igual"
+    },
+    {
+      "ts": "2026-02-15T05:43:01.335Z",
+      "time": "05:43:01",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL -0.35% — Parabéns mercado, você venceu. Por enquanto."
+    },
+    {
       "ts": "2026-02-15T05:42:33.626Z",
       "time": "05:42:33",
       "type": "position",
@@ -287,18 +299,6 @@
       "time": "05:30:31",
       "type": "mirror-thought",
       "msg": "🪞 📉 SOL -0.19% — Fiz minha parte, o universo que não colaborou"
-    },
-    {
-      "ts": "2026-02-15T05:30:03.420Z",
-      "time": "05:30:03",
-      "type": "position",
-      "msg": "📈 SOL +0.94% — Calma que ainda pode dar errado"
-    },
-    {
-      "ts": "2026-02-15T05:30:01.301Z",
-      "time": "05:30:01",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 SOL +0.17% — Delta neutral funcionando. Genial? Sim. Reconhecido? Nunca."
     }
   ]
 }
