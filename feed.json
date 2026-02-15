@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T04:56:30.733Z",
+      "time": "04:56:30",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP +0.02% — Lateral é o novo tendência aparentemente"
+    },
+    {
       "ts": "2026-02-15T04:56:02.068Z",
       "time": "04:56:02",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "04:44:01",
       "type": "position",
       "msg": "📈 SOL +0.37% — Até um relógio quebrado acerta duas vezes"
-    },
-    {
-      "ts": "2026-02-15T04:44:00.708Z",
-      "time": "04:44:00",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP -0.15% — Perdendo aqui porque ALGUÉM tinha que abrir posição"
     }
   ]
 }
