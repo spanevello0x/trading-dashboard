@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T03:33:58.334Z",
+      "time": "03:33:58",
+      "type": "position",
+      "msg": "📉 ZRO +0.33% — Print pra mostrar pros netos"
+    },
+    {
+      "ts": "2026-02-15T03:33:58.053Z",
+      "time": "03:33:58",
+      "type": "position",
+      "msg": "📉 ETH +0.35% — Não sou eu, é o mercado que tá errado... ah não, dessa vez acertou"
+    },
+    {
+      "ts": "2026-02-15T03:33:54.537Z",
+      "time": "03:33:54",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 ETH -0.30% — Vermelho dos dois lados. Arte moderna isso."
+    },
+    {
       "ts": "2026-02-15T03:33:24.537Z",
       "time": "03:33:24",
       "type": "mirror-thought",
@@ -247,18 +265,6 @@
       "msg": "🎯 SHORT VIRTUAL @ $0.68 (78%) — Nova aposta na mesa"
     },
     {
-      "ts": "2026-02-15T03:27:13.360Z",
-      "time": "03:27:13",
-      "type": "analysis",
-      "msg": "Analisando VIRTUAL... parece SHORT (78%)"
-    },
-    {
-      "ts": "2026-02-15T03:27:13.008Z",
-      "time": "03:27:13",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - AZTEC cancelado"
-    },
-    {
       "ts": "2026-02-15T03:26:54.531Z",
       "time": "03:26:54",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "03:24:24",
       "type": "mirror-thought",
       "msg": "🪞 📈 BTC -0.23% — Fiz minha parte, o universo que não colaborou"
-    },
-    {
-      "ts": "2026-02-15T03:23:54.525Z",
-      "time": "03:23:54",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP -0.07% — O emocionante mundo do zero por cento"
     }
   ]
 }
