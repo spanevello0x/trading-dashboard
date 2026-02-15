@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T02:39:55.766Z",
+      "time": "02:39:55",
+      "type": "position",
+      "msg": "📉 ETH +0.29% — Isso aí, garoto. Vai, vai, vai..."
+    },
+    {
+      "ts": "2026-02-15T02:39:54.446Z",
+      "time": "02:39:54",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 ETH -0.40% — O mercado acordou e escolheu caos"
+    },
+    {
       "ts": "2026-02-15T02:39:26.389Z",
       "time": "02:39:26",
       "type": "position",
@@ -287,18 +299,6 @@
       "time": "02:29:54",
       "type": "mirror-thought",
       "msg": "🪞 📉 XRP +0.07% — Se emoção matasse, eu taria vivo pra sempre"
-    },
-    {
-      "ts": "2026-02-15T02:29:25.635Z",
-      "time": "02:29:25",
-      "type": "position",
-      "msg": "📉 ZRO -0.58% — Prometo estudar mais... mentira, vou continuar igual"
-    },
-    {
-      "ts": "2026-02-15T02:29:25.372Z",
-      "time": "02:29:25",
-      "type": "position",
-      "msg": "📉 ETH +0.44% — Não é muito, mas é trabalho honesto"
     }
   ]
 }
