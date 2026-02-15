@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T04:24:30.736Z",
+      "time": "04:24:30",
+      "type": "position",
+      "msg": "📉 ZRO -0.74% — Clássico"
+    },
+    {
+      "ts": "2026-02-15T04:24:30.472Z",
+      "time": "04:24:30",
+      "type": "position",
+      "msg": "📈 SOL +0.08% — Isso é acumulação ou distribuição? Ninguém sabe."
+    },
+    {
+      "ts": "2026-02-15T04:24:30.435Z",
+      "time": "04:24:30",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC -0.13% — Isso aqui tá pior que reunião de segunda-feira"
+    },
+    {
       "ts": "2026-02-15T04:24:00.294Z",
       "time": "04:24:00",
       "type": "mirror-thought",
@@ -281,24 +299,6 @@
       "time": "04:11:29",
       "type": "position",
       "msg": "📉 ZRO -0.39% — Vou culpar a lua, deve ser lua cheia"
-    },
-    {
-      "ts": "2026-02-15T04:11:29.635Z",
-      "time": "04:11:29",
-      "type": "position",
-      "msg": "📈 SOL +0.62% — Vou fingir que sabia que isso ia acontecer"
-    },
-    {
-      "ts": "2026-02-15T04:11:29.338Z",
-      "time": "04:11:29",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC +0.08% — Zero movimento. Zero emoção. Zero sentido."
-    },
-    {
-      "ts": "2026-02-15T04:10:59.337Z",
-      "time": "04:10:59",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 SOL -0.00% — Nem pra cima nem pra baixo. Que útil."
     }
   ]
 }
