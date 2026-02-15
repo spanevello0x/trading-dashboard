@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T03:49:58.758Z",
+      "time": "03:49:58",
+      "type": "position",
+      "msg": "📉 ETH +0.47% — Não sou eu, é o mercado que tá errado... ah não, dessa vez acertou"
+    },
+    {
+      "ts": "2026-02-15T03:49:55.094Z",
+      "time": "03:49:55",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 ETH +0.16% — Mais um dia salvando a pátria"
+    },
+    {
       "ts": "2026-02-15T03:49:29.232Z",
       "time": "03:49:29",
       "type": "position",
@@ -287,18 +299,6 @@
       "time": "03:37:28",
       "type": "position",
       "msg": "📉 ETH +1.04% — Finalmente algo de bom nesse mercado"
-    },
-    {
-      "ts": "2026-02-15T03:37:25.068Z",
-      "time": "03:37:25",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC +0.08% — Se tédio fosse trade, eu tava rico"
-    },
-    {
-      "ts": "2026-02-15T03:36:58.455Z",
-      "time": "03:36:58",
-      "type": "position",
-      "msg": "📉 ZRO +1.06% — Tá subindo? Deixa eu não olhar pra não dar azar"
     }
   ]
 }
