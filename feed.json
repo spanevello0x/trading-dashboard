@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T07:22:15.647Z",
+      "time": "07:22:15",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL +0.34% — Imagina se não tivesse eu aqui... caos total"
+    },
+    {
       "ts": "2026-02-15T07:22:07.816Z",
       "time": "07:22:07",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "07:09:15",
       "type": "mirror-thought",
       "msg": "🪞 📉 SOL +0.22% — Lucrando aqui pra cobrir o estrago de lá"
-    },
-    {
-      "ts": "2026-02-15T07:09:07.653Z",
-      "time": "07:09:07",
-      "type": "position",
-      "msg": "📈 SOL -0.45% — Sabia que não devia ter olhado"
     }
   ]
 }
