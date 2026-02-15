@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T08:39:46.490Z",
+      "time": "08:39:46",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 ETH -0.24% — Eu AVISEI que isso podia acontecer. Avisei? Não? Deveria ter avisado."
+    },
+    {
       "ts": "2026-02-15T08:39:16.489Z",
       "time": "08:39:16",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "08:31:16",
       "type": "mirror-thought",
       "msg": "🪞 📈 BTC -0.29% — Meu trabalho é neutralizar, não fazer milagre"
-    },
-    {
-      "ts": "2026-02-15T08:30:46.112Z",
-      "time": "08:30:46",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC -0.49% — Prejuízo compartilhado é prejuízo... dobrado"
     }
   ]
 }
