@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T08:10:45.750Z",
+      "time": "08:10:45",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL -0.07% — Nem o mercado sabe o que quer"
+    },
+    {
       "ts": "2026-02-15T08:10:39.959Z",
       "time": "08:10:39",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "07:57:45",
       "type": "mirror-thought",
       "msg": "🪞 📈 BTC -0.07% — Travado. Paralisado. Empacado. Sinônimos de agora."
-    },
-    {
-      "ts": "2026-02-15T07:57:15.726Z",
-      "time": "07:57:15",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC +0.30% — Obrigado por nada, eu que me viro mesmo"
     }
   ]
 }
