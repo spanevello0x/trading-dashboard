@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T02:22:25.086Z",
+      "time": "02:22:25",
+      "type": "position",
+      "msg": "📉 ETH +0.62% — Calma que ainda pode dar errado"
+    },
+    {
+      "ts": "2026-02-15T02:22:24.430Z",
+      "time": "02:22:24",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 ETH +0.27% — Ótimo, agora vou ter que ouvir que 'deu certo'"
+    },
+    {
       "ts": "2026-02-15T02:21:55.961Z",
       "time": "02:21:55",
       "type": "position",
@@ -287,18 +299,6 @@
       "time": "02:12:54",
       "type": "mirror-thought",
       "msg": "🪞 📉 XRP +0.47% — Mais um resgate bem-sucedido"
-    },
-    {
-      "ts": "2026-02-15T02:12:25.034Z",
-      "time": "02:12:25",
-      "type": "position",
-      "msg": "📉 ZRO -1.41% — Quem inventou crypto? Preciso conversar"
-    },
-    {
-      "ts": "2026-02-15T02:12:24.424Z",
-      "time": "02:12:24",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC +0.15% — Sou o plano B que deveria ser o plano A"
     }
   ]
 }
