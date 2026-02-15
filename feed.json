@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T08:33:40.631Z",
+      "time": "08:33:40",
+      "type": "position",
+      "msg": "📉 ETH +0.63% — Meu psicólogo vai ficar orgulhoso"
+    },
+    {
+      "ts": "2026-02-15T08:33:16.313Z",
+      "time": "08:33:16",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 ETH -0.04% — Lateral infinita. Que emocionante. Não."
+    },
+    {
       "ts": "2026-02-15T08:32:46.312Z",
       "time": "08:32:46",
       "type": "mirror-thought",
@@ -199,12 +211,6 @@
       "msg": "🎯 SHORT AVAX @ $9.61 (89%) — Vamo ver no que dá"
     },
     {
-      "ts": "2026-02-15T08:31:30.606Z",
-      "time": "08:31:30",
-      "type": "analysis",
-      "msg": "AVAX no radar: 89% SHORT"
-    },
-    {
       "ts": "2026-02-15T08:31:20.816Z",
       "time": "08:31:20",
       "type": "mirror-close",
@@ -293,12 +299,6 @@
       "time": "08:24:46",
       "type": "mirror-thought",
       "msg": "🪞 📉 XRP +0.36% — Carregando esse time nas costas, como sempre"
-    },
-    {
-      "ts": "2026-02-15T08:24:16.048Z",
-      "time": "08:24:16",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC +0.01% — Não ganha, não perde, não anima"
     }
   ]
 }
