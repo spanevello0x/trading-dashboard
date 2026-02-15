@@ -1,29 +1,209 @@
 {
-  "lastUpdate": "2026-02-15T06:26:42.923Z",
+  "lastUpdate": "2026-02-15T06:27:13.597Z",
   "feed": [
     {
-      "ts": "2026-02-15T06:26:35.854Z",
-      "time": "06:26:35",
-      "type": "execution",
-      "msg": "⚙️ Leverage: 5x"
+      "ts": "2026-02-15T06:27:05.654Z",
+      "time": "06:27:05",
+      "type": "position",
+      "msg": "📈 SOL -0.01% — Plot twist a qualquer momento"
     },
     {
-      "ts": "2026-02-15T06:26:35.490Z",
-      "time": "06:26:35",
-      "type": "signal",
-      "msg": "🎯 LONG ETH @ $2092.30 (78%) — Mais uma pro histórico"
+      "ts": "2026-02-15T06:27:05.385Z",
+      "time": "06:27:05",
+      "type": "position",
+      "msg": "📈 ETH -0.04% — A calmaria antes da tempestade... ou mais calmaria"
     },
     {
-      "ts": "2026-02-15T06:26:35.490Z",
-      "time": "06:26:35",
+      "ts": "2026-02-15T06:27:05.380Z",
+      "time": "06:27:05",
+      "type": "mirror-open",
+      "msg": "🪞 📉 Abrindo SHORT SOL @ $89.97 — Abrindo posição porque ALGUÉM tem que fazer hedge"
+    },
+    {
+      "ts": "2026-02-15T06:27:03.368Z",
+      "time": "06:27:03",
       "type": "analysis",
-      "msg": "ETH tá interessante, 78% pro LONG"
+      "msg": "JUP no radar: 56% LONG"
     },
     {
-      "ts": "2026-02-15T06:26:35.130Z",
-      "time": "06:26:35",
+      "ts": "2026-02-15T06:27:03.025Z",
+      "time": "06:27:03",
       "type": "system",
-      "msg": "ZEC fechou — Done deal"
+      "msg": "⚠️ Limite atingido (5/5) - LINK cancelado"
+    },
+    {
+      "ts": "2026-02-15T06:27:02.752Z",
+      "time": "06:27:02",
+      "type": "signal",
+      "msg": "🎯 LONG LINK @ $9.20 (100%) — Setup alinhado, agora é com o mercado"
+    },
+    {
+      "ts": "2026-02-15T06:27:02.751Z",
+      "time": "06:27:02",
+      "type": "analysis",
+      "msg": "LINK tá interessante, 100% pro LONG"
+    },
+    {
+      "ts": "2026-02-15T06:27:02.112Z",
+      "time": "06:27:02",
+      "type": "system",
+      "msg": "⚠️ Limite atingido (5/5) - ARB cancelado"
+    },
+    {
+      "ts": "2026-02-15T06:27:01.473Z",
+      "time": "06:27:01",
+      "type": "signal",
+      "msg": "🎯 LONG ARB @ $0.12 (78%) — Setup alinhado, agora é com o mercado"
+    },
+    {
+      "ts": "2026-02-15T06:27:01.472Z",
+      "time": "06:27:01",
+      "type": "analysis",
+      "msg": "Hmm, ARB mostrando sinais de LONG (78%)"
+    },
+    {
+      "ts": "2026-02-15T06:27:00.943Z",
+      "time": "06:27:00",
+      "type": "system",
+      "msg": "⚠️ Limite atingido (5/5) - kPEPE cancelado"
+    },
+    {
+      "ts": "2026-02-15T06:27:00.664Z",
+      "time": "06:27:00",
+      "type": "signal",
+      "msg": "🎯 SHORT kPEPE @ $0.00 (78%) — Dessa vez vai (eu acho)"
+    },
+    {
+      "ts": "2026-02-15T06:27:00.663Z",
+      "time": "06:27:00",
+      "type": "analysis",
+      "msg": "kPEPE tá interessante, 78% pro SHORT"
+    },
+    {
+      "ts": "2026-02-15T06:27:00.130Z",
+      "time": "06:27:00",
+      "type": "system",
+      "msg": "⚠️ Limite atingido (5/5) - XMR cancelado"
+    },
+    {
+      "ts": "2026-02-15T06:26:59.815Z",
+      "time": "06:26:59",
+      "type": "signal",
+      "msg": "🎯 LONG XMR @ $353.41 (78%) — Essa eu senti"
+    },
+    {
+      "ts": "2026-02-15T06:26:59.815Z",
+      "time": "06:26:59",
+      "type": "analysis",
+      "msg": "Hmm, XMR mostrando sinais de LONG (78%)"
+    },
+    {
+      "ts": "2026-02-15T06:26:59.540Z",
+      "time": "06:26:59",
+      "type": "analysis",
+      "msg": "VVV tá interessante, 56% pro SHORT"
+    },
+    {
+      "ts": "2026-02-15T06:26:59.157Z",
+      "time": "06:26:59",
+      "type": "system",
+      "msg": "⚠️ Limite atingido (5/5) - TAO cancelado"
+    },
+    {
+      "ts": "2026-02-15T06:26:58.882Z",
+      "time": "06:26:58",
+      "type": "signal",
+      "msg": "🎯 LONG TAO @ $191.05 (78%) — Essa eu senti"
+    },
+    {
+      "ts": "2026-02-15T06:26:58.881Z",
+      "time": "06:26:58",
+      "type": "analysis",
+      "msg": "TAO no radar: 78% LONG"
+    },
+    {
+      "ts": "2026-02-15T06:26:58.542Z",
+      "time": "06:26:58",
+      "type": "analysis",
+      "msg": "BNB no radar: 67% LONG"
+    },
+    {
+      "ts": "2026-02-15T06:26:58.202Z",
+      "time": "06:26:58",
+      "type": "analysis",
+      "msg": "Analisando AVAX... parece LONG (67%)"
+    },
+    {
+      "ts": "2026-02-15T06:26:57.520Z",
+      "time": "06:26:57",
+      "type": "analysis",
+      "msg": "Analisando AZTEC... parece LONG (67%)"
+    },
+    {
+      "ts": "2026-02-15T06:26:57.192Z",
+      "time": "06:26:57",
+      "type": "analysis",
+      "msg": "Hmm, BERA mostrando sinais de LONG (67%)"
+    },
+    {
+      "ts": "2026-02-15T06:26:56.073Z",
+      "time": "06:26:56",
+      "type": "system",
+      "msg": "⚠️ Limite atingido (5/5) - FARTCOIN cancelado"
+    },
+    {
+      "ts": "2026-02-15T06:26:55.754Z",
+      "time": "06:26:55",
+      "type": "signal",
+      "msg": "🎯 SHORT FARTCOIN @ $0.21 (100%) — Dessa vez vai (eu acho)"
+    },
+    {
+      "ts": "2026-02-15T06:26:55.753Z",
+      "time": "06:26:55",
+      "type": "analysis",
+      "msg": "Hmm, FARTCOIN mostrando sinais de SHORT (100%)"
+    },
+    {
+      "ts": "2026-02-15T06:26:55.472Z",
+      "time": "06:26:55",
+      "type": "analysis",
+      "msg": "Hmm, XPL mostrando sinais de LONG (56%)"
+    },
+    {
+      "ts": "2026-02-15T06:26:54.686Z",
+      "time": "06:26:54",
+      "type": "system",
+      "msg": "⚠️ Limite atingido (5/5) - MON cancelado"
+    },
+    {
+      "ts": "2026-02-15T06:26:54.389Z",
+      "time": "06:26:54",
+      "type": "signal",
+      "msg": "🎯 LONG MON @ $0.02 (100%) — Nova aposta na mesa"
+    },
+    {
+      "ts": "2026-02-15T06:26:54.388Z",
+      "time": "06:26:54",
+      "type": "analysis",
+      "msg": "Analisando MON... parece LONG (100%)"
+    },
+    {
+      "ts": "2026-02-15T06:26:53.580Z",
+      "time": "06:26:53",
+      "type": "mirror-open",
+      "msg": "🪞 📉 Abrindo SHORT ETH @ $2093.35 — Começando mais um trabalho não reconhecido"
+    },
+    {
+      "ts": "2026-02-15T06:26:40.822Z",
+      "time": "06:26:40",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP +0.38% — Ganhando aqui pra compensar a burrice do outro lado"
+    },
+    {
+      "ts": "2026-02-15T06:26:37.035Z",
+      "time": "06:26:37",
+      "type": "mirror-close",
+      "msg": "🪞 ZEC fechado (+$0.00) — Fechado com sucesso. Obviamente."
     },
     {
       "ts": "2026-02-15T06:26:19.968Z",
@@ -38,22 +218,10 @@
       "msg": "🪞 📉 XRP +0.42% — Fazendo meu trabalho enquanto o QuickBot apronta"
     },
     {
-      "ts": "2026-02-15T06:26:05.152Z",
-      "time": "06:26:05",
-      "type": "system",
-      "msg": "⏰ SOL expirou (30 candles) — Cancelando"
-    },
-    {
       "ts": "2026-02-15T06:25:39.888Z",
       "time": "06:25:39",
       "type": "mirror-thought",
       "msg": "🪞 📉 SOL +0.14% — Mais um resgate bem-sucedido"
-    },
-    {
-      "ts": "2026-02-15T06:25:35.711Z",
-      "time": "06:25:35",
-      "type": "position",
-      "msg": "📉 ZEC -0.85% — Pelo menos não é dinheiro de verdade... ah, espera"
     },
     {
       "ts": "2026-02-15T06:25:09.887Z",
@@ -62,22 +230,10 @@
       "msg": "🪞 📈 ZEC +0.40% — Sou o plano B que deveria ser o plano A"
     },
     {
-      "ts": "2026-02-15T06:25:05.827Z",
-      "time": "06:25:05",
-      "type": "position",
-      "msg": "📈 SOL +1.54% — Será que alguém sabe algo que eu não sei? Sempre sabem."
-    },
-    {
       "ts": "2026-02-15T06:24:39.886Z",
       "time": "06:24:39",
       "type": "mirror-thought",
       "msg": "🪞 📈 BTC -0.31% — Isso aqui tá pior que reunião de segunda-feira"
-    },
-    {
-      "ts": "2026-02-15T06:24:35.609Z",
-      "time": "06:24:35",
-      "type": "position",
-      "msg": "📉 ZEC -0.72% — Não é prejuízo se eu não vender... ah, tem stop"
     },
     {
       "ts": "2026-02-15T06:24:09.885Z",
@@ -86,28 +242,10 @@
       "msg": "🪞 📉 SOL +0.07% — Estável. Boring. Previsível."
     },
     {
-      "ts": "2026-02-15T06:24:05.641Z",
-      "time": "06:24:05",
-      "type": "position",
-      "msg": "📉 ZEC -0.33% — Loss building character 💪"
-    },
-    {
       "ts": "2026-02-15T06:23:39.884Z",
       "time": "06:23:39",
       "type": "mirror-thought",
       "msg": "🪞 📈 BTC -0.00% — Nem sobe nem desce. Assim como minha esperança."
-    },
-    {
-      "ts": "2026-02-15T06:23:35.599Z",
-      "time": "06:23:35",
-      "type": "position",
-      "msg": "📉 ZEC -0.54% — Loss building character 💪"
-    },
-    {
-      "ts": "2026-02-15T06:23:35.332Z",
-      "time": "06:23:35",
-      "type": "position",
-      "msg": "📈 SOL +1.43% — Olha só, o mercado decidiu colaborar hoje"
     },
     {
       "ts": "2026-02-15T06:23:09.883Z",
@@ -122,18 +260,6 @@
       "msg": "🪞 📈 ZEC -0.43% — Não era assim no backtest"
     },
     {
-      "ts": "2026-02-15T06:22:35.492Z",
-      "time": "06:22:35",
-      "type": "position",
-      "msg": "📉 ZEC -0.51% — Mercado fazendo mercadisse"
-    },
-    {
-      "ts": "2026-02-15T06:22:35.230Z",
-      "time": "06:22:35",
-      "type": "position",
-      "msg": "📈 SOL +1.34% — Lucro é lucro, mesmo que pague só o almoço"
-    },
-    {
       "ts": "2026-02-15T06:22:09.880Z",
       "time": "06:22:09",
       "type": "mirror-thought",
@@ -144,18 +270,6 @@
       "time": "06:21:39",
       "type": "mirror-thought",
       "msg": "🪞 📈 BTC -0.29% — Se eu pudesse, mandava o mercado se explicar"
-    },
-    {
-      "ts": "2026-02-15T06:21:35.478Z",
-      "time": "06:21:35",
-      "type": "position",
-      "msg": "📉 ZEC -0.52% — Meu eu do passado tomou essa decisão, problema dele"
-    },
-    {
-      "ts": "2026-02-15T06:21:35.201Z",
-      "time": "06:21:35",
-      "type": "position",
-      "msg": "📈 SOL +1.34% — Quase consigo pagar o café de ontem"
     },
     {
       "ts": "2026-02-15T06:21:09.877Z",
@@ -170,18 +284,6 @@
       "msg": "🪞 📈 BTC -0.03% — Flat como a Terra. Brincadeira. Mas o mercado tá."
     },
     {
-      "ts": "2026-02-15T06:20:35.464Z",
-      "time": "06:20:35",
-      "type": "position",
-      "msg": "📉 ZEC -0.65% — Ah sim, o famoso 'compra no topo'"
-    },
-    {
-      "ts": "2026-02-15T06:20:35.164Z",
-      "time": "06:20:35",
-      "type": "position",
-      "msg": "📈 SOL +1.52% — Tá verde? Tira print rápido antes que vire"
-    },
-    {
       "ts": "2026-02-15T06:20:09.876Z",
       "time": "06:20:09",
       "type": "mirror-thought",
@@ -194,165 +296,99 @@
       "msg": "🪞 📈 ZEC +0.05% — Nem pra cima nem pra baixo. Que útil."
     },
     {
-      "ts": "2026-02-15T06:19:35.424Z",
-      "time": "06:19:35",
-      "type": "position",
-      "msg": "📉 ZEC -0.63% — O mercado escolheu violência hoje"
-    },
-    {
-      "ts": "2026-02-15T06:19:35.161Z",
-      "time": "06:19:35",
-      "type": "position",
-      "msg": "📈 SOL +1.27% — Tá bom demais pra ser verdade... ops, não deveria falar isso"
-    },
-    {
       "ts": "2026-02-15T06:19:09.874Z",
       "time": "06:19:09",
       "type": "mirror-thought",
       "msg": "🪞 📈 BTC +0.41% — Verde aqui, vermelho lá. Balanço perfeito. De nada."
-    },
-    {
-      "ts": "2026-02-15T06:18:39.873Z",
-      "time": "06:18:39",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 SOL -0.28% — Perfeito. Agora os dois lados tão perdendo. Maravilha."
-    },
-    {
-      "ts": "2026-02-15T06:18:35.329Z",
-      "time": "06:18:35",
-      "type": "position",
-      "msg": "📉 ZEC -0.82% — O mercado acordou e escolheu me machucar"
-    },
-    {
-      "ts": "2026-02-15T06:18:35.070Z",
-      "time": "06:18:35",
-      "type": "position",
-      "msg": "📈 SOL +1.33% — Alguém avisa o mercado que eu tô comprado"
-    },
-    {
-      "ts": "2026-02-15T06:18:09.872Z",
-      "time": "06:18:09",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC -0.38% — Meu trabalho é neutralizar, não fazer milagre"
-    },
-    {
-      "ts": "2026-02-15T06:17:39.872Z",
-      "time": "06:17:39",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP -0.44% — Até o hedge sofre nesse mercado desgraçado"
-    },
-    {
-      "ts": "2026-02-15T06:17:09.871Z",
-      "time": "06:17:09",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 SOL +0.30% — Lucrando aqui pra cobrir o estrago de lá"
-    },
-    {
-      "ts": "2026-02-15T06:17:05.491Z",
-      "time": "06:17:05",
-      "type": "position",
-      "msg": "📉 ZEC -0.80% — Tá bom, universo, entendi o recado"
-    },
-    {
-      "ts": "2026-02-15T06:17:05.166Z",
-      "time": "06:17:05",
-      "type": "position",
-      "msg": "📈 SOL +1.30% — Stonks 📈 (desculpa, não resisti)"
-    },
-    {
-      "ts": "2026-02-15T06:16:39.870Z",
-      "time": "06:16:39",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 SOL +0.36% — Imagina se não tivesse eu aqui... caos total"
-    },
-    {
-      "ts": "2026-02-15T06:16:09.868Z",
-      "time": "06:16:09",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC -0.17% — Se o QuickBot não tivesse... ah, deixa pra lá"
-    },
-    {
-      "ts": "2026-02-15T06:16:05.226Z",
-      "time": "06:16:05",
-      "type": "position",
-      "msg": "📉 ZEC -0.54% — Clássico"
-    },
-    {
-      "ts": "2026-02-15T06:16:04.961Z",
-      "time": "06:16:04",
-      "type": "position",
-      "msg": "📈 SOL +1.12% — Tá subindo? Deixa eu não olhar pra não dar azar"
-    },
-    {
-      "ts": "2026-02-15T06:15:39.866Z",
-      "time": "06:15:39",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 SOL -0.17% — Delta neutral de prejuízo. Inovador."
-    },
-    {
-      "ts": "2026-02-15T06:15:09.865Z",
-      "time": "06:15:09",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 SOL -0.21% — Tá todo mundo perdendo e a culpa vai cair em mim"
-    },
-    {
-      "ts": "2026-02-15T06:15:04.910Z",
-      "time": "06:15:04",
-      "type": "position",
-      "msg": "📈 SOL +1.14% — Lucro é lucro, mesmo que pague só o almoço"
     }
   ],
   "hl": {
-    "balance": 16.207293,
+    "balance": 16.164748,
     "positions": [
       {
         "coin": "BTC",
         "side": "SHORT",
         "size": 0.00032,
         "entry": 69697,
-        "pnl": -0.23616,
-        "pnlPct": -5.29434552
+        "pnl": -0.24544,
+        "pnlPct": -5.5023889100000005
+      },
+      {
+        "coin": "ETH",
+        "side": "LONG",
+        "size": 0.0077,
+        "entry": 2092.4,
+        "pnl": -0.00621,
+        "pnlPct": -0.19271913000000002
+      },
+      {
+        "coin": "SOL",
+        "side": "LONG",
+        "size": 0.18,
+        "entry": 89.898,
+        "pnl": -0.00126,
+        "pnlPct": -0.03893301
       },
       {
         "coin": "XRP",
         "side": "LONG",
         "size": 11,
         "entry": 1.4503,
-        "pnl": 1.5004,
-        "pnlPct": 47.0247535
+        "pnl": 1.4883,
+        "pnlPct": 46.645521620000004
       },
       {
         "coin": "OM",
         "side": "LONG",
         "size": 83.5,
         "entry": 0.06402,
-        "pnl": -0.151135,
-        "pnlPct": -8.481724459999999
+        "pnl": -0.1503,
+        "pnlPct": -8.4348641
       }
     ]
   },
   "nado": {
-    "balance": 14.819559913709586,
+    "balance": 14.941047659420587,
     "positions": [
       {
         "coin": "BTC",
         "side": "LONG",
         "size": 0.0006,
         "entry": 69665,
-        "price": 70462.5,
-        "notional": 42.277499999999996,
-        "pnl": 0.4785,
-        "pnlPct": 1.1447642288093018
+        "price": 70487.5,
+        "notional": 42.2925,
+        "pnl": 0.49349999999999994,
+        "pnlPct": 1.1806502547907844
+      },
+      {
+        "coin": "ETH",
+        "side": "SHORT",
+        "size": 0.007,
+        "entry": 2093.35,
+        "price": 2093.1499999999996,
+        "notional": 14.652049999999997,
+        "pnl": 0.00140000000000191,
+        "pnlPct": 0.009554064060012557
+      },
+      {
+        "coin": "SOL",
+        "side": "SHORT",
+        "size": 0.1,
+        "entry": 89.965,
+        "price": 89.975,
+        "notional": 8.9975,
+        "pnl": -0.0009999999999990906,
+        "pnlPct": -0.011115433779793148
       },
       {
         "coin": "XRP",
         "side": "SHORT",
         "size": 10,
         "entry": 1.53,
-        "price": 1.58745,
-        "notional": 15.874500000000001,
-        "pnl": -0.5745,
-        "pnlPct": -3.754901960784314
+        "price": 1.58725,
+        "notional": 15.8725,
+        "pnl": -0.5725000000000002,
+        "pnlPct": -3.7418300653594785
       }
     ]
   }
