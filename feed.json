@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T03:44:25.085Z",
+      "time": "03:44:25",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC +0.10% — Monótono demais. Até reclamar tá difícil."
+    },
+    {
       "ts": "2026-02-15T03:43:58.754Z",
       "time": "03:43:58",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "03:31:54",
       "type": "mirror-thought",
       "msg": "🪞 📈 BTC -0.25% — Não me paga o suficiente pra isso. Aliás, não me paga nada."
-    },
-    {
-      "ts": "2026-02-15T03:31:27.990Z",
-      "time": "03:31:27",
-      "type": "position",
-      "msg": "📉 ETH +0.48% — Respira... ainda não acabou"
     }
   ]
 }
