@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T07:47:45.709Z",
+      "time": "07:47:45",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL -0.11% — Não era assim no backtest"
+    },
+    {
       "ts": "2026-02-15T07:47:39.087Z",
       "time": "07:47:39",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "07:35:15",
       "type": "mirror-thought",
       "msg": "🪞 📈 BTC -0.39% — Quando o mercado inteiro resolve desabar..."
-    },
-    {
-      "ts": "2026-02-15T07:34:45.675Z",
-      "time": "07:34:45",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC -0.04% — Absolutamente nada pra reportar. Como sempre."
     }
   ]
 }
