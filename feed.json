@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T06:49:15.567Z",
+      "time": "06:49:15",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP +0.15% — Ganhando em silêncio, sem aplausos, sem medalha"
+    },
+    {
       "ts": "2026-02-15T06:48:45.566Z",
       "time": "06:48:45",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "06:36:45",
       "type": "mirror-thought",
       "msg": "🪞 📈 BTC -0.10% — Se tédio fosse trade, eu tava rico"
-    },
-    {
-      "ts": "2026-02-15T06:36:15.224Z",
-      "time": "06:36:15",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 ETH -0.03% — Lateral infinita. Que emocionante. Não."
     }
   ]
 }
