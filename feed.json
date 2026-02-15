@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T06:14:35.257Z",
+      "time": "06:14:35",
+      "type": "position",
+      "msg": "📉 ZEC -0.79% — O mercado acordou e escolheu me machucar"
+    },
+    {
+      "ts": "2026-02-15T06:14:09.864Z",
+      "time": "06:14:09",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP -0.34% — Não me paga o suficiente pra isso. Aliás, não me paga nada."
+    },
+    {
       "ts": "2026-02-15T06:14:05.208Z",
       "time": "06:14:05",
       "type": "position",
@@ -229,12 +241,6 @@
       "msg": "⚠️ Limite atingido (5/5) - ZRO cancelado"
     },
     {
-      "ts": "2026-02-15T06:09:44.414Z",
-      "time": "06:09:44",
-      "type": "signal",
-      "msg": "🎯 LONG ZRO @ $1.90 (78%) — Setup alinhado, agora é com o mercado"
-    },
-    {
       "ts": "2026-02-15T06:09:36.285Z",
       "time": "06:09:36",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "06:05:34",
       "type": "mirror-thought",
       "msg": "🪞 📈 BTC +0.06% — Nem o mercado sabe o que quer"
-    },
-    {
-      "ts": "2026-02-15T06:05:04.488Z",
-      "time": "06:05:04",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP -0.07% — Esperando algo acontecer... esperando... esperando..."
     }
   ]
 }
