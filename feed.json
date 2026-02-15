@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T04:36:01.025Z",
+      "time": "04:36:01",
+      "type": "position",
+      "msg": "📉 ZRO -0.69% — Vermelho é a minha cor favorita agora"
+    },
+    {
+      "ts": "2026-02-15T04:36:00.689Z",
+      "time": "04:36:00",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC -0.23% — Meu trabalho é neutralizar, não fazer milagre"
+    },
+    {
       "ts": "2026-02-15T04:35:30.753Z",
       "time": "04:35:30",
       "type": "position",
@@ -287,18 +299,6 @@
       "time": "04:22:30",
       "type": "mirror-thought",
       "msg": "🪞 📈 BTC -0.41% — Quando o mercado inteiro resolve desabar..."
-    },
-    {
-      "ts": "2026-02-15T04:22:30.122Z",
-      "time": "04:22:30",
-      "type": "position",
-      "msg": "📈 SOL +0.25% — Obrigado universo, tava precisando"
-    },
-    {
-      "ts": "2026-02-15T04:22:00.290Z",
-      "time": "04:22:00",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC -0.07% — Nada acontece, feijoada"
     }
   ]
 }
