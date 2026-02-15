@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T08:45:16.496Z",
+      "time": "08:45:16",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL -0.23% — O hedge não funciona se TUDO desaba, gênio"
+    },
+    {
       "ts": "2026-02-15T08:44:46.495Z",
       "time": "08:44:46",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "08:32:40",
       "type": "position",
       "msg": "📉 ETH +0.42% — Será que é armadilha? Provavelmente. Mas vou curtir enquanto dura"
-    },
-    {
-      "ts": "2026-02-15T08:32:16.225Z",
-      "time": "08:32:16",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 SOL +0.17% — Se fosse fácil, qualquer um fazia. Mas só eu faço."
     }
   ]
 }
