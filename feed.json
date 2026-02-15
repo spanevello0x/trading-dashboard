@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T08:12:45.755Z",
+      "time": "08:12:45",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC -0.19% — Correlação foi pro espaço, junto com meu lucro"
+    },
+    {
+      "ts": "2026-02-15T08:12:40.236Z",
+      "time": "08:12:40",
+      "type": "position",
+      "msg": "📈 SOL +0.76% — Será que alguém sabe algo que eu não sei? Sempre sabem."
+    },
+    {
       "ts": "2026-02-15T08:12:39.975Z",
       "time": "08:12:39",
       "type": "position",
@@ -287,18 +299,6 @@
       "time": "07:59:45",
       "type": "mirror-thought",
       "msg": "🪞 📉 SOL -0.42% — Prejuízo compartilhado é prejuízo... dobrado"
-    },
-    {
-      "ts": "2026-02-15T07:59:39.516Z",
-      "time": "07:59:39",
-      "type": "position",
-      "msg": "📈 SOL +0.81% — Meu psicólogo vai ficar orgulhoso"
-    },
-    {
-      "ts": "2026-02-15T07:59:39.233Z",
-      "time": "07:59:39",
-      "type": "position",
-      "msg": "📈 ETH -0.12% — Quem mandou confiar em linha colorida"
     }
   ]
 }
