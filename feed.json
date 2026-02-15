@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T08:43:46.494Z",
+      "time": "08:43:46",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP -0.06% — Travado. Paralisado. Empacado. Sinônimos de agora."
+    },
+    {
+      "ts": "2026-02-15T08:43:41.433Z",
+      "time": "08:43:41",
+      "type": "position",
+      "msg": "📈 SOL -0.52% — Tá bom, universo, entendi o recado"
+    },
+    {
+      "ts": "2026-02-15T08:43:41.173Z",
+      "time": "08:43:41",
+      "type": "position",
+      "msg": "📉 ETH +0.49% — Quem diria, acertei uma"
+    },
+    {
       "ts": "2026-02-15T08:43:16.494Z",
       "time": "08:43:16",
       "type": "mirror-thought",
@@ -281,24 +299,6 @@
       "time": "08:31:36",
       "type": "system",
       "msg": "⚠️ Limite atingido (5/5) - JUP cancelado"
-    },
-    {
-      "ts": "2026-02-15T08:31:36.294Z",
-      "time": "08:31:36",
-      "type": "signal",
-      "msg": "🎯 SHORT JUP @ $0.17 (100%) — Dessa vez vai (eu acho)"
-    },
-    {
-      "ts": "2026-02-15T08:31:36.293Z",
-      "time": "08:31:36",
-      "type": "analysis",
-      "msg": "JUP tá interessante, 100% pro SHORT"
-    },
-    {
-      "ts": "2026-02-15T08:31:35.733Z",
-      "time": "08:31:35",
-      "type": "analysis",
-      "msg": "Hmm, LINK mostrando sinais de SHORT (67%)"
     }
   ]
 }
