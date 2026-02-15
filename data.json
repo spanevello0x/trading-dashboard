@@ -1,145 +1,205 @@
 {
-  "lastUpdate": "2026-02-15T00:56:32.703Z",
+  "lastUpdate": "2026-02-15T00:57:02.643Z",
   "feed": [
     {
-      "ts": "2026-02-15T00:56:25.891Z",
-      "time": "00:56:25",
-      "type": "execution",
-      "msg": "✅ Filled: 8.500000 ZRO @ $1.86"
-    },
-    {
-      "ts": "2026-02-15T00:56:24.079Z",
-      "time": "00:56:24",
-      "type": "execution",
-      "msg": "📤 Abrindo SHORT em ZRO..."
-    },
-    {
-      "ts": "2026-02-15T00:56:22.923Z",
-      "time": "00:56:22",
-      "type": "execution",
-      "msg": "⚙️ Leverage: 5x"
-    },
-    {
-      "ts": "2026-02-15T00:56:22.631Z",
-      "time": "00:56:22",
-      "type": "signal",
-      "msg": "🎯 SHORT ZRO @ $1.86 (89%) — Entrei. Arrependimento em 3, 2, 1..."
-    },
-    {
-      "ts": "2026-02-15T00:56:22.631Z",
-      "time": "00:56:22",
-      "type": "analysis",
-      "msg": "Hmm, ZRO mostrando sinais de SHORT (89%)"
-    },
-    {
-      "ts": "2026-02-15T00:56:22.326Z",
-      "time": "00:56:22",
-      "type": "analysis",
-      "msg": "Analisando LIT... parece LONG (67%)"
-    },
-    {
-      "ts": "2026-02-15T00:56:22.046Z",
-      "time": "00:56:22",
-      "type": "analysis",
-      "msg": "Analisando ZEC... parece LONG (56%)"
-    },
-    {
-      "ts": "2026-02-15T00:56:21.752Z",
-      "time": "00:56:21",
+      "ts": "2026-02-15T00:56:56.956Z",
+      "time": "00:56:56",
       "type": "result",
-      "msg": "🏁 Trade completo: LONG HYPE @ $31.91 | RR 2:1"
+      "msg": "🏁 Trade completo: LONG OM @ $0.06 | RR 2:1"
     },
     {
-      "ts": "2026-02-15T00:56:21.751Z",
-      "time": "00:56:21",
+      "ts": "2026-02-15T00:56:56.956Z",
+      "time": "00:56:56",
       "type": "execution",
-      "msg": "🎯 Take Profit: $32.54"
+      "msg": "🎯 Take Profit: $0.07"
     },
     {
-      "ts": "2026-02-15T00:56:20.105Z",
-      "time": "00:56:20",
+      "ts": "2026-02-15T00:56:54.757Z",
+      "time": "00:56:54",
       "type": "execution",
-      "msg": "🛡️ Stop Loss: $31.58"
+      "msg": "🛡️ Stop Loss: $0.06"
     },
     {
-      "ts": "2026-02-15T00:56:18.401Z",
-      "time": "00:56:18",
+      "ts": "2026-02-15T00:56:52.704Z",
+      "time": "00:56:52",
       "type": "execution",
-      "msg": "✅ Filled: 0.490000 HYPE @ $31.91"
+      "msg": "✅ Filled: 83.500000 OM @ $0.06"
     },
     {
-      "ts": "2026-02-15T00:56:16.422Z",
-      "time": "00:56:16",
+      "ts": "2026-02-15T00:56:50.655Z",
+      "time": "00:56:50",
       "type": "execution",
-      "msg": "📤 Abrindo LONG em HYPE..."
+      "msg": "📤 Abrindo LONG em OM..."
     },
     {
-      "ts": "2026-02-15T00:56:15.188Z",
-      "time": "00:56:15",
+      "ts": "2026-02-15T00:56:49.391Z",
+      "time": "00:56:49",
       "type": "execution",
       "msg": "⚙️ Leverage: 5x"
     },
     {
-      "ts": "2026-02-15T00:56:14.913Z",
-      "time": "00:56:14",
+      "ts": "2026-02-15T00:56:49.103Z",
+      "time": "00:56:49",
       "type": "signal",
-      "msg": "🎯 LONG HYPE @ $31.90 (78%) — Análise feita, trade executado, fé ativada"
+      "msg": "🎯 LONG OM @ $0.06 (100%) — Setup alinhado, agora é com o mercado"
     },
     {
-      "ts": "2026-02-15T00:56:14.913Z",
-      "time": "00:56:14",
+      "ts": "2026-02-15T00:56:49.103Z",
+      "time": "00:56:49",
       "type": "analysis",
-      "msg": "Analisando HYPE... parece LONG (78%)"
+      "msg": "OM tá interessante, 100% pro LONG"
     },
     {
-      "ts": "2026-02-15T00:56:13.902Z",
-      "time": "00:56:13",
+      "ts": "2026-02-15T00:56:48.217Z",
+      "time": "00:56:48",
       "type": "analysis",
-      "msg": "ETH no radar: 67% SHORT"
+      "msg": "Hmm, VIRTUAL mostrando sinais de LONG (56%)"
     },
     {
-      "ts": "2026-02-15T00:56:13.320Z",
-      "time": "00:56:13",
-      "type": "system",
-      "msg": "⏰ SOL expirou (30 candles) — Cancelando"
+      "ts": "2026-02-15T00:56:47.937Z",
+      "time": "00:56:47",
+      "type": "error",
+      "msg": "❌ Falha na execução: Order has invalid price."
     },
     {
-      "ts": "2026-02-15T00:56:13.044Z",
-      "time": "00:56:13",
-      "type": "system",
-      "msg": "⏰ ETH expirou (30 candles) — Cancelando"
+      "ts": "2026-02-15T00:56:46.157Z",
+      "time": "00:56:46",
+      "type": "execution",
+      "msg": "📤 Abrindo SHORT em AZTEC..."
     },
     {
-      "ts": "2026-02-15T00:56:08.664Z",
-      "time": "00:56:08",
-      "type": "system",
-      "msg": "⏰ PAXG expirou (30 candles) — Cancelando"
+      "ts": "2026-02-15T00:56:44.591Z",
+      "time": "00:56:44",
+      "type": "execution",
+      "msg": "⚙️ Leverage: 5x"
     },
     {
-      "ts": "2026-02-15T00:56:08.339Z",
-      "time": "00:56:08",
-      "type": "system",
-      "msg": "🤖 QuickBot V3 ativo. Watching: BTC, ETH, SOL, HYPE, XRP, ZEC, PAXG, LIT, ZRO, ASTER, AAVE, PUMP, SUI, UNI, MON, BCH, XPL, FARTCOIN, DOGE, BERA, AZTEC, VIRTUAL, AVAX, BNB, OM, TAO, VVV, XMR, kPEPE, ARB, MOODENG, LINK, JUP"
+      "ts": "2026-02-15T00:56:44.314Z",
+      "time": "00:56:44",
+      "type": "signal",
+      "msg": "🎯 SHORT AZTEC @ $0.02 (89%) — Bora, confia no pai"
+    },
+    {
+      "ts": "2026-02-15T00:56:44.313Z",
+      "time": "00:56:44",
+      "type": "analysis",
+      "msg": "Analisando AZTEC... parece SHORT (89%)"
+    },
+    {
+      "ts": "2026-02-15T00:56:44.020Z",
+      "time": "00:56:44",
+      "type": "analysis",
+      "msg": "BERA tá interessante, 56% pro LONG"
+    },
+    {
+      "ts": "2026-02-15T00:56:43.740Z",
+      "time": "00:56:43",
+      "type": "analysis",
+      "msg": "Olhando DOGE... 67% LONG"
+    },
+    {
+      "ts": "2026-02-15T00:56:43.411Z",
+      "time": "00:56:43",
+      "type": "analysis",
+      "msg": "Hmm, FARTCOIN mostrando sinais de LONG (67%)"
+    },
+    {
+      "ts": "2026-02-15T00:56:43.130Z",
+      "time": "00:56:43",
+      "type": "error",
+      "msg": "❌ Falha na execução: Order could not immediately match against any resting orders. asset=203"
+    },
+    {
+      "ts": "2026-02-15T00:56:41.197Z",
+      "time": "00:56:41",
+      "type": "execution",
+      "msg": "📤 Abrindo LONG em XPL..."
+    },
+    {
+      "ts": "2026-02-15T00:56:40.039Z",
+      "time": "00:56:40",
+      "type": "execution",
+      "msg": "⚙️ Leverage: 5x"
+    },
+    {
+      "ts": "2026-02-15T00:56:39.763Z",
+      "time": "00:56:39",
+      "type": "signal",
+      "msg": "🎯 LONG XPL @ $0.10 (100%) — Nova aposta na mesa"
+    },
+    {
+      "ts": "2026-02-15T00:56:39.763Z",
+      "time": "00:56:39",
+      "type": "analysis",
+      "msg": "Analisando XPL... parece LONG (100%)"
+    },
+    {
+      "ts": "2026-02-15T00:56:39.164Z",
+      "time": "00:56:39",
+      "type": "error",
+      "msg": "❌ Falha na execução: Order has invalid price."
+    },
+    {
+      "ts": "2026-02-15T00:56:37.283Z",
+      "time": "00:56:37",
+      "type": "execution",
+      "msg": "📤 Abrindo SHORT em MON..."
+    },
+    {
+      "ts": "2026-02-15T00:56:36.093Z",
+      "time": "00:56:36",
+      "type": "execution",
+      "msg": "⚙️ Leverage: 5x"
+    },
+    {
+      "ts": "2026-02-15T00:56:35.818Z",
+      "time": "00:56:35",
+      "type": "signal",
+      "msg": "🎯 SHORT MON @ $0.02 (89%) — Dessa vez vai (eu acho)"
+    },
+    {
+      "ts": "2026-02-15T00:56:35.818Z",
+      "time": "00:56:35",
+      "type": "analysis",
+      "msg": "MON tá interessante, 89% pro SHORT"
+    },
+    {
+      "ts": "2026-02-15T00:56:35.538Z",
+      "time": "00:56:35",
+      "type": "analysis",
+      "msg": "UNI no radar: 56% LONG"
+    },
+    {
+      "ts": "2026-02-15T00:56:35.245Z",
+      "time": "00:56:35",
+      "type": "analysis",
+      "msg": "SUI no radar: 56% LONG"
+    },
+    {
+      "ts": "2026-02-15T00:56:34.404Z",
+      "time": "00:56:34",
+      "type": "error",
+      "msg": "❌ Falha na execução: Order has invalid price."
     }
   ],
   "hl": {
-    "balance": 15.880153,
+    "balance": 15.901678,
     "positions": [
       {
         "coin": "BTC",
         "side": "SHORT",
         "size": 0.00032,
         "entry": 69697,
-        "pnl": -0.0032,
-        "pnlPct": -0.0717391
+        "pnl": -0.01152,
+        "pnlPct": -0.25826076
       },
       {
         "coin": "XRP",
         "side": "LONG",
         "size": 11,
         "entry": 1.4503,
-        "pnl": 0.7689,
-        "pnlPct": 24.09846239
+        "pnl": 0.7942,
+        "pnlPct": 24.89140178
       },
       {
         "coin": "ZRO",
@@ -154,8 +214,16 @@
         "side": "LONG",
         "size": 0.49,
         "entry": 31.906,
-        "pnl": -0.00196,
-        "pnlPct": -0.06268413
+        "pnl": 0.00833,
+        "pnlPct": 0.26640757
+      },
+      {
+        "coin": "OM",
+        "side": "LONG",
+        "size": 83.5,
+        "entry": 0.06402,
+        "pnl": -0.00334,
+        "pnlPct": -0.18744142
       }
     ]
   },
