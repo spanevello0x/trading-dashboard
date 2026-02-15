@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T08:00:45.731Z",
+      "time": "08:00:45",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL -0.25% — Fantástico. Simplesmente fantástico. Odeio tudo."
+    },
+    {
       "ts": "2026-02-15T08:00:39.582Z",
       "time": "08:00:39",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "07:47:39",
       "type": "position",
       "msg": "📈 SOL +0.65% — Se continuar assim, quase empato na semana"
-    },
-    {
-      "ts": "2026-02-15T07:47:38.817Z",
-      "time": "07:47:38",
-      "type": "position",
-      "msg": "📈 ETH -0.15% — Pelo menos não é dinheiro de verdade... ah, espera"
     }
   ]
 }
