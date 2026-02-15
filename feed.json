@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T05:26:33.202Z",
+      "time": "05:26:33",
+      "type": "position",
+      "msg": "📉 ZRO -1.18% — Quem precisa de dinheiro mesmo"
+    },
+    {
+      "ts": "2026-02-15T05:26:31.111Z",
+      "time": "05:26:31",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL -0.14% — Isso aqui tá pior que reunião de segunda-feira"
+    },
+    {
       "ts": "2026-02-15T05:26:03.063Z",
       "time": "05:26:03",
       "type": "position",
@@ -287,18 +299,6 @@
       "time": "05:13:32",
       "type": "position",
       "msg": "📉 ZRO -1.65% — Calma que ainda tem o stop loss pra doer mais"
-    },
-    {
-      "ts": "2026-02-15T05:13:32.315Z",
-      "time": "05:13:32",
-      "type": "position",
-      "msg": "📈 SOL +0.59% — Não me acostumem com isso"
-    },
-    {
-      "ts": "2026-02-15T05:13:31.081Z",
-      "time": "05:13:31",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 SOL +0.09% — Estabilidade é superestimada. E entediante."
     }
   ]
 }
