@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T05:39:31.326Z",
+      "time": "05:39:31",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP -0.12% — Quando o mercado inteiro resolve desabar..."
+    },
+    {
       "ts": "2026-02-15T05:39:03.913Z",
       "time": "05:39:03",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "05:26:33",
       "type": "position",
       "msg": "📉 ZRO -1.18% — Quem precisa de dinheiro mesmo"
-    },
-    {
-      "ts": "2026-02-15T05:26:31.111Z",
-      "time": "05:26:31",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 SOL -0.14% — Isso aqui tá pior que reunião de segunda-feira"
     }
   ]
 }
