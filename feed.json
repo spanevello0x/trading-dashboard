@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T05:32:33.178Z",
+      "time": "05:32:33",
+      "type": "position",
+      "msg": "📈 SOL +0.97% — Até um relógio quebrado acerta duas vezes"
+    },
+    {
+      "ts": "2026-02-15T05:32:31.310Z",
+      "time": "05:32:31",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC -0.43% — Não era assim no backtest"
+    },
+    {
       "ts": "2026-02-15T05:32:03.428Z",
       "time": "05:32:03",
       "type": "position",
@@ -287,18 +299,6 @@
       "time": "05:19:31",
       "type": "mirror-thought",
       "msg": "🪞 📉 XRP +0.11% — Tá vendo? ERA pra ter confiado em mim desde o início"
-    },
-    {
-      "ts": "2026-02-15T05:19:03.450Z",
-      "time": "05:19:03",
-      "type": "position",
-      "msg": "📈 SOL +0.89% — Imagina se eu tivesse colocado mais..."
-    },
-    {
-      "ts": "2026-02-15T05:19:01.095Z",
-      "time": "05:19:01",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 SOL +0.05% — Se tédio fosse trade, eu tava rico"
     }
   ]
 }
