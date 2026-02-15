@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T07:40:38.736Z",
+      "time": "07:40:38",
+      "type": "position",
+      "msg": "📈 SOL +0.67% — Tá verde? Tira print rápido antes que vire"
+    },
+    {
+      "ts": "2026-02-15T07:40:38.468Z",
+      "time": "07:40:38",
+      "type": "position",
+      "msg": "📈 ETH -0.02% — Pelo menos não tá caindo... ainda"
+    },
+    {
+      "ts": "2026-02-15T07:40:15.689Z",
+      "time": "07:40:15",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC -0.10% — Zero movimento. Zero emoção. Zero sentido."
+    },
+    {
       "ts": "2026-02-15T07:39:45.688Z",
       "time": "07:39:45",
       "type": "mirror-thought",
@@ -281,24 +299,6 @@
       "time": "07:28:08",
       "type": "position",
       "msg": "📈 ETH -0.41% — O stop tá ali por um motivo, né"
-    },
-    {
-      "ts": "2026-02-15T07:27:45.657Z",
-      "time": "07:27:45",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 SOL +0.14% — Tá vendo? ERA pra ter confiado em mim desde o início"
-    },
-    {
-      "ts": "2026-02-15T07:27:15.655Z",
-      "time": "07:27:15",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 ETH -0.25% — Não era assim no backtest"
-    },
-    {
-      "ts": "2026-02-15T07:27:08.217Z",
-      "time": "07:27:08",
-      "type": "position",
-      "msg": "📈 SOL -0.14% — Tá difícil defender essa entrada"
     }
   ]
 }
