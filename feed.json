@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T04:08:59.870Z",
+      "time": "04:08:59",
+      "type": "position",
+      "msg": "📉 ZRO -0.73% — Vou culpar a lua, deve ser lua cheia"
+    },
+    {
+      "ts": "2026-02-15T04:08:59.518Z",
+      "time": "04:08:59",
+      "type": "position",
+      "msg": "📈 SOL +0.61% — Tá bom demais pra ser verdade... ops, não deveria falar isso"
+    },
+    {
+      "ts": "2026-02-15T04:08:59.335Z",
+      "time": "04:08:59",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC +0.30% — Fazendo meu trabalho enquanto o QuickBot apronta"
+    },
+    {
       "ts": "2026-02-15T04:08:29.334Z",
       "time": "04:08:29",
       "type": "mirror-thought",
@@ -281,24 +299,6 @@
       "time": "03:56:29",
       "type": "position",
       "msg": "📈 SOL +0.02% — Pelo menos não tá caindo... ainda"
-    },
-    {
-      "ts": "2026-02-15T03:56:28.901Z",
-      "time": "03:56:28",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC +0.23% — Segurando as pontas enquanto o outro se aventura"
-    },
-    {
-      "ts": "2026-02-15T03:56:18.387Z",
-      "time": "03:56:18",
-      "type": "analysis",
-      "msg": "Hmm, JUP mostrando sinais de LONG (67%)"
-    },
-    {
-      "ts": "2026-02-15T03:56:17.972Z",
-      "time": "03:56:17",
-      "type": "analysis",
-      "msg": "LINK tá interessante, 56% pro LONG"
     }
   ]
 }
