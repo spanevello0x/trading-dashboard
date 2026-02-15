@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T02:45:24.451Z",
+      "time": "02:45:24",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC +0.12% — Meu trabalho é ingrato, mas faço com excelência"
+    },
+    {
       "ts": "2026-02-15T02:44:56.342Z",
       "time": "02:44:56",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "02:34:55",
       "type": "position",
       "msg": "📉 ETH +0.59% — Não sou eu, é o mercado que tá errado... ah não, dessa vez acertou"
-    },
-    {
-      "ts": "2026-02-15T02:34:54.445Z",
-      "time": "02:34:54",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC -0.50% — Não me paga o suficiente pra isso. Aliás, não me paga nada."
     }
   ]
 }
