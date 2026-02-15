@@ -1,6 +1,30 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T03:05:57.362Z",
+      "time": "03:05:57",
+      "type": "position",
+      "msg": "📈 OM -2.55% — Vou culpar a lua, deve ser lua cheia"
+    },
+    {
+      "ts": "2026-02-15T03:05:57.097Z",
+      "time": "03:05:57",
+      "type": "position",
+      "msg": "📉 ZRO -0.10% — Lateral é o novo tendência"
+    },
+    {
+      "ts": "2026-02-15T03:05:56.835Z",
+      "time": "03:05:56",
+      "type": "position",
+      "msg": "📉 ETH +0.30% — Print pra mostrar pros netos"
+    },
+    {
+      "ts": "2026-02-15T03:05:54.485Z",
+      "time": "03:05:54",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 ETH +0.01% — Zero movimento. Zero emoção. Zero sentido."
+    },
+    {
       "ts": "2026-02-15T03:05:24.484Z",
       "time": "03:05:24",
       "type": "mirror-thought",
@@ -275,30 +299,6 @@
       "time": "02:55:56",
       "type": "position",
       "msg": "📉 ETH +0.15% — Stonks 📈 (desculpa, não resisti)"
-    },
-    {
-      "ts": "2026-02-15T02:55:54.465Z",
-      "time": "02:55:54",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 ETH +0.08% — Sem novidades no front. Que surpresa."
-    },
-    {
-      "ts": "2026-02-15T02:55:26.967Z",
-      "time": "02:55:26",
-      "type": "position",
-      "msg": "📈 OM -2.59% — Sabia que não devia ter olhado"
-    },
-    {
-      "ts": "2026-02-15T02:55:26.701Z",
-      "time": "02:55:26",
-      "type": "position",
-      "msg": "📉 ZRO -0.75% — Minha análise era perfeita, o mercado que tá errado"
-    },
-    {
-      "ts": "2026-02-15T02:55:24.464Z",
-      "time": "02:55:24",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC -0.01% — O gráfico tá mais parado que eu em dia de folga. Não tenho folga."
     }
   ]
 }
