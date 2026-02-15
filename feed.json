@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T04:15:59.345Z",
+      "time": "04:15:59",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC +0.38% — Alguém tem que salvar esse portfólio"
+    },
+    {
       "ts": "2026-02-15T04:15:29.344Z",
       "time": "04:15:29",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "04:03:29",
       "type": "mirror-thought",
       "msg": "🪞 📈 BTC -0.36% — Correlação foi pro espaço, junto com meu lucro"
-    },
-    {
-      "ts": "2026-02-15T04:02:59.364Z",
-      "time": "04:02:59",
-      "type": "position",
-      "msg": "📈 SOL +0.46% — Verde combina comigo"
     }
   ]
 }
