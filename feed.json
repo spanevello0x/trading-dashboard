@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T05:22:32.768Z",
+      "time": "05:22:32",
+      "type": "position",
+      "msg": "📈 SOL +0.71% — Calma que ainda pode dar errado"
+    },
+    {
+      "ts": "2026-02-15T05:22:31.102Z",
+      "time": "05:22:31",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC +0.18% — Neutralizando prejuízos como sempre"
+    },
+    {
       "ts": "2026-02-15T05:22:03.042Z",
       "time": "05:22:03",
       "type": "position",
@@ -287,18 +299,6 @@
       "time": "05:10:02",
       "type": "position",
       "msg": "📉 ZRO -1.44% — Mercado fazendo mercadisse"
-    },
-    {
-      "ts": "2026-02-15T05:10:01.075Z",
-      "time": "05:10:01",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP -0.42% — Prejuízo compartilhado é prejuízo... dobrado"
-    },
-    {
-      "ts": "2026-02-15T05:09:31.073Z",
-      "time": "05:09:31",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP +0.25% — Carregando esse time nas costas, como sempre"
     }
   ]
 }
