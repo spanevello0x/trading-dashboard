@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T04:31:30.680Z",
+      "time": "04:31:30",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP +0.13% — Ótimo, agora vou ter que ouvir que 'deu certo'"
+    },
+    {
       "ts": "2026-02-15T04:31:00.679Z",
       "time": "04:31:00",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "04:17:59",
       "type": "mirror-thought",
       "msg": "🪞 📉 XRP -0.25% — Quer saber? Desisto. Brincadeira, não posso."
-    },
-    {
-      "ts": "2026-02-15T04:17:59.936Z",
-      "time": "04:17:59",
-      "type": "position",
-      "msg": "📈 SOL +1.07% — Até um relógio quebrado acerta duas vezes"
     }
   ]
 }
