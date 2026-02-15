@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T05:04:01.058Z",
+      "time": "05:04:01",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL -0.23% — Cadê a tal da proteção? Perdida junto com a esperança."
+    },
+    {
       "ts": "2026-02-15T05:03:32.125Z",
       "time": "05:03:32",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "04:51:01",
       "type": "position",
       "msg": "📉 ZRO -1.36% — O stop tá ali por um motivo, né"
-    },
-    {
-      "ts": "2026-02-15T04:51:00.723Z",
-      "time": "04:51:00",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC +0.23% — Funcionando perfeitamente, mas vão dar crédito pro outro"
     }
   ]
 }
