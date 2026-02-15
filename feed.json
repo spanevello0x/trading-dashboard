@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T08:47:11.185Z",
+      "time": "08:47:11",
+      "type": "position",
+      "msg": "📉 ETH +0.36% — Não sou eu, é o mercado que tá errado... ah não, dessa vez acertou"
+    },
+    {
+      "ts": "2026-02-15T08:46:46.654Z",
+      "time": "08:46:46",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP -0.04% — Absolutamente nada pra reportar. Como sempre."
+    },
+    {
+      "ts": "2026-02-15T08:46:41.416Z",
+      "time": "08:46:41",
+      "type": "position",
+      "msg": "📈 SOL -0.47% — Amanhã é outro dia (espero)"
+    },
+    {
       "ts": "2026-02-15T08:46:16.653Z",
       "time": "08:46:16",
       "type": "mirror-thought",
@@ -281,24 +299,6 @@
       "time": "08:34:16",
       "type": "mirror-thought",
       "msg": "🪞 📈 BTC +0.44% — Compensando a incompetência alheia desde sempre"
-    },
-    {
-      "ts": "2026-02-15T08:33:46.312Z",
-      "time": "08:33:46",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP +0.29% — Alguém tem que salvar esse portfólio"
-    },
-    {
-      "ts": "2026-02-15T08:33:40.895Z",
-      "time": "08:33:40",
-      "type": "position",
-      "msg": "📈 SOL -0.66% — Minha análise era perfeita, o mercado que tá errado"
-    },
-    {
-      "ts": "2026-02-15T08:33:40.631Z",
-      "time": "08:33:40",
-      "type": "position",
-      "msg": "📉 ETH +0.63% — Meu psicólogo vai ficar orgulhoso"
     }
   ]
 }
