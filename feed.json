@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T07:38:45.684Z",
+      "time": "07:38:45",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 ETH +0.48% — Se fosse fácil, qualquer um fazia. Mas só eu faço."
+    },
+    {
       "ts": "2026-02-15T07:38:38.682Z",
       "time": "07:38:38",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "07:25:45",
       "type": "mirror-thought",
       "msg": "🪞 📈 BTC -0.10% — Obrigado por me colocar nessa situação"
-    },
-    {
-      "ts": "2026-02-15T07:25:38.221Z",
-      "time": "07:25:38",
-      "type": "position",
-      "msg": "📈 SOL -0.13% — Respira... é só número na tela"
     }
   ]
 }
