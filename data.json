@@ -1,333 +1,161 @@
 {
-  "lastUpdate": "2026-02-15T00:56:02.404Z",
+  "lastUpdate": "2026-02-15T00:56:32.703Z",
   "feed": [
     {
-      "ts": "2026-02-15T00:55:01.288Z",
-      "time": "00:55:01",
-      "type": "mirror-system",
-      "msg": "🪞 Mirror Bot online. Hora de trabalhar enquanto outros descansam."
+      "ts": "2026-02-15T00:56:25.891Z",
+      "time": "00:56:25",
+      "type": "execution",
+      "msg": "✅ Filled: 8.500000 ZRO @ $1.86"
     },
     {
-      "ts": "2026-02-15T00:54:16.977Z",
-      "time": "00:54:16",
-      "type": "mirror-system",
-      "msg": "🪞 Mirror Bot online. Hora de trabalhar enquanto outros descansam."
+      "ts": "2026-02-15T00:56:24.079Z",
+      "time": "00:56:24",
+      "type": "execution",
+      "msg": "📤 Abrindo SHORT em ZRO..."
     },
     {
-      "ts": "2026-02-15T00:42:09.688Z",
-      "time": "00:42:09",
-      "type": "mirror",
-      "msg": "🪞 Mirror Bot iniciado"
+      "ts": "2026-02-15T00:56:22.923Z",
+      "time": "00:56:22",
+      "type": "execution",
+      "msg": "⚙️ Leverage: 5x"
     },
     {
-      "ts": "2026-02-15T00:41:31.507Z",
-      "time": "00:41:31",
-      "type": "mirror",
-      "msg": "🪞 Abrindo SHORT XRP $16 (HL: LONG)"
+      "ts": "2026-02-15T00:56:22.631Z",
+      "time": "00:56:22",
+      "type": "signal",
+      "msg": "🎯 SHORT ZRO @ $1.86 (89%) — Entrei. Arrependimento em 3, 2, 1..."
     },
     {
-      "ts": "2026-02-15T00:41:30.506Z",
-      "time": "00:41:30",
-      "type": "mirror",
-      "msg": "🪞 ✅ LONG BTC @ $69664.50"
+      "ts": "2026-02-15T00:56:22.631Z",
+      "time": "00:56:22",
+      "type": "analysis",
+      "msg": "Hmm, ZRO mostrando sinais de SHORT (89%)"
     },
     {
-      "ts": "2026-02-15T00:41:22.186Z",
-      "time": "00:41:22",
-      "type": "mirror",
-      "msg": "🪞 Abrindo LONG BTC $22 (HL: SHORT)"
+      "ts": "2026-02-15T00:56:22.326Z",
+      "time": "00:56:22",
+      "type": "analysis",
+      "msg": "Analisando LIT... parece LONG (67%)"
     },
     {
-      "ts": "2026-02-15T00:41:21.892Z",
-      "time": "00:41:21",
-      "type": "mirror",
-      "msg": "🪞 Mirror Bot iniciado"
+      "ts": "2026-02-15T00:56:22.046Z",
+      "time": "00:56:22",
+      "type": "analysis",
+      "msg": "Analisando ZEC... parece LONG (56%)"
     },
     {
-      "ts": "2026-02-15T00:39:02.308Z",
-      "time": "00:39:02",
-      "type": "mirror",
-      "msg": "🪞 ✅ SHORT XRP @ $1.53"
+      "ts": "2026-02-15T00:56:21.752Z",
+      "time": "00:56:21",
+      "type": "result",
+      "msg": "🏁 Trade completo: LONG HYPE @ $31.91 | RR 2:1"
     },
     {
-      "ts": "2026-02-15T00:38:54.060Z",
-      "time": "00:38:54",
-      "type": "mirror",
-      "msg": "🪞 Abrindo SHORT XRP $16 (HL: LONG)"
+      "ts": "2026-02-15T00:56:21.751Z",
+      "time": "00:56:21",
+      "type": "execution",
+      "msg": "🎯 Take Profit: $32.54"
     },
     {
-      "ts": "2026-02-15T00:38:53.059Z",
-      "time": "00:38:53",
-      "type": "mirror",
-      "msg": "🪞 ✅ LONG BTC @ $69667.50"
+      "ts": "2026-02-15T00:56:20.105Z",
+      "time": "00:56:20",
+      "type": "execution",
+      "msg": "🛡️ Stop Loss: $31.58"
     },
     {
-      "ts": "2026-02-15T00:38:44.816Z",
-      "time": "00:38:44",
-      "type": "mirror",
-      "msg": "🪞 Abrindo LONG BTC $22 (HL: SHORT)"
+      "ts": "2026-02-15T00:56:18.401Z",
+      "time": "00:56:18",
+      "type": "execution",
+      "msg": "✅ Filled: 0.490000 HYPE @ $31.91"
     },
     {
-      "ts": "2026-02-15T00:38:44.521Z",
-      "time": "00:38:44",
-      "type": "mirror",
-      "msg": "🪞 Mirror Bot iniciado"
+      "ts": "2026-02-15T00:56:16.422Z",
+      "time": "00:56:16",
+      "type": "execution",
+      "msg": "📤 Abrindo LONG em HYPE..."
     },
     {
-      "ts": "2026-02-15T00:32:27.322Z",
-      "time": "00:32:27",
-      "type": "closed",
-      "msg": "🧪 TESTE OK! Fechado @ $69697 (-0.001%)"
+      "ts": "2026-02-15T00:56:15.188Z",
+      "time": "00:56:15",
+      "type": "execution",
+      "msg": "⚙️ Leverage: 5x"
     },
     {
-      "ts": "2026-02-15T00:32:20.597Z",
-      "time": "00:32:20",
-      "type": "position",
-      "msg": "🧪 BTC LONG @ $69698! Fechando em 5s..."
+      "ts": "2026-02-15T00:56:14.913Z",
+      "time": "00:56:14",
+      "type": "signal",
+      "msg": "🎯 LONG HYPE @ $31.90 (78%) — Análise feita, trade executado, fé ativada"
     },
     {
-      "ts": "2026-02-15T00:32:18.612Z",
-      "time": "00:32:18",
-      "type": "test",
-      "msg": "🧪 TESTE: Abrindo BTC LONG..."
+      "ts": "2026-02-15T00:56:14.913Z",
+      "time": "00:56:14",
+      "type": "analysis",
+      "msg": "Analisando HYPE... parece LONG (78%)"
     },
     {
-      "ts": "2026-02-15T00:32:09.543Z",
-      "time": "00:32:09",
-      "type": "error",
-      "msg": "🧪 Ordem não preenchida"
+      "ts": "2026-02-15T00:56:13.902Z",
+      "time": "00:56:13",
+      "type": "analysis",
+      "msg": "ETH no radar: 67% SHORT"
     },
     {
-      "ts": "2026-02-15T00:32:07.576Z",
-      "time": "00:32:07",
-      "type": "test",
-      "msg": "🧪 TESTE: Abrindo BTC LONG..."
+      "ts": "2026-02-15T00:56:13.320Z",
+      "time": "00:56:13",
+      "type": "system",
+      "msg": "⏰ SOL expirou (30 candles) — Cancelando"
     },
     {
-      "ts": "2026-02-15T00:31:22.289Z",
-      "time": "00:31:22",
-      "type": "error",
-      "msg": "🧪 TESTE ERRO: Cannot read properties of undefined (reading 'toFixed')"
+      "ts": "2026-02-15T00:56:13.044Z",
+      "time": "00:56:13",
+      "type": "system",
+      "msg": "⏰ ETH expirou (30 candles) — Cancelando"
     },
     {
-      "ts": "2026-02-15T00:31:22.275Z",
-      "time": "00:31:22",
-      "type": "test",
-      "msg": "🧪 TESTE: Abrindo BTC LONG pra testar dashboard..."
+      "ts": "2026-02-15T00:56:08.664Z",
+      "time": "00:56:08",
+      "type": "system",
+      "msg": "⏰ PAXG expirou (30 candles) — Cancelando"
     },
     {
-      "ts": "2026-02-15T00:31:00.210Z",
-      "time": "00:31:00",
-      "type": "error",
-      "msg": "🧪 TESTE ERRO: Cannot read properties of undefined (reading 'toFixed')"
-    },
-    {
-      "ts": "2026-02-15T00:31:00.191Z",
-      "time": "00:31:00",
-      "type": "test",
-      "msg": "🧪 TESTE: Abrindo BTC LONG pra testar dashboard..."
-    },
-    {
-      "ts": "2026-02-15T00:30:41.879Z",
-      "time": "00:30:41",
-      "type": "error",
-      "msg": "🧪 TESTE ERRO: Cannot read properties of undefined (reading 'toFixed')"
-    },
-    {
-      "ts": "2026-02-15T00:30:41.866Z",
-      "time": "00:30:41",
-      "type": "test",
-      "msg": "🧪 TESTE: Abrindo BTC LONG pra testar dashboard..."
-    },
-    {
-      "ts": "2026-02-15T00:30:04.198Z",
-      "time": "00:30:04",
-      "type": "error",
-      "msg": "🧪 TESTE ERRO: Unknown asset: BTC"
-    },
-    {
-      "ts": "2026-02-15T00:30:04.183Z",
-      "time": "00:30:04",
-      "type": "test",
-      "msg": "🧪 TESTE: Abrindo BTC LONG pra testar dashboard..."
-    },
-    {
-      "ts": "2026-02-15T00:29:43.198Z",
-      "time": "00:29:43",
-      "type": "error",
-      "msg": "🧪 TESTE ERRO: Não consegui pegar preço do BTC"
-    },
-    {
-      "ts": "2026-02-15T00:16:37.190Z",
-      "time": "00:16:37",
-      "type": "mirror",
-      "msg": "🪞 NADO: Mirror Bot iniciado"
-    },
-    {
-      "ts": "2026-02-14T15:43:32.198Z",
-      "time": "15:43:32",
-      "type": "position",
-      "msg": "PAXG -0.03% — Esperando o mercado decidir o que quer da vida"
-    },
-    {
-      "ts": "2026-02-14T15:43:31.936Z",
-      "time": "15:43:31",
-      "type": "position",
-      "msg": "SOL +0.27% — Será que é armadilha? Provavelmente. Mas vou curtir enquanto dura"
-    },
-    {
-      "ts": "2026-02-14T15:43:31.660Z",
-      "time": "15:43:31",
-      "type": "position",
-      "msg": "ETH -0.08% — Se mexer muito, assusta"
-    },
-    {
-      "ts": "2026-02-14T15:42:32.177Z",
-      "time": "15:42:32",
-      "type": "position",
-      "msg": "PAXG -0.04% — Tá ali, existindo"
-    },
-    {
-      "ts": "2026-02-14T15:42:31.918Z",
-      "time": "15:42:31",
-      "type": "position",
-      "msg": "SOL +0.16% — Será que é armadilha? Provavelmente. Mas vou curtir enquanto dura"
-    },
-    {
-      "ts": "2026-02-14T15:42:31.629Z",
-      "time": "15:42:31",
-      "type": "position",
-      "msg": "ETH -0.15% — Respira... é só número na tela"
-    },
-    {
-      "ts": "2026-02-14T15:41:32.116Z",
-      "time": "15:41:32",
-      "type": "position",
-      "msg": "PAXG -0.03% — Consolidação ou indecisão? Sim."
-    },
-    {
-      "ts": "2026-02-14T15:41:01.974Z",
-      "time": "15:41:01",
-      "type": "position",
-      "msg": "SOL +0.10% — Olha só, o mercado decidiu colaborar hoje"
-    },
-    {
-      "ts": "2026-02-14T15:41:01.647Z",
-      "time": "15:41:01",
-      "type": "position",
-      "msg": "ETH -0.19% — O mercado escolheu violência hoje"
-    },
-    {
-      "ts": "2026-02-14T15:40:32.062Z",
-      "time": "15:40:32",
-      "type": "position",
-      "msg": "PAXG -0.03% — Tá ali, existindo"
-    },
-    {
-      "ts": "2026-02-14T15:40:01.799Z",
-      "time": "15:40:01",
-      "type": "position",
-      "msg": "SOL +0.16% — Quase consigo pagar o café de ontem"
-    },
-    {
-      "ts": "2026-02-14T15:40:01.535Z",
-      "time": "15:40:01",
-      "type": "position",
-      "msg": "ETH -0.12% — Quem precisa de dinheiro mesmo"
-    },
-    {
-      "ts": "2026-02-14T15:39:02.130Z",
-      "time": "15:39:02",
-      "type": "position",
-      "msg": "PAXG -0.01% — Lateral é o novo tendência"
-    },
-    {
-      "ts": "2026-02-14T15:38:31.790Z",
-      "time": "15:38:31",
-      "type": "position",
-      "msg": "SOL +0.18% — Tá verde? Tira print rápido antes que vire"
-    },
-    {
-      "ts": "2026-02-14T15:38:31.519Z",
-      "time": "15:38:31",
-      "type": "position",
-      "msg": "ETH -0.13% — Vermelho é a minha cor favorita agora"
-    },
-    {
-      "ts": "2026-02-14T15:38:02.122Z",
-      "time": "15:38:02",
-      "type": "position",
-      "msg": "PAXG -0.01% — Esperando o mercado decidir o que quer da vida"
-    },
-    {
-      "ts": "2026-02-14T15:37:31.764Z",
-      "time": "15:37:31",
-      "type": "position",
-      "msg": "SOL +0.10% — Verde combina comigo"
-    },
-    {
-      "ts": "2026-02-14T15:37:31.485Z",
-      "time": "15:37:31",
-      "type": "position",
-      "msg": "ETH -0.19% — Prometo estudar mais... mentira, vou continuar igual"
-    },
-    {
-      "ts": "2026-02-14T15:37:02.026Z",
-      "time": "15:37:02",
-      "type": "position",
-      "msg": "PAXG -0.01% — Dormiu no ponto"
-    },
-    {
-      "ts": "2026-02-14T15:36:31.745Z",
-      "time": "15:36:31",
-      "type": "position",
-      "msg": "SOL +0.24% — Vou comemorar quando fechar. Talvez."
-    },
-    {
-      "ts": "2026-02-14T15:36:31.480Z",
-      "time": "15:36:31",
-      "type": "position",
-      "msg": "ETH -0.06% — Plot twist a qualquer momento"
-    },
-    {
-      "ts": "2026-02-14T15:36:01.944Z",
-      "time": "15:36:01",
-      "type": "position",
-      "msg": "PAXG -0.01% — Plot twist a qualquer momento"
-    },
-    {
-      "ts": "2026-02-14T15:35:31.661Z",
-      "time": "15:35:31",
-      "type": "position",
-      "msg": "SOL +0.40% — Não me acostumem com isso"
+      "ts": "2026-02-15T00:56:08.339Z",
+      "time": "00:56:08",
+      "type": "system",
+      "msg": "🤖 QuickBot V3 ativo. Watching: BTC, ETH, SOL, HYPE, XRP, ZEC, PAXG, LIT, ZRO, ASTER, AAVE, PUMP, SUI, UNI, MON, BCH, XPL, FARTCOIN, DOGE, BERA, AZTEC, VIRTUAL, AVAX, BNB, OM, TAO, VVV, XMR, kPEPE, ARB, MOODENG, LINK, JUP"
     }
   ],
   "hl": {
-    "balance": 15.892641,
+    "balance": 15.880153,
     "positions": [
       {
         "coin": "BTC",
         "side": "SHORT",
         "size": 0.00032,
         "entry": 69697,
-        "pnl": -0.00416,
-        "pnlPct": -0.09326083
+        "pnl": -0.0032,
+        "pnlPct": -0.0717391
       },
       {
         "coin": "XRP",
         "side": "LONG",
         "size": 11,
         "entry": 1.4503,
-        "pnl": 0.7634,
-        "pnlPct": 23.92608426
+        "pnl": 0.7689,
+        "pnlPct": 24.09846239
       },
       {
-        "coin": "PAXG",
+        "coin": "ZRO",
+        "side": "SHORT",
+        "size": 8.5,
+        "entry": 1.8619,
+        "pnl": 0.00425,
+        "pnlPct": 0.13427144
+      },
+      {
+        "coin": "HYPE",
         "side": "LONG",
-        "size": 0.003,
-        "entry": 5030.2,
-        "pnl": -0.0186,
-        "pnlPct": -0.61627768
+        "size": 0.49,
+        "entry": 31.906,
+        "pnl": -0.00196,
+        "pnlPct": -0.06268413
       }
     ]
   },
@@ -345,6 +173,13 @@
         "coin": "XRP",
         "side": "SHORT",
         "size": 10,
+        "pnl": 0,
+        "pnlPct": 0
+      },
+      {
+        "coin": "HYPE",
+        "side": "SHORT",
+        "size": 0.4,
         "pnl": 0,
         "pnlPct": 0
       }
