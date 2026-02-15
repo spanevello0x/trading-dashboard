@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T08:40:46.491Z",
+      "time": "08:40:46",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL -0.47% — Isso aqui tá pior que reunião de segunda-feira"
+    },
+    {
       "ts": "2026-02-15T08:40:16.491Z",
       "time": "08:40:16",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "08:31:32",
       "type": "mirror-open",
       "msg": "🪞 📈 Abrindo LONG ETH @ $2071.85 — Mais trabalho pra mim. Que novidade."
-    },
-    {
-      "ts": "2026-02-15T08:31:20.816Z",
-      "time": "08:31:20",
-      "type": "mirror-close",
-      "msg": "🪞 ETH fechado (+$0.00) — Lucro garantido. Agradeçam depois. Ou não."
     }
   ]
 }
