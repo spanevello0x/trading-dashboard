@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T02:30:56.106Z",
+      "time": "02:30:56",
+      "type": "position",
+      "msg": "📈 OM -1.48% — Pelo menos aprendo algo... né?"
+    },
+    {
+      "ts": "2026-02-15T02:30:54.439Z",
+      "time": "02:30:54",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 ETH -0.29% — Não era assim no backtest"
+    },
+    {
       "ts": "2026-02-15T02:30:25.715Z",
       "time": "02:30:25",
       "type": "position",
@@ -287,18 +299,6 @@
       "time": "02:20:54",
       "type": "mirror-thought",
       "msg": "🪞 📈 ETH +0.02% — O emocionante mundo do zero por cento"
-    },
-    {
-      "ts": "2026-02-15T02:20:25.649Z",
-      "time": "02:20:25",
-      "type": "position",
-      "msg": "📈 OM +0.03% — Dormiu no ponto"
-    },
-    {
-      "ts": "2026-02-15T02:20:25.300Z",
-      "time": "02:20:25",
-      "type": "position",
-      "msg": "📉 ZRO -1.49% — Quem mandou confiar em linha colorida"
     }
   ]
 }
