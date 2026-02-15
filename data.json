@@ -1,6 +1,24 @@
 {
-  "lastUpdate": "2026-02-15T05:46:41.934Z",
+  "lastUpdate": "2026-02-15T05:47:12.324Z",
   "feed": [
+    {
+      "ts": "2026-02-15T05:47:04.184Z",
+      "time": "05:47:04",
+      "type": "position",
+      "msg": "📉 ZEC +0.13% — Respira... ainda não acabou"
+    },
+    {
+      "ts": "2026-02-15T05:47:04.095Z",
+      "time": "05:47:04",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC -0.45% — Meu trabalho é neutralizar, não fazer milagre"
+    },
+    {
+      "ts": "2026-02-15T05:47:03.802Z",
+      "time": "05:47:03",
+      "type": "position",
+      "msg": "📈 SOL +1.47% — Lucro é lucro, mesmo que pague só o almoço"
+    },
     {
       "ts": "2026-02-15T05:46:34.094Z",
       "time": "05:46:34",
@@ -194,18 +212,6 @@
       "msg": "🎯 LONG BERA @ $0.68 (78%) — Vamo ver no que dá"
     },
     {
-      "ts": "2026-02-15T05:45:18.961Z",
-      "time": "05:45:18",
-      "type": "analysis",
-      "msg": "BERA tá interessante, 78% pro LONG"
-    },
-    {
-      "ts": "2026-02-15T05:45:18.678Z",
-      "time": "05:45:18",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - DOGE cancelado"
-    },
-    {
       "ts": "2026-02-15T05:45:01.339Z",
       "time": "05:45:01",
       "type": "mirror-thought",
@@ -294,56 +300,50 @@
       "time": "05:38:01",
       "type": "mirror-thought",
       "msg": "🪞 📉 SOL +0.37% — Ganhando aqui pra compensar a burrice do outro lado"
-    },
-    {
-      "ts": "2026-02-15T05:37:31.322Z",
-      "time": "05:37:31",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP -0.12% — Não me paga o suficiente pra isso. Aliás, não me paga nada."
     }
   ],
   "hl": {
-    "balance": 16.044139,
+    "balance": 16.046684,
     "positions": [
       {
         "coin": "BTC",
         "side": "SHORT",
         "size": 0.00032,
         "entry": 69697,
-        "pnl": -0.22752,
-        "pnlPct": -5.10064996
+        "pnl": -0.216,
+        "pnlPct": -4.8423892
       },
       {
         "coin": "SOL",
         "side": "LONG",
         "size": 0.16,
         "entry": 88.485,
-        "pnl": 0.22144,
-        "pnlPct": 7.82053455
+        "pnl": 0.19616,
+        "pnlPct": 6.927727860000001
       },
       {
         "coin": "XRP",
         "side": "LONG",
         "size": 11,
         "entry": 1.4503,
-        "pnl": 1.4311,
-        "pnlPct": 44.85278908
+        "pnl": 1.4014,
+        "pnlPct": 43.92194718
       },
       {
         "coin": "OM",
         "side": "LONG",
         "size": 83.5,
         "entry": 0.06402,
-        "pnl": -0.096025,
-        "pnlPct": -5.38894096
+        "pnl": -0.09352,
+        "pnlPct": -5.24835989
       },
       {
         "coin": "ZEC",
         "side": "SHORT",
         "size": 0.05,
         "entry": 319.8,
-        "pnl": -0.008,
-        "pnlPct": -0.25015634999999997
+        "pnl": 0.0355,
+        "pnlPct": 1.11006879
       }
     ]
   },
@@ -355,40 +355,40 @@
         "side": "LONG",
         "size": 0.0006,
         "entry": 69665,
-        "price": 70431.5,
-        "notional": 42.2589,
-        "pnl": 0.4599,
-        "pnlPct": 1.100265556592263
+        "price": 70379.5,
+        "notional": 42.2277,
+        "pnl": 0.42869999999999997,
+        "pnlPct": 1.0256226225507787
       },
       {
         "coin": "SOL",
         "side": "SHORT",
         "size": 0.1,
         "entry": 88.535,
-        "price": 89.905,
-        "notional": 8.9905,
-        "pnl": -0.13700000000000045,
-        "pnlPct": -1.5474106285649796
+        "price": 89.725,
+        "notional": 8.9725,
+        "pnl": -0.11899999999999977,
+        "pnlPct": -1.3441012029140993
       },
       {
         "coin": "XRP",
         "side": "SHORT",
         "size": 10,
         "entry": 1.53,
-        "price": 1.5808499999999999,
-        "notional": 15.808499999999999,
-        "pnl": -0.5084999999999984,
-        "pnlPct": -3.3235294117646954
+        "price": 1.57715,
+        "notional": 15.7715,
+        "pnl": -0.47150000000000025,
+        "pnlPct": -3.0816993464052302
       },
       {
         "coin": "ZEC",
         "side": "LONG",
         "size": 0.04,
         "entry": 319.95000000000005,
-        "price": 319.53499999999997,
-        "notional": 12.7814,
-        "pnl": -0.01660000000000309,
-        "pnlPct": -0.12970776683859267
+        "price": 315.145,
+        "notional": 12.6058,
+        "pnl": -0.19220000000000256,
+        "pnlPct": -1.5017971558056142
       }
     ]
   }
