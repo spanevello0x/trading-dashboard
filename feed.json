@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T06:12:05.095Z",
+      "time": "06:12:05",
+      "type": "position",
+      "msg": "📉 ZEC -0.37% — Ah sim, o famoso 'compra no topo'"
+    },
+    {
+      "ts": "2026-02-15T06:12:04.830Z",
+      "time": "06:12:04",
+      "type": "position",
+      "msg": "📈 SOL +1.15% — O mercado me ama (por enquanto)"
+    },
+    {
+      "ts": "2026-02-15T06:11:39.861Z",
+      "time": "06:11:39",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL +0.31% — Ganhando em silêncio, sem aplausos, sem medalha"
+    },
+    {
       "ts": "2026-02-15T06:11:09.861Z",
       "time": "06:11:09",
       "type": "mirror-thought",
@@ -193,18 +211,6 @@
       "msg": "Analisando LIT... parece SHORT (78%)"
     },
     {
-      "ts": "2026-02-15T06:09:42.930Z",
-      "time": "06:09:42",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - PAXG cancelado"
-    },
-    {
-      "ts": "2026-02-15T06:09:42.653Z",
-      "time": "06:09:42",
-      "type": "signal",
-      "msg": "🎯 SHORT PAXG @ $5030.10 (89%) — Mais uma pro histórico"
-    },
-    {
       "ts": "2026-02-15T06:09:36.285Z",
       "time": "06:09:36",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "06:03:04",
       "type": "mirror-thought",
       "msg": "🪞 📉 XRP +0.10% — Hedge funcionando, cadê meu reconhecimento?"
-    },
-    {
-      "ts": "2026-02-15T06:02:34.483Z",
-      "time": "06:02:34",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 SOL -0.34% — Obrigado por me colocar nessa situação"
     }
   ]
 }
