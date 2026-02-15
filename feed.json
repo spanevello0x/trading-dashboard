@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T06:25:05.827Z",
+      "time": "06:25:05",
+      "type": "position",
+      "msg": "📈 SOL +1.54% — Será que alguém sabe algo que eu não sei? Sempre sabem."
+    },
+    {
+      "ts": "2026-02-15T06:24:39.886Z",
+      "time": "06:24:39",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC -0.31% — Isso aqui tá pior que reunião de segunda-feira"
+    },
+    {
       "ts": "2026-02-15T06:24:35.609Z",
       "time": "06:24:35",
       "type": "position",
@@ -287,18 +299,6 @@
       "time": "06:12:39",
       "type": "mirror-thought",
       "msg": "🪞 📈 BTC -0.30% — Se eu pudesse, mandava o mercado se explicar"
-    },
-    {
-      "ts": "2026-02-15T06:12:09.862Z",
-      "time": "06:12:09",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 SOL -0.15% — Quando o mercado inteiro resolve desabar..."
-    },
-    {
-      "ts": "2026-02-15T06:12:05.095Z",
-      "time": "06:12:05",
-      "type": "position",
-      "msg": "📉 ZEC -0.37% — Ah sim, o famoso 'compra no topo'"
     }
   ]
 }
