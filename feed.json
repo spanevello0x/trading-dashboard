@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T05:08:02.357Z",
+      "time": "05:08:02",
+      "type": "position",
+      "msg": "📉 ZRO -1.72% — Vermelho é a minha cor favorita agora"
+    },
+    {
+      "ts": "2026-02-15T05:08:02.030Z",
+      "time": "05:08:02",
+      "type": "position",
+      "msg": "📈 SOL +0.68% — Não é muito, mas é trabalho honesto"
+    },
+    {
+      "ts": "2026-02-15T05:08:01.069Z",
+      "time": "05:08:01",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC -0.28% — Perfeito. Agora os dois lados tão perdendo. Maravilha."
+    },
+    {
       "ts": "2026-02-15T05:07:31.068Z",
       "time": "05:07:31",
       "type": "mirror-thought",
@@ -281,24 +299,6 @@
       "time": "04:55:01",
       "type": "position",
       "msg": "📉 ZRO -0.91% — Meu eu do passado tomou essa decisão, problema dele"
-    },
-    {
-      "ts": "2026-02-15T04:55:01.594Z",
-      "time": "04:55:01",
-      "type": "position",
-      "msg": "📈 SOL +0.11% — Será que é armadilha? Provavelmente. Mas vou curtir enquanto dura"
-    },
-    {
-      "ts": "2026-02-15T04:55:00.730Z",
-      "time": "04:55:00",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 SOL -0.26% — Delta neutral de prejuízo. Inovador."
-    },
-    {
-      "ts": "2026-02-15T04:54:30.729Z",
-      "time": "04:54:30",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC +0.26% — Sou o plano B que deveria ser o plano A"
     }
   ]
 }
