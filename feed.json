@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T09:10:52.103Z",
+      "time": "09:10:52",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC -0.15% — Isso aqui tá pior que reunião de segunda-feira"
+    },
+    {
       "ts": "2026-02-15T09:10:22.103Z",
       "time": "09:10:22",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "08:57:41",
       "type": "position",
       "msg": "📉 ZEC -0.00% — Parece até stable coin"
-    },
-    {
-      "ts": "2026-02-15T08:57:32.427Z",
-      "time": "08:57:32",
-      "type": "mirror-open",
-      "msg": "🪞 📈 Abrindo LONG ZEC @ $304.73 — Abrindo posição porque ALGUÉM tem que fazer hedge"
     }
   ]
 }
