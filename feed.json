@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T03:17:57.915Z",
+      "time": "03:17:57",
+      "type": "position",
+      "msg": "📈 OM -2.48% — Minha análise era perfeita, o mercado que tá errado"
+    },
+    {
+      "ts": "2026-02-15T03:17:57.383Z",
+      "time": "03:17:57",
+      "type": "position",
+      "msg": "📉 ETH +0.30% — Isso aí, garoto. Vai, vai, vai..."
+    },
+    {
+      "ts": "2026-02-15T03:17:54.512Z",
+      "time": "03:17:54",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 ETH -0.47% — Se eu pudesse, mandava o mercado se explicar"
+    },
+    {
       "ts": "2026-02-15T03:17:27.697Z",
       "time": "03:17:27",
       "type": "position",
@@ -281,24 +299,6 @@
       "time": "03:08:24",
       "type": "mirror-thought",
       "msg": "🪞 📉 XRP -0.31% — Vermelho dos dois lados. Arte moderna isso."
-    },
-    {
-      "ts": "2026-02-15T03:07:57.557Z",
-      "time": "03:07:57",
-      "type": "position",
-      "msg": "📈 OM -2.33% — Quem mandou confiar em linha colorida"
-    },
-    {
-      "ts": "2026-02-15T03:07:57.280Z",
-      "time": "03:07:57",
-      "type": "position",
-      "msg": "📉 ZRO -0.17% — Clássico"
-    },
-    {
-      "ts": "2026-02-15T03:07:54.486Z",
-      "time": "03:07:54",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC +0.09% — Lateral é o novo tendência aparentemente"
     }
   ]
 }
