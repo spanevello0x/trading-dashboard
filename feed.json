@@ -1,6 +1,48 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T03:56:01.034Z",
+      "time": "03:56:01",
+      "type": "execution",
+      "msg": "📤 Abrindo LONG em SOL..."
+    },
+    {
+      "ts": "2026-02-15T03:56:00.016Z",
+      "time": "03:56:00",
+      "type": "execution",
+      "msg": "⚙️ Leverage: 5x"
+    },
+    {
+      "ts": "2026-02-15T03:55:59.738Z",
+      "time": "03:55:59",
+      "type": "signal",
+      "msg": "🎯 LONG SOL @ $88.51 (89%) — Setup alinhado, agora é com o mercado"
+    },
+    {
+      "ts": "2026-02-15T03:55:59.737Z",
+      "time": "03:55:59",
+      "type": "analysis",
+      "msg": "Olhando SOL... 89% LONG"
+    },
+    {
+      "ts": "2026-02-15T03:55:59.051Z",
+      "time": "03:55:59",
+      "type": "position",
+      "msg": "📉 ZRO -0.53% — Sabia que não devia ter olhado"
+    },
+    {
+      "ts": "2026-02-15T03:55:57.022Z",
+      "time": "03:55:57",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP +0.43% — Se fosse fácil, qualquer um fazia. Mas só eu faço."
+    },
+    {
+      "ts": "2026-02-15T03:55:48.693Z",
+      "time": "03:55:48",
+      "type": "mirror-close",
+      "msg": "🪞 ETH fechado (+$0.00) — Fechei no lucro. Esperava aplausos, recebi silêncio."
+    },
+    {
       "ts": "2026-02-15T03:55:28.718Z",
       "time": "03:55:28",
       "type": "system",
@@ -257,48 +299,6 @@
       "time": "03:44:58",
       "type": "position",
       "msg": "📉 ETH +1.07% — Respira... ainda não acabou"
-    },
-    {
-      "ts": "2026-02-15T03:44:55.086Z",
-      "time": "03:44:55",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC +0.24% — Se fosse fácil, qualquer um fazia. Mas só eu faço."
-    },
-    {
-      "ts": "2026-02-15T03:44:25.085Z",
-      "time": "03:44:25",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC +0.10% — Monótono demais. Até reclamar tá difícil."
-    },
-    {
-      "ts": "2026-02-15T03:43:58.754Z",
-      "time": "03:43:58",
-      "type": "position",
-      "msg": "📉 ZRO +0.77% — Imagina se eu tivesse colocado mais..."
-    },
-    {
-      "ts": "2026-02-15T03:43:58.491Z",
-      "time": "03:43:58",
-      "type": "position",
-      "msg": "📉 ETH +1.12% — Quem diria, acertei uma"
-    },
-    {
-      "ts": "2026-02-15T03:43:55.084Z",
-      "time": "03:43:55",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP -0.34% — O hedge não funciona se TUDO desaba, gênio"
-    },
-    {
-      "ts": "2026-02-15T03:43:25.083Z",
-      "time": "03:43:25",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP +0.25% — Lucro garantido pelo único profissional aqui"
-    },
-    {
-      "ts": "2026-02-15T03:42:55.082Z",
-      "time": "03:42:55",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC +0.26% — Ótimo, agora vou ter que ouvir que 'deu certo'"
     }
   ]
 }
