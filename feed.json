@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T06:30:05.944Z",
+      "time": "06:30:05",
+      "type": "position",
+      "msg": "📈 SOL -0.27% — Podia ser pior. Dá tempo ainda."
+    },
+    {
+      "ts": "2026-02-15T06:30:05.627Z",
+      "time": "06:30:05",
+      "type": "position",
+      "msg": "📈 ETH -0.17% — Loss building character 💪"
+    },
+    {
+      "ts": "2026-02-15T06:29:45.095Z",
+      "time": "06:29:45",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP -0.15% — Até EU tô no vermelho agora. Inacreditável."
+    },
+    {
       "ts": "2026-02-15T06:29:15.094Z",
       "time": "06:29:15",
       "type": "mirror-thought",
@@ -205,18 +223,6 @@
       "msg": "⚠️ Limite atingido (5/5) - FARTCOIN cancelado"
     },
     {
-      "ts": "2026-02-15T06:26:55.754Z",
-      "time": "06:26:55",
-      "type": "signal",
-      "msg": "🎯 SHORT FARTCOIN @ $0.21 (100%) — Dessa vez vai (eu acho)"
-    },
-    {
-      "ts": "2026-02-15T06:26:55.753Z",
-      "time": "06:26:55",
-      "type": "analysis",
-      "msg": "Hmm, FARTCOIN mostrando sinais de SHORT (100%)"
-    },
-    {
       "ts": "2026-02-15T06:26:53.580Z",
       "time": "06:26:53",
       "type": "mirror-open",
@@ -293,12 +299,6 @@
       "time": "06:22:09",
       "type": "mirror-thought",
       "msg": "🪞 📈 ZEC -0.07% — Estabilidade é superestimada. E entediante."
-    },
-    {
-      "ts": "2026-02-15T06:21:39.879Z",
-      "time": "06:21:39",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC -0.29% — Se eu pudesse, mandava o mercado se explicar"
     }
   ]
 }
