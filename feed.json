@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T06:07:34.912Z",
+      "time": "06:07:34",
+      "type": "position",
+      "msg": "📉 ZEC +1.69% — Finalmente algo de bom nesse mercado"
+    },
+    {
+      "ts": "2026-02-15T06:07:34.730Z",
+      "time": "06:07:34",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC -0.01% — O emocionante mundo do zero por cento"
+    },
+    {
+      "ts": "2026-02-15T06:07:34.652Z",
+      "time": "06:07:34",
+      "type": "position",
+      "msg": "📈 SOL +1.37% — Quem diria, acertei uma"
+    },
+    {
       "ts": "2026-02-15T06:07:04.729Z",
       "time": "06:07:04",
       "type": "mirror-thought",
@@ -281,24 +299,6 @@
       "time": "05:55:04",
       "type": "position",
       "msg": "📈 SOL +1.45% — Será que alguém sabe algo que eu não sei? Sempre sabem."
-    },
-    {
-      "ts": "2026-02-15T05:54:34.102Z",
-      "time": "05:54:34",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC -0.11% — Perfeito. Agora os dois lados tão perdendo. Maravilha."
-    },
-    {
-      "ts": "2026-02-15T05:54:04.286Z",
-      "time": "05:54:04",
-      "type": "position",
-      "msg": "📉 ZEC +0.24% — Será que alguém sabe algo que eu não sei? Sempre sabem."
-    },
-    {
-      "ts": "2026-02-15T05:54:04.103Z",
-      "time": "05:54:04",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP +0.46% — Quando o QuickBot erra, adivinha quem conserta?"
     }
   ]
 }
