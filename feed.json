@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T05:44:03.924Z",
+      "time": "05:44:03",
+      "type": "position",
+      "msg": "📉 ZRO -2.12% — Podia ser pior. Dá tempo ainda."
+    },
+    {
+      "ts": "2026-02-15T05:44:01.337Z",
+      "time": "05:44:01",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC -0.26% — Correlação foi pro espaço, junto com meu lucro"
+    },
+    {
       "ts": "2026-02-15T05:43:33.635Z",
       "time": "05:43:33",
       "type": "position",
@@ -287,18 +299,6 @@
       "time": "05:31:33",
       "type": "position",
       "msg": "📈 SOL +0.82% — Lucro é lucro, mesmo que pague só o almoço"
-    },
-    {
-      "ts": "2026-02-15T05:31:31.306Z",
-      "time": "05:31:31",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP -0.00% — Mercado em coma. Eu também, emocionalmente."
-    },
-    {
-      "ts": "2026-02-15T05:31:01.304Z",
-      "time": "05:31:01",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP +0.12% — Imagina se não tivesse eu aqui... caos total"
     }
   ]
 }
