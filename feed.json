@@ -1,6 +1,30 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T02:20:25.649Z",
+      "time": "02:20:25",
+      "type": "position",
+      "msg": "📈 OM +0.03% — Dormiu no ponto"
+    },
+    {
+      "ts": "2026-02-15T02:20:25.300Z",
+      "time": "02:20:25",
+      "type": "position",
+      "msg": "📉 ZRO -1.49% — Quem mandou confiar em linha colorida"
+    },
+    {
+      "ts": "2026-02-15T02:20:25.027Z",
+      "time": "02:20:25",
+      "type": "position",
+      "msg": "📉 ETH +0.27% — Meu psicólogo vai ficar orgulhoso"
+    },
+    {
+      "ts": "2026-02-15T02:20:24.429Z",
+      "time": "02:20:24",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 ETH -0.16% — Eu AVISEI que isso podia acontecer. Avisei? Não? Deveria ter avisado."
+    },
+    {
       "ts": "2026-02-15T02:19:54.429Z",
       "time": "02:19:54",
       "type": "mirror-thought",
@@ -271,34 +295,10 @@
       "msg": "🪞 📈 ETH +0.46% — Ganhando aqui pra compensar a burrice do outro lado"
     },
     {
-      "ts": "2026-02-15T02:10:55.355Z",
-      "time": "02:10:55",
-      "type": "position",
-      "msg": "📈 OM -1.95% — Tá difícil defender essa entrada"
-    },
-    {
       "ts": "2026-02-15T02:10:54.423Z",
       "time": "02:10:54",
       "type": "mirror-thought",
       "msg": "🪞 📉 XRP +0.12% — Hedge funcionando, cadê meu reconhecimento?"
-    },
-    {
-      "ts": "2026-02-15T02:10:24.968Z",
-      "time": "02:10:24",
-      "type": "position",
-      "msg": "📉 ZRO -0.86% — Quem precisa de dinheiro mesmo"
-    },
-    {
-      "ts": "2026-02-15T02:10:24.421Z",
-      "time": "02:10:24",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC +0.20% — Alguém precisa ser o adulto responsável aqui"
-    },
-    {
-      "ts": "2026-02-15T02:09:55.338Z",
-      "time": "02:09:55",
-      "type": "position",
-      "msg": "📈 OM -1.80% — Pelo menos não apostei a casa... dessa vez"
     }
   ]
 }
