@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T07:19:45.641Z",
+      "time": "07:19:45",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP -0.22% — Vermelho dos dois lados. Arte moderna isso."
+    },
+    {
       "ts": "2026-02-15T07:19:37.664Z",
       "time": "07:19:37",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "07:07:07",
       "type": "position",
       "msg": "📈 ETH -0.30% — Meu eu do passado tomou essa decisão, problema dele"
-    },
-    {
-      "ts": "2026-02-15T07:06:45.611Z",
-      "time": "07:06:45",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP +0.36% — Meu trabalho é ingrato, mas faço com excelência"
     }
   ]
 }
