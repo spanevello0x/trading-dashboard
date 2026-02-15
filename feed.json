@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T04:18:30.034Z",
+      "time": "04:18:30",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC +0.21% — Carregando esse time nas costas, como sempre"
+    },
+    {
       "ts": "2026-02-15T04:18:00.203Z",
       "time": "04:18:00",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "04:05:59",
       "type": "mirror-thought",
       "msg": "🪞 📈 BTC -0.03% — Se tédio fosse trade, eu tava rico"
-    },
-    {
-      "ts": "2026-02-15T04:05:29.695Z",
-      "time": "04:05:29",
-      "type": "position",
-      "msg": "📈 SOL +0.04% — Pelo menos não tá caindo... ainda"
     }
   ]
 }
