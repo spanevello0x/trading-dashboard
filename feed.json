@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T04:12:30.182Z",
+      "time": "04:12:30",
+      "type": "position",
+      "msg": "📉 ZRO -0.42% — Clássico"
+    },
+    {
+      "ts": "2026-02-15T04:12:29.338Z",
+      "time": "04:12:29",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL +0.00% — Esperando algo acontecer... esperando... esperando..."
+    },
+    {
       "ts": "2026-02-15T04:11:59.635Z",
       "time": "04:11:59",
       "type": "position",
@@ -287,18 +299,6 @@
       "time": "03:59:59",
       "type": "mirror-thought",
       "msg": "🪞 📉 XRP -0.02% — Parado. Que nem minha motivação."
-    },
-    {
-      "ts": "2026-02-15T03:59:30.155Z",
-      "time": "03:59:30",
-      "type": "position",
-      "msg": "📉 ZRO -0.58% — Sabia que não devia ter olhado"
-    },
-    {
-      "ts": "2026-02-15T03:59:29.894Z",
-      "time": "03:59:29",
-      "type": "position",
-      "msg": "📈 SOL +0.16% — O mercado me ama (por enquanto)"
     }
   ]
 }
