@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T06:01:34.482Z",
+      "time": "06:01:34",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC -0.11% — Perdendo aqui porque ALGUÉM tinha que abrir posição"
+    },
+    {
       "ts": "2026-02-15T06:01:04.480Z",
       "time": "06:01:04",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "05:48:04",
       "type": "mirror-thought",
       "msg": "🪞 📉 XRP -0.30% — Até EU tô no vermelho agora. Inacreditável."
-    },
-    {
-      "ts": "2026-02-15T05:48:04.084Z",
-      "time": "05:48:04",
-      "type": "position",
-      "msg": "📉 ZEC +1.24% — Se continuar assim, quase empato na semana"
     }
   ]
 }
