@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T08:11:39.988Z",
+      "time": "08:11:39",
+      "type": "position",
+      "msg": "📈 SOL +0.99% — Não me acostumem com isso"
+    },
+    {
+      "ts": "2026-02-15T08:11:39.727Z",
+      "time": "08:11:39",
+      "type": "position",
+      "msg": "📈 ETH -0.12% — Pelo menos o stop existe. Graças a Deus pelo stop."
+    },
+    {
+      "ts": "2026-02-15T08:11:15.751Z",
+      "time": "08:11:15",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL +0.19% — Neutralizando prejuízos como sempre"
+    },
+    {
       "ts": "2026-02-15T08:10:45.750Z",
       "time": "08:10:45",
       "type": "mirror-thought",
@@ -281,24 +299,6 @@
       "time": "07:58:39",
       "type": "position",
       "msg": "📈 SOL +0.81% — Se continuar assim, quase empato na semana"
-    },
-    {
-      "ts": "2026-02-15T07:58:15.727Z",
-      "time": "07:58:15",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 ETH -0.22% — Se eu pudesse, mandava o mercado se explicar"
-    },
-    {
-      "ts": "2026-02-15T07:58:09.362Z",
-      "time": "07:58:09",
-      "type": "position",
-      "msg": "📈 ETH -0.06% — Esperando Godot, versão crypto"
-    },
-    {
-      "ts": "2026-02-15T07:57:45.727Z",
-      "time": "07:57:45",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC -0.07% — Travado. Paralisado. Empacado. Sinônimos de agora."
     }
   ]
 }
