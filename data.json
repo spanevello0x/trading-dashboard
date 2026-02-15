@@ -1,11 +1,65 @@
 {
-  "lastUpdate": "2026-02-15T01:06:26.589Z",
+  "lastUpdate": "2026-02-15T01:09:00.935Z",
   "feed": [
     {
-      "ts": "2026-02-15T01:06:17.221Z",
-      "time": "01:06:17",
+      "ts": "2026-02-15T01:08:47.223Z",
+      "time": "01:08:47",
       "type": "mirror-thought",
-      "msg": "🪞 📉 XRP -0.08% — O gráfico tá mais parado que eu em dia de folga. Não tenho folga."
+      "msg": "🪞 📉 HYPE +0.43% — Lucro? Uau. Que surpresa. Ninguém esperava. Mentira, EU esperava."
+    },
+    {
+      "ts": "2026-02-15T01:08:32.396Z",
+      "time": "01:08:32",
+      "type": "position",
+      "msg": "HYPE +0.25% — Alguém avisa o mercado que eu tô comprado"
+    },
+    {
+      "ts": "2026-02-15T01:08:32.130Z",
+      "time": "01:08:32",
+      "type": "position",
+      "msg": "ZRO -0.22% — Pelo menos não é dinheiro de verdade... ah, espera"
+    },
+    {
+      "ts": "2026-02-15T01:08:02.638Z",
+      "time": "01:08:02",
+      "type": "position",
+      "msg": "OM +3.09% — Vou fingir que sabia que isso ia acontecer"
+    },
+    {
+      "ts": "2026-02-15T01:07:32.618Z",
+      "time": "01:07:32",
+      "type": "position",
+      "msg": "OM +2.66% — Stonks 📈 (desculpa, não resisti)"
+    },
+    {
+      "ts": "2026-02-15T01:07:32.347Z",
+      "time": "01:07:32",
+      "type": "position",
+      "msg": "HYPE +0.21% — Calma que ainda pode dar errado"
+    },
+    {
+      "ts": "2026-02-15T01:07:32.082Z",
+      "time": "01:07:32",
+      "type": "position",
+      "msg": "ZRO -0.32% — O mercado escolheu violência hoje"
+    },
+    {
+      "ts": "2026-02-15T01:06:32.533Z",
+      "time": "01:06:32",
+      "type": "position",
+      "msg": "OM +2.26% — Tá verde? Tira print rápido antes que vire"
+    },
+    {
+      "ts": "2026-02-15T01:06:32.271Z",
+      "time": "01:06:32",
+      "type": "position",
+      "msg": "HYPE +0.24% — Print pra mostrar pros netos"
+    },
+    {
+      "ts": "2026-02-15T01:06:32.003Z",
+      "time": "01:06:32",
+      "type": "position",
+      "msg": "ZRO -0.56% — O gráfico parecia tão bonito..."
     },
     {
       "ts": "2026-02-15T01:06:02.516Z",
@@ -132,104 +186,50 @@
       "time": "00:59:32",
       "type": "position",
       "msg": "OM +0.17% — Imagina se eu tivesse colocado mais..."
-    },
-    {
-      "ts": "2026-02-15T00:59:31.758Z",
-      "time": "00:59:31",
-      "type": "position",
-      "msg": "ZRO +0.03% — Tédio lucrativo ou tédio prejuízo? A definir."
-    },
-    {
-      "ts": "2026-02-15T00:59:01.977Z",
-      "time": "00:59:01",
-      "type": "position",
-      "msg": "HYPE +0.06% — A calmaria antes da tempestade... ou mais calmaria"
-    },
-    {
-      "ts": "2026-02-15T00:58:31.684Z",
-      "time": "00:58:31",
-      "type": "position",
-      "msg": "ZRO -0.01% — Enquanto não move, não perco. Stonks mental."
-    },
-    {
-      "ts": "2026-02-15T00:58:02.283Z",
-      "time": "00:58:02",
-      "type": "position",
-      "msg": "OM -0.06% — Enquanto não move, não perco. Stonks mental."
-    },
-    {
-      "ts": "2026-02-15T00:57:32.397Z",
-      "time": "00:57:32",
-      "type": "position",
-      "msg": "OM +0.19% — Tá verde? Tira print rápido antes que vire"
-    },
-    {
-      "ts": "2026-02-15T00:57:32.137Z",
-      "time": "00:57:32",
-      "type": "position",
-      "msg": "HYPE +0.09% — O mercado tá no modo avião"
-    },
-    {
-      "ts": "2026-02-15T00:57:31.670Z",
-      "time": "00:57:31",
-      "type": "position",
-      "msg": "ZRO +0.05% — Tick tock, mercado..."
-    },
-    {
-      "ts": "2026-02-15T00:57:01.032Z",
-      "time": "00:57:01",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - JUP cancelado"
-    },
-    {
-      "ts": "2026-02-15T00:57:00.751Z",
-      "time": "00:57:00",
-      "type": "signal",
-      "msg": "🎯 LONG JUP @ $0.17 (100%) — Os indicadores mandaram, eu obedeci"
     }
   ],
   "hl": {
-    "balance": 16.129599,
+    "balance": 16.243724,
     "positions": [
       {
         "coin": "BTC",
         "side": "SHORT",
         "size": 0.00032,
         "entry": 69697,
-        "pnl": -0.04608,
-        "pnlPct": -1.03304303
+        "pnl": -0.04256,
+        "pnlPct": -0.95413002
       },
       {
         "coin": "XRP",
         "side": "LONG",
         "size": 11,
         "entry": 1.4503,
-        "pnl": 0.979,
-        "pnlPct": 30.6833069
+        "pnl": 0.9988,
+        "pnlPct": 31.303868169999998
       },
       {
         "coin": "ZRO",
         "side": "SHORT",
         "size": 8.5,
         "entry": 1.8619,
-        "pnl": -0.0884,
-        "pnlPct": -2.7928460200000003
+        "pnl": -0.04165,
+        "pnlPct": -1.31586014
       },
       {
         "coin": "HYPE",
         "side": "LONG",
         "size": 0.49,
         "entry": 31.906,
-        "pnl": 0.03871,
-        "pnlPct": 1.23801166
+        "pnl": 0.04018,
+        "pnlPct": 1.28502476
       },
       {
         "coin": "OM",
         "side": "LONG",
         "size": 83.5,
         "entry": 0.06402,
-        "pnl": 0.116065,
-        "pnlPct": 6.5135895
+        "pnl": 0.15865,
+        "pnlPct": 8.90346767
       }
     ]
   },
@@ -241,30 +241,30 @@
         "side": "LONG",
         "size": 0.0006,
         "entry": 69665,
-        "price": 69861.5,
-        "notional": 41.9169,
-        "pnl": 0.11789999999999999,
-        "pnlPct": 0.2820641642144549
+        "price": 69856.5,
+        "notional": 41.9139,
+        "pnl": 0.11489999999999999,
+        "pnlPct": 0.27488695901815835
       },
       {
         "coin": "XRP",
         "side": "SHORT",
         "size": 10,
         "entry": 1.53,
-        "price": 1.5399500000000002,
-        "notional": 15.399500000000002,
-        "pnl": -0.09950000000000125,
-        "pnlPct": -0.650326797385629
+        "price": 1.54335,
+        "notional": 15.4335,
+        "pnl": -0.13349999999999973,
+        "pnlPct": -0.8725490196078413
       },
       {
         "coin": "HYPE",
         "side": "SHORT",
         "size": 0.4,
         "entry": 31.91,
-        "price": 31.997999999999998,
-        "notional": 12.799199999999999,
-        "pnl": -0.03519999999999897,
-        "pnlPct": -0.27577561892822755
+        "price": 32.0075,
+        "notional": 12.803,
+        "pnl": -0.03900000000000006,
+        "pnlPct": -0.3055468505170797
       }
     ]
   }
