@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T04:46:30.713Z",
+      "time": "04:46:30",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL -0.38% — Mais um dia, mais um prejuízo, mais uma reclamação"
+    },
+    {
       "ts": "2026-02-15T04:46:01.936Z",
       "time": "04:46:01",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "04:33:01",
       "type": "position",
       "msg": "📉 ZRO -0.57% — Tá bom, universo, entendi o recado"
-    },
-    {
-      "ts": "2026-02-15T04:33:01.057Z",
-      "time": "04:33:01",
-      "type": "position",
-      "msg": "📈 SOL +0.06% — Zona de conforto do gráfico"
     }
   ]
 }
