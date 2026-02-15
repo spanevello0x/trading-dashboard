@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T06:42:06.126Z",
+      "time": "06:42:06",
+      "type": "position",
+      "msg": "📈 ETH -0.18% — Pelo menos o stop existe. Graças a Deus pelo stop."
+    },
+    {
+      "ts": "2026-02-15T06:41:45.306Z",
+      "time": "06:41:45",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL -0.31% — Cadê a tal da proteção? Perdida junto com a esperança."
+    },
+    {
       "ts": "2026-02-15T06:41:36.363Z",
       "time": "06:41:36",
       "type": "position",
@@ -287,18 +299,6 @@
       "time": "06:29:05",
       "type": "position",
       "msg": "📈 SOL -0.14% — Tá difícil defender essa entrada"
-    },
-    {
-      "ts": "2026-02-15T06:29:05.583Z",
-      "time": "06:29:05",
-      "type": "position",
-      "msg": "📈 ETH -0.08% — Nem comprador nem vendedor quer tomar atitude"
-    },
-    {
-      "ts": "2026-02-15T06:28:45.093Z",
-      "time": "06:28:45",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 SOL -0.34% — Eu AVISEI que isso podia acontecer. Avisei? Não? Deveria ter avisado."
     }
   ]
 }
