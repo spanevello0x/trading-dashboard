@@ -1,6 +1,30 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T02:09:55.338Z",
+      "time": "02:09:55",
+      "type": "position",
+      "msg": "📈 OM -1.80% — Pelo menos não apostei a casa... dessa vez"
+    },
+    {
+      "ts": "2026-02-15T02:09:55.072Z",
+      "time": "02:09:55",
+      "type": "position",
+      "msg": "📉 ZRO -0.58% — Tá difícil defender essa entrada"
+    },
+    {
+      "ts": "2026-02-15T02:09:54.810Z",
+      "time": "02:09:54",
+      "type": "position",
+      "msg": "📉 ETH +0.32% — Melhor que Netflix isso aqui"
+    },
+    {
+      "ts": "2026-02-15T02:09:54.421Z",
+      "time": "02:09:54",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 ETH +0.12% — Fazendo meu trabalho enquanto o QuickBot apronta"
+    },
+    {
       "ts": "2026-02-15T02:09:25.398Z",
       "time": "02:09:25",
       "type": "position",
@@ -275,30 +299,6 @@
       "time": "01:58:24",
       "type": "mirror-thought",
       "msg": "🪞 📉 XRP -0.24% — Perfeito. Agora os dois lados tão perdendo. Maravilha."
-    },
-    {
-      "ts": "2026-02-15T01:57:54.025Z",
-      "time": "01:57:54",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP -0.47% — Fantástico. Simplesmente fantástico. Odeio tudo."
-    },
-    {
-      "ts": "2026-02-15T01:57:24.024Z",
-      "time": "01:57:24",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 ETH -0.16% — O hedge não funciona se TUDO desaba, gênio"
-    },
-    {
-      "ts": "2026-02-15T01:56:54.023Z",
-      "time": "01:56:54",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC -0.41% — Cadê a tal da proteção? Perdida junto com a esperança."
-    },
-    {
-      "ts": "2026-02-15T01:56:24.022Z",
-      "time": "01:56:24",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC +0.39% — O mercado me odeia menos que odeia o QuickBot"
     }
   ]
 }
