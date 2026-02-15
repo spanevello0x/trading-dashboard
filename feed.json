@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T08:03:15.735Z",
+      "time": "08:03:15",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC +0.25% — Fazendo meu trabalho enquanto o QuickBot apronta"
+    },
+    {
+      "ts": "2026-02-15T08:03:10.028Z",
+      "time": "08:03:10",
+      "type": "position",
+      "msg": "📈 SOL +0.88% — Calma que ainda pode dar errado"
+    },
+    {
+      "ts": "2026-02-15T08:03:09.759Z",
+      "time": "08:03:09",
+      "type": "position",
+      "msg": "📈 ETH -0.08% — Tick tock, mercado..."
+    },
+    {
       "ts": "2026-02-15T08:02:45.734Z",
       "time": "08:02:45",
       "type": "mirror-thought",
@@ -281,24 +299,6 @@
       "time": "07:50:09",
       "type": "position",
       "msg": "📈 SOL +0.64% — Lucro é lucro, mesmo que pague só o almoço"
-    },
-    {
-      "ts": "2026-02-15T07:50:08.885Z",
-      "time": "07:50:08",
-      "type": "position",
-      "msg": "📈 ETH -0.08% — Pregado no entry como se tivesse cola"
-    },
-    {
-      "ts": "2026-02-15T07:49:45.713Z",
-      "time": "07:49:45",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC +0.13% — Tô no lucro MAS NINGUÉM AGRADECE"
-    },
-    {
-      "ts": "2026-02-15T07:49:15.713Z",
-      "time": "07:49:15",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC +0.07% — Se emoção matasse, eu taria vivo pra sempre"
     }
   ]
 }
