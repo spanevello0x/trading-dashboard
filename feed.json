@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T05:04:32.248Z",
+      "time": "05:04:32",
+      "type": "position",
+      "msg": "📉 ZRO -1.19% — Pelo menos o stop existe. Graças a Deus pelo stop."
+    },
+    {
+      "ts": "2026-02-15T05:04:31.983Z",
+      "time": "05:04:31",
+      "type": "position",
+      "msg": "📈 SOL +0.25% — Vou fingir que sabia que isso ia acontecer"
+    },
+    {
+      "ts": "2026-02-15T05:04:31.060Z",
+      "time": "05:04:31",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP -0.32% — O hedge não funciona se TUDO desaba, gênio"
+    },
+    {
       "ts": "2026-02-15T05:04:01.058Z",
       "time": "05:04:01",
       "type": "mirror-thought",
@@ -281,24 +299,6 @@
       "time": "04:52:00",
       "type": "mirror-thought",
       "msg": "🪞 📉 SOL -0.37% — Eu AVISEI que isso podia acontecer. Avisei? Não? Deveria ter avisado."
-    },
-    {
-      "ts": "2026-02-15T04:51:31.396Z",
-      "time": "04:51:31",
-      "type": "position",
-      "msg": "📈 SOL +0.58% — Até um relógio quebrado acerta duas vezes"
-    },
-    {
-      "ts": "2026-02-15T04:51:30.724Z",
-      "time": "04:51:30",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP +0.43% — Verde aqui, vermelho lá. Balanço perfeito. De nada."
-    },
-    {
-      "ts": "2026-02-15T04:51:01.682Z",
-      "time": "04:51:01",
-      "type": "position",
-      "msg": "📉 ZRO -1.36% — O stop tá ali por um motivo, né"
     }
   ]
 }
