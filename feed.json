@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T06:32:05.675Z",
+      "time": "06:32:05",
+      "type": "position",
+      "msg": "📈 ETH -0.08% — Pregado no entry como se tivesse cola"
+    },
+    {
+      "ts": "2026-02-15T06:31:45.215Z",
+      "time": "06:31:45",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC +0.46% — Carregando esse time nas costas, como sempre"
+    },
+    {
       "ts": "2026-02-15T06:31:15.215Z",
       "time": "06:31:15",
       "type": "mirror-thought",
@@ -235,12 +247,6 @@
       "msg": "Analisando AVAX... parece LONG (67%)"
     },
     {
-      "ts": "2026-02-15T06:26:57.520Z",
-      "time": "06:26:57",
-      "type": "analysis",
-      "msg": "Analisando AZTEC... parece LONG (67%)"
-    },
-    {
       "ts": "2026-02-15T06:26:53.580Z",
       "time": "06:26:53",
       "type": "mirror-open",
@@ -293,12 +299,6 @@
       "time": "06:24:09",
       "type": "mirror-thought",
       "msg": "🪞 📉 SOL +0.07% — Estável. Boring. Previsível."
-    },
-    {
-      "ts": "2026-02-15T06:23:39.884Z",
-      "time": "06:23:39",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC -0.00% — Nem sobe nem desce. Assim como minha esperança."
     }
   ]
 }
