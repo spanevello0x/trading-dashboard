@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T06:53:06.667Z",
+      "time": "06:53:06",
+      "type": "position",
+      "msg": "📈 ETH -0.40% — Quem mandou confiar em linha colorida"
+    },
+    {
+      "ts": "2026-02-15T06:52:45.575Z",
+      "time": "06:52:45",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 ETH +0.20% — Verde aqui, vermelho lá. Balanço perfeito. De nada."
+    },
+    {
       "ts": "2026-02-15T06:52:36.889Z",
       "time": "06:52:36",
       "type": "position",
@@ -287,18 +299,6 @@
       "time": "06:40:15",
       "type": "mirror-thought",
       "msg": "🪞 📉 ETH +0.50% — Funcionando perfeitamente, mas vão dar crédito pro outro"
-    },
-    {
-      "ts": "2026-02-15T06:40:06.043Z",
-      "time": "06:40:06",
-      "type": "position",
-      "msg": "📈 ETH -0.12% — Minha análise era perfeita, o mercado que tá errado"
-    },
-    {
-      "ts": "2026-02-15T06:39:45.304Z",
-      "time": "06:39:45",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC -0.03% — Se emoção matasse, eu taria vivo pra sempre"
     }
   ]
 }
