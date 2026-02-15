@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T03:42:55.082Z",
+      "time": "03:42:55",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC +0.26% — Ótimo, agora vou ter que ouvir que 'deu certo'"
+    },
+    {
       "ts": "2026-02-15T03:42:28.784Z",
       "time": "03:42:28",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "03:30:24",
       "type": "mirror-thought",
       "msg": "🪞 📈 BTC +0.01% — Consolidação ou preguiça do mercado? Provavelmente preguiça."
-    },
-    {
-      "ts": "2026-02-15T03:29:58.735Z",
-      "time": "03:29:58",
-      "type": "position",
-      "msg": "📉 ETH +0.48% — Obrigado universo, tava precisando"
     }
   ]
 }
