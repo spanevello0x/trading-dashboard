@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T03:58:29.760Z",
+      "time": "03:58:29",
+      "type": "position",
+      "msg": "📉 ZRO -0.51% — Clássico"
+    },
+    {
+      "ts": "2026-02-15T03:58:29.497Z",
+      "time": "03:58:29",
+      "type": "position",
+      "msg": "📈 SOL +0.12% — Olha só, o mercado decidiu colaborar hoje"
+    },
+    {
+      "ts": "2026-02-15T03:58:29.062Z",
+      "time": "03:58:29",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC -0.40% — Nem o hedge salva dessa"
+    },
+    {
       "ts": "2026-02-15T03:57:59.062Z",
       "time": "03:57:59",
       "type": "mirror-thought",
@@ -199,18 +217,6 @@
       "msg": "🎯 LONG AAVE @ $128.75 (78%) — Nova aposta na mesa"
     },
     {
-      "ts": "2026-02-15T03:56:09.262Z",
-      "time": "03:56:09",
-      "type": "analysis",
-      "msg": "Hmm, AAVE mostrando sinais de LONG (78%)"
-    },
-    {
-      "ts": "2026-02-15T03:56:08.986Z",
-      "time": "03:56:08",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - ASTER cancelado"
-    },
-    {
       "ts": "2026-02-15T03:55:57.022Z",
       "time": "03:55:57",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "03:49:55",
       "type": "mirror-thought",
       "msg": "🪞 📈 ETH +0.16% — Mais um dia salvando a pátria"
-    },
-    {
-      "ts": "2026-02-15T03:49:25.094Z",
-      "time": "03:49:25",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP -0.03% — Lateral é o novo tendência aparentemente"
     }
   ]
 }
