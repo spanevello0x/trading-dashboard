@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T07:08:07.560Z",
+      "time": "07:08:07",
+      "type": "position",
+      "msg": "📈 SOL -0.43% — Não é prejuízo se eu não vender... ah, tem stop"
+    },
+    {
+      "ts": "2026-02-15T07:08:07.299Z",
+      "time": "07:08:07",
+      "type": "position",
+      "msg": "📈 ETH -0.35% — Meu eu do passado tomou essa decisão, problema dele"
+    },
+    {
+      "ts": "2026-02-15T07:07:45.613Z",
+      "time": "07:07:45",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC +0.43% — Segurando as pontas enquanto o outro se aventura"
+    },
+    {
       "ts": "2026-02-15T07:07:15.612Z",
       "time": "07:07:15",
       "type": "mirror-thought",
@@ -281,24 +299,6 @@
       "time": "06:55:15",
       "type": "mirror-thought",
       "msg": "🪞 📉 ETH -0.22% — Fiz minha parte, o universo que não colaborou"
-    },
-    {
-      "ts": "2026-02-15T06:54:45.580Z",
-      "time": "06:54:45",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 ETH -0.37% — Obrigado por me colocar nessa situação"
-    },
-    {
-      "ts": "2026-02-15T06:54:36.967Z",
-      "time": "06:54:36",
-      "type": "position",
-      "msg": "📈 SOL -0.46% — Mais um dia normal no crypto"
-    },
-    {
-      "ts": "2026-02-15T06:54:15.579Z",
-      "time": "06:54:15",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 SOL +0.37% — Alguém precisa ser o adulto responsável aqui"
     }
   ]
 }
