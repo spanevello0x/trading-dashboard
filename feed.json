@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T08:29:46.110Z",
+      "time": "08:29:46",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC +0.12% — Mais um dia salvando a pátria"
+    },
+    {
       "ts": "2026-02-15T08:29:40.463Z",
       "time": "08:29:40",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "08:16:46",
       "type": "mirror-thought",
       "msg": "🪞 📈 BTC -0.36% — Fiz minha parte, o universo que não colaborou"
-    },
-    {
-      "ts": "2026-02-15T08:16:40.213Z",
-      "time": "08:16:40",
-      "type": "position",
-      "msg": "📈 SOL +0.92% — Respira... ainda não acabou"
     }
   ]
 }
