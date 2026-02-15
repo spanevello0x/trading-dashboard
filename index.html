@@ -161,23 +161,59 @@
     
     <!-- Thoughts Grid -->
     <div class="grid lg:grid-cols-2 gap-6">
-      <!-- HL Thoughts -->
-      <div class="bg-dark-800 border border-dark-600 rounded-xl p-4">
-        <div class="flex items-center justify-between mb-3">
-          <h3 class="font-semibold text-sm flex items-center gap-2">🧠 QuickBot Thoughts <span class="text-xs text-gray-500" id="hl-thought-count">0</span></h3>
+      <!-- HL Column -->
+      <div class="space-y-4">
+        <!-- HL Trades (collapsible) -->
+        <div class="bg-dark-800 border border-dark-600 rounded-xl overflow-hidden">
+          <button onclick="toggleHlTrades()" class="w-full px-4 py-3 flex items-center justify-between hover:bg-dark-700/50 transition">
+            <h3 class="font-semibold text-sm flex items-center gap-2">📜 Últimos Trades <span class="text-xs text-gray-500" id="hl-trades-count">0</span></h3>
+            <svg id="hl-trades-arrow" class="w-4 h-4 text-gray-500 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+            </svg>
+          </button>
+          <div id="hl-trades-list" class="hidden border-t border-dark-600 max-h-64 overflow-y-auto">
+            <div class="p-3 space-y-1" id="hl-trades-content">
+              <div class="text-gray-500 text-center py-4 text-xs">Carregando...</div>
+            </div>
+          </div>
         </div>
-        <div class="bg-dark-900/50 rounded-lg p-3 max-h-80 overflow-y-auto space-y-1 mono text-xs" id="hl-feed">
-          <div class="text-gray-500 text-center py-4">Aguardando...</div>
+        
+        <!-- HL Thoughts -->
+        <div class="bg-dark-800 border border-dark-600 rounded-xl p-4">
+          <div class="flex items-center justify-between mb-3">
+            <h3 class="font-semibold text-sm flex items-center gap-2">🧠 Pensamentos <span class="text-xs text-gray-500" id="hl-thought-count">0</span></h3>
+          </div>
+          <div class="bg-dark-900/50 rounded-lg p-3 max-h-72 overflow-y-auto space-y-1 mono text-xs" id="hl-feed">
+            <div class="text-gray-500 text-center py-4">Aguardando...</div>
+          </div>
         </div>
       </div>
       
-      <!-- NADO Thoughts -->
-      <div class="bg-dark-800 border border-dark-600 rounded-xl p-4">
-        <div class="flex items-center justify-between mb-3">
-          <h3 class="font-semibold text-sm flex items-center gap-2">🪞 Mirror Thoughts <span class="text-xs text-gray-500" id="nado-thought-count">0</span></h3>
+      <!-- NADO Column -->
+      <div class="space-y-4">
+        <!-- NADO Trades (collapsible) -->
+        <div class="bg-dark-800 border border-dark-600 rounded-xl overflow-hidden">
+          <button onclick="toggleNadoTrades()" class="w-full px-4 py-3 flex items-center justify-between hover:bg-dark-700/50 transition">
+            <h3 class="font-semibold text-sm flex items-center gap-2">📜 Últimos Trades <span class="text-xs text-gray-500" id="nado-trades-count">0</span></h3>
+            <svg id="nado-trades-arrow" class="w-4 h-4 text-gray-500 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+            </svg>
+          </button>
+          <div id="nado-trades-list" class="hidden border-t border-dark-600 max-h-64 overflow-y-auto">
+            <div class="p-3 space-y-1" id="nado-trades-content">
+              <div class="text-gray-500 text-center py-4 text-xs">Carregando...</div>
+            </div>
+          </div>
         </div>
-        <div class="bg-dark-900/50 rounded-lg p-3 max-h-80 overflow-y-auto space-y-1 mono text-xs" id="nado-feed">
-          <div class="text-gray-500 text-center py-4">Aguardando...</div>
+        
+        <!-- NADO Thoughts -->
+        <div class="bg-dark-800 border border-dark-600 rounded-xl p-4">
+          <div class="flex items-center justify-between mb-3">
+            <h3 class="font-semibold text-sm flex items-center gap-2">🪞 Pensamentos <span class="text-xs text-gray-500" id="nado-thought-count">0</span></h3>
+          </div>
+          <div class="bg-dark-900/50 rounded-lg p-3 max-h-72 overflow-y-auto space-y-1 mono text-xs" id="nado-feed">
+            <div class="text-gray-500 text-center py-4">Aguardando...</div>
+          </div>
         </div>
       </div>
     </div>
@@ -465,6 +501,72 @@
       renderFeed(nadoFeedItems, 'nado-feed');
     }
     
+    // Toggle trades panels
+    let hlTradesOpen = false;
+    let nadoTradesOpen = false;
+    
+    window.toggleHlTrades = function() {
+      hlTradesOpen = !hlTradesOpen;
+      document.getElementById('hl-trades-list').classList.toggle('hidden', !hlTradesOpen);
+      document.getElementById('hl-trades-arrow').style.transform = hlTradesOpen ? 'rotate(180deg)' : '';
+    };
+    
+    window.toggleNadoTrades = function() {
+      nadoTradesOpen = !nadoTradesOpen;
+      document.getElementById('nado-trades-list').classList.toggle('hidden', !nadoTradesOpen);
+      document.getElementById('nado-trades-arrow').style.transform = nadoTradesOpen ? 'rotate(180deg)' : '';
+    };
+    
+    function renderHlTrades(fills) {
+      const recent = fills.slice(0, 20);
+      const closedTrades = recent.filter(f => parseFloat(f.closedPnl || 0) !== 0);
+      
+      document.getElementById('hl-trades-count').textContent = closedTrades.length;
+      
+      const content = document.getElementById('hl-trades-content');
+      content.innerHTML = closedTrades.length > 0
+        ? closedTrades.map(f => {
+            const pnl = parseFloat(f.closedPnl);
+            const isBuy = f.side === 'B';
+            const time = new Date(f.time).toLocaleString('pt-BR', { day: '2-digit', month: '2-digit', hour: '2-digit', minute: '2-digit' });
+            return `
+              <div class="flex items-center justify-between py-2 px-2 bg-dark-700/30 rounded text-xs">
+                <div class="flex items-center gap-2">
+                  <span class="w-5 h-5 rounded flex items-center justify-center ${isBuy ? 'bg-accent-green/20 text-accent-green' : 'bg-accent-red/20 text-accent-red'}">
+                    ${isBuy ? '↑' : '↓'}
+                  </span>
+                  <span class="font-medium">${f.coin}</span>
+                  <span class="text-gray-500">${time}</span>
+                </div>
+                <span class="mono font-medium ${pnl >= 0 ? 'text-accent-green' : 'text-accent-red'}">
+                  ${pnl >= 0 ? '+' : ''}${fmt(pnl, 4)}
+                </span>
+              </div>
+            `;
+          }).join('')
+        : '<div class="text-gray-500 text-center py-4 text-xs">Nenhum trade fechado</div>';
+    }
+    
+    function renderNadoTrades() {
+      // Por enquanto usa dados do feed para NADO
+      const nadoTrades = nadoFeedItems.filter(f => f.msg.includes('✅') || f.msg.includes('fechou'));
+      
+      document.getElementById('nado-trades-count').textContent = nadoTrades.length;
+      
+      const content = document.getElementById('nado-trades-content');
+      content.innerHTML = nadoTrades.length > 0
+        ? nadoTrades.slice(0, 20).map(f => `
+            <div class="flex items-center justify-between py-2 px-2 bg-dark-700/30 rounded text-xs">
+              <div class="flex items-center gap-2">
+                <span class="w-5 h-5 rounded flex items-center justify-center bg-accent-purple/20 text-accent-purple">🪞</span>
+                <span class="text-gray-300">${f.msg.replace('🪞 NADO: ', '').slice(0, 40)}${f.msg.length > 40 ? '...' : ''}</span>
+              </div>
+              <span class="text-gray-500 text-xs">${f.time}</span>
+            </div>
+          `).join('')
+        : '<div class="text-gray-500 text-center py-4 text-xs">Aguardando trades...</div>';
+    }
+    
     let hlPrevPnl = {};
     
     function generateHlThoughts(positions, mids) {
@@ -559,8 +661,10 @@
         document.getElementById('total-pnl').textContent = (hlPnl >= 0 ? '+' : '') + fmt(hlPnl, 3);
         document.getElementById('total-pnl').className = 'text-2xl font-bold mono ' + (hlPnl >= 0 ? 'text-accent-green' : 'text-accent-red');
         
-        // Render feeds
+        // Render feeds and trades
         renderFeeds();
+        renderHlTrades(fills || []);
+        renderNadoTrades();
         
         document.getElementById('last-update').textContent = fmtTime();
         
