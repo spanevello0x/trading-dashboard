@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T02:29:25.635Z",
+      "time": "02:29:25",
+      "type": "position",
+      "msg": "📉 ZRO -0.58% — Prometo estudar mais... mentira, vou continuar igual"
+    },
+    {
+      "ts": "2026-02-15T02:29:25.372Z",
+      "time": "02:29:25",
+      "type": "position",
+      "msg": "📉 ETH +0.44% — Não é muito, mas é trabalho honesto"
+    },
+    {
+      "ts": "2026-02-15T02:29:24.436Z",
+      "time": "02:29:24",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC -0.10% — Nem o mercado sabe o que quer"
+    },
+    {
       "ts": "2026-02-15T02:28:55.870Z",
       "time": "02:28:55",
       "type": "position",
@@ -281,24 +299,6 @@
       "time": "02:19:25",
       "type": "position",
       "msg": "📉 ETH +0.23% — Até um relógio quebrado acerta duas vezes"
-    },
-    {
-      "ts": "2026-02-15T02:19:24.428Z",
-      "time": "02:19:24",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 ETH +0.34% — O mercado me odeia menos que odeia o QuickBot"
-    },
-    {
-      "ts": "2026-02-15T02:18:55.274Z",
-      "time": "02:18:55",
-      "type": "position",
-      "msg": "📉 ZRO -1.52% — Tá bom, universo, entendi o recado"
-    },
-    {
-      "ts": "2026-02-15T02:18:54.428Z",
-      "time": "02:18:54",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC +0.41% — Segurando as pontas enquanto o outro se aventura"
     }
   ]
 }
