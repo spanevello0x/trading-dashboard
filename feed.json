@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T02:43:24.448Z",
+      "time": "02:43:24",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC -0.16% — Mais um dia, mais um prejuízo, mais uma reclamação"
+    },
+    {
       "ts": "2026-02-15T02:42:56.489Z",
       "time": "02:42:56",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "02:32:55",
       "type": "position",
       "msg": "📉 ZRO -0.51% — O mercado acordou e escolheu me machucar"
-    },
-    {
-      "ts": "2026-02-15T02:32:55.554Z",
-      "time": "02:32:55",
-      "type": "position",
-      "msg": "📉 ETH +0.54% — Tá bom demais pra ser verdade... ops, não deveria falar isso"
     }
   ]
 }
