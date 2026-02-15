@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T06:37:15.223Z",
+      "time": "06:37:15",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC +0.01% — Não ganha, não perde, não anima"
+    },
+    {
       "ts": "2026-02-15T06:37:06.265Z",
       "time": "06:37:06",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "06:27:00",
       "type": "system",
       "msg": "⚠️ Limite atingido (5/5) - kPEPE cancelado"
-    },
-    {
-      "ts": "2026-02-15T06:27:00.664Z",
-      "time": "06:27:00",
-      "type": "signal",
-      "msg": "🎯 SHORT kPEPE @ $0.00 (78%) — Dessa vez vai (eu acho)"
     }
   ]
 }
