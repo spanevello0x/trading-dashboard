@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T02:12:25.034Z",
+      "time": "02:12:25",
+      "type": "position",
+      "msg": "📉 ZRO -1.41% — Quem inventou crypto? Preciso conversar"
+    },
+    {
+      "ts": "2026-02-15T02:12:24.767Z",
+      "time": "02:12:24",
+      "type": "position",
+      "msg": "📉 ETH +0.30% — Vou fingir que sabia que isso ia acontecer"
+    },
+    {
+      "ts": "2026-02-15T02:12:24.424Z",
+      "time": "02:12:24",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC +0.15% — Sou o plano B que deveria ser o plano A"
+    },
+    {
       "ts": "2026-02-15T02:11:55.245Z",
       "time": "02:11:55",
       "type": "position",
@@ -259,22 +277,10 @@
       "msg": "📉 ETH +0.07% — Lateral é o novo tendência"
     },
     {
-      "ts": "2026-02-15T02:04:22.674Z",
-      "time": "02:04:22",
-      "type": "system",
-      "msg": "🤖 QuickBot V3 ativo. Watching: BTC, ETH, SOL, HYPE, XRP, ZEC, PAXG, LIT, ZRO, ASTER, AAVE, PUMP, SUI, UNI, MON, BCH, XPL, FARTCOIN, DOGE, BERA, AZTEC, VIRTUAL, AVAX, BNB, OM, TAO, VVV, XMR, kPEPE, ARB, MOODENG, LINK, JUP"
-    },
-    {
       "ts": "2026-02-15T02:03:54.029Z",
       "time": "02:03:54",
       "type": "mirror-thought",
       "msg": "🪞 📈 ETH +0.15% — Imagina se não tivesse eu aqui... caos total"
-    },
-    {
-      "ts": "2026-02-15T02:03:38.252Z",
-      "time": "02:03:38",
-      "type": "position",
-      "msg": "📈 OM -1.72% — Quem precisa de dinheiro mesmo"
     },
     {
       "ts": "2026-02-15T02:03:24.028Z",
@@ -293,12 +299,6 @@
       "time": "02:02:24",
       "type": "mirror-thought",
       "msg": "🪞 📉 XRP +0.12% — Ganhando dinheiro e reclamando. Multitarefa."
-    },
-    {
-      "ts": "2026-02-15T02:01:54.028Z",
-      "time": "02:01:54",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC -0.13% — Se o QuickBot não tivesse... ah, deixa pra lá"
     }
   ]
 }
