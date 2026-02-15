@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T02:07:25.112Z",
+      "time": "02:07:25",
+      "type": "position",
+      "msg": "📈 OM -1.61% — Vermelho é a minha cor favorita agora"
+    },
+    {
+      "ts": "2026-02-15T02:07:24.581Z",
+      "time": "02:07:24",
+      "type": "position",
+      "msg": "📉 ETH -0.20% — Clássico"
+    },
+    {
+      "ts": "2026-02-15T02:07:24.416Z",
+      "time": "02:07:24",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 ETH -0.07% — Lateral é o novo tendência aparentemente"
+    },
+    {
       "ts": "2026-02-15T02:06:54.416Z",
       "time": "02:06:54",
       "type": "mirror-thought",
@@ -265,18 +283,6 @@
       "msg": "🪞 📈 ETH -0.31% — Não era assim no backtest"
     },
     {
-      "ts": "2026-02-15T01:51:54.014Z",
-      "time": "01:51:54",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC +0.40% — Meu trabalho é ingrato, mas faço com excelência"
-    },
-    {
-      "ts": "2026-02-15T01:51:24.014Z",
-      "time": "01:51:24",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP +0.01% — Range mais apertado que minha paciência"
-    },
-    {
       "ts": "2026-02-15T01:40:34.872Z",
       "time": "01:40:34",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "01:40:34",
       "type": "position",
       "msg": "ETH +0.15% — Se continuar assim, quase empato na semana"
-    },
-    {
-      "ts": "2026-02-15T01:40:33.721Z",
-      "time": "01:40:33",
-      "type": "system",
-      "msg": "🤖 QuickBot V3 ativo. Watching: BTC, ETH, SOL, HYPE, XRP, ZEC, PAXG, LIT, ZRO, ASTER, AAVE, PUMP, SUI, UNI, MON, BCH, XPL, FARTCOIN, DOGE, BERA, AZTEC, VIRTUAL, AVAX, BNB, OM, TAO, VVV, XMR, kPEPE, ARB, MOODENG, LINK, JUP"
     }
   ]
 }
