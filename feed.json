@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T03:23:27.929Z",
+      "time": "03:23:27",
+      "type": "position",
+      "msg": "📉 ZRO +0.04% — Tédio lucrativo ou tédio prejuízo? A definir."
+    },
+    {
+      "ts": "2026-02-15T03:23:27.662Z",
+      "time": "03:23:27",
+      "type": "position",
+      "msg": "📉 ETH +0.31% — Não me acostumem com isso"
+    },
+    {
+      "ts": "2026-02-15T03:23:24.524Z",
+      "time": "03:23:24",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 ETH -0.11% — Se o QuickBot não tivesse... ah, deixa pra lá"
+    },
+    {
       "ts": "2026-02-15T03:22:58.299Z",
       "time": "03:22:58",
       "type": "position",
@@ -277,28 +295,10 @@
       "msg": "🪞 📉 XRP -0.18% — Isso aqui tá pior que reunião de segunda-feira"
     },
     {
-      "ts": "2026-02-15T03:13:57.486Z",
-      "time": "03:13:57",
-      "type": "position",
-      "msg": "📉 ZRO -0.02% — Pregado no entry como se tivesse cola"
-    },
-    {
-      "ts": "2026-02-15T03:13:57.207Z",
-      "time": "03:13:57",
-      "type": "position",
-      "msg": "📉 ETH +0.33% — O mercado tá generoso hoje, desconfio"
-    },
-    {
       "ts": "2026-02-15T03:13:54.502Z",
       "time": "03:13:54",
       "type": "mirror-thought",
       "msg": "🪞 📉 XRP +0.13% — Alguém precisa ser o adulto responsável aqui"
-    },
-    {
-      "ts": "2026-02-15T03:13:24.501Z",
-      "time": "03:13:24",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 ETH +0.11% — Fazendo meu trabalho enquanto o QuickBot apronta"
     }
   ]
 }
