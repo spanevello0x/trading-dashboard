@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T03:34:28.342Z",
+      "time": "03:34:28",
+      "type": "position",
+      "msg": "📉 ZRO +0.69% — Isso aí, garoto. Vai, vai, vai..."
+    },
+    {
+      "ts": "2026-02-15T03:34:28.074Z",
+      "time": "03:34:28",
+      "type": "position",
+      "msg": "📉 ETH +0.75% — Quase consigo pagar o café de ontem"
+    },
+    {
+      "ts": "2026-02-15T03:34:24.537Z",
+      "time": "03:34:24",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP -0.36% — Até o hedge sofre nesse mercado desgraçado"
+    },
+    {
       "ts": "2026-02-15T03:33:58.334Z",
       "time": "03:33:58",
       "type": "position",
@@ -253,18 +271,6 @@
       "msg": "Analisando AVAX... parece SHORT (56%)"
     },
     {
-      "ts": "2026-02-15T03:27:13.671Z",
-      "time": "03:27:13",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - VIRTUAL cancelado"
-    },
-    {
-      "ts": "2026-02-15T03:27:13.360Z",
-      "time": "03:27:13",
-      "type": "signal",
-      "msg": "🎯 SHORT VIRTUAL @ $0.68 (78%) — Nova aposta na mesa"
-    },
-    {
       "ts": "2026-02-15T03:26:54.531Z",
       "time": "03:26:54",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "03:24:54",
       "type": "mirror-thought",
       "msg": "🪞 📉 XRP +0.30% — Imagina se não tivesse eu aqui... caos total"
-    },
-    {
-      "ts": "2026-02-15T03:24:24.527Z",
-      "time": "03:24:24",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC -0.23% — Fiz minha parte, o universo que não colaborou"
     }
   ]
 }
