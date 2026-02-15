@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T08:51:41.323Z",
+      "time": "08:51:41",
+      "type": "position",
+      "msg": "📉 ETH +0.33% — Print pra mostrar pros netos"
+    },
+    {
+      "ts": "2026-02-15T08:51:16.660Z",
+      "time": "08:51:16",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 ETH -0.20% — Não era pra isso acontecer. Culpa do QuickBot de alguma forma."
+    },
+    {
+      "ts": "2026-02-15T08:51:11.580Z",
+      "time": "08:51:11",
+      "type": "position",
+      "msg": "📈 SOL -0.55% — Tá bom, universo, entendi o recado"
+    },
+    {
       "ts": "2026-02-15T08:50:46.659Z",
       "time": "08:50:46",
       "type": "mirror-thought",
@@ -281,24 +299,6 @@
       "time": "08:38:40",
       "type": "position",
       "msg": "📉 ETH +0.55% — Não me acostumem com isso"
-    },
-    {
-      "ts": "2026-02-15T08:38:16.489Z",
-      "time": "08:38:16",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 ETH +0.19% — Ganhando em silêncio, sem aplausos, sem medalha"
-    },
-    {
-      "ts": "2026-02-15T08:37:46.488Z",
-      "time": "08:37:46",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC +0.28% — Lucro? Uau. Que surpresa. Ninguém esperava. Mentira, EU esperava."
-    },
-    {
-      "ts": "2026-02-15T08:37:41.089Z",
-      "time": "08:37:41",
-      "type": "position",
-      "msg": "📈 SOL -0.52% — Pelo menos não apostei a casa... dessa vez"
     }
   ]
 }
