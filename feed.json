@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T02:31:54.440Z",
+      "time": "02:31:54",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP -0.08% — Lateral é o novo tendência aparentemente"
+    },
+    {
       "ts": "2026-02-15T02:31:25.820Z",
       "time": "02:31:25",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "02:21:25",
       "type": "position",
       "msg": "📈 OM -0.28% — Calma que ainda tem o stop loss pra doer mais"
-    },
-    {
-      "ts": "2026-02-15T02:21:25.343Z",
-      "time": "02:21:25",
-      "type": "position",
-      "msg": "📉 ZRO -1.39% — O gráfico parecia tão bonito..."
     }
   ]
 }
