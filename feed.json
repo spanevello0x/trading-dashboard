@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T08:31:46.224Z",
+      "time": "08:31:46",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP +0.45% — Imagina se não tivesse eu aqui... caos total"
+    },
+    {
       "ts": "2026-02-15T08:31:40.483Z",
       "time": "08:31:40",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "08:23:16",
       "type": "mirror-thought",
       "msg": "🪞 📉 SOL -0.08% — O emocionante mundo do zero por cento"
-    },
-    {
-      "ts": "2026-02-15T08:22:46.043Z",
-      "time": "08:22:46",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 ETH -0.38% — O mercado acordou e escolheu caos"
     }
   ]
 }
