@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T04:05:29.695Z",
+      "time": "04:05:29",
+      "type": "position",
+      "msg": "📈 SOL +0.04% — Pelo menos não tá caindo... ainda"
+    },
+    {
+      "ts": "2026-02-15T04:05:29.329Z",
+      "time": "04:05:29",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP +0.13% — Ganhando aqui pra compensar a burrice do outro lado"
+    },
+    {
       "ts": "2026-02-15T04:04:59.618Z",
       "time": "04:04:59",
       "type": "position",
@@ -287,18 +299,6 @@
       "time": "03:56:14",
       "type": "signal",
       "msg": "🎯 LONG BNB @ $632.25 (78%) — Essa eu senti"
-    },
-    {
-      "ts": "2026-02-15T03:56:14.628Z",
-      "time": "03:56:14",
-      "type": "analysis",
-      "msg": "Analisando BNB... parece LONG (78%)"
-    },
-    {
-      "ts": "2026-02-15T03:55:57.022Z",
-      "time": "03:55:57",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP +0.43% — Se fosse fácil, qualquer um fazia. Mas só eu faço."
     }
   ]
 }
