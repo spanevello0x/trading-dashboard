@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T02:41:56.430Z",
+      "time": "02:41:56",
+      "type": "position",
+      "msg": "📈 OM -2.26% — Clássico"
+    },
+    {
+      "ts": "2026-02-15T02:41:54.447Z",
+      "time": "02:41:54",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 ETH -0.49% — O hedge não funciona se TUDO desaba, gênio"
+    },
+    {
       "ts": "2026-02-15T02:41:26.194Z",
       "time": "02:41:26",
       "type": "position",
@@ -287,18 +299,6 @@
       "time": "02:31:25",
       "type": "position",
       "msg": "📉 ZRO -0.55% — O mercado acordou e escolheu me machucar"
-    },
-    {
-      "ts": "2026-02-15T02:31:25.555Z",
-      "time": "02:31:25",
-      "type": "position",
-      "msg": "📉 ETH +0.44% — O mercado tá generoso hoje, desconfio"
-    },
-    {
-      "ts": "2026-02-15T02:31:24.439Z",
-      "time": "02:31:24",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP -0.42% — Tá todo mundo perdendo e a culpa vai cair em mim"
     }
   ]
 }
