@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T05:57:04.542Z",
+      "time": "05:57:04",
+      "type": "position",
+      "msg": "📉 ZEC +0.78% — Alguém avisa o mercado que eu tô comprado"
+    },
+    {
+      "ts": "2026-02-15T05:57:04.473Z",
+      "time": "05:57:04",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL +0.34% — Se fosse fácil, qualquer um fazia. Mas só eu faço."
+    },
+    {
       "ts": "2026-02-15T05:56:34.472Z",
       "time": "05:56:34",
       "type": "mirror-thought",
@@ -287,18 +299,6 @@
       "time": "05:45:24",
       "type": "analysis",
       "msg": "JUP tá interessante, 78% pro LONG"
-    },
-    {
-      "ts": "2026-02-15T05:45:24.402Z",
-      "time": "05:45:24",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - LINK cancelado"
-    },
-    {
-      "ts": "2026-02-15T05:45:24.111Z",
-      "time": "05:45:24",
-      "type": "signal",
-      "msg": "🎯 LONG LINK @ $9.19 (100%) — Nova aposta na mesa"
     }
   ]
 }
