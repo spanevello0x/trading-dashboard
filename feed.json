@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T04:42:00.937Z",
+      "time": "04:42:00",
+      "type": "position",
+      "msg": "📈 SOL +0.37% — Print pra mostrar pros netos"
+    },
+    {
+      "ts": "2026-02-15T04:42:00.705Z",
+      "time": "04:42:00",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL +0.08% — Oscilando entre 'meh' e 'whatever'"
+    },
+    {
       "ts": "2026-02-15T04:41:31.277Z",
       "time": "04:41:31",
       "type": "position",
@@ -287,18 +299,6 @@
       "time": "04:28:30",
       "type": "position",
       "msg": "📉 ZRO -0.58% — Prometo estudar mais... mentira, vou continuar igual"
-    },
-    {
-      "ts": "2026-02-15T04:28:30.673Z",
-      "time": "04:28:30",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 SOL +0.33% — O mercado me odeia menos que odeia o QuickBot"
-    },
-    {
-      "ts": "2026-02-15T04:28:30.488Z",
-      "time": "04:28:30",
-      "type": "position",
-      "msg": "📈 SOL +0.05% — Se mexer muito, assusta"
     }
   ]
 }
