@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T06:06:34.896Z",
+      "time": "06:06:34",
+      "type": "position",
+      "msg": "📉 ZEC +1.68% — Se continuar assim, quase empato na semana"
+    },
+    {
+      "ts": "2026-02-15T06:06:34.728Z",
+      "time": "06:06:34",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 ZEC -0.42% — Se o QuickBot não tivesse... ah, deixa pra lá"
+    },
+    {
+      "ts": "2026-02-15T06:06:34.631Z",
+      "time": "06:06:34",
+      "type": "position",
+      "msg": "📈 SOL +1.21% — Tá verde? Tira print rápido antes que vire"
+    },
+    {
       "ts": "2026-02-15T06:06:04.727Z",
       "time": "06:06:04",
       "type": "mirror-thought",
@@ -281,24 +299,6 @@
       "time": "05:54:04",
       "type": "position",
       "msg": "📈 SOL +1.51% — O mercado tá generoso hoje, desconfio"
-    },
-    {
-      "ts": "2026-02-15T05:53:34.102Z",
-      "time": "05:53:34",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 ZEC +0.11% — Delta neutral funcionando. Genial? Sim. Reconhecido? Nunca."
-    },
-    {
-      "ts": "2026-02-15T05:53:04.306Z",
-      "time": "05:53:04",
-      "type": "position",
-      "msg": "📉 ZEC +0.44% — Alguém avisa o mercado que eu tô comprado"
-    },
-    {
-      "ts": "2026-02-15T05:53:04.102Z",
-      "time": "05:53:04",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 SOL -0.42% — O hedge não funciona se TUDO desaba, gênio"
     }
   ]
 }
