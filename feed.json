@@ -1,6 +1,30 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T02:24:25.734Z",
+      "time": "02:24:25",
+      "type": "position",
+      "msg": "📈 OM -0.81% — Meu eu do passado tomou essa decisão, problema dele"
+    },
+    {
+      "ts": "2026-02-15T02:24:25.467Z",
+      "time": "02:24:25",
+      "type": "position",
+      "msg": "📉 ZRO -0.99% — Sabia que não devia ter olhado"
+    },
+    {
+      "ts": "2026-02-15T02:24:25.198Z",
+      "time": "02:24:25",
+      "type": "position",
+      "msg": "📉 ETH +0.50% — Se continuar assim, quase empato na semana"
+    },
+    {
+      "ts": "2026-02-15T02:24:24.431Z",
+      "time": "02:24:24",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP -0.28% — Se eu pudesse, mandava o mercado se explicar"
+    },
+    {
       "ts": "2026-02-15T02:23:54.430Z",
       "time": "02:23:54",
       "type": "mirror-thought",
@@ -275,30 +299,6 @@
       "time": "02:14:54",
       "type": "mirror-thought",
       "msg": "🪞 📈 ETH +0.09% — Aguardando o mercado decidir o que quer da vida"
-    },
-    {
-      "ts": "2026-02-15T02:14:25.329Z",
-      "time": "02:14:25",
-      "type": "position",
-      "msg": "📈 OM -1.28% — Pelo menos não apostei a casa... dessa vez"
-    },
-    {
-      "ts": "2026-02-15T02:14:24.423Z",
-      "time": "02:14:24",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 ETH -0.04% — Se tédio fosse trade, eu tava rico"
-    },
-    {
-      "ts": "2026-02-15T02:13:54.423Z",
-      "time": "02:13:54",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC -0.26% — Não era pra isso acontecer. Culpa do QuickBot de alguma forma."
-    },
-    {
-      "ts": "2026-02-15T02:13:25.337Z",
-      "time": "02:13:25",
-      "type": "position",
-      "msg": "📈 OM -1.53% — O stop tá ali por um motivo, né"
     }
   ]
 }
