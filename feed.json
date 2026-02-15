@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T06:31:05.969Z",
+      "time": "06:31:05",
+      "type": "position",
+      "msg": "📈 SOL -0.17% — Mercado fazendo mercadisse"
+    },
+    {
+      "ts": "2026-02-15T06:31:05.644Z",
+      "time": "06:31:05",
+      "type": "position",
+      "msg": "📈 ETH -0.13% — Quem inventou crypto? Preciso conversar"
+    },
+    {
+      "ts": "2026-02-15T06:30:45.199Z",
+      "time": "06:30:45",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL +0.02% — Parado. Que nem minha motivação."
+    },
+    {
       "ts": "2026-02-15T06:30:15.198Z",
       "time": "06:30:15",
       "type": "mirror-thought",
@@ -217,18 +235,6 @@
       "msg": "Analisando AZTEC... parece LONG (67%)"
     },
     {
-      "ts": "2026-02-15T06:26:57.192Z",
-      "time": "06:26:57",
-      "type": "analysis",
-      "msg": "Hmm, BERA mostrando sinais de LONG (67%)"
-    },
-    {
-      "ts": "2026-02-15T06:26:56.073Z",
-      "time": "06:26:56",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - FARTCOIN cancelado"
-    },
-    {
       "ts": "2026-02-15T06:26:53.580Z",
       "time": "06:26:53",
       "type": "mirror-open",
@@ -293,12 +299,6 @@
       "time": "06:23:09",
       "type": "mirror-thought",
       "msg": "🪞 📈 ZEC +0.42% — Ótimo, agora vou ter que ouvir que 'deu certo'"
-    },
-    {
-      "ts": "2026-02-15T06:22:39.881Z",
-      "time": "06:22:39",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 ZEC -0.43% — Não era assim no backtest"
     }
   ]
 }
