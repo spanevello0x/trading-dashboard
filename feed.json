@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T08:26:46.104Z",
+      "time": "08:26:46",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL -0.17% — Fantástico. Simplesmente fantástico. Odeio tudo."
+    },
+    {
       "ts": "2026-02-15T08:26:16.051Z",
       "time": "08:26:16",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "08:13:40",
       "type": "position",
       "msg": "📈 ETH -0.42% — Ah sim, o famoso 'compra no topo'"
-    },
-    {
-      "ts": "2026-02-15T08:13:15.756Z",
-      "time": "08:13:15",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC +0.15% — Alguém tem que salvar esse portfólio"
     }
   ]
 }
