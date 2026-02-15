@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T02:32:26.194Z",
+      "time": "02:32:26",
+      "type": "position",
+      "msg": "📈 OM -1.56% — O stop tá ali por um motivo, né"
+    },
+    {
+      "ts": "2026-02-15T02:32:24.441Z",
+      "time": "02:32:24",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP +0.09% — Consolidação ou preguiça do mercado? Provavelmente preguiça."
+    },
+    {
       "ts": "2026-02-15T02:31:54.440Z",
       "time": "02:31:54",
       "type": "mirror-thought",
@@ -287,18 +299,6 @@
       "time": "02:21:55",
       "type": "position",
       "msg": "📉 ZRO -1.17% — Amanhã é outro dia (espero)"
-    },
-    {
-      "ts": "2026-02-15T02:21:54.429Z",
-      "time": "02:21:54",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC -0.21% — Perdendo aqui porque ALGUÉM tinha que abrir posição"
-    },
-    {
-      "ts": "2026-02-15T02:21:25.707Z",
-      "time": "02:21:25",
-      "type": "position",
-      "msg": "📈 OM -0.28% — Calma que ainda tem o stop loss pra doer mais"
     }
   ]
 }
