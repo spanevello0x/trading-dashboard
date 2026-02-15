@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T09:01:21.742Z",
+      "time": "09:01:21",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP +0.01% — Flat como a Terra. Brincadeira. Mas o mercado tá."
+    },
+    {
+      "ts": "2026-02-15T09:01:12.134Z",
+      "time": "09:01:12",
+      "type": "position",
+      "msg": "📉 ZEC +0.15% — Obrigado universo, tava precisando"
+    },
+    {
       "ts": "2026-02-15T09:00:51.741Z",
       "time": "09:00:51",
       "type": "mirror-thought",
@@ -223,12 +235,6 @@
       "msg": "🎯 SHORT DOGE @ $0.11 (78%) — Entrei. Arrependimento em 3, 2, 1..."
     },
     {
-      "ts": "2026-02-15T08:57:25.505Z",
-      "time": "08:57:25",
-      "type": "analysis",
-      "msg": "Olhando DOGE... 78% SHORT"
-    },
-    {
       "ts": "2026-02-15T08:57:19.093Z",
       "time": "08:57:19",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "08:52:46",
       "type": "mirror-thought",
       "msg": "🪞 📈 ETH +0.08% — O emocionante mundo do zero por cento"
-    },
-    {
-      "ts": "2026-02-15T08:52:16.662Z",
-      "time": "08:52:16",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP -0.43% — Vermelho dos dois lados. Arte moderna isso."
     }
   ]
 }
