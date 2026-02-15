@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T08:54:46.665Z",
+      "time": "08:54:46",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP +0.03% — Lateral é o novo tendência aparentemente"
+    },
+    {
+      "ts": "2026-02-15T08:54:41.699Z",
+      "time": "08:54:41",
+      "type": "position",
+      "msg": "📈 SOL -0.52% — Isso é um teste de caráter, com certeza"
+    },
+    {
       "ts": "2026-02-15T08:54:16.664Z",
       "time": "08:54:16",
       "type": "mirror-thought",
@@ -287,18 +299,6 @@
       "time": "08:41:46",
       "type": "mirror-thought",
       "msg": "🪞 📈 ETH -0.30% — Nem o hedge salva dessa"
-    },
-    {
-      "ts": "2026-02-15T08:41:41.244Z",
-      "time": "08:41:41",
-      "type": "position",
-      "msg": "📈 SOL -0.44% — Tá bom, universo, entendi o recado"
-    },
-    {
-      "ts": "2026-02-15T08:41:40.978Z",
-      "time": "08:41:40",
-      "type": "position",
-      "msg": "📉 ETH +0.45% — Vou comemorar quando fechar. Talvez."
     }
   ]
 }
