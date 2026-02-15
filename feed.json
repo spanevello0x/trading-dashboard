@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T05:49:34.096Z",
+      "time": "05:49:34",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC -0.46% — O mercado acordou e escolheu caos"
+    },
+    {
+      "ts": "2026-02-15T05:49:34.070Z",
+      "time": "05:49:34",
+      "type": "position",
+      "msg": "📉 ZEC +0.93% — Print pra mostrar pros netos"
+    },
+    {
+      "ts": "2026-02-15T05:49:33.804Z",
+      "time": "05:49:33",
+      "type": "position",
+      "msg": "📈 SOL +1.24% — Será que alguém sabe algo que eu não sei? Sempre sabem."
+    },
+    {
       "ts": "2026-02-15T05:49:04.096Z",
       "time": "05:49:04",
       "type": "mirror-thought",
@@ -223,18 +241,6 @@
       "msg": "⚠️ Limite atingido (5/5) - AVAX cancelado"
     },
     {
-      "ts": "2026-02-15T05:45:20.126Z",
-      "time": "05:45:20",
-      "type": "signal",
-      "msg": "🎯 LONG AVAX @ $9.70 (89%) — Nova aposta na mesa"
-    },
-    {
-      "ts": "2026-02-15T05:45:20.126Z",
-      "time": "05:45:20",
-      "type": "analysis",
-      "msg": "AVAX tá interessante, 89% pro LONG"
-    },
-    {
       "ts": "2026-02-15T05:45:01.339Z",
       "time": "05:45:01",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "05:40:31",
       "type": "mirror-thought",
       "msg": "🪞 📉 SOL -0.34% — Delta neutral de prejuízo. Inovador."
-    },
-    {
-      "ts": "2026-02-15T05:40:01.327Z",
-      "time": "05:40:01",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP +0.24% — Segurando as pontas enquanto o outro se aventura"
     }
   ]
 }
