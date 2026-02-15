@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T05:17:01.091Z",
+      "time": "05:17:01",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC +0.04% — Nem o mercado sabe o que quer"
+    },
+    {
       "ts": "2026-02-15T05:16:32.853Z",
       "time": "05:16:32",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "05:04:31",
       "type": "position",
       "msg": "📈 SOL +0.25% — Vou fingir que sabia que isso ia acontecer"
-    },
-    {
-      "ts": "2026-02-15T05:04:31.060Z",
-      "time": "05:04:31",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP -0.32% — O hedge não funciona se TUDO desaba, gênio"
     }
   ]
 }
