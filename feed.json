@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T02:34:26.086Z",
+      "time": "02:34:26",
+      "type": "position",
+      "msg": "📈 OM -2.09% — Não é prejuízo se eu não vender... ah, tem stop"
+    },
+    {
+      "ts": "2026-02-15T02:34:24.443Z",
+      "time": "02:34:24",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC +0.38% — Neutralizando prejuízos como sempre"
+    },
+    {
       "ts": "2026-02-15T02:33:55.840Z",
       "time": "02:33:55",
       "type": "position",
@@ -287,18 +299,6 @@
       "time": "02:24:24",
       "type": "mirror-thought",
       "msg": "🪞 📉 XRP -0.28% — Se eu pudesse, mandava o mercado se explicar"
-    },
-    {
-      "ts": "2026-02-15T02:23:54.430Z",
-      "time": "02:23:54",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 ETH -0.00% — Não ganha, não perde, não anima"
-    },
-    {
-      "ts": "2026-02-15T02:23:25.729Z",
-      "time": "02:23:25",
-      "type": "position",
-      "msg": "📈 OM -0.39% — O mercado escolheu violência hoje"
     }
   ]
 }
