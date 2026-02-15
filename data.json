@@ -1,11 +1,29 @@
 {
-  "lastUpdate": "2026-02-15T01:09:30.807Z",
+  "lastUpdate": "2026-02-15T01:10:01.115Z",
   "feed": [
     {
-      "ts": "2026-02-15T01:09:17.224Z",
-      "time": "01:09:17",
+      "ts": "2026-02-15T01:09:47.224Z",
+      "time": "01:09:47",
       "type": "mirror-thought",
-      "msg": "🪞 📉 HYPE +0.16% — Sou o plano B que deveria ser o plano A"
+      "msg": "🪞 📉 HYPE -0.37% — Perdendo aqui porque ALGUÉM tinha que abrir posição"
+    },
+    {
+      "ts": "2026-02-15T01:09:32.758Z",
+      "time": "01:09:32",
+      "type": "position",
+      "msg": "OM +4.39% — Será que alguém sabe algo que eu não sei? Sempre sabem."
+    },
+    {
+      "ts": "2026-02-15T01:09:32.412Z",
+      "time": "01:09:32",
+      "type": "position",
+      "msg": "HYPE +0.26% — Melhor que Netflix isso aqui"
+    },
+    {
+      "ts": "2026-02-15T01:09:32.145Z",
+      "time": "01:09:32",
+      "type": "position",
+      "msg": "ZRO -0.30% — Isso é um teste de caráter, com certeza"
     },
     {
       "ts": "2026-02-15T01:09:02.825Z",
@@ -168,68 +186,50 @@
       "time": "01:01:02",
       "type": "position",
       "msg": "OM +1.30% — Obrigado universo, tava precisando"
-    },
-    {
-      "ts": "2026-02-15T01:00:32.120Z",
-      "time": "01:00:32",
-      "type": "position",
-      "msg": "ZRO +0.09% — Tô aqui, olhando, esperando, sofrendo"
-    },
-    {
-      "ts": "2026-02-15T01:00:03.042Z",
-      "time": "01:00:03",
-      "type": "position",
-      "msg": "OM -0.11% — Quem inventou crypto? Preciso conversar"
-    },
-    {
-      "ts": "2026-02-15T01:00:02.755Z",
-      "time": "01:00:02",
-      "type": "position",
-      "msg": "HYPE +0.03% — Parece até stable coin"
     }
   ],
   "hl": {
-    "balance": 16.307294,
+    "balance": 16.292579,
     "positions": [
       {
         "coin": "BTC",
         "side": "SHORT",
         "size": 0.00032,
         "entry": 69697,
-        "pnl": -0.04416,
-        "pnlPct": -0.98999957
+        "pnl": -0.04928,
+        "pnlPct": -1.10478213
       },
       {
         "coin": "XRP",
         "side": "LONG",
         "size": 11,
         "entry": 1.4503,
-        "pnl": 1.0043,
-        "pnlPct": 31.47624629
+        "pnl": 1.0142,
+        "pnlPct": 31.786526929999997
       },
       {
         "coin": "ZRO",
         "side": "SHORT",
         "size": 8.5,
         "entry": 1.8619,
-        "pnl": -0.0476,
-        "pnlPct": -1.50384016
+        "pnl": -0.0527,
+        "pnlPct": -1.6649659
       },
       {
         "coin": "HYPE",
         "side": "LONG",
         "size": 0.49,
         "entry": 31.906,
-        "pnl": 0.04067,
-        "pnlPct": 1.30069579
+        "pnl": 0.04214,
+        "pnlPct": 1.34770889
       },
       {
         "coin": "OM",
         "side": "LONG",
         "size": 83.5,
         "entry": 0.06402,
-        "pnl": 0.22378,
-        "pnlPct": 12.558575450000001
+        "pnl": 0.207915,
+        "pnlPct": 11.66822868
       }
     ]
   },
@@ -241,31 +241,31 @@
         "side": "LONG",
         "size": 0.0006,
         "entry": 69665,
-        "price": 69856.5,
-        "notional": 41.9139,
-        "pnl": 0.11489999999999999,
-        "pnlPct": 0.27488695901815835
+        "price": 69869.5,
+        "notional": 41.921699999999994,
+        "pnl": 0.12269999999999999,
+        "pnlPct": 0.2935476925285294
       },
       {
         "coin": "XRP",
         "side": "SHORT",
         "size": 10,
         "entry": 1.53,
-        "price": 1.54245,
-        "notional": 15.424500000000002,
-        "pnl": -0.12450000000000072,
-        "pnlPct": -0.8137254901960831
+        "price": 1.5439500000000002,
+        "notional": 15.439500000000002,
+        "pnl": -0.1395000000000013,
+        "pnlPct": -0.9117647058823614
       },
       {
         "coin": "HYPE",
         "side": "SHORT",
         "size": 0.4,
         "entry": 31.91,
-        "price": 32.0035,
-        "notional": 12.801400000000001,
-        "pnl": -0.037400000000000946,
-        "pnlPct": -0.29301159511125774
+        "price": 32.0095,
+        "notional": 12.803800000000003,
+        "pnl": -0.039800000000001036,
+        "pnlPct": -0.31181447822000186
       }
     ]
   }
-}// Sun Feb 15 01:09:57 UTC 2026
+}
