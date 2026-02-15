@@ -1,11 +1,41 @@
 {
-  "lastUpdate": "2026-02-15T01:03:03.279Z",
+  "lastUpdate": "2026-02-15T01:03:33.247Z",
   "feed": [
     {
-      "ts": "2026-02-15T01:02:35.558Z",
-      "time": "01:02:35",
-      "type": "mirror-system",
-      "msg": "🪞 Iniciando... mais um dia de hedge e reclamação."
+      "ts": "2026-02-15T01:03:22.838Z",
+      "time": "01:03:22",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP -0.36% — Delta neutral de prejuízo. Inovador."
+    },
+    {
+      "ts": "2026-02-15T01:03:18.833Z",
+      "time": "01:03:18",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP -0.12% — Parabéns mercado, você venceu. Por enquanto."
+    },
+    {
+      "ts": "2026-02-15T01:03:14.827Z",
+      "time": "01:03:14",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC +0.20% — Carregando esse time nas costas, como sempre"
+    },
+    {
+      "ts": "2026-02-15T01:03:14.760Z",
+      "time": "01:03:14",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC +0.26% — Se fosse fácil, qualquer um fazia. Mas só eu faço."
+    },
+    {
+      "ts": "2026-02-15T01:03:02.483Z",
+      "time": "01:03:02",
+      "type": "position",
+      "msg": "OM +1.92% — Até um relógio quebrado acerta duas vezes"
+    },
+    {
+      "ts": "2026-02-15T01:03:02.220Z",
+      "time": "01:03:02",
+      "type": "position",
+      "msg": "HYPE +0.19% — Lucro é lucro, mesmo que pague só o almoço"
     },
     {
       "ts": "2026-02-15T01:02:32.453Z",
@@ -174,62 +204,50 @@
       "time": "00:56:57",
       "type": "analysis",
       "msg": "Analisando VVV... parece LONG (56%)"
-    },
-    {
-      "ts": "2026-02-15T00:56:56.956Z",
-      "time": "00:56:56",
-      "type": "result",
-      "msg": "🏁 Trade completo: LONG OM @ $0.06 | RR 2:1"
-    },
-    {
-      "ts": "2026-02-15T00:56:56.956Z",
-      "time": "00:56:56",
-      "type": "execution",
-      "msg": "🎯 Take Profit: $0.07"
     }
   ],
   "hl": {
-    "balance": 15.975339,
+    "balance": 15.998344,
     "positions": [
       {
         "coin": "BTC",
         "side": "SHORT",
         "size": 0.00032,
         "entry": 69697,
-        "pnl": -0.03136,
-        "pnlPct": -0.70304317
+        "pnl": -0.0384,
+        "pnlPct": -0.86086919
       },
       {
         "coin": "XRP",
         "side": "LONG",
         "size": 11,
         "entry": 1.4503,
-        "pnl": 0.7711,
-        "pnlPct": 24.16741364
+        "pnl": 0.7975,
+        "pnlPct": 24.994828660000003
       },
       {
         "coin": "ZRO",
         "side": "SHORT",
         "size": 8.5,
         "entry": 1.8619,
-        "pnl": -0.01955,
-        "pnlPct": -0.6176486400000001
+        "pnl": -0.0289,
+        "pnlPct": -0.9130458100000001
       },
       {
         "coin": "HYPE",
         "side": "LONG",
         "size": 0.49,
         "entry": 31.906,
-        "pnl": 0.02548,
-        "pnlPct": 0.81489375
+        "pnl": 0.0343,
+        "pnlPct": 1.09697236
       },
       {
         "coin": "OM",
         "side": "LONG",
         "size": 83.5,
         "entry": 0.06402,
-        "pnl": 0.099365,
-        "pnlPct": 5.57638238
+        "pnl": 0.10354,
+        "pnlPct": 5.81068416
       }
     ]
   },
