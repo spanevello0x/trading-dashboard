@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T06:22:35.492Z",
+      "time": "06:22:35",
+      "type": "position",
+      "msg": "📉 ZEC -0.51% — Mercado fazendo mercadisse"
+    },
+    {
+      "ts": "2026-02-15T06:22:35.230Z",
+      "time": "06:22:35",
+      "type": "position",
+      "msg": "📈 SOL +1.34% — Lucro é lucro, mesmo que pague só o almoço"
+    },
+    {
+      "ts": "2026-02-15T06:22:09.880Z",
+      "time": "06:22:09",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 ZEC -0.07% — Estabilidade é superestimada. E entediante."
+    },
+    {
       "ts": "2026-02-15T06:21:39.879Z",
       "time": "06:21:39",
       "type": "mirror-thought",
@@ -281,24 +299,6 @@
       "time": "06:10:04",
       "type": "position",
       "msg": "📉 ZEC +0.20% — Será que é armadilha? Provavelmente. Mas vou curtir enquanto dura"
-    },
-    {
-      "ts": "2026-02-15T06:10:04.670Z",
-      "time": "06:10:04",
-      "type": "position",
-      "msg": "📈 SOL +1.35% — Calma que ainda pode dar errado"
-    },
-    {
-      "ts": "2026-02-15T06:09:55.350Z",
-      "time": "06:09:55",
-      "type": "mirror-open",
-      "msg": "🪞 📈 Abrindo LONG ZEC @ $311.41 — Abrindo posição porque ALGUÉM tem que fazer hedge"
-    },
-    {
-      "ts": "2026-02-15T06:09:53.176Z",
-      "time": "06:09:53",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - JUP cancelado"
     }
   ]
 }
