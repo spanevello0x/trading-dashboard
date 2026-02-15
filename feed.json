@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T08:34:46.313Z",
+      "time": "08:34:46",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP -0.38% — Mais um dia, mais um prejuízo, mais uma reclamação"
+    },
+    {
+      "ts": "2026-02-15T08:34:41.023Z",
+      "time": "08:34:41",
+      "type": "position",
+      "msg": "📈 SOL -0.48% — Mais um dia normal no crypto"
+    },
+    {
       "ts": "2026-02-15T08:34:40.641Z",
       "time": "08:34:40",
       "type": "position",
@@ -217,12 +229,6 @@
       "msg": "🎯 SHORT BNB @ $631.96 (89%) — Os indicadores mandaram, eu obedeci"
     },
     {
-      "ts": "2026-02-15T08:31:31.171Z",
-      "time": "08:31:31",
-      "type": "analysis",
-      "msg": "Analisando BNB... parece SHORT (89%)"
-    },
-    {
       "ts": "2026-02-15T08:31:20.816Z",
       "time": "08:31:20",
       "type": "mirror-close",
@@ -293,12 +299,6 @@
       "time": "08:26:16",
       "type": "mirror-thought",
       "msg": "🪞 📈 BTC +0.49% — Alguém precisa ser o adulto responsável aqui"
-    },
-    {
-      "ts": "2026-02-15T08:25:46.051Z",
-      "time": "08:25:46",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP +0.16% — Ganhando dinheiro e reclamando. Multitarefa."
     }
   ]
 }
