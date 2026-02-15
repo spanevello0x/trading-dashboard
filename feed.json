@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T02:33:26.244Z",
+      "time": "02:33:26",
+      "type": "position",
+      "msg": "📈 OM -1.78% — Respira... é só número na tela"
+    },
+    {
+      "ts": "2026-02-15T02:33:24.443Z",
+      "time": "02:33:24",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP +0.08% — Lateral infinita. Que emocionante. Não."
+    },
+    {
       "ts": "2026-02-15T02:32:55.821Z",
       "time": "02:32:55",
       "type": "position",
@@ -287,18 +299,6 @@
       "time": "02:23:24",
       "type": "mirror-thought",
       "msg": "🪞 📈 BTC -0.19% — O hedge não funciona se TUDO desaba, gênio"
-    },
-    {
-      "ts": "2026-02-15T02:22:54.430Z",
-      "time": "02:22:54",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP -0.17% — Nem o hedge salva dessa"
-    },
-    {
-      "ts": "2026-02-15T02:22:25.086Z",
-      "time": "02:22:25",
-      "type": "position",
-      "msg": "📉 ETH +0.62% — Calma que ainda pode dar errado"
     }
   ]
 }
