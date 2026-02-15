@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T06:35:36.410Z",
+      "time": "06:35:36",
+      "type": "position",
+      "msg": "📈 SOL +0.04% — Nem fede nem cheira"
+    },
+    {
+      "ts": "2026-02-15T06:35:36.147Z",
+      "time": "06:35:36",
+      "type": "position",
+      "msg": "📈 ETH +0.02% — O mercado tá no modo avião"
+    },
+    {
+      "ts": "2026-02-15T06:35:15.219Z",
+      "time": "06:35:15",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC -0.33% — Fiz minha parte, o universo que não colaborou"
+    },
+    {
       "ts": "2026-02-15T06:35:06.078Z",
       "time": "06:35:06",
       "type": "position",
@@ -271,18 +289,6 @@
       "msg": "🎯 LONG XMR @ $353.41 (78%) — Essa eu senti"
     },
     {
-      "ts": "2026-02-15T06:26:59.815Z",
-      "time": "06:26:59",
-      "type": "analysis",
-      "msg": "Hmm, XMR mostrando sinais de LONG (78%)"
-    },
-    {
-      "ts": "2026-02-15T06:26:59.540Z",
-      "time": "06:26:59",
-      "type": "analysis",
-      "msg": "VVV tá interessante, 56% pro SHORT"
-    },
-    {
       "ts": "2026-02-15T06:26:53.580Z",
       "time": "06:26:53",
       "type": "mirror-open",
@@ -293,12 +299,6 @@
       "time": "06:26:40",
       "type": "mirror-thought",
       "msg": "🪞 📉 XRP +0.38% — Ganhando aqui pra compensar a burrice do outro lado"
-    },
-    {
-      "ts": "2026-02-15T06:26:37.035Z",
-      "time": "06:26:37",
-      "type": "mirror-close",
-      "msg": "🪞 ZEC fechado (+$0.00) — Fechado com sucesso. Obviamente."
     }
   ]
 }
