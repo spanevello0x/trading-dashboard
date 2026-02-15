@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T03:32:58.289Z",
+      "time": "03:32:58",
+      "type": "position",
+      "msg": "📉 ZRO +0.51% — Vou comemorar quando fechar. Talvez."
+    },
+    {
+      "ts": "2026-02-15T03:32:54.537Z",
+      "time": "03:32:54",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 ETH +0.03% — Estagnado. Tipo minha carreira de bot."
+    },
+    {
       "ts": "2026-02-15T03:32:28.096Z",
       "time": "03:32:28",
       "type": "position",
@@ -241,12 +253,6 @@
       "msg": "⚠️ Limite atingido (5/5) - AZTEC cancelado"
     },
     {
-      "ts": "2026-02-15T03:27:12.734Z",
-      "time": "03:27:12",
-      "type": "signal",
-      "msg": "🎯 SHORT AZTEC @ $0.02 (78%) — Bora, confia no pai"
-    },
-    {
       "ts": "2026-02-15T03:26:54.531Z",
       "time": "03:26:54",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "03:23:24",
       "type": "mirror-thought",
       "msg": "🪞 📈 ETH -0.11% — Se o QuickBot não tivesse... ah, deixa pra lá"
-    },
-    {
-      "ts": "2026-02-15T03:22:54.523Z",
-      "time": "03:22:54",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 ETH -0.05% — Aguardando o mercado decidir o que quer da vida"
     }
   ]
 }
