@@ -1,6 +1,30 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T02:06:25.402Z",
+      "time": "02:06:25",
+      "type": "position",
+      "msg": "📈 OM -1.30% — Prometo estudar mais... mentira, vou continuar igual"
+    },
+    {
+      "ts": "2026-02-15T02:06:24.872Z",
+      "time": "02:06:24",
+      "type": "position",
+      "msg": "📉 ZRO -1.07% — Podia ser pior. Dá tempo ainda."
+    },
+    {
+      "ts": "2026-02-15T02:06:24.550Z",
+      "time": "02:06:24",
+      "type": "position",
+      "msg": "📉 ETH -0.20% — Pelo menos o stop existe. Graças a Deus pelo stop."
+    },
+    {
+      "ts": "2026-02-15T02:06:24.416Z",
+      "time": "02:06:24",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 ETH -0.25% — Cadê a tal da proteção? Perdida junto com a esperança."
+    },
+    {
       "ts": "2026-02-15T02:05:55.301Z",
       "time": "02:05:55",
       "type": "position",
@@ -245,12 +269,6 @@
       "time": "01:51:24",
       "type": "mirror-thought",
       "msg": "🪞 📉 XRP +0.01% — Range mais apertado que minha paciência"
-    },
-    {
-      "ts": "2026-02-15T01:50:54.015Z",
-      "time": "01:50:54",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 ETH -0.17% — Correlação foi pro espaço, junto com meu lucro"
     },
     {
       "ts": "2026-02-15T01:40:34.872Z",
