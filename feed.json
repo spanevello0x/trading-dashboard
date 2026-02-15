@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T02:16:54.426Z",
+      "time": "02:16:54",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC +0.30% — Alguém tem que salvar esse portfólio"
+    },
+    {
       "ts": "2026-02-15T02:16:25.484Z",
       "time": "02:16:25",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "02:07:24",
       "type": "mirror-thought",
       "msg": "🪞 📈 ETH -0.07% — Lateral é o novo tendência aparentemente"
-    },
-    {
-      "ts": "2026-02-15T02:06:54.416Z",
-      "time": "02:06:54",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC +0.04% — Oscilando entre 'meh' e 'whatever'"
     }
   ]
 }
