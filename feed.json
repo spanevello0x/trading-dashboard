@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T08:46:16.653Z",
+      "time": "08:46:16",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC +0.30% — Ótimo, agora vou ter que ouvir que 'deu certo'"
+    },
+    {
       "ts": "2026-02-15T08:45:46.496Z",
       "time": "08:45:46",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "08:33:40",
       "type": "position",
       "msg": "📉 ETH +0.63% — Meu psicólogo vai ficar orgulhoso"
-    },
-    {
-      "ts": "2026-02-15T08:33:16.313Z",
-      "time": "08:33:16",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 ETH -0.04% — Lateral infinita. Que emocionante. Não."
     }
   ]
 }
