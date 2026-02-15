@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T03:28:58.146Z",
+      "time": "03:28:58",
+      "type": "position",
+      "msg": "📉 ETH +0.36% — Não é muito, mas é trabalho honesto"
+    },
+    {
+      "ts": "2026-02-15T03:28:54.533Z",
+      "time": "03:28:54",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC +0.25% — Mais um dia salvando a pátria"
+    },
+    {
       "ts": "2026-02-15T03:28:28.260Z",
       "time": "03:28:28",
       "type": "position",
@@ -193,12 +205,6 @@
       "msg": "🎯 LONG DOGE @ $0.11 (89%) — Os indicadores mandaram, eu obedeci"
     },
     {
-      "ts": "2026-02-15T03:27:11.210Z",
-      "time": "03:27:11",
-      "type": "analysis",
-      "msg": "Hmm, DOGE mostrando sinais de LONG (89%)"
-    },
-    {
       "ts": "2026-02-15T03:26:54.531Z",
       "time": "03:26:54",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "03:19:24",
       "type": "mirror-thought",
       "msg": "🪞 📈 ETH +0.30% — Ganhando aqui pra compensar a burrice do outro lado"
-    },
-    {
-      "ts": "2026-02-15T03:18:54.514Z",
-      "time": "03:18:54",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP +0.38% — Neutralizando prejuízos como sempre"
     }
   ]
 }
