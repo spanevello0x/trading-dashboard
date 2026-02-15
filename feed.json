@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T03:28:28.260Z",
+      "time": "03:28:28",
+      "type": "position",
+      "msg": "📉 ZRO -0.02% — Tédio lucrativo ou tédio prejuízo? A definir."
+    },
+    {
+      "ts": "2026-02-15T03:28:24.532Z",
+      "time": "03:28:24",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC -0.46% — Parabéns mercado, você venceu. Por enquanto."
+    },
+    {
       "ts": "2026-02-15T03:27:57.862Z",
       "time": "03:27:57",
       "type": "position",
@@ -187,12 +199,6 @@
       "msg": "Hmm, DOGE mostrando sinais de LONG (89%)"
     },
     {
-      "ts": "2026-02-15T03:27:10.586Z",
-      "time": "03:27:10",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - XPL cancelado"
-    },
-    {
       "ts": "2026-02-15T03:26:54.531Z",
       "time": "03:26:54",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "03:18:54",
       "type": "mirror-thought",
       "msg": "🪞 📉 XRP +0.38% — Neutralizando prejuízos como sempre"
-    },
-    {
-      "ts": "2026-02-15T03:18:24.514Z",
-      "time": "03:18:24",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 ETH +0.47% — Pelo menos UM de nós sabe o que tá fazendo"
     }
   ]
 }
