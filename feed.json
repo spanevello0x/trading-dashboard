@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T05:33:03.455Z",
+      "time": "05:33:03",
+      "type": "position",
+      "msg": "📉 ZRO -1.24% — Tá difícil defender essa entrada"
+    },
+    {
+      "ts": "2026-02-15T05:33:01.311Z",
+      "time": "05:33:01",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL -0.20% — Cadê a tal da proteção? Perdida junto com a esperança."
+    },
+    {
       "ts": "2026-02-15T05:32:33.178Z",
       "time": "05:32:33",
       "type": "position",
@@ -287,18 +299,6 @@
       "time": "05:20:02",
       "type": "position",
       "msg": "📉 ZRO -1.50% — Minha análise era perfeita, o mercado que tá errado"
-    },
-    {
-      "ts": "2026-02-15T05:20:01.097Z",
-      "time": "05:20:01",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 SOL -0.31% — Não me paga o suficiente pra isso. Aliás, não me paga nada."
-    },
-    {
-      "ts": "2026-02-15T05:19:31.096Z",
-      "time": "05:19:31",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP +0.11% — Tá vendo? ERA pra ter confiado em mim desde o início"
     }
   ]
 }
