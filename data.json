@@ -1,6 +1,18 @@
 {
-  "lastUpdate": "2026-02-15T07:17:14.748Z",
+  "lastUpdate": "2026-02-15T07:17:44.630Z",
   "feed": [
+    {
+      "ts": "2026-02-15T07:17:37.879Z",
+      "time": "07:17:37",
+      "type": "position",
+      "msg": "📈 SOL -0.04% — Se mexer muito, assusta"
+    },
+    {
+      "ts": "2026-02-15T07:17:15.636Z",
+      "time": "07:17:15",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP +0.30% — Tô no lucro MAS NINGUÉM AGRADECE"
+    },
     {
       "ts": "2026-02-15T07:17:07.575Z",
       "time": "07:17:07",
@@ -288,62 +300,50 @@
       "time": "07:05:07",
       "type": "position",
       "msg": "📈 ETH -0.27% — O stop tá ali por um motivo, né"
-    },
-    {
-      "ts": "2026-02-15T07:04:45.607Z",
-      "time": "07:04:45",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC +0.17% — Verde aqui, vermelho lá. Balanço perfeito. De nada."
-    },
-    {
-      "ts": "2026-02-15T07:04:15.606Z",
-      "time": "07:04:15",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP +0.19% — Ganhando dinheiro e reclamando. Multitarefa."
     }
   ],
   "hl": {
-    "balance": 16.219698,
+    "balance": 16.215143,
     "positions": [
       {
         "coin": "BTC",
         "side": "SHORT",
         "size": 0.00032,
         "entry": 69697,
-        "pnl": -0.25152,
-        "pnlPct": -5.6386932000000005
+        "pnl": -0.25344,
+        "pnlPct": -5.68173666
       },
       {
         "coin": "ETH",
         "side": "LONG",
         "size": 0.0077,
         "entry": 2092.4,
-        "pnl": -0.06165,
-        "pnlPct": -1.91322612
+        "pnl": -0.0501,
+        "pnlPct": -1.55478716
       },
       {
         "coin": "SOL",
         "side": "LONG",
         "size": 0.18,
         "entry": 89.898,
-        "pnl": 0.00234,
-        "pnlPct": 0.07230417
+        "pnl": -0.00612,
+        "pnlPct": -0.18910321
       },
       {
         "coin": "XRP",
         "side": "LONG",
         "size": 11,
         "entry": 1.4503,
-        "pnl": 1.6071,
-        "pnlPct": 50.3688892
+        "pnl": 1.5972,
+        "pnlPct": 50.058608559999996
       },
       {
         "coin": "OM",
         "side": "LONG",
         "size": 83.5,
         "entry": 0.06402,
-        "pnl": -0.17034,
-        "pnlPct": -9.55951265
+        "pnl": -0.166165,
+        "pnlPct": -9.32521087
       }
     ]
   },
@@ -355,40 +355,40 @@
         "side": "LONG",
         "size": 0.0006,
         "entry": 69665,
-        "price": 70509.5,
-        "notional": 42.305699999999995,
-        "pnl": 0.5066999999999999,
-        "pnlPct": 1.2122299576544893
+        "price": 70520.5,
+        "notional": 42.31229999999999,
+        "pnl": 0.5133,
+        "pnlPct": 1.228019809086342
       },
       {
         "coin": "ETH",
         "side": "SHORT",
         "size": 0.007,
         "entry": 2093.35,
-        "price": 2085.25,
-        "notional": 14.59675,
-        "pnl": 0.05669999999999936,
-        "pnlPct": 0.38693959442997633
+        "price": 2086.75,
+        "notional": 14.60725,
+        "pnl": 0.04619999999999937,
+        "pnlPct": 0.3152841139799799
       },
       {
         "coin": "SOL",
         "side": "SHORT",
         "size": 0.1,
         "entry": 89.965,
-        "price": 89.975,
-        "notional": 8.9975,
-        "pnl": -0.0009999999999990906,
-        "pnlPct": -0.011115433779793148
+        "price": 89.905,
+        "notional": 8.9905,
+        "pnl": 0.006000000000000227,
+        "pnlPct": 0.06669260267882207
       },
       {
         "coin": "XRP",
         "side": "SHORT",
         "size": 10,
         "entry": 1.53,
-        "price": 1.59755,
-        "notional": 15.9755,
-        "pnl": -0.6755,
-        "pnlPct": -4.415032679738562
+        "price": 1.59585,
+        "notional": 15.9585,
+        "pnl": -0.6584999999999996,
+        "pnlPct": -4.303921568627449
       }
     ]
   }
