@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T03:34:54.538Z",
+      "time": "03:34:54",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC +0.33% — O mercado me odeia menos que odeia o QuickBot"
+    },
+    {
       "ts": "2026-02-15T03:34:28.342Z",
       "time": "03:34:28",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "03:25:24",
       "type": "mirror-thought",
       "msg": "🪞 📉 XRP +0.11% — Se fosse fácil, qualquer um fazia. Mas só eu faço."
-    },
-    {
-      "ts": "2026-02-15T03:24:54.528Z",
-      "time": "03:24:54",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP +0.30% — Imagina se não tivesse eu aqui... caos total"
     }
   ]
 }
