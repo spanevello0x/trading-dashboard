@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T04:23:30.293Z",
+      "time": "04:23:30",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC -0.06% — Mercado em coma. Eu também, emocionalmente."
+    },
+    {
+      "ts": "2026-02-15T04:23:30.185Z",
+      "time": "04:23:30",
+      "type": "position",
+      "msg": "📈 SOL +0.04% — Plot twist a qualquer momento"
+    },
+    {
       "ts": "2026-02-15T04:23:00.509Z",
       "time": "04:23:00",
       "type": "position",
@@ -287,18 +299,6 @@
       "time": "04:10:29",
       "type": "mirror-thought",
       "msg": "🪞 📉 SOL +0.49% — Sou o plano B que deveria ser o plano A"
-    },
-    {
-      "ts": "2026-02-15T04:10:00.019Z",
-      "time": "04:10:00",
-      "type": "position",
-      "msg": "📉 ZRO -0.62% — Respira... é só número na tela"
-    },
-    {
-      "ts": "2026-02-15T04:09:59.752Z",
-      "time": "04:09:59",
-      "type": "position",
-      "msg": "📈 SOL +0.72% — Calma que ainda pode dar errado"
     }
   ]
 }
