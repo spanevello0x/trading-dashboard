@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T08:55:46.666Z",
+      "time": "08:55:46",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 ETH -0.05% — Consolidação ou preguiça do mercado? Provavelmente preguiça."
+    },
+    {
+      "ts": "2026-02-15T08:55:41.792Z",
+      "time": "08:55:41",
+      "type": "position",
+      "msg": "📈 SOL -0.48% — O gráfico parecia tão bonito..."
+    },
+    {
       "ts": "2026-02-15T08:55:16.666Z",
       "time": "08:55:16",
       "type": "mirror-thought",
@@ -287,18 +299,6 @@
       "time": "08:42:46",
       "type": "mirror-thought",
       "msg": "🪞 📉 XRP +0.24% — Funcionando perfeitamente, mas vão dar crédito pro outro"
-    },
-    {
-      "ts": "2026-02-15T08:42:41.281Z",
-      "time": "08:42:41",
-      "type": "position",
-      "msg": "📈 SOL -0.44% — Respira... é só número na tela"
-    },
-    {
-      "ts": "2026-02-15T08:42:41.016Z",
-      "time": "08:42:41",
-      "type": "position",
-      "msg": "📉 ETH +0.44% — Será que é armadilha? Provavelmente. Mas vou curtir enquanto dura"
     }
   ]
 }
