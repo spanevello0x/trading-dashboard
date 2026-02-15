@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T03:53:29.267Z",
+      "time": "03:53:29",
+      "type": "position",
+      "msg": "📉 ZRO -0.38% — Quem mandou confiar em linha colorida"
+    },
+    {
+      "ts": "2026-02-15T03:53:25.101Z",
+      "time": "03:53:25",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC -0.37% — Se eu pudesse, mandava o mercado se explicar"
+    },
+    {
       "ts": "2026-02-15T03:52:58.874Z",
       "time": "03:52:58",
       "type": "position",
@@ -287,18 +299,6 @@
       "time": "03:40:55",
       "type": "mirror-thought",
       "msg": "🪞 📈 ETH -0.14% — Até EU tô no vermelho agora. Inacreditável."
-    },
-    {
-      "ts": "2026-02-15T03:40:29.188Z",
-      "time": "03:40:29",
-      "type": "position",
-      "msg": "📉 ZRO +1.09% — Será que é armadilha? Provavelmente. Mas vou curtir enquanto dura"
-    },
-    {
-      "ts": "2026-02-15T03:40:28.350Z",
-      "time": "03:40:28",
-      "type": "position",
-      "msg": "📉 ETH +1.25% — Stonks 📈 (desculpa, não resisti)"
     }
   ]
 }
