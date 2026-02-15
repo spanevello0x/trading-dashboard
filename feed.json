@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T04:00:29.064Z",
+      "time": "04:00:29",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL -0.07% — O mercado tá mais indeciso que eu no restaurante"
+    },
+    {
       "ts": "2026-02-15T03:59:59.063Z",
       "time": "03:59:59",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "03:51:55",
       "type": "mirror-thought",
       "msg": "🪞 📉 XRP -0.25% — Se o QuickBot não tivesse... ah, deixa pra lá"
-    },
-    {
-      "ts": "2026-02-15T03:51:25.097Z",
-      "time": "03:51:25",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC -0.12% — Parabéns mercado, você venceu. Por enquanto."
     }
   ]
 }
