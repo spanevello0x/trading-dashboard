@@ -1,11 +1,23 @@
 {
-  "lastUpdate": "2026-02-15T00:57:32.562Z",
+  "lastUpdate": "2026-02-15T00:58:02.726Z",
   "feed": [
     {
-      "ts": "2026-02-15T00:57:11.259Z",
-      "time": "00:57:11",
-      "type": "mirror-system",
-      "msg": "🪞 Mirror Bot online. Hora de trabalhar enquanto outros descansam."
+      "ts": "2026-02-15T00:57:32.397Z",
+      "time": "00:57:32",
+      "type": "position",
+      "msg": "OM +0.19% — Tá verde? Tira print rápido antes que vire"
+    },
+    {
+      "ts": "2026-02-15T00:57:32.137Z",
+      "time": "00:57:32",
+      "type": "position",
+      "msg": "HYPE +0.09% — O mercado tá no modo avião"
+    },
+    {
+      "ts": "2026-02-15T00:57:31.670Z",
+      "time": "00:57:31",
+      "type": "position",
+      "msg": "ZRO +0.05% — Tick tock, mercado..."
     },
     {
       "ts": "2026-02-15T00:57:01.032Z",
@@ -168,44 +180,26 @@
       "time": "00:56:43",
       "type": "analysis",
       "msg": "Olhando DOGE... 67% LONG"
-    },
-    {
-      "ts": "2026-02-15T00:56:43.411Z",
-      "time": "00:56:43",
-      "type": "analysis",
-      "msg": "Hmm, FARTCOIN mostrando sinais de LONG (67%)"
-    },
-    {
-      "ts": "2026-02-15T00:56:43.130Z",
-      "time": "00:56:43",
-      "type": "error",
-      "msg": "❌ Falha na execução: Order could not immediately match against any resting orders. asset=203"
-    },
-    {
-      "ts": "2026-02-15T00:56:41.197Z",
-      "time": "00:56:41",
-      "type": "execution",
-      "msg": "📤 Abrindo LONG em XPL..."
     }
   ],
   "hl": {
-    "balance": 15.936438,
+    "balance": 15.924538,
     "positions": [
       {
         "coin": "BTC",
         "side": "SHORT",
         "size": 0.00032,
         "entry": 69697,
-        "pnl": -0.02176,
-        "pnlPct": -0.48782587
+        "pnl": -0.01856,
+        "pnlPct": -0.41608678
       },
       {
         "coin": "XRP",
         "side": "LONG",
         "size": 11,
         "entry": 1.4503,
-        "pnl": 0.8162,
-        "pnlPct": 25.580914290000003
+        "pnl": 0.8129,
+        "pnlPct": 25.47748742
       },
       {
         "coin": "ZRO",
@@ -220,16 +214,16 @@
         "side": "LONG",
         "size": 0.49,
         "entry": 31.906,
-        "pnl": 0.01372,
-        "pnlPct": 0.43878894
+        "pnl": 0.01862,
+        "pnlPct": 0.5954992800000001
       },
       {
         "coin": "OM",
         "side": "LONG",
         "size": 83.5,
         "entry": 0.06402,
-        "pnl": 0.01002,
-        "pnlPct": 0.5623242700000001
+        "pnl": -0.00668,
+        "pnlPct": -0.37488285
       }
     ]
   },
