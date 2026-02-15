@@ -1,6 +1,24 @@
 {
-  "lastUpdate": "2026-02-15T06:58:14.227Z",
+  "lastUpdate": "2026-02-15T06:58:44.131Z",
   "feed": [
+    {
+      "ts": "2026-02-15T06:58:37.132Z",
+      "time": "06:58:37",
+      "type": "position",
+      "msg": "📈 SOL -0.39% — Mercado fazendo mercadisse"
+    },
+    {
+      "ts": "2026-02-15T06:58:36.836Z",
+      "time": "06:58:36",
+      "type": "position",
+      "msg": "📈 ETH -0.39% — Mercado fazendo mercadisse"
+    },
+    {
+      "ts": "2026-02-15T06:58:15.586Z",
+      "time": "06:58:15",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 ETH -0.40% — Prejuízo compartilhado é prejuízo... dobrado"
+    },
     {
       "ts": "2026-02-15T06:57:45.585Z",
       "time": "06:57:45",
@@ -282,36 +300,18 @@
       "time": "06:45:15",
       "type": "mirror-thought",
       "msg": "🪞 📉 SOL +0.45% — Se fosse fácil, qualquer um fazia. Mas só eu faço."
-    },
-    {
-      "ts": "2026-02-15T06:45:06.212Z",
-      "time": "06:45:06",
-      "type": "position",
-      "msg": "📈 ETH -0.25% — Pelo menos não apostei a casa... dessa vez"
-    },
-    {
-      "ts": "2026-02-15T06:44:45.311Z",
-      "time": "06:44:45",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP +0.08% — O gráfico tá mais parado que eu em dia de folga. Não tenho folga."
-    },
-    {
-      "ts": "2026-02-15T06:44:36.495Z",
-      "time": "06:44:36",
-      "type": "position",
-      "msg": "📈 SOL -0.10% — Tá difícil defender essa entrada"
     }
   ],
   "hl": {
-    "balance": 15.993903,
+    "balance": 16.011963,
     "positions": [
       {
         "coin": "BTC",
         "side": "SHORT",
         "size": 0.00032,
         "entry": 69697,
-        "pnl": -0.21568,
-        "pnlPct": -4.83521529
+        "pnl": -0.21664,
+        "pnlPct": -4.85673702
       },
       {
         "coin": "ETH",
@@ -326,24 +326,24 @@
         "side": "LONG",
         "size": 0.18,
         "entry": 89.898,
-        "pnl": -0.06606,
-        "pnlPct": -2.04120225
+        "pnl": -0.06264,
+        "pnlPct": -1.9355269299999998
       },
       {
         "coin": "XRP",
         "side": "LONG",
         "size": 11,
         "entry": 1.4503,
-        "pnl": 1.408,
-        "pnlPct": 44.128800940000005
+        "pnl": 1.4069,
+        "pnlPct": 44.09432531
       },
       {
         "coin": "OM",
         "side": "LONG",
         "size": 83.5,
         "entry": 0.06402,
-        "pnl": -0.151135,
-        "pnlPct": -8.481724459999999
+        "pnl": -0.134435,
+        "pnlPct": -7.54451734
       }
     ]
   },
@@ -355,40 +355,40 @@
         "side": "LONG",
         "size": 0.0006,
         "entry": 69665,
-        "price": 70406.5,
-        "notional": 42.2439,
-        "pnl": 0.44489999999999996,
-        "pnlPct": 1.0643795306107802
+        "price": 70407.5,
+        "notional": 42.244499999999995,
+        "pnl": 0.44549999999999995,
+        "pnlPct": 1.0658149716500394
       },
       {
         "coin": "ETH",
         "side": "SHORT",
         "size": 0.007,
         "entry": 2093.35,
-        "price": 2085.35,
-        "notional": 14.59745,
-        "pnl": 0.056,
-        "pnlPct": 0.3821625623999809
+        "price": 2085.8500000000004,
+        "notional": 14.600950000000003,
+        "pnl": 0.05249999999999682,
+        "pnlPct": 0.35827740224996035
       },
       {
         "coin": "SOL",
         "side": "SHORT",
         "size": 0.1,
         "entry": 89.965,
-        "price": 89.565,
-        "notional": 8.9565,
-        "pnl": 0.04000000000000057,
-        "pnlPct": 0.4446173511921366
+        "price": 89.60499999999999,
+        "notional": 8.9605,
+        "pnl": 0.036000000000001364,
+        "pnlPct": 0.4001556160729324
       },
       {
         "coin": "XRP",
         "side": "SHORT",
         "size": 10,
         "entry": 1.53,
-        "price": 1.57855,
-        "notional": 15.785499999999999,
-        "pnl": -0.4854999999999987,
-        "pnlPct": -3.173202614379077
+        "price": 1.5789499999999999,
+        "notional": 15.789499999999999,
+        "pnl": -0.48949999999999827,
+        "pnlPct": -3.1993464052287464
       }
     ]
   }
