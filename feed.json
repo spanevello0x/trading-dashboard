@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T03:15:27.907Z",
+      "time": "03:15:27",
+      "type": "position",
+      "msg": "📈 OM -2.33% — Pelo menos o stop existe. Graças a Deus pelo stop."
+    },
+    {
+      "ts": "2026-02-15T03:15:24.507Z",
+      "time": "03:15:24",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP +0.21% — Verde aqui, vermelho lá. Balanço perfeito. De nada."
+    },
+    {
       "ts": "2026-02-15T03:14:57.779Z",
       "time": "03:14:57",
       "type": "position",
@@ -283,22 +295,10 @@
       "msg": "📉 ZRO -0.10% — Lateral é o novo tendência"
     },
     {
-      "ts": "2026-02-15T03:05:56.835Z",
-      "time": "03:05:56",
-      "type": "position",
-      "msg": "📉 ETH +0.30% — Print pra mostrar pros netos"
-    },
-    {
       "ts": "2026-02-15T03:05:54.485Z",
       "time": "03:05:54",
       "type": "mirror-thought",
       "msg": "🪞 📈 ETH +0.01% — Zero movimento. Zero emoção. Zero sentido."
-    },
-    {
-      "ts": "2026-02-15T03:05:24.484Z",
-      "time": "03:05:24",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC +0.01% — Nem sobe nem desce. Assim como minha esperança."
     }
   ]
 }
