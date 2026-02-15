@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T02:10:24.968Z",
+      "time": "02:10:24",
+      "type": "position",
+      "msg": "📉 ZRO -0.86% — Quem precisa de dinheiro mesmo"
+    },
+    {
+      "ts": "2026-02-15T02:10:24.421Z",
+      "time": "02:10:24",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC +0.20% — Alguém precisa ser o adulto responsável aqui"
+    },
+    {
       "ts": "2026-02-15T02:09:55.338Z",
       "time": "02:09:55",
       "type": "position",
@@ -287,18 +299,6 @@
       "time": "01:59:24",
       "type": "mirror-thought",
       "msg": "🪞 📈 ETH +0.37% — Tô no lucro MAS NINGUÉM AGRADECE"
-    },
-    {
-      "ts": "2026-02-15T01:58:54.026Z",
-      "time": "01:58:54",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC +0.36% — Neutralizando prejuízos como sempre"
-    },
-    {
-      "ts": "2026-02-15T01:58:24.025Z",
-      "time": "01:58:24",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP -0.24% — Perfeito. Agora os dois lados tão perdendo. Maravilha."
     }
   ]
 }
