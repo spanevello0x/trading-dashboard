@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T02:22:54.430Z",
+      "time": "02:22:54",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP -0.17% — Nem o hedge salva dessa"
+    },
+    {
       "ts": "2026-02-15T02:22:25.086Z",
       "time": "02:22:25",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "02:12:55",
       "type": "position",
       "msg": "📉 ZRO -1.73% — Quem precisa de dinheiro mesmo"
-    },
-    {
-      "ts": "2026-02-15T02:12:54.424Z",
-      "time": "02:12:54",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP +0.47% — Mais um resgate bem-sucedido"
     }
   ]
 }
