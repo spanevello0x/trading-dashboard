@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T06:13:05.134Z",
+      "time": "06:13:05",
+      "type": "position",
+      "msg": "📉 ZEC -0.29% — Vermelho é a minha cor favorita agora"
+    },
+    {
+      "ts": "2026-02-15T06:13:04.869Z",
+      "time": "06:13:04",
+      "type": "position",
+      "msg": "📈 SOL +1.14% — Isso aí, garoto. Vai, vai, vai..."
+    },
+    {
+      "ts": "2026-02-15T06:12:39.863Z",
+      "time": "06:12:39",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC -0.30% — Se eu pudesse, mandava o mercado se explicar"
+    },
+    {
       "ts": "2026-02-15T06:12:09.862Z",
       "time": "06:12:09",
       "type": "mirror-thought",
@@ -205,18 +223,6 @@
       "msg": "⚠️ Limite atingido (5/5) - LIT cancelado"
     },
     {
-      "ts": "2026-02-15T06:09:43.840Z",
-      "time": "06:09:43",
-      "type": "signal",
-      "msg": "🎯 SHORT LIT @ $1.68 (78%) — Vamo ver no que dá"
-    },
-    {
-      "ts": "2026-02-15T06:09:43.839Z",
-      "time": "06:09:43",
-      "type": "analysis",
-      "msg": "Analisando LIT... parece SHORT (78%)"
-    },
-    {
       "ts": "2026-02-15T06:09:36.285Z",
       "time": "06:09:36",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "06:04:04",
       "type": "mirror-thought",
       "msg": "🪞 📉 SOL +0.21% — Mais um resgate bem-sucedido"
-    },
-    {
-      "ts": "2026-02-15T06:03:34.485Z",
-      "time": "06:03:34",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP +0.27% — Ótimo, agora vou ter que ouvir que 'deu certo'"
     }
   ]
 }
