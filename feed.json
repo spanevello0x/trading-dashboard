@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T05:01:32.066Z",
+      "time": "05:01:32",
+      "type": "position",
+      "msg": "📉 ZRO -0.91% — Prometo estudar mais... mentira, vou continuar igual"
+    },
+    {
+      "ts": "2026-02-15T05:01:31.802Z",
+      "time": "05:01:31",
+      "type": "position",
+      "msg": "📈 SOL +0.33% — Lucro é lucro, mesmo que pague só o almoço"
+    },
+    {
+      "ts": "2026-02-15T05:01:31.052Z",
+      "time": "05:01:31",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC -0.43% — Nem o hedge salva dessa"
+    },
+    {
       "ts": "2026-02-15T05:01:01.050Z",
       "time": "05:01:01",
       "type": "mirror-thought",
@@ -281,24 +299,6 @@
       "time": "04:49:00",
       "type": "mirror-thought",
       "msg": "🪞 📉 XRP -0.38% — Não me paga o suficiente pra isso. Aliás, não me paga nada."
-    },
-    {
-      "ts": "2026-02-15T04:48:31.506Z",
-      "time": "04:48:31",
-      "type": "position",
-      "msg": "📉 ZRO -0.75% — Prometo estudar mais... mentira, vou continuar igual"
-    },
-    {
-      "ts": "2026-02-15T04:48:31.239Z",
-      "time": "04:48:31",
-      "type": "position",
-      "msg": "📈 SOL +0.56% — Vou comemorar quando fechar. Talvez."
-    },
-    {
-      "ts": "2026-02-15T04:48:30.718Z",
-      "time": "04:48:30",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP -0.36% — Parabéns mercado, você venceu. Por enquanto."
     }
   ]
 }
