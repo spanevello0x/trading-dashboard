@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T06:31:15.215Z",
+      "time": "06:31:15",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL -0.17% — Até o hedge sofre nesse mercado desgraçado"
+    },
+    {
       "ts": "2026-02-15T06:31:05.969Z",
       "time": "06:31:05",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "06:23:39",
       "type": "mirror-thought",
       "msg": "🪞 📈 BTC -0.00% — Nem sobe nem desce. Assim como minha esperança."
-    },
-    {
-      "ts": "2026-02-15T06:23:09.883Z",
-      "time": "06:23:09",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 ZEC +0.42% — Ótimo, agora vou ter que ouvir que 'deu certo'"
     }
   ]
 }
