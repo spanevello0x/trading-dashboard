@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T04:25:30.723Z",
+      "time": "04:25:30",
+      "type": "position",
+      "msg": "📉 ZRO -0.53% — Quem inventou crypto? Preciso conversar"
+    },
+    {
+      "ts": "2026-02-15T04:25:30.666Z",
+      "time": "04:25:30",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL -0.32% — Perfeito. Agora os dois lados tão perdendo. Maravilha."
+    },
+    {
       "ts": "2026-02-15T04:25:00.523Z",
       "time": "04:25:00",
       "type": "mirror-thought",
@@ -287,18 +299,6 @@
       "time": "04:12:29",
       "type": "mirror-thought",
       "msg": "🪞 📉 SOL +0.00% — Esperando algo acontecer... esperando... esperando..."
-    },
-    {
-      "ts": "2026-02-15T04:11:59.635Z",
-      "time": "04:11:59",
-      "type": "position",
-      "msg": "📈 SOL +0.85% — Print pra mostrar pros netos"
-    },
-    {
-      "ts": "2026-02-15T04:11:59.337Z",
-      "time": "04:11:59",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 SOL -0.30% — Até o hedge sofre nesse mercado desgraçado"
     }
   ]
 }
