@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T06:45:06.212Z",
+      "time": "06:45:06",
+      "type": "position",
+      "msg": "📈 ETH -0.25% — Pelo menos não apostei a casa... dessa vez"
+    },
+    {
+      "ts": "2026-02-15T06:44:45.311Z",
+      "time": "06:44:45",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP +0.08% — O gráfico tá mais parado que eu em dia de folga. Não tenho folga."
+    },
+    {
       "ts": "2026-02-15T06:44:36.495Z",
       "time": "06:44:36",
       "type": "position",
@@ -287,18 +299,6 @@
       "time": "06:32:15",
       "type": "mirror-thought",
       "msg": "🪞 📉 XRP -0.42% — Se o QuickBot não tivesse... ah, deixa pra lá"
-    },
-    {
-      "ts": "2026-02-15T06:32:05.675Z",
-      "time": "06:32:05",
-      "type": "position",
-      "msg": "📈 ETH -0.08% — Pregado no entry como se tivesse cola"
-    },
-    {
-      "ts": "2026-02-15T06:31:45.215Z",
-      "time": "06:31:45",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC +0.46% — Carregando esse time nas costas, como sempre"
     }
   ]
 }
