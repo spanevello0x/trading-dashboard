@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T07:23:15.649Z",
+      "time": "07:23:15",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC +0.40% — Alguém tem que salvar esse portfólio"
+    },
+    {
       "ts": "2026-02-15T07:23:08.147Z",
       "time": "07:23:08",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "07:10:15",
       "type": "mirror-thought",
       "msg": "🪞 📉 XRP -0.10% — Range mais apertado que minha paciência"
-    },
-    {
-      "ts": "2026-02-15T07:10:08.037Z",
-      "time": "07:10:08",
-      "type": "position",
-      "msg": "📈 SOL -0.49% — Podia ser pior. Dá tempo ainda."
     }
   ]
 }
