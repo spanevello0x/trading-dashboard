@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T08:44:16.495Z",
+      "time": "08:44:16",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC +0.36% — Mais um resgate bem-sucedido"
+    },
+    {
       "ts": "2026-02-15T08:43:46.494Z",
       "time": "08:43:46",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "08:31:40",
       "type": "position",
       "msg": "📉 ETH +0.16% — Verde combina comigo"
-    },
-    {
-      "ts": "2026-02-15T08:31:36.569Z",
-      "time": "08:31:36",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - JUP cancelado"
     }
   ]
 }
