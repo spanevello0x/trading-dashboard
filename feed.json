@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T07:08:15.615Z",
+      "time": "07:08:15",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 ETH +0.01% — Neutro. Assim como minha vontade de continuar."
+    },
+    {
       "ts": "2026-02-15T07:08:07.560Z",
       "time": "07:08:07",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "06:55:36",
       "type": "position",
       "msg": "📈 ETH -0.39% — Pelo menos o stop existe. Graças a Deus pelo stop."
-    },
-    {
-      "ts": "2026-02-15T06:55:15.581Z",
-      "time": "06:55:15",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 ETH -0.22% — Fiz minha parte, o universo que não colaborou"
     }
   ]
 }
