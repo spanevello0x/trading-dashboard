@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T04:20:00.386Z",
+      "time": "04:20:00",
+      "type": "position",
+      "msg": "📉 ZRO -0.73% — Pelo menos o stop existe. Graças a Deus pelo stop."
+    },
+    {
+      "ts": "2026-02-15T04:20:00.288Z",
+      "time": "04:20:00",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC +0.26% — Tô no lucro MAS NINGUÉM AGRADECE"
+    },
+    {
+      "ts": "2026-02-15T04:20:00.086Z",
+      "time": "04:20:00",
+      "type": "position",
+      "msg": "📈 SOL +0.59% — Se continuar assim, quase empato na semana"
+    },
+    {
       "ts": "2026-02-15T04:19:30.034Z",
       "time": "04:19:30",
       "type": "mirror-thought",
@@ -281,24 +299,6 @@
       "time": "04:07:29",
       "type": "position",
       "msg": "📈 SOL +0.37% — Print pra mostrar pros netos"
-    },
-    {
-      "ts": "2026-02-15T04:07:29.332Z",
-      "time": "04:07:29",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 SOL -0.25% — Fiz minha parte, o universo que não colaborou"
-    },
-    {
-      "ts": "2026-02-15T04:06:59.331Z",
-      "time": "04:06:59",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP -0.06% — O gráfico tá mais parado que eu em dia de folga. Não tenho folga."
-    },
-    {
-      "ts": "2026-02-15T04:06:29.940Z",
-      "time": "04:06:29",
-      "type": "position",
-      "msg": "📉 ZRO -0.75% — Loss building character 💪"
     }
   ]
 }
