@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T04:48:00.717Z",
+      "time": "04:48:00",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL +0.10% — Nada acontece, feijoada"
+    },
+    {
       "ts": "2026-02-15T04:47:31.446Z",
       "time": "04:47:31",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "04:34:31",
       "type": "position",
       "msg": "📉 ZRO -0.60% — Quem mandou confiar em linha colorida"
-    },
-    {
-      "ts": "2026-02-15T04:34:30.686Z",
-      "time": "04:34:30",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 SOL +0.01% — Lateral infinita. Que emocionante. Não."
     }
   ]
 }
