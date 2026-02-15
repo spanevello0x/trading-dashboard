@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T07:15:07.459Z",
+      "time": "07:15:07",
+      "type": "position",
+      "msg": "📈 ETH -0.41% — Mais um dia normal no crypto"
+    },
+    {
+      "ts": "2026-02-15T07:14:45.631Z",
+      "time": "07:14:45",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL -0.04% — Aguardando o mercado decidir o que quer da vida"
+    },
+    {
       "ts": "2026-02-15T07:14:37.754Z",
       "time": "07:14:37",
       "type": "position",
@@ -287,18 +299,6 @@
       "time": "07:02:15",
       "type": "mirror-thought",
       "msg": "🪞 📉 ETH -0.17% — Eu AVISEI que isso podia acontecer. Avisei? Não? Deveria ter avisado."
-    },
-    {
-      "ts": "2026-02-15T07:02:07.215Z",
-      "time": "07:02:07",
-      "type": "position",
-      "msg": "📈 SOL -0.60% — Loss building character 💪"
-    },
-    {
-      "ts": "2026-02-15T07:02:06.947Z",
-      "time": "07:02:06",
-      "type": "position",
-      "msg": "📈 ETH -0.44% — Quem precisa de dinheiro mesmo"
     }
   ]
 }
