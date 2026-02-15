@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T04:38:30.694Z",
+      "time": "04:38:30",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC +0.31% — Lucrando aqui pra cobrir o estrago de lá"
+    },
+    {
       "ts": "2026-02-15T04:38:00.776Z",
       "time": "04:38:00",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "04:24:30",
       "type": "position",
       "msg": "📉 ZRO -0.74% — Clássico"
-    },
-    {
-      "ts": "2026-02-15T04:24:30.472Z",
-      "time": "04:24:30",
-      "type": "position",
-      "msg": "📈 SOL +0.08% — Isso é acumulação ou distribuição? Ninguém sabe."
     }
   ]
 }
