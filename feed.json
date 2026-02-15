@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T05:55:04.312Z",
+      "time": "05:55:04",
+      "type": "position",
+      "msg": "📉 ZEC +0.59% — Alguém avisa o mercado que eu tô comprado"
+    },
+    {
+      "ts": "2026-02-15T05:55:04.206Z",
+      "time": "05:55:04",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL -0.15% — Mais um dia, mais um prejuízo, mais uma reclamação"
+    },
+    {
+      "ts": "2026-02-15T05:55:04.048Z",
+      "time": "05:55:04",
+      "type": "position",
+      "msg": "📈 SOL +1.45% — Será que alguém sabe algo que eu não sei? Sempre sabem."
+    },
+    {
       "ts": "2026-02-15T05:54:34.102Z",
       "time": "05:54:34",
       "type": "mirror-thought",
@@ -281,24 +299,6 @@
       "time": "05:45:23",
       "type": "system",
       "msg": "⚠️ Limite atingido (5/5) - ARB cancelado"
-    },
-    {
-      "ts": "2026-02-15T05:45:22.966Z",
-      "time": "05:45:22",
-      "type": "signal",
-      "msg": "🎯 LONG ARB @ $0.12 (100%) — Os indicadores mandaram, eu obedeci"
-    },
-    {
-      "ts": "2026-02-15T05:45:22.965Z",
-      "time": "05:45:22",
-      "type": "analysis",
-      "msg": "ARB tá interessante, 100% pro LONG"
-    },
-    {
-      "ts": "2026-02-15T05:45:22.663Z",
-      "time": "05:45:22",
-      "type": "analysis",
-      "msg": "Analisando kPEPE... parece SHORT (67%)"
     }
   ]
 }
