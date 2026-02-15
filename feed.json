@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T03:06:24.484Z",
+      "time": "03:06:24",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP -0.37% — Meu trabalho é neutralizar, não fazer milagre"
+    },
+    {
       "ts": "2026-02-15T03:05:57.362Z",
       "time": "03:05:57",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "02:56:24",
       "type": "mirror-thought",
       "msg": "🪞 📈 ETH -0.13% — Mais um dia, mais um prejuízo, mais uma reclamação"
-    },
-    {
-      "ts": "2026-02-15T02:55:56.467Z",
-      "time": "02:55:56",
-      "type": "position",
-      "msg": "📉 ETH +0.15% — Stonks 📈 (desculpa, não resisti)"
     }
   ]
 }
