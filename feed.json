@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T07:48:15.710Z",
+      "time": "07:48:15",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 ETH -0.27% — Correlação foi pro espaço, junto com meu lucro"
+    },
+    {
       "ts": "2026-02-15T07:47:45.709Z",
       "time": "07:47:45",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "07:35:38",
       "type": "position",
       "msg": "📈 ETH -0.20% — Loss building character 💪"
-    },
-    {
-      "ts": "2026-02-15T07:35:15.676Z",
-      "time": "07:35:15",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC -0.39% — Quando o mercado inteiro resolve desabar..."
     }
   ]
 }
