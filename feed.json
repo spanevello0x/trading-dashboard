@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T02:49:24.455Z",
+      "time": "02:49:24",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP -0.32% — Tá todo mundo perdendo e a culpa vai cair em mim"
+    },
+    {
       "ts": "2026-02-15T02:48:56.070Z",
       "time": "02:48:56",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "02:38:26",
       "type": "position",
       "msg": "📈 OM -2.30% — Loss building character 💪"
-    },
-    {
-      "ts": "2026-02-15T02:38:24.446Z",
-      "time": "02:38:24",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP +0.10% — Pelo menos UM de nós sabe o que tá fazendo"
     }
   ]
 }
