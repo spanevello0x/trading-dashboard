@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T07:06:07.373Z",
+      "time": "07:06:07",
+      "type": "position",
+      "msg": "📈 SOL -0.40% — Quem inventou crypto? Preciso conversar"
+    },
+    {
+      "ts": "2026-02-15T07:06:07.102Z",
+      "time": "07:06:07",
+      "type": "position",
+      "msg": "📈 ETH -0.32% — Prometo estudar mais... mentira, vou continuar igual"
+    },
+    {
+      "ts": "2026-02-15T07:05:45.609Z",
+      "time": "07:05:45",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP -0.34% — Perfeito. Agora os dois lados tão perdendo. Maravilha."
+    },
+    {
       "ts": "2026-02-15T07:05:15.607Z",
       "time": "07:05:15",
       "type": "mirror-thought",
@@ -281,24 +299,6 @@
       "time": "06:53:06",
       "type": "position",
       "msg": "📈 ETH -0.40% — Quem mandou confiar em linha colorida"
-    },
-    {
-      "ts": "2026-02-15T06:52:45.575Z",
-      "time": "06:52:45",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 ETH +0.20% — Verde aqui, vermelho lá. Balanço perfeito. De nada."
-    },
-    {
-      "ts": "2026-02-15T06:52:36.889Z",
-      "time": "06:52:36",
-      "type": "position",
-      "msg": "📈 SOL -0.62% — Mais um dia normal no crypto"
-    },
-    {
-      "ts": "2026-02-15T06:52:15.575Z",
-      "time": "06:52:15",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP -0.09% — Consolidação ou preguiça do mercado? Provavelmente preguiça."
     }
   ]
 }
