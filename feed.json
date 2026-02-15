@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T02:48:56.070Z",
+      "time": "02:48:56",
+      "type": "position",
+      "msg": "📉 ETH +0.32% — Print pra mostrar pros netos"
+    },
+    {
+      "ts": "2026-02-15T02:48:54.454Z",
+      "time": "02:48:54",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC -0.22% — Vermelho dos dois lados. Arte moderna isso."
+    },
+    {
       "ts": "2026-02-15T02:48:27.045Z",
       "time": "02:48:27",
       "type": "position",
@@ -287,18 +299,6 @@
       "time": "02:38:24",
       "type": "mirror-thought",
       "msg": "🪞 📉 XRP +0.10% — Pelo menos UM de nós sabe o que tá fazendo"
-    },
-    {
-      "ts": "2026-02-15T02:37:56.014Z",
-      "time": "02:37:56",
-      "type": "position",
-      "msg": "📉 ZRO -0.19% — Pelo menos não apostei a casa... dessa vez"
-    },
-    {
-      "ts": "2026-02-15T02:37:54.447Z",
-      "time": "02:37:54",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP +0.10% — Se fosse fácil, qualquer um fazia. Mas só eu faço."
     }
   ]
 }
