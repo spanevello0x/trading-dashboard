@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T03:55:28.718Z",
+      "time": "03:55:28",
+      "type": "system",
+      "msg": "⏰ ETH expirou (30 candles) — Cancelando"
+    },
+    {
+      "ts": "2026-02-15T03:55:25.103Z",
+      "time": "03:55:25",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC +0.38% — Alguém precisa ser o adulto responsável aqui"
+    },
+    {
       "ts": "2026-02-15T03:54:59.260Z",
       "time": "03:54:59",
       "type": "position",
@@ -287,18 +299,6 @@
       "time": "03:42:55",
       "type": "mirror-thought",
       "msg": "🪞 📈 BTC +0.26% — Ótimo, agora vou ter que ouvir que 'deu certo'"
-    },
-    {
-      "ts": "2026-02-15T03:42:28.784Z",
-      "time": "03:42:28",
-      "type": "position",
-      "msg": "📉 ZRO +0.64% — Não sou eu, é o mercado que tá errado... ah não, dessa vez acertou"
-    },
-    {
-      "ts": "2026-02-15T03:42:28.522Z",
-      "time": "03:42:28",
-      "type": "position",
-      "msg": "📉 ETH +1.11% — Isso aí, garoto. Vai, vai, vai..."
     }
   ]
 }
