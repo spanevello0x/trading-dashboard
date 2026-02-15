@@ -1,6 +1,12 @@
 {
-  "lastUpdate": "2026-02-15T00:54:02.439Z",
+  "lastUpdate": "2026-02-15T00:54:32.443Z",
   "feed": [
+    {
+      "ts": "2026-02-15T00:54:16.977Z",
+      "time": "00:54:16",
+      "type": "mirror-system",
+      "msg": "🪞 Mirror Bot online. Hora de trabalhar enquanto outros descansam."
+    },
     {
       "ts": "2026-02-15T00:42:09.688Z",
       "time": "00:42:09",
@@ -294,40 +300,34 @@
       "time": "15:35:31",
       "type": "position",
       "msg": "ETH -0.00% — O mercado tá buffering"
-    },
-    {
-      "ts": "2026-02-14T15:34:32.492Z",
-      "time": "15:34:32",
-      "type": "position",
-      "msg": "PAXG -0.01% — Pelo menos não tá caindo... ainda"
     }
   ],
   "hl": {
-    "balance": 15.922681,
+    "balance": 15.942181,
     "positions": [
       {
         "coin": "BTC",
         "side": "SHORT",
         "size": 0.00032,
         "entry": 69697,
-        "pnl": 0.00768,
-        "pnlPct": 0.17217384
+        "pnl": -0.00192,
+        "pnlPct": -0.04304346
       },
       {
         "coin": "XRP",
         "side": "LONG",
         "size": 11,
         "entry": 1.4503,
-        "pnl": 0.7843,
-        "pnlPct": 24.581121149999998
+        "pnl": 0.8107,
+        "pnlPct": 25.40853616
       },
       {
         "coin": "PAXG",
         "side": "LONG",
         "size": 0.003,
         "entry": 5030.2,
-        "pnl": -0.0213,
-        "pnlPct": -0.70573735
+        "pnl": -0.0186,
+        "pnlPct": -0.61627768
       }
     ]
   },
