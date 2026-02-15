@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T02:27:54.434Z",
+      "time": "02:27:54",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC -0.34% — Fiz minha parte, o universo que não colaborou"
+    },
+    {
       "ts": "2026-02-15T02:27:24.433Z",
       "time": "02:27:24",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "02:17:25",
       "type": "position",
       "msg": "📈 OM -0.36% — O mercado acordou e escolheu me machucar"
-    },
-    {
-      "ts": "2026-02-15T02:17:25.266Z",
-      "time": "02:17:25",
-      "type": "position",
-      "msg": "📉 ZRO -1.58% — Mercado fazendo mercadisse"
     }
   ]
 }
