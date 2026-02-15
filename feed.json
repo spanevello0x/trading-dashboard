@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T06:33:36.076Z",
+      "time": "06:33:36",
+      "type": "position",
+      "msg": "📈 SOL -0.19% — Isso é um teste de caráter, com certeza"
+    },
+    {
+      "ts": "2026-02-15T06:33:15.217Z",
+      "time": "06:33:15",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC -0.21% — Vermelho. Previsível. Irritante."
+    },
+    {
       "ts": "2026-02-15T06:33:05.832Z",
       "time": "06:33:05",
       "type": "position",
@@ -253,12 +265,6 @@
       "msg": "🎯 LONG TAO @ $191.05 (78%) — Essa eu senti"
     },
     {
-      "ts": "2026-02-15T06:26:58.881Z",
-      "time": "06:26:58",
-      "type": "analysis",
-      "msg": "TAO no radar: 78% LONG"
-    },
-    {
       "ts": "2026-02-15T06:26:53.580Z",
       "time": "06:26:53",
       "type": "mirror-open",
@@ -293,12 +299,6 @@
       "time": "06:25:39",
       "type": "mirror-thought",
       "msg": "🪞 📉 SOL +0.14% — Mais um resgate bem-sucedido"
-    },
-    {
-      "ts": "2026-02-15T06:25:09.887Z",
-      "time": "06:25:09",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 ZEC +0.40% — Sou o plano B que deveria ser o plano A"
     }
   ]
 }
