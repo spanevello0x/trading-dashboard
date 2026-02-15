@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T03:15:57.564Z",
+      "time": "03:15:57",
+      "type": "position",
+      "msg": "📉 ZRO +0.04% — Consolidação ou indecisão? Sim."
+    },
+    {
+      "ts": "2026-02-15T03:15:57.298Z",
+      "time": "03:15:57",
+      "type": "position",
+      "msg": "📉 ETH +0.39% — Calma que ainda pode dar errado"
+    },
+    {
+      "ts": "2026-02-15T03:15:54.509Z",
+      "time": "03:15:54",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP +0.40% — Hedge funcionando, cadê meu reconhecimento?"
+    },
+    {
       "ts": "2026-02-15T03:15:27.907Z",
       "time": "03:15:27",
       "type": "position",
@@ -281,24 +299,6 @@
       "time": "03:06:24",
       "type": "mirror-thought",
       "msg": "🪞 📉 XRP -0.37% — Meu trabalho é neutralizar, não fazer milagre"
-    },
-    {
-      "ts": "2026-02-15T03:05:57.362Z",
-      "time": "03:05:57",
-      "type": "position",
-      "msg": "📈 OM -2.55% — Vou culpar a lua, deve ser lua cheia"
-    },
-    {
-      "ts": "2026-02-15T03:05:57.097Z",
-      "time": "03:05:57",
-      "type": "position",
-      "msg": "📉 ZRO -0.10% — Lateral é o novo tendência"
-    },
-    {
-      "ts": "2026-02-15T03:05:54.485Z",
-      "time": "03:05:54",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 ETH +0.01% — Zero movimento. Zero emoção. Zero sentido."
     }
   ]
 }
