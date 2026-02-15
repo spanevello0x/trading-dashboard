@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T04:59:31.046Z",
+      "time": "04:59:31",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL +0.14% — Alguém tem que salvar esse portfólio"
+    },
+    {
       "ts": "2026-02-15T04:59:02.113Z",
       "time": "04:59:02",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "04:46:30",
       "type": "mirror-thought",
       "msg": "🪞 📉 SOL -0.38% — Mais um dia, mais um prejuízo, mais uma reclamação"
-    },
-    {
-      "ts": "2026-02-15T04:46:01.936Z",
-      "time": "04:46:01",
-      "type": "position",
-      "msg": "📉 ZRO -0.62% — O mercado acordou e escolheu me machucar"
     }
   ]
 }
