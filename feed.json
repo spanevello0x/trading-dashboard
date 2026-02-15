@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T09:11:22.105Z",
+      "time": "09:11:22",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP +0.30% — Mais um dia salvando a pátria"
+    },
+    {
+      "ts": "2026-02-15T09:11:12.343Z",
+      "time": "09:11:12",
+      "type": "position",
+      "msg": "📉 ZEC -0.79% — Vou culpar a lua, deve ser lua cheia"
+    },
+    {
+      "ts": "2026-02-15T09:11:12.074Z",
+      "time": "09:11:12",
+      "type": "position",
+      "msg": "📉 ETH -0.15% — Isso é um teste de caráter, com certeza"
+    },
+    {
       "ts": "2026-02-15T09:10:52.103Z",
       "time": "09:10:52",
       "type": "mirror-thought",
@@ -281,24 +299,6 @@
       "time": "08:58:21",
       "type": "mirror-thought",
       "msg": "🪞 📈 ETH -0.34% — Parabéns mercado, você venceu. Por enquanto."
-    },
-    {
-      "ts": "2026-02-15T08:58:11.608Z",
-      "time": "08:58:11",
-      "type": "position",
-      "msg": "📉 ETH +0.19% — Tá verde? Tira print rápido antes que vire"
-    },
-    {
-      "ts": "2026-02-15T08:57:51.486Z",
-      "time": "08:57:51",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 ETH +0.24% — Obrigado por nada, eu que me viro mesmo"
-    },
-    {
-      "ts": "2026-02-15T08:57:41.818Z",
-      "time": "08:57:41",
-      "type": "position",
-      "msg": "📉 ZEC -0.00% — Parece até stable coin"
     }
   ]
 }
