@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T07:03:15.604Z",
+      "time": "07:03:15",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL +0.11% — Ótimo, agora vou ter que ouvir que 'deu certo'"
+    },
+    {
       "ts": "2026-02-15T07:03:07.233Z",
       "time": "07:03:07",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "06:50:06",
       "type": "position",
       "msg": "📈 SOL -0.65% — Respira... é só número na tela"
-    },
-    {
-      "ts": "2026-02-15T06:50:06.506Z",
-      "time": "06:50:06",
-      "type": "position",
-      "msg": "📈 ETH -0.46% — Vou culpar a lua, deve ser lua cheia"
     }
   ]
 }
