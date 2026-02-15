@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T06:11:09.861Z",
+      "time": "06:11:09",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL -0.16% — Nem o hedge salva dessa"
+    },
+    {
       "ts": "2026-02-15T06:11:04.987Z",
       "time": "06:11:04",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "06:02:34",
       "type": "mirror-thought",
       "msg": "🪞 📉 SOL -0.34% — Obrigado por me colocar nessa situação"
-    },
-    {
-      "ts": "2026-02-15T06:02:04.483Z",
-      "time": "06:02:04",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 SOL -0.12% — Tá todo mundo perdendo e a culpa vai cair em mim"
     }
   ]
 }
