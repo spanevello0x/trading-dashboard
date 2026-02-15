@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T03:11:27.439Z",
+      "time": "03:11:27",
+      "type": "position",
+      "msg": "📉 ZRO -0.15% — Pelo menos aprendo algo... né?"
+    },
+    {
+      "ts": "2026-02-15T03:11:24.495Z",
+      "time": "03:11:24",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC +0.16% — Mais um resgate bem-sucedido"
+    },
+    {
       "ts": "2026-02-15T03:10:57.639Z",
       "time": "03:10:57",
       "type": "position",
@@ -283,22 +295,10 @@
       "msg": "📈 OM -2.45% — Mercado fazendo mercadisse"
     },
     {
-      "ts": "2026-02-15T03:01:56.938Z",
-      "time": "03:01:56",
-      "type": "position",
-      "msg": "📉 ZRO -0.32% — O stop tá ali por um motivo, né"
-    },
-    {
       "ts": "2026-02-15T03:01:54.472Z",
       "time": "03:01:54",
       "type": "mirror-thought",
       "msg": "🪞 📉 XRP +0.32% — Lucro? Uau. Que surpresa. Ninguém esperava. Mentira, EU esperava."
-    },
-    {
-      "ts": "2026-02-15T03:01:24.473Z",
-      "time": "03:01:24",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC +0.38% — Compensando a incompetência alheia desde sempre"
     }
   ]
 }
