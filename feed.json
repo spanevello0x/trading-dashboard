@@ -1,6 +1,36 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T02:04:23.855Z",
+      "time": "02:04:23",
+      "type": "position",
+      "msg": "📈 OM -1.70% — Calma que ainda tem o stop loss pra doer mais"
+    },
+    {
+      "ts": "2026-02-15T02:04:23.579Z",
+      "time": "02:04:23",
+      "type": "position",
+      "msg": "📉 ZRO -0.33% — O stop tá ali por um motivo, né"
+    },
+    {
+      "ts": "2026-02-15T02:04:23.312Z",
+      "time": "02:04:23",
+      "type": "position",
+      "msg": "📉 ETH +0.07% — Lateral é o novo tendência"
+    },
+    {
+      "ts": "2026-02-15T02:04:22.674Z",
+      "time": "02:04:22",
+      "type": "system",
+      "msg": "🤖 QuickBot V3 ativo. Watching: BTC, ETH, SOL, HYPE, XRP, ZEC, PAXG, LIT, ZRO, ASTER, AAVE, PUMP, SUI, UNI, MON, BCH, XPL, FARTCOIN, DOGE, BERA, AZTEC, VIRTUAL, AVAX, BNB, OM, TAO, VVV, XMR, kPEPE, ARB, MOODENG, LINK, JUP"
+    },
+    {
+      "ts": "2026-02-15T02:03:54.029Z",
+      "time": "02:03:54",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 ETH +0.15% — Imagina se não tivesse eu aqui... caos total"
+    },
+    {
       "ts": "2026-02-15T02:03:38.252Z",
       "time": "02:03:38",
       "type": "position",
@@ -197,12 +227,6 @@
       "time": "01:49:24",
       "type": "mirror-thought",
       "msg": "🪞 📈 BTC -0.16% — Tá todo mundo perdendo e a culpa vai cair em mim"
-    },
-    {
-      "ts": "2026-02-15T01:48:54.011Z",
-      "time": "01:48:54",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 ETH +0.05% — Zero movimento. Zero emoção. Zero sentido."
     },
     {
       "ts": "2026-02-15T01:40:34.872Z",

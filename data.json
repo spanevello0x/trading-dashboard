@@ -1,6 +1,36 @@
 {
-  "lastUpdate": "2026-02-15T02:03:57.594Z",
+  "lastUpdate": "2026-02-15T02:04:34.197Z",
   "feed": [
+    {
+      "ts": "2026-02-15T02:04:23.855Z",
+      "time": "02:04:23",
+      "type": "position",
+      "msg": "📈 OM -1.70% — Calma que ainda tem o stop loss pra doer mais"
+    },
+    {
+      "ts": "2026-02-15T02:04:23.579Z",
+      "time": "02:04:23",
+      "type": "position",
+      "msg": "📉 ZRO -0.33% — O stop tá ali por um motivo, né"
+    },
+    {
+      "ts": "2026-02-15T02:04:23.312Z",
+      "time": "02:04:23",
+      "type": "position",
+      "msg": "📉 ETH +0.07% — Lateral é o novo tendência"
+    },
+    {
+      "ts": "2026-02-15T02:04:22.674Z",
+      "time": "02:04:22",
+      "type": "system",
+      "msg": "🤖 QuickBot V3 ativo. Watching: BTC, ETH, SOL, HYPE, XRP, ZEC, PAXG, LIT, ZRO, ASTER, AAVE, PUMP, SUI, UNI, MON, BCH, XPL, FARTCOIN, DOGE, BERA, AZTEC, VIRTUAL, AVAX, BNB, OM, TAO, VVV, XMR, kPEPE, ARB, MOODENG, LINK, JUP"
+    },
+    {
+      "ts": "2026-02-15T02:03:54.029Z",
+      "time": "02:03:54",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 ETH +0.15% — Imagina se não tivesse eu aqui... caos total"
+    },
     {
       "ts": "2026-02-15T02:03:38.252Z",
       "time": "02:03:38",
@@ -200,12 +230,6 @@
       "msg": "🪞 📈 BTC -0.16% — Tá todo mundo perdendo e a culpa vai cair em mim"
     },
     {
-      "ts": "2026-02-15T01:48:54.011Z",
-      "time": "01:48:54",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 ETH +0.05% — Zero movimento. Zero emoção. Zero sentido."
-    },
-    {
       "ts": "2026-02-15T01:40:34.872Z",
       "time": "01:40:34",
       "type": "position",
@@ -231,47 +255,47 @@
     }
   ],
   "hl": {
-    "balance": 15.721404,
+    "balance": 15.708879,
     "positions": [
       {
         "coin": "BTC",
         "side": "SHORT",
         "size": 0.00032,
         "entry": 69697,
-        "pnl": 0.03296,
-        "pnlPct": 0.73891272
+        "pnl": 0.03328,
+        "pnlPct": 0.74608663
       },
       {
         "coin": "ETH",
         "side": "SHORT",
         "size": 0.0076,
         "entry": 2065,
-        "pnl": 0.01216,
-        "pnlPct": 0.3874092
+        "pnl": 0.0114,
+        "pnlPct": 0.36319613
       },
       {
         "coin": "XRP",
         "side": "LONG",
         "size": 11,
         "entry": 1.4503,
-        "pnl": 0.8327,
-        "pnlPct": 26.09804868
+        "pnl": 0.825,
+        "pnlPct": 25.856719299999998
       },
       {
         "coin": "ZRO",
         "side": "SHORT",
         "size": 8.5,
         "entry": 1.8619,
-        "pnl": -0.0408,
-        "pnlPct": -1.2890058500000001
+        "pnl": -0.0527,
+        "pnlPct": -1.6649659
       },
       {
         "coin": "OM",
         "side": "LONG",
         "size": 83.5,
         "entry": 0.06402,
-        "pnl": -0.096025,
-        "pnlPct": -5.38894096
+        "pnl": -0.08851,
+        "pnlPct": -4.9671977499999995
       }
     ]
   },
@@ -283,30 +307,30 @@
         "side": "LONG",
         "size": 0.0006,
         "entry": 69665,
-        "price": 69621.5,
-        "notional": 41.77289999999999,
-        "pnl": -0.026099999999999998,
-        "pnlPct": -0.062441685207780095
+        "price": 69606.5,
+        "notional": 41.7639,
+        "pnl": -0.0351,
+        "pnlPct": -0.08397330079666977
       },
       {
         "coin": "ETH",
         "side": "LONG",
         "size": 0.007,
         "entry": 2066.75,
-        "price": 2064.65,
-        "notional": 14.45255,
-        "pnl": -0.014699999999999363,
-        "pnlPct": -0.10160880609652397
+        "price": 2063.55,
+        "notional": 14.444850000000002,
+        "pnl": -0.022399999999998726,
+        "pnlPct": -0.15483246643279633
       },
       {
         "coin": "XRP",
         "side": "SHORT",
         "size": 10,
         "entry": 1.53,
-        "price": 1.5273500000000002,
-        "notional": 15.273500000000002,
-        "pnl": 0.02649999999999819,
-        "pnlPct": 0.17320261437907314
+        "price": 1.52555,
+        "notional": 15.2555,
+        "pnl": 0.04450000000000065,
+        "pnlPct": 0.2908496732026186
       }
     ]
   }
