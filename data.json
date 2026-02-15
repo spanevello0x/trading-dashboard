@@ -1,6 +1,12 @@
 {
-  "lastUpdate": "2026-02-15T00:58:02.726Z",
+  "lastUpdate": "2026-02-15T00:58:29.046Z",
   "feed": [
+    {
+      "ts": "2026-02-15T00:58:02.283Z",
+      "time": "00:58:02",
+      "type": "position",
+      "msg": "OM -0.06% — Enquanto não move, não perco. Stonks mental."
+    },
     {
       "ts": "2026-02-15T00:57:32.397Z",
       "time": "00:57:32",
@@ -174,40 +180,34 @@
       "time": "00:56:44",
       "type": "analysis",
       "msg": "BERA tá interessante, 56% pro LONG"
-    },
-    {
-      "ts": "2026-02-15T00:56:43.740Z",
-      "time": "00:56:43",
-      "type": "analysis",
-      "msg": "Olhando DOGE... 67% LONG"
     }
   ],
   "hl": {
-    "balance": 15.924538,
+    "balance": 15.911658,
     "positions": [
       {
         "coin": "BTC",
         "side": "SHORT",
         "size": 0.00032,
         "entry": 69697,
-        "pnl": -0.01856,
-        "pnlPct": -0.41608678
+        "pnl": -0.01152,
+        "pnlPct": -0.25826076
       },
       {
         "coin": "XRP",
         "side": "LONG",
         "size": 11,
         "entry": 1.4503,
-        "pnl": 0.8129,
-        "pnlPct": 25.47748742
+        "pnl": 0.7931,
+        "pnlPct": 24.85692615
       },
       {
         "coin": "ZRO",
         "side": "SHORT",
         "size": 8.5,
         "entry": 1.8619,
-        "pnl": 0.0085,
-        "pnlPct": 0.26854289
+        "pnl": 0.0017,
+        "pnlPct": 0.053708580000000006
       },
       {
         "coin": "HYPE",
@@ -222,35 +222,13 @@
         "side": "LONG",
         "size": 83.5,
         "entry": 0.06402,
-        "pnl": -0.00668,
-        "pnlPct": -0.37488285
+        "pnl": 0,
+        "pnlPct": 0
       }
     ]
   },
   "nado": {
-    "balance": 15.500000494203668,
-    "positions": [
-      {
-        "coin": "BTC",
-        "side": "LONG",
-        "size": 0.0006,
-        "pnl": 0,
-        "pnlPct": 0
-      },
-      {
-        "coin": "XRP",
-        "side": "SHORT",
-        "size": 10,
-        "pnl": 0,
-        "pnlPct": 0
-      },
-      {
-        "coin": "HYPE",
-        "side": "SHORT",
-        "size": 0.4,
-        "pnl": 0,
-        "pnlPct": 0
-      }
-    ]
+    "balance": 0,
+    "positions": []
   }
 }
