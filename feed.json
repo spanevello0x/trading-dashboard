@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T08:25:16.050Z",
+      "time": "08:25:16",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC +0.39% — Pelo menos UM de nós sabe o que tá fazendo"
+    },
+    {
       "ts": "2026-02-15T08:24:46.049Z",
       "time": "08:24:46",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "08:12:15",
       "type": "mirror-thought",
       "msg": "🪞 📈 BTC -0.41% — Obrigado por me colocar nessa situação"
-    },
-    {
-      "ts": "2026-02-15T08:11:45.752Z",
-      "time": "08:11:45",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 SOL +0.11% — Hedge funcionando, cadê meu reconhecimento?"
     }
   ]
 }
