@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T04:28:00.672Z",
+      "time": "04:28:00",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC +0.26% — Neutralizando prejuízos como sempre"
+    },
+    {
       "ts": "2026-02-15T04:27:30.671Z",
       "time": "04:27:30",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "04:14:00",
       "type": "position",
       "msg": "📉 ZRO -0.71% — Mais um dia normal no crypto"
-    },
-    {
-      "ts": "2026-02-15T04:13:59.926Z",
-      "time": "04:13:59",
-      "type": "position",
-      "msg": "📈 SOL +1.08% — Não me acostumem com isso"
     }
   ]
 }
