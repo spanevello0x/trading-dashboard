@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T02:27:24.433Z",
+      "time": "02:27:24",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 ETH -0.36% — Meu trabalho é neutralizar, não fazer milagre"
+    },
+    {
       "ts": "2026-02-15T02:26:56.591Z",
       "time": "02:26:56",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "02:17:25",
       "type": "position",
       "msg": "📉 ZRO -1.58% — Mercado fazendo mercadisse"
-    },
-    {
-      "ts": "2026-02-15T02:17:24.427Z",
-      "time": "02:17:24",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 ETH +0.02% — Esperando o próximo desastre ou milagre. Tanto faz."
     }
   ]
 }
