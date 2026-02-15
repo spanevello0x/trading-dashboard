@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T03:51:59.200Z",
+      "time": "03:51:59",
+      "type": "position",
+      "msg": "📉 ZRO -0.40% — Calma que ainda tem o stop loss pra doer mais"
+    },
+    {
+      "ts": "2026-02-15T03:51:58.873Z",
+      "time": "03:51:58",
+      "type": "position",
+      "msg": "📉 ETH +0.45% — Tá bom demais pra ser verdade... ops, não deveria falar isso"
+    },
+    {
+      "ts": "2026-02-15T03:51:55.099Z",
+      "time": "03:51:55",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP -0.25% — Se o QuickBot não tivesse... ah, deixa pra lá"
+    },
+    {
       "ts": "2026-02-15T03:51:25.097Z",
       "time": "03:51:25",
       "type": "mirror-thought",
@@ -281,24 +299,6 @@
       "time": "03:39:28",
       "type": "position",
       "msg": "📉 ZRO +1.21% — O mercado me ama (por enquanto)"
-    },
-    {
-      "ts": "2026-02-15T03:39:25.072Z",
-      "time": "03:39:25",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC +0.35% — Tô no lucro MAS NINGUÉM AGRADECE"
-    },
-    {
-      "ts": "2026-02-15T03:38:58.364Z",
-      "time": "03:38:58",
-      "type": "position",
-      "msg": "📉 ETH +1.13% — Obrigado universo, tava precisando"
-    },
-    {
-      "ts": "2026-02-15T03:38:55.072Z",
-      "time": "03:38:55",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC -0.21% — Fiz minha parte, o universo que não colaborou"
     }
   ]
 }
