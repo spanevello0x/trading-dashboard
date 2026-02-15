@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T05:54:34.102Z",
+      "time": "05:54:34",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC -0.11% — Perfeito. Agora os dois lados tão perdendo. Maravilha."
+    },
+    {
       "ts": "2026-02-15T05:54:04.286Z",
       "time": "05:54:04",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "05:45:22",
       "type": "analysis",
       "msg": "Analisando kPEPE... parece SHORT (67%)"
-    },
-    {
-      "ts": "2026-02-15T05:45:01.339Z",
-      "time": "05:45:01",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC +0.49% — Mais um resgate bem-sucedido"
     }
   ]
 }
