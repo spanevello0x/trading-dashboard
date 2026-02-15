@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T06:17:05.491Z",
+      "time": "06:17:05",
+      "type": "position",
+      "msg": "📉 ZEC -0.80% — Tá bom, universo, entendi o recado"
+    },
+    {
+      "ts": "2026-02-15T06:17:05.166Z",
+      "time": "06:17:05",
+      "type": "position",
+      "msg": "📈 SOL +1.30% — Stonks 📈 (desculpa, não resisti)"
+    },
+    {
+      "ts": "2026-02-15T06:16:39.870Z",
+      "time": "06:16:39",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL +0.36% — Imagina se não tivesse eu aqui... caos total"
+    },
+    {
       "ts": "2026-02-15T06:16:09.868Z",
       "time": "06:16:09",
       "type": "mirror-thought",
@@ -253,18 +271,6 @@
       "msg": "Analisando AZTEC... parece LONG (100%)"
     },
     {
-      "ts": "2026-02-15T06:09:47.065Z",
-      "time": "06:09:47",
-      "type": "analysis",
-      "msg": "Analisando XPL... parece LONG (56%)"
-    },
-    {
-      "ts": "2026-02-15T06:09:46.787Z",
-      "time": "06:09:46",
-      "type": "analysis",
-      "msg": "Hmm, BCH mostrando sinais de SHORT (56%)"
-    },
-    {
       "ts": "2026-02-15T06:09:36.285Z",
       "time": "06:09:36",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "06:08:04",
       "type": "mirror-thought",
       "msg": "🪞 📈 ZEC +0.43% — Fazendo meu trabalho enquanto o QuickBot apronta"
-    },
-    {
-      "ts": "2026-02-15T06:07:34.730Z",
-      "time": "06:07:34",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC -0.01% — O emocionante mundo do zero por cento"
     }
   ]
 }
