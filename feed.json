@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T05:52:04.101Z",
+      "time": "05:52:04",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP +0.19% — Verde aqui, vermelho lá. Balanço perfeito. De nada."
+    },
+    {
       "ts": "2026-02-15T05:51:34.424Z",
       "time": "05:51:34",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "05:43:01",
       "type": "mirror-thought",
       "msg": "🪞 📉 SOL -0.35% — Parabéns mercado, você venceu. Por enquanto."
-    },
-    {
-      "ts": "2026-02-15T05:42:31.334Z",
-      "time": "05:42:31",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP -0.05% — Esperando o próximo desastre ou milagre. Tanto faz."
     }
   ]
 }
