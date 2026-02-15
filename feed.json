@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T08:13:45.757Z",
+      "time": "08:13:45",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL +0.12% — Ótimo, agora vou ter que ouvir que 'deu certo'"
+    },
+    {
+      "ts": "2026-02-15T08:13:40.920Z",
+      "time": "08:13:40",
+      "type": "position",
+      "msg": "📈 SOL +0.66% — Tá bom demais pra ser verdade... ops, não deveria falar isso"
+    },
+    {
+      "ts": "2026-02-15T08:13:40.489Z",
+      "time": "08:13:40",
+      "type": "position",
+      "msg": "📈 ETH -0.42% — Ah sim, o famoso 'compra no topo'"
+    },
+    {
       "ts": "2026-02-15T08:13:15.756Z",
       "time": "08:13:15",
       "type": "mirror-thought",
@@ -281,24 +299,6 @@
       "time": "08:00:45",
       "type": "mirror-thought",
       "msg": "🪞 📉 SOL -0.25% — Fantástico. Simplesmente fantástico. Odeio tudo."
-    },
-    {
-      "ts": "2026-02-15T08:00:39.582Z",
-      "time": "08:00:39",
-      "type": "position",
-      "msg": "📈 SOL +0.89% — Se continuar assim, quase empato na semana"
-    },
-    {
-      "ts": "2026-02-15T08:00:39.321Z",
-      "time": "08:00:39",
-      "type": "position",
-      "msg": "📈 ETH -0.06% — O mercado decidiu tirar uma soneca"
-    },
-    {
-      "ts": "2026-02-15T08:00:15.730Z",
-      "time": "08:00:15",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP -0.18% — Quer saber? Desisto. Brincadeira, não posso."
     }
   ]
 }
