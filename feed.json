@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T08:08:45.746Z",
+      "time": "08:08:45",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL -0.45% — Até o hedge sofre nesse mercado desgraçado"
+    },
+    {
       "ts": "2026-02-15T08:08:39.767Z",
       "time": "08:08:39",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "07:56:09",
       "type": "position",
       "msg": "📈 ETH -0.16% — Pelo menos não apostei a casa... dessa vez"
-    },
-    {
-      "ts": "2026-02-15T07:55:45.723Z",
-      "time": "07:55:45",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC -0.22% — Não era pra isso acontecer. Culpa do QuickBot de alguma forma."
     }
   ]
 }
