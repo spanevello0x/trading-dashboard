@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T04:52:31.532Z",
+      "time": "04:52:31",
+      "type": "position",
+      "msg": "📈 SOL +0.34% — Print pra mostrar pros netos"
+    },
+    {
+      "ts": "2026-02-15T04:52:30.725Z",
+      "time": "04:52:30",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC -0.25% — Perfeito. Agora os dois lados tão perdendo. Maravilha."
+    },
+    {
       "ts": "2026-02-15T04:52:01.728Z",
       "time": "04:52:01",
       "type": "position",
@@ -287,18 +299,6 @@
       "time": "04:40:30",
       "type": "mirror-thought",
       "msg": "🪞 📈 BTC +0.23% — Carregando esse time nas costas, como sempre"
-    },
-    {
-      "ts": "2026-02-15T04:40:00.700Z",
-      "time": "04:40:00",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 SOL -0.02% — Aguardando o mercado decidir o que quer da vida"
-    },
-    {
-      "ts": "2026-02-15T04:39:30.699Z",
-      "time": "04:39:30",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC +0.01% — Neutro. Assim como minha vontade de continuar."
     }
   ]
 }
