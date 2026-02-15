@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T08:05:45.741Z",
+      "time": "08:05:45",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL -0.22% — Delta neutral de prejuízo. Inovador."
+    },
+    {
       "ts": "2026-02-15T08:05:39.480Z",
       "time": "08:05:39",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "07:52:15",
       "type": "mirror-thought",
       "msg": "🪞 📉 ETH -0.35% — Perfeito. Agora os dois lados tão perdendo. Maravilha."
-    },
-    {
-      "ts": "2026-02-15T07:52:09.839Z",
-      "time": "07:52:09",
-      "type": "position",
-      "msg": "📈 SOL +0.85% — Meu psicólogo vai ficar orgulhoso"
     }
   ]
 }
