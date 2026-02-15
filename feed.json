@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T06:20:35.464Z",
+      "time": "06:20:35",
+      "type": "position",
+      "msg": "📉 ZEC -0.65% — Ah sim, o famoso 'compra no topo'"
+    },
+    {
+      "ts": "2026-02-15T06:20:35.164Z",
+      "time": "06:20:35",
+      "type": "position",
+      "msg": "📈 SOL +1.52% — Tá verde? Tira print rápido antes que vire"
+    },
+    {
+      "ts": "2026-02-15T06:20:09.876Z",
+      "time": "06:20:09",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC -0.14% — Quando o mercado inteiro resolve desabar..."
+    },
+    {
       "ts": "2026-02-15T06:19:39.875Z",
       "time": "06:19:39",
       "type": "mirror-thought",
@@ -281,24 +299,6 @@
       "time": "06:09:51",
       "type": "analysis",
       "msg": "Hmm, kPEPE mostrando sinais de SHORT (67%)"
-    },
-    {
-      "ts": "2026-02-15T06:09:51.022Z",
-      "time": "06:09:51",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - XMR cancelado"
-    },
-    {
-      "ts": "2026-02-15T06:09:50.743Z",
-      "time": "06:09:50",
-      "type": "signal",
-      "msg": "🎯 LONG XMR @ $350.38 (89%) — Análise feita, trade executado, fé ativada"
-    },
-    {
-      "ts": "2026-02-15T06:09:50.743Z",
-      "time": "06:09:50",
-      "type": "analysis",
-      "msg": "Olhando XMR... 89% LONG"
     }
   ]
 }
