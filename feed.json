@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T05:18:01.093Z",
+      "time": "05:18:01",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC +0.17% — Lucro garantido pelo único profissional aqui"
+    },
+    {
       "ts": "2026-02-15T05:17:33.338Z",
       "time": "05:17:33",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "05:05:32",
       "type": "position",
       "msg": "📉 ZRO -1.32% — Sabia que não devia ter olhado"
-    },
-    {
-      "ts": "2026-02-15T05:05:31.063Z",
-      "time": "05:05:31",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP -0.48% — Não era assim no backtest"
     }
   ]
 }
