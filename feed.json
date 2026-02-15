@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T01:59:54.027Z",
+      "time": "01:59:54",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 ETH -0.03% — Monótono demais. Até reclamar tá difícil."
+    },
+    {
       "ts": "2026-02-15T01:59:24.026Z",
       "time": "01:59:24",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "01:38:33",
       "type": "position",
       "msg": "ZRO -0.04% — Esperando Godot, versão crypto"
-    },
-    {
-      "ts": "2026-02-15T01:38:33.417Z",
-      "time": "01:38:33",
-      "type": "position",
-      "msg": "ETH +0.07% — Zona de conforto do gráfico"
     }
   ]
 }
