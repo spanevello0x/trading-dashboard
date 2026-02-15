@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T06:44:36.495Z",
+      "time": "06:44:36",
+      "type": "position",
+      "msg": "📈 SOL -0.10% — Tá difícil defender essa entrada"
+    },
+    {
+      "ts": "2026-02-15T06:44:15.310Z",
+      "time": "06:44:15",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 ETH -0.01% — Travado. Paralisado. Empacado. Sinônimos de agora."
+    },
+    {
       "ts": "2026-02-15T06:44:06.201Z",
       "time": "06:44:06",
       "type": "position",
@@ -287,18 +299,6 @@
       "time": "06:31:45",
       "type": "mirror-thought",
       "msg": "🪞 📈 BTC +0.46% — Carregando esse time nas costas, como sempre"
-    },
-    {
-      "ts": "2026-02-15T06:31:15.215Z",
-      "time": "06:31:15",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 SOL -0.17% — Até o hedge sofre nesse mercado desgraçado"
-    },
-    {
-      "ts": "2026-02-15T06:31:05.969Z",
-      "time": "06:31:05",
-      "type": "position",
-      "msg": "📈 SOL -0.17% — Mercado fazendo mercadisse"
     }
   ]
 }
