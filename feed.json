@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T07:00:37.403Z",
+      "time": "07:00:37",
+      "type": "position",
+      "msg": "📈 SOL -0.40% — Pelo menos o stop existe. Graças a Deus pelo stop."
+    },
+    {
+      "ts": "2026-02-15T07:00:37.089Z",
+      "time": "07:00:37",
+      "type": "position",
+      "msg": "📈 ETH -0.38% — Calma que ainda tem o stop loss pra doer mais"
+    },
+    {
+      "ts": "2026-02-15T07:00:15.594Z",
+      "time": "07:00:15",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP +0.44% — Tô no lucro MAS NINGUÉM AGRADECE"
+    },
+    {
       "ts": "2026-02-15T06:59:45.592Z",
       "time": "06:59:45",
       "type": "mirror-thought",
@@ -281,24 +299,6 @@
       "time": "06:47:07",
       "type": "position",
       "msg": "📈 SOL -0.26% — Isso é um teste de caráter, com certeza"
-    },
-    {
-      "ts": "2026-02-15T06:47:07.322Z",
-      "time": "06:47:07",
-      "type": "position",
-      "msg": "📈 ETH -0.28% — Minha análise era perfeita, o mercado que tá errado"
-    },
-    {
-      "ts": "2026-02-15T06:46:45.563Z",
-      "time": "06:46:45",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 ETH +0.37% — Alguém tem que salvar esse portfólio"
-    },
-    {
-      "ts": "2026-02-15T06:46:37.081Z",
-      "time": "06:46:37",
-      "type": "position",
-      "msg": "📈 SOL -0.04% — O mercado tá no modo avião"
     }
   ]
 }
