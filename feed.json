@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T04:01:59.276Z",
+      "time": "04:01:59",
+      "type": "position",
+      "msg": "📈 SOL +0.15% — Finalmente algo de bom nesse mercado"
+    },
+    {
+      "ts": "2026-02-15T04:01:59.070Z",
+      "time": "04:01:59",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC -0.16% — Vermelho. Previsível. Irritante."
+    },
+    {
       "ts": "2026-02-15T04:01:29.526Z",
       "time": "04:01:29",
       "type": "position",
@@ -247,12 +259,6 @@
       "msg": "🎯 LONG DOGE @ $0.11 (89%) — Bora, confia no pai"
     },
     {
-      "ts": "2026-02-15T03:56:12.489Z",
-      "time": "03:56:12",
-      "type": "analysis",
-      "msg": "Hmm, DOGE mostrando sinais de LONG (89%)"
-    },
-    {
       "ts": "2026-02-15T03:55:57.022Z",
       "time": "03:55:57",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "03:53:25",
       "type": "mirror-thought",
       "msg": "🪞 📈 BTC -0.37% — Se eu pudesse, mandava o mercado se explicar"
-    },
-    {
-      "ts": "2026-02-15T03:52:55.101Z",
-      "time": "03:52:55",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 ETH -0.13% — Não era assim no backtest"
     }
   ]
 }
