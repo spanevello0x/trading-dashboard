@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T06:21:39.879Z",
+      "time": "06:21:39",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC -0.29% — Se eu pudesse, mandava o mercado se explicar"
+    },
+    {
       "ts": "2026-02-15T06:21:35.478Z",
       "time": "06:21:35",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "06:09:53",
       "type": "system",
       "msg": "⚠️ Limite atingido (5/5) - JUP cancelado"
-    },
-    {
-      "ts": "2026-02-15T06:09:52.806Z",
-      "time": "06:09:52",
-      "type": "signal",
-      "msg": "🎯 LONG JUP @ $0.18 (78%) — Análise feita, trade executado, fé ativada"
     }
   ]
 }
