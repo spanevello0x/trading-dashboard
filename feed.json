@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T03:41:28.662Z",
+      "time": "03:41:28",
+      "type": "position",
+      "msg": "📉 ZRO +0.77% — Imagina se eu tivesse colocado mais..."
+    },
+    {
+      "ts": "2026-02-15T03:41:28.393Z",
+      "time": "03:41:28",
+      "type": "position",
+      "msg": "📉 ETH +1.24% — Obrigado universo, tava precisando"
+    },
+    {
+      "ts": "2026-02-15T03:41:25.078Z",
+      "time": "03:41:25",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC +0.22% — Hedge funcionando, cadê meu reconhecimento?"
+    },
+    {
       "ts": "2026-02-15T03:40:55.075Z",
       "time": "03:40:55",
       "type": "mirror-thought",
@@ -281,24 +299,6 @@
       "time": "03:28:58",
       "type": "position",
       "msg": "📉 ETH +0.36% — Não é muito, mas é trabalho honesto"
-    },
-    {
-      "ts": "2026-02-15T03:28:54.533Z",
-      "time": "03:28:54",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC +0.25% — Mais um dia salvando a pátria"
-    },
-    {
-      "ts": "2026-02-15T03:28:28.260Z",
-      "time": "03:28:28",
-      "type": "position",
-      "msg": "📉 ZRO -0.02% — Tédio lucrativo ou tédio prejuízo? A definir."
-    },
-    {
-      "ts": "2026-02-15T03:28:24.532Z",
-      "time": "03:28:24",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC -0.46% — Parabéns mercado, você venceu. Por enquanto."
     }
   ]
 }
