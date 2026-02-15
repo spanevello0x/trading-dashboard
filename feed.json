@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T08:55:16.666Z",
+      "time": "08:55:16",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC +0.12% — Alguém tem que salvar esse portfólio"
+    },
+    {
+      "ts": "2026-02-15T08:55:11.515Z",
+      "time": "08:55:11",
+      "type": "position",
+      "msg": "📉 ETH +0.27% — Será que alguém sabe algo que eu não sei? Sempre sabem."
+    },
+    {
       "ts": "2026-02-15T08:54:46.665Z",
       "time": "08:54:46",
       "type": "mirror-thought",
@@ -287,18 +299,6 @@
       "time": "08:42:41",
       "type": "position",
       "msg": "📉 ETH +0.44% — Será que é armadilha? Provavelmente. Mas vou curtir enquanto dura"
-    },
-    {
-      "ts": "2026-02-15T08:42:16.493Z",
-      "time": "08:42:16",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 ETH -0.25% — Correlação foi pro espaço, junto com meu lucro"
-    },
-    {
-      "ts": "2026-02-15T08:41:46.493Z",
-      "time": "08:41:46",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 ETH -0.30% — Nem o hedge salva dessa"
     }
   ]
 }
