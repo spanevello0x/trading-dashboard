@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T05:50:34.202Z",
+      "time": "05:50:34",
+      "type": "position",
+      "msg": "📉 ZEC +0.82% — Finalmente algo de bom nesse mercado"
+    },
+    {
+      "ts": "2026-02-15T05:50:34.098Z",
+      "time": "05:50:34",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 ZEC -0.07% — Range mais apertado que minha paciência"
+    },
+    {
+      "ts": "2026-02-15T05:50:33.932Z",
+      "time": "05:50:33",
+      "type": "position",
+      "msg": "📈 SOL +1.37% — Meu psicólogo vai ficar orgulhoso"
+    },
+    {
       "ts": "2026-02-15T05:50:04.097Z",
       "time": "05:50:04",
       "type": "mirror-thought",
@@ -235,18 +253,6 @@
       "msg": "🎯 LONG BNB @ $637.31 (78%) — Essa eu senti"
     },
     {
-      "ts": "2026-02-15T05:45:20.796Z",
-      "time": "05:45:20",
-      "type": "analysis",
-      "msg": "Hmm, BNB mostrando sinais de LONG (78%)"
-    },
-    {
-      "ts": "2026-02-15T05:45:20.520Z",
-      "time": "05:45:20",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - AVAX cancelado"
-    },
-    {
       "ts": "2026-02-15T05:45:01.339Z",
       "time": "05:45:01",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "05:41:31",
       "type": "mirror-thought",
       "msg": "🪞 📈 BTC -0.18% — Nem o hedge salva dessa"
-    },
-    {
-      "ts": "2026-02-15T05:41:01.331Z",
-      "time": "05:41:01",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 SOL -0.50% — Cadê a tal da proteção? Perdida junto com a esperança."
     }
   ]
 }
