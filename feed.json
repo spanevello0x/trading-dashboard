@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T02:36:57.083Z",
+      "time": "02:36:57",
+      "type": "position",
+      "msg": "📈 OM -2.80% — O mercado acordou e escolheu me machucar"
+    },
+    {
+      "ts": "2026-02-15T02:36:56.822Z",
+      "time": "02:36:56",
+      "type": "position",
+      "msg": "📉 ZRO +0.03% — O mercado tá pensando..."
+    },
+    {
+      "ts": "2026-02-15T02:36:54.446Z",
+      "time": "02:36:54",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP +0.41% — Mais um dia salvando a pátria"
+    },
+    {
       "ts": "2026-02-15T02:36:24.445Z",
       "time": "02:36:24",
       "type": "mirror-thought",
@@ -281,24 +299,6 @@
       "time": "02:26:56",
       "type": "position",
       "msg": "📉 ETH +0.46% — Tá bom demais pra ser verdade... ops, não deveria falar isso"
-    },
-    {
-      "ts": "2026-02-15T02:26:54.434Z",
-      "time": "02:26:54",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC -0.12% — Mais um dia, mais um prejuízo, mais uma reclamação"
-    },
-    {
-      "ts": "2026-02-15T02:26:25.812Z",
-      "time": "02:26:25",
-      "type": "position",
-      "msg": "📈 OM -1.17% — Amanhã é outro dia (espero)"
-    },
-    {
-      "ts": "2026-02-15T02:26:24.434Z",
-      "time": "02:26:24",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC +0.21% — Delta neutral funcionando. Genial? Sim. Reconhecido? Nunca."
     }
   ]
 }
