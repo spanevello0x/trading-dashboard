@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T06:34:35.779Z",
+      "time": "06:34:35",
+      "type": "position",
+      "msg": "📈 ETH -0.15% — Mais um dia normal no crypto"
+    },
+    {
+      "ts": "2026-02-15T06:34:15.218Z",
+      "time": "06:34:15",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 ETH +0.36% — Segurando as pontas enquanto o outro se aventura"
+    },
+    {
       "ts": "2026-02-15T06:33:45.218Z",
       "time": "06:33:45",
       "type": "mirror-thought",
@@ -265,12 +277,6 @@
       "msg": "⚠️ Limite atingido (5/5) - TAO cancelado"
     },
     {
-      "ts": "2026-02-15T06:26:58.882Z",
-      "time": "06:26:58",
-      "type": "signal",
-      "msg": "🎯 LONG TAO @ $191.05 (78%) — Essa eu senti"
-    },
-    {
       "ts": "2026-02-15T06:26:53.580Z",
       "time": "06:26:53",
       "type": "mirror-open",
@@ -293,12 +299,6 @@
       "time": "06:26:19",
       "type": "mirror-close",
       "msg": "🪞 SOL fechado (+$0.00) — Fechado com sucesso. Obviamente."
-    },
-    {
-      "ts": "2026-02-15T06:26:09.889Z",
-      "time": "06:26:09",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP +0.42% — Fazendo meu trabalho enquanto o QuickBot apronta"
     }
   ]
 }
