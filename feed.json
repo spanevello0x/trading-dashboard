@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T03:27:57.862Z",
+      "time": "03:27:57",
+      "type": "position",
+      "msg": "📉 ETH +0.42% — Vou fingir que sabia que isso ia acontecer"
+    },
+    {
+      "ts": "2026-02-15T03:27:54.532Z",
+      "time": "03:27:54",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 ETH -0.01% — Flat como a Terra. Brincadeira. Mas o mercado tá."
+    },
+    {
       "ts": "2026-02-15T03:27:28.081Z",
       "time": "03:27:28",
       "type": "position",
@@ -181,12 +193,6 @@
       "msg": "⚠️ Limite atingido (5/5) - XPL cancelado"
     },
     {
-      "ts": "2026-02-15T03:27:10.315Z",
-      "time": "03:27:10",
-      "type": "signal",
-      "msg": "🎯 SHORT XPL @ $0.10 (89%) — Nova aposta na mesa"
-    },
-    {
       "ts": "2026-02-15T03:26:54.531Z",
       "time": "03:26:54",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "03:18:24",
       "type": "mirror-thought",
       "msg": "🪞 📈 ETH +0.47% — Pelo menos UM de nós sabe o que tá fazendo"
-    },
-    {
-      "ts": "2026-02-15T03:17:54.512Z",
-      "time": "03:17:54",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 ETH -0.47% — Se eu pudesse, mandava o mercado se explicar"
     }
   ]
 }
