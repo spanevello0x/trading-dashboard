@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T06:38:05.926Z",
+      "time": "06:38:05",
+      "type": "position",
+      "msg": "📈 ETH -0.06% — Tá ali, existindo"
+    },
+    {
+      "ts": "2026-02-15T06:37:45.224Z",
+      "time": "06:37:45",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP +0.26% — Quando o QuickBot erra, adivinha quem conserta?"
+    },
+    {
       "ts": "2026-02-15T06:37:15.223Z",
       "time": "06:37:15",
       "type": "mirror-thought",
@@ -287,18 +299,6 @@
       "time": "06:27:01",
       "type": "signal",
       "msg": "🎯 LONG ARB @ $0.12 (78%) — Setup alinhado, agora é com o mercado"
-    },
-    {
-      "ts": "2026-02-15T06:27:01.472Z",
-      "time": "06:27:01",
-      "type": "analysis",
-      "msg": "Hmm, ARB mostrando sinais de LONG (78%)"
-    },
-    {
-      "ts": "2026-02-15T06:27:00.943Z",
-      "time": "06:27:00",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - kPEPE cancelado"
     }
   ]
 }
