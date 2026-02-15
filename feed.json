@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T03:56:59.424Z",
+      "time": "03:56:59",
+      "type": "position",
+      "msg": "📉 ZRO -0.48% — Pelo menos aprendo algo... né?"
+    },
+    {
+      "ts": "2026-02-15T03:56:59.062Z",
+      "time": "03:56:59",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP +0.01% — O emocionante mundo do zero por cento"
+    },
+    {
       "ts": "2026-02-15T03:56:29.031Z",
       "time": "03:56:29",
       "type": "position",
@@ -187,12 +199,6 @@
       "msg": "🎯 LONG ASTER @ $0.74 (78%) — Mais uma pro histórico"
     },
     {
-      "ts": "2026-02-15T03:56:08.705Z",
-      "time": "03:56:08",
-      "type": "analysis",
-      "msg": "ASTER no radar: 78% LONG"
-    },
-    {
       "ts": "2026-02-15T03:55:57.022Z",
       "time": "03:55:57",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "03:48:25",
       "type": "mirror-thought",
       "msg": "🪞 📈 ETH -0.17% — Delta neutral de prejuízo. Inovador."
-    },
-    {
-      "ts": "2026-02-15T03:47:55.092Z",
-      "time": "03:47:55",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP +0.41% — Ganhando aqui pra compensar a burrice do outro lado"
     }
   ]
 }
