@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T06:40:06.043Z",
+      "time": "06:40:06",
+      "type": "position",
+      "msg": "📈 ETH -0.12% — Minha análise era perfeita, o mercado que tá errado"
+    },
+    {
+      "ts": "2026-02-15T06:39:45.304Z",
+      "time": "06:39:45",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC -0.03% — Se emoção matasse, eu taria vivo pra sempre"
+    },
+    {
       "ts": "2026-02-15T06:39:36.268Z",
       "time": "06:39:36",
       "type": "position",
@@ -287,18 +299,6 @@
       "time": "06:27:05",
       "type": "position",
       "msg": "📈 SOL -0.01% — Plot twist a qualquer momento"
-    },
-    {
-      "ts": "2026-02-15T06:27:05.385Z",
-      "time": "06:27:05",
-      "type": "position",
-      "msg": "📈 ETH -0.04% — A calmaria antes da tempestade... ou mais calmaria"
-    },
-    {
-      "ts": "2026-02-15T06:27:05.380Z",
-      "time": "06:27:05",
-      "type": "mirror-open",
-      "msg": "🪞 📉 Abrindo SHORT SOL @ $89.97 — Abrindo posição porque ALGUÉM tem que fazer hedge"
     }
   ]
 }
