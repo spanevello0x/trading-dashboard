@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T04:33:30.684Z",
+      "time": "04:33:30",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL +0.17% — Obrigado por nada, eu que me viro mesmo"
+    },
+    {
       "ts": "2026-02-15T04:33:01.318Z",
       "time": "04:33:01",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "04:20:00",
       "type": "mirror-thought",
       "msg": "🪞 📈 BTC +0.26% — Tô no lucro MAS NINGUÉM AGRADECE"
-    },
-    {
-      "ts": "2026-02-15T04:20:00.086Z",
-      "time": "04:20:00",
-      "type": "position",
-      "msg": "📈 SOL +0.59% — Se continuar assim, quase empato na semana"
     }
   ]
 }
