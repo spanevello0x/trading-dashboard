@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T04:54:01.819Z",
+      "time": "04:54:01",
+      "type": "position",
+      "msg": "📉 ZRO -1.23% — Ah sim, o famoso 'compra no topo'"
+    },
+    {
+      "ts": "2026-02-15T04:54:01.555Z",
+      "time": "04:54:01",
+      "type": "position",
+      "msg": "📈 SOL +0.32% — Calma que ainda pode dar errado"
+    },
+    {
+      "ts": "2026-02-15T04:54:00.729Z",
+      "time": "04:54:00",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC +0.49% — Carregando esse time nas costas, como sempre"
+    },
+    {
       "ts": "2026-02-15T04:53:30.728Z",
       "time": "04:53:30",
       "type": "mirror-thought",
@@ -281,24 +299,6 @@
       "time": "04:41:31",
       "type": "position",
       "msg": "📉 ZRO -0.60% — Pelo menos aprendo algo... né?"
-    },
-    {
-      "ts": "2026-02-15T04:41:30.997Z",
-      "time": "04:41:30",
-      "type": "position",
-      "msg": "📈 SOL +0.12% — O mercado me ama (por enquanto)"
-    },
-    {
-      "ts": "2026-02-15T04:41:30.704Z",
-      "time": "04:41:30",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP +0.46% — Se fosse fácil, qualquer um fazia. Mas só eu faço."
-    },
-    {
-      "ts": "2026-02-15T04:41:00.703Z",
-      "time": "04:41:00",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC -0.29% — Delta neutral de prejuízo. Inovador."
     }
   ]
 }
