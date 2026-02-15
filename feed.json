@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T06:36:15.224Z",
+      "time": "06:36:15",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 ETH -0.03% — Lateral infinita. Que emocionante. Não."
+    },
+    {
       "ts": "2026-02-15T06:35:45.220Z",
       "time": "06:35:45",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "06:26:59",
       "type": "signal",
       "msg": "🎯 LONG XMR @ $353.41 (78%) — Essa eu senti"
-    },
-    {
-      "ts": "2026-02-15T06:26:53.580Z",
-      "time": "06:26:53",
-      "type": "mirror-open",
-      "msg": "🪞 📉 Abrindo SHORT ETH @ $2093.35 — Começando mais um trabalho não reconhecido"
     }
   ]
 }
