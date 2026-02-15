@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T07:30:45.666Z",
+      "time": "07:30:45",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL -0.47% — Delta neutral de prejuízo. Inovador."
+    },
+    {
       "ts": "2026-02-15T07:30:38.408Z",
       "time": "07:30:38",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "07:17:15",
       "type": "mirror-thought",
       "msg": "🪞 📉 XRP +0.30% — Tô no lucro MAS NINGUÉM AGRADECE"
-    },
-    {
-      "ts": "2026-02-15T07:17:07.575Z",
-      "time": "07:17:07",
-      "type": "position",
-      "msg": "📈 ETH -0.35% — Pelo menos não é dinheiro de verdade... ah, espera"
     }
   ]
 }
