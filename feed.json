@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T01:51:54.014Z",
+      "time": "01:51:54",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC +0.40% — Meu trabalho é ingrato, mas faço com excelência"
+    },
+    {
       "ts": "2026-02-15T01:51:24.014Z",
       "time": "01:51:24",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "01:33:33",
       "type": "position",
       "msg": "OM -0.23% — Amanhã é outro dia (espero)"
-    },
-    {
-      "ts": "2026-02-15T01:33:33.404Z",
-      "time": "01:33:33",
-      "type": "position",
-      "msg": "ZRO +0.23% — Meu psicólogo vai ficar orgulhoso"
     }
   ]
 }
