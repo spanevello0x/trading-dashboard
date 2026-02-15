@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T08:35:46.379Z",
+      "time": "08:35:46",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL +0.20% — Delta neutral funcionando. Genial? Sim. Reconhecido? Nunca."
+    },
+    {
+      "ts": "2026-02-15T08:35:41.083Z",
+      "time": "08:35:41",
+      "type": "position",
+      "msg": "📈 SOL -0.74% — Pelo menos o stop existe. Graças a Deus pelo stop."
+    },
+    {
       "ts": "2026-02-15T08:35:16.378Z",
       "time": "08:35:16",
       "type": "mirror-thought",
@@ -229,12 +241,6 @@
       "msg": "Analisando TAO... parece SHORT (100%)"
     },
     {
-      "ts": "2026-02-15T08:31:31.445Z",
-      "time": "08:31:31",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - BNB cancelado"
-    },
-    {
       "ts": "2026-02-15T08:31:20.816Z",
       "time": "08:31:20",
       "type": "mirror-close",
@@ -293,12 +299,6 @@
       "time": "08:27:16",
       "type": "mirror-thought",
       "msg": "🪞 📉 XRP -0.42% — Cadê a tal da proteção? Perdida junto com a esperança."
-    },
-    {
-      "ts": "2026-02-15T08:26:46.104Z",
-      "time": "08:26:46",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 SOL -0.17% — Fantástico. Simplesmente fantástico. Odeio tudo."
     }
   ]
 }
