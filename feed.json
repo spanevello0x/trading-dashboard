@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T05:20:32.657Z",
+      "time": "05:20:32",
+      "type": "position",
+      "msg": "📈 SOL +0.81% — Quem diria, acertei uma"
+    },
+    {
+      "ts": "2026-02-15T05:20:31.099Z",
+      "time": "05:20:31",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC +0.43% — Mais um resgate bem-sucedido"
+    },
+    {
       "ts": "2026-02-15T05:20:02.892Z",
       "time": "05:20:02",
       "type": "position",
@@ -287,18 +299,6 @@
       "time": "05:08:02",
       "type": "position",
       "msg": "📈 SOL +0.68% — Não é muito, mas é trabalho honesto"
-    },
-    {
-      "ts": "2026-02-15T05:08:01.069Z",
-      "time": "05:08:01",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC -0.28% — Perfeito. Agora os dois lados tão perdendo. Maravilha."
-    },
-    {
-      "ts": "2026-02-15T05:07:31.068Z",
-      "time": "05:07:31",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 SOL +0.10% — Tô no lucro MAS NINGUÉM AGRADECE"
     }
   ]
 }
