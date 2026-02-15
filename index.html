@@ -561,22 +561,35 @@
     }
     
     function renderNadoTrades() {
-      // Por enquanto usa dados do feed para NADO
-      const nadoTrades = nadoFeedItems.filter(f => f.msg.includes('✅') || f.msg.includes('fechou'));
+      // Extrai trades do feed NADO (formato: "🪞 ✅ LONG BTC @ $69664.50" ou "🪞 ✅ SHORT XRP @ $1.53")
+      const nadoTrades = nadoFeedItems.filter(f => f.msg?.includes('✅') && f.msg?.includes('@'));
       
       document.getElementById('nado-trades-count').textContent = nadoTrades.length;
       
       const content = document.getElementById('nado-trades-content');
       content.innerHTML = nadoTrades.length > 0
-        ? nadoTrades.slice(0, 20).map(f => `
-            <div class="flex items-center justify-between py-2 px-2 bg-dark-700/30 rounded text-xs">
-              <div class="flex items-center gap-2">
-                <span class="w-5 h-5 rounded flex items-center justify-center bg-accent-purple/20 text-accent-purple">🪞</span>
-                <span class="text-gray-300">${f.msg.replace('🪞 NADO: ', '').slice(0, 40)}${f.msg.length > 40 ? '...' : ''}</span>
+        ? nadoTrades.slice(0, 20).map(f => {
+            // Parse: "🪞 ✅ LONG BTC @ $69664.50"
+            const msg = f.msg.replace('🪞 ', '').replace('✅ ', '');
+            const isLong = msg.includes('LONG');
+            const parts = msg.match(/(LONG|SHORT)\s+(\w+)\s+@\s+\$?([\d.]+)/);
+            const coin = parts ? parts[2] : '???';
+            const price = parts ? parts[3] : '--';
+            const time = new Date(f.ts).toLocaleString('pt-BR', { day: '2-digit', month: '2-digit', hour: '2-digit', minute: '2-digit' });
+            
+            return `
+              <div class="flex items-center justify-between py-2 px-2 bg-dark-700/30 rounded text-xs">
+                <div class="flex items-center gap-2">
+                  <span class="w-5 h-5 rounded flex items-center justify-center ${isLong ? 'bg-accent-green/20 text-accent-green' : 'bg-accent-red/20 text-accent-red'}">
+                    ${isLong ? '↑' : '↓'}
+                  </span>
+                  <span class="font-medium">${coin}</span>
+                  <span class="text-gray-500">${time}</span>
+                </div>
+                <span class="mono text-gray-400">@ $${price}</span>
               </div>
-              <span class="text-gray-500 text-xs">${f.time}</span>
-            </div>
-          `).join('')
+            `;
+          }).join('')
         : '<div class="text-gray-500 text-center py-4 text-xs">Aguardando trades...</div>';
     }
     
