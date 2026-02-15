@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T05:40:31.329Z",
+      "time": "05:40:31",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL -0.34% — Delta neutral de prejuízo. Inovador."
+    },
+    {
       "ts": "2026-02-15T05:40:03.934Z",
       "time": "05:40:03",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "05:27:33",
       "type": "position",
       "msg": "📉 ZRO -1.05% — O gráfico parecia tão bonito..."
-    },
-    {
-      "ts": "2026-02-15T05:27:33.169Z",
-      "time": "05:27:33",
-      "type": "position",
-      "msg": "📈 SOL +0.88% — Imagina se eu tivesse colocado mais..."
     }
   ]
 }
