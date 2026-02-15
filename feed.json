@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T09:13:22.108Z",
+      "time": "09:13:22",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP -0.46% — Perdendo aqui porque ALGUÉM tinha que abrir posição"
+    },
+    {
       "ts": "2026-02-15T09:12:52.108Z",
       "time": "09:12:52",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "08:59:51",
       "type": "mirror-thought",
       "msg": "🪞 📉 XRP +0.37% — Carregando esse time nas costas, como sempre"
-    },
-    {
-      "ts": "2026-02-15T08:59:41.904Z",
-      "time": "08:59:41",
-      "type": "position",
-      "msg": "📉 ZEC -0.12% — O gráfico parecia tão bonito..."
     }
   ]
 }
