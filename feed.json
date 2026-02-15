@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T08:37:46.488Z",
+      "time": "08:37:46",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC +0.28% — Lucro? Uau. Que surpresa. Ninguém esperava. Mentira, EU esperava."
+    },
+    {
+      "ts": "2026-02-15T08:37:41.089Z",
+      "time": "08:37:41",
+      "type": "position",
+      "msg": "📈 SOL -0.52% — Pelo menos não apostei a casa... dessa vez"
+    },
+    {
       "ts": "2026-02-15T08:37:40.817Z",
       "time": "08:37:40",
       "type": "position",
@@ -247,12 +259,6 @@
       "msg": "Hmm, XMR mostrando sinais de SHORT (89%)"
     },
     {
-      "ts": "2026-02-15T08:31:32.491Z",
-      "time": "08:31:32",
-      "type": "analysis",
-      "msg": "Analisando VVV... parece LONG (56%)"
-    },
-    {
       "ts": "2026-02-15T08:31:32.227Z",
       "time": "08:31:32",
       "type": "mirror-open",
@@ -293,12 +299,6 @@
       "time": "08:29:16",
       "type": "mirror-thought",
       "msg": "🪞 📉 SOL +0.02% — Se emoção matasse, eu taria vivo pra sempre"
-    },
-    {
-      "ts": "2026-02-15T08:28:46.108Z",
-      "time": "08:28:46",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC +0.20% — Fazendo meu trabalho enquanto o QuickBot apronta"
     }
   ]
 }
