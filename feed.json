@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T06:10:09.578Z",
+      "time": "06:10:09",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC +0.33% — O mercado me odeia menos que odeia o QuickBot"
+    },
+    {
       "ts": "2026-02-15T06:10:04.993Z",
       "time": "06:10:04",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "06:01:34",
       "type": "mirror-thought",
       "msg": "🪞 📈 BTC -0.11% — Perdendo aqui porque ALGUÉM tinha que abrir posição"
-    },
-    {
-      "ts": "2026-02-15T06:01:04.480Z",
-      "time": "06:01:04",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC +0.06% — Neutro. Assim como minha vontade de continuar."
     }
   ]
 }
