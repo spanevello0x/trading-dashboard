@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T04:05:59.670Z",
+      "time": "04:05:59",
+      "type": "position",
+      "msg": "📉 ZRO -0.50% — Mais um dia normal no crypto"
+    },
+    {
+      "ts": "2026-02-15T04:05:59.330Z",
+      "time": "04:05:59",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC -0.03% — Se tédio fosse trade, eu tava rico"
+    },
+    {
       "ts": "2026-02-15T04:05:29.695Z",
       "time": "04:05:29",
       "type": "position",
@@ -287,18 +299,6 @@
       "time": "03:56:15",
       "type": "analysis",
       "msg": "Olhando TAO... 67% LONG"
-    },
-    {
-      "ts": "2026-02-15T03:56:14.903Z",
-      "time": "03:56:14",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - BNB cancelado"
-    },
-    {
-      "ts": "2026-02-15T03:56:14.629Z",
-      "time": "03:56:14",
-      "type": "signal",
-      "msg": "🎯 LONG BNB @ $632.25 (78%) — Essa eu senti"
     }
   ]
 }
