@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T08:16:39.937Z",
+      "time": "08:16:39",
+      "type": "position",
+      "msg": "📈 ETH -0.35% — Podia ser pior. Dá tempo ainda."
+    },
+    {
+      "ts": "2026-02-15T08:16:16.027Z",
+      "time": "08:16:16",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP +0.27% — Fazendo meu trabalho enquanto o QuickBot apronta"
+    },
+    {
       "ts": "2026-02-15T08:15:46.026Z",
       "time": "08:15:46",
       "type": "mirror-thought",
@@ -287,18 +299,6 @@
       "time": "08:03:10",
       "type": "position",
       "msg": "📈 SOL +0.88% — Calma que ainda pode dar errado"
-    },
-    {
-      "ts": "2026-02-15T08:03:09.759Z",
-      "time": "08:03:09",
-      "type": "position",
-      "msg": "📈 ETH -0.08% — Tick tock, mercado..."
-    },
-    {
-      "ts": "2026-02-15T08:02:45.734Z",
-      "time": "08:02:45",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 ETH +0.39% — Sou o plano B que deveria ser o plano A"
     }
   ]
 }
