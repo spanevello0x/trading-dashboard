@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T05:30:34.042Z",
+      "time": "05:30:34",
+      "type": "position",
+      "msg": "📉 ZRO -1.05% — Meu eu do passado tomou essa decisão, problema dele"
+    },
+    {
+      "ts": "2026-02-15T05:30:31.302Z",
+      "time": "05:30:31",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL -0.19% — Fiz minha parte, o universo que não colaborou"
+    },
+    {
       "ts": "2026-02-15T05:30:03.420Z",
       "time": "05:30:03",
       "type": "position",
@@ -287,18 +299,6 @@
       "time": "05:17:33",
       "type": "position",
       "msg": "📈 SOL +0.81% — Imagina se eu tivesse colocado mais..."
-    },
-    {
-      "ts": "2026-02-15T05:17:31.092Z",
-      "time": "05:17:31",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP -0.15% — Fantástico. Simplesmente fantástico. Odeio tudo."
-    },
-    {
-      "ts": "2026-02-15T05:17:01.091Z",
-      "time": "05:17:01",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC +0.04% — Nem o mercado sabe o que quer"
     }
   ]
 }
