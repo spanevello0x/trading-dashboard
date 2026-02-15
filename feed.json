@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T06:48:36.701Z",
+      "time": "06:48:36",
+      "type": "position",
+      "msg": "📈 SOL -0.35% — Vermelho é a minha cor favorita agora"
+    },
+    {
+      "ts": "2026-02-15T06:48:36.435Z",
+      "time": "06:48:36",
+      "type": "position",
+      "msg": "📈 ETH -0.32% — Quem inventou crypto? Preciso conversar"
+    },
+    {
+      "ts": "2026-02-15T06:48:15.566Z",
+      "time": "06:48:15",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL -0.39% — Não era assim no backtest"
+    },
+    {
       "ts": "2026-02-15T06:47:45.565Z",
       "time": "06:47:45",
       "type": "mirror-thought",
@@ -281,24 +299,6 @@
       "time": "06:35:45",
       "type": "mirror-thought",
       "msg": "🪞 📉 ETH -0.22% — Delta neutral de prejuízo. Inovador."
-    },
-    {
-      "ts": "2026-02-15T06:35:36.410Z",
-      "time": "06:35:36",
-      "type": "position",
-      "msg": "📈 SOL +0.04% — Nem fede nem cheira"
-    },
-    {
-      "ts": "2026-02-15T06:35:36.147Z",
-      "time": "06:35:36",
-      "type": "position",
-      "msg": "📈 ETH +0.02% — O mercado tá no modo avião"
-    },
-    {
-      "ts": "2026-02-15T06:35:15.219Z",
-      "time": "06:35:15",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC -0.33% — Fiz minha parte, o universo que não colaborou"
     }
   ]
 }
