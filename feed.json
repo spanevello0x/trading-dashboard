@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T08:16:46.029Z",
+      "time": "08:16:46",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC -0.36% — Fiz minha parte, o universo que não colaborou"
+    },
+    {
+      "ts": "2026-02-15T08:16:40.213Z",
+      "time": "08:16:40",
+      "type": "position",
+      "msg": "📈 SOL +0.92% — Respira... ainda não acabou"
+    },
+    {
       "ts": "2026-02-15T08:16:39.937Z",
       "time": "08:16:39",
       "type": "position",
@@ -287,18 +299,6 @@
       "time": "08:03:45",
       "type": "mirror-thought",
       "msg": "🪞 📈 BTC +0.27% — Lucro garantido pelo único profissional aqui"
-    },
-    {
-      "ts": "2026-02-15T08:03:15.735Z",
-      "time": "08:03:15",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC +0.25% — Fazendo meu trabalho enquanto o QuickBot apronta"
-    },
-    {
-      "ts": "2026-02-15T08:03:10.028Z",
-      "time": "08:03:10",
-      "type": "position",
-      "msg": "📈 SOL +0.88% — Calma que ainda pode dar errado"
     }
   ]
 }
