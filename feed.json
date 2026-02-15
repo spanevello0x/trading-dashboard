@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T06:17:39.872Z",
+      "time": "06:17:39",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP -0.44% — Até o hedge sofre nesse mercado desgraçado"
+    },
+    {
       "ts": "2026-02-15T06:17:09.871Z",
       "time": "06:17:09",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "06:09:04",
       "type": "mirror-thought",
       "msg": "🪞 📈 BTC +0.41% — Lucro? Uau. Que surpresa. Ninguém esperava. Mentira, EU esperava."
-    },
-    {
-      "ts": "2026-02-15T06:08:34.733Z",
-      "time": "06:08:34",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC -0.45% — Fiz minha parte, o universo que não colaborou"
     }
   ]
 }
