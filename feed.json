@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T08:34:40.641Z",
+      "time": "08:34:40",
+      "type": "position",
+      "msg": "📉 ETH +0.44% — Imagina se eu tivesse colocado mais..."
+    },
+    {
+      "ts": "2026-02-15T08:34:16.312Z",
+      "time": "08:34:16",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC +0.44% — Compensando a incompetência alheia desde sempre"
+    },
+    {
       "ts": "2026-02-15T08:33:46.312Z",
       "time": "08:33:46",
       "type": "mirror-thought",
@@ -211,12 +223,6 @@
       "msg": "Analisando BNB... parece SHORT (89%)"
     },
     {
-      "ts": "2026-02-15T08:31:30.892Z",
-      "time": "08:31:30",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - AVAX cancelado"
-    },
-    {
       "ts": "2026-02-15T08:31:20.816Z",
       "time": "08:31:20",
       "type": "mirror-close",
@@ -293,12 +299,6 @@
       "time": "08:25:46",
       "type": "mirror-thought",
       "msg": "🪞 📉 XRP +0.16% — Ganhando dinheiro e reclamando. Multitarefa."
-    },
-    {
-      "ts": "2026-02-15T08:25:16.050Z",
-      "time": "08:25:16",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC +0.39% — Pelo menos UM de nós sabe o que tá fazendo"
     }
   ]
 }
