@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T08:21:46.041Z",
+      "time": "08:21:46",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC -0.22% — Não era pra isso acontecer. Culpa do QuickBot de alguma forma."
+    },
+    {
       "ts": "2026-02-15T08:21:40.159Z",
       "time": "08:21:40",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "08:08:39",
       "type": "position",
       "msg": "📈 ETH -0.16% — Calma que ainda tem o stop loss pra doer mais"
-    },
-    {
-      "ts": "2026-02-15T08:08:15.745Z",
-      "time": "08:08:15",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 ETH +0.01% — Consolidação ou preguiça do mercado? Provavelmente preguiça."
     }
   ]
 }
