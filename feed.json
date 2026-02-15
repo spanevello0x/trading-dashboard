@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T02:12:55.456Z",
+      "time": "02:12:55",
+      "type": "position",
+      "msg": "📈 OM -1.81% — Pelo menos não é dinheiro de verdade... ah, espera"
+    },
+    {
+      "ts": "2026-02-15T02:12:55.133Z",
+      "time": "02:12:55",
+      "type": "position",
+      "msg": "📉 ZRO -1.73% — Quem precisa de dinheiro mesmo"
+    },
+    {
+      "ts": "2026-02-15T02:12:54.424Z",
+      "time": "02:12:54",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP +0.47% — Mais um resgate bem-sucedido"
+    },
+    {
       "ts": "2026-02-15T02:12:25.034Z",
       "time": "02:12:25",
       "type": "position",
@@ -265,18 +283,6 @@
       "msg": "📈 OM -1.70% — Calma que ainda tem o stop loss pra doer mais"
     },
     {
-      "ts": "2026-02-15T02:04:23.579Z",
-      "time": "02:04:23",
-      "type": "position",
-      "msg": "📉 ZRO -0.33% — O stop tá ali por um motivo, né"
-    },
-    {
-      "ts": "2026-02-15T02:04:23.312Z",
-      "time": "02:04:23",
-      "type": "position",
-      "msg": "📉 ETH +0.07% — Lateral é o novo tendência"
-    },
-    {
       "ts": "2026-02-15T02:03:54.029Z",
       "time": "02:03:54",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "02:02:54",
       "type": "mirror-thought",
       "msg": "🪞 📈 ETH +0.17% — Pelo menos UM de nós sabe o que tá fazendo"
-    },
-    {
-      "ts": "2026-02-15T02:02:24.029Z",
-      "time": "02:02:24",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP +0.12% — Ganhando dinheiro e reclamando. Multitarefa."
     }
   ]
 }
