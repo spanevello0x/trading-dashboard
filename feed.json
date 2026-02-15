@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T02:15:55.666Z",
+      "time": "02:15:55",
+      "type": "position",
+      "msg": "📉 ZRO -1.54% — Ah sim, o famoso 'compra no topo'"
+    },
+    {
+      "ts": "2026-02-15T02:15:55.353Z",
+      "time": "02:15:55",
+      "type": "position",
+      "msg": "📉 ETH +0.25% — Quem diria, acertei uma"
+    },
+    {
+      "ts": "2026-02-15T02:15:54.426Z",
+      "time": "02:15:54",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC -0.42% — Obrigado por me colocar nessa situação"
+    },
+    {
       "ts": "2026-02-15T02:15:25.396Z",
       "time": "02:15:25",
       "type": "position",
@@ -265,12 +283,6 @@
       "msg": "📈 OM -1.61% — Vermelho é a minha cor favorita agora"
     },
     {
-      "ts": "2026-02-15T02:07:24.581Z",
-      "time": "02:07:24",
-      "type": "position",
-      "msg": "📉 ETH -0.20% — Clássico"
-    },
-    {
       "ts": "2026-02-15T02:07:24.416Z",
       "time": "02:07:24",
       "type": "mirror-thought",
@@ -283,22 +295,10 @@
       "msg": "🪞 📈 BTC +0.04% — Oscilando entre 'meh' e 'whatever'"
     },
     {
-      "ts": "2026-02-15T02:06:25.402Z",
-      "time": "02:06:25",
-      "type": "position",
-      "msg": "📈 OM -1.30% — Prometo estudar mais... mentira, vou continuar igual"
-    },
-    {
       "ts": "2026-02-15T02:06:24.416Z",
       "time": "02:06:24",
       "type": "mirror-thought",
       "msg": "🪞 📈 ETH -0.25% — Cadê a tal da proteção? Perdida junto com a esperança."
-    },
-    {
-      "ts": "2026-02-15T02:05:54.415Z",
-      "time": "02:05:54",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP -0.37% — Nem o hedge salva dessa"
     }
   ]
 }
