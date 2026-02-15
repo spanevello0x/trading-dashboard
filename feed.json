@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T08:15:46.026Z",
+      "time": "08:15:46",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 ETH -0.11% — Prejuízo compartilhado é prejuízo... dobrado"
+    },
+    {
       "ts": "2026-02-15T08:15:16.025Z",
       "time": "08:15:16",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "08:02:45",
       "type": "mirror-thought",
       "msg": "🪞 📉 ETH +0.39% — Sou o plano B que deveria ser o plano A"
-    },
-    {
-      "ts": "2026-02-15T08:02:15.733Z",
-      "time": "08:02:15",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP -0.14% — Tá todo mundo perdendo e a culpa vai cair em mim"
     }
   ]
 }
