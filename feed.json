@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T06:29:05.846Z",
+      "time": "06:29:05",
+      "type": "position",
+      "msg": "📈 SOL -0.14% — Tá difícil defender essa entrada"
+    },
+    {
+      "ts": "2026-02-15T06:29:05.583Z",
+      "time": "06:29:05",
+      "type": "position",
+      "msg": "📈 ETH -0.08% — Nem comprador nem vendedor quer tomar atitude"
+    },
+    {
+      "ts": "2026-02-15T06:28:45.093Z",
+      "time": "06:28:45",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL -0.34% — Eu AVISEI que isso podia acontecer. Avisei? Não? Deveria ter avisado."
+    },
+    {
       "ts": "2026-02-15T06:28:15.092Z",
       "time": "06:28:15",
       "type": "mirror-thought",
@@ -193,18 +211,6 @@
       "msg": "Hmm, FARTCOIN mostrando sinais de SHORT (100%)"
     },
     {
-      "ts": "2026-02-15T06:26:55.472Z",
-      "time": "06:26:55",
-      "type": "analysis",
-      "msg": "Hmm, XPL mostrando sinais de LONG (56%)"
-    },
-    {
-      "ts": "2026-02-15T06:26:54.686Z",
-      "time": "06:26:54",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - MON cancelado"
-    },
-    {
       "ts": "2026-02-15T06:26:53.580Z",
       "time": "06:26:53",
       "type": "mirror-open",
@@ -293,12 +299,6 @@
       "time": "06:21:09",
       "type": "mirror-thought",
       "msg": "🪞 📉 XRP +0.38% — Obrigado por nada, eu que me viro mesmo"
-    },
-    {
-      "ts": "2026-02-15T06:20:39.877Z",
-      "time": "06:20:39",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC -0.03% — Flat como a Terra. Brincadeira. Mas o mercado tá."
     }
   ]
 }
