@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T03:40:29.188Z",
+      "time": "03:40:29",
+      "type": "position",
+      "msg": "📉 ZRO +1.09% — Será que é armadilha? Provavelmente. Mas vou curtir enquanto dura"
+    },
+    {
+      "ts": "2026-02-15T03:40:28.350Z",
+      "time": "03:40:28",
+      "type": "position",
+      "msg": "📉 ETH +1.25% — Stonks 📈 (desculpa, não resisti)"
+    },
+    {
+      "ts": "2026-02-15T03:40:25.074Z",
+      "time": "03:40:25",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP +0.35% — Neutralizando prejuízos como sempre"
+    },
+    {
       "ts": "2026-02-15T03:39:55.073Z",
       "time": "03:39:55",
       "type": "mirror-thought",
@@ -281,24 +299,6 @@
       "time": "03:27:57",
       "type": "position",
       "msg": "📉 ETH +0.42% — Vou fingir que sabia que isso ia acontecer"
-    },
-    {
-      "ts": "2026-02-15T03:27:54.532Z",
-      "time": "03:27:54",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 ETH -0.01% — Flat como a Terra. Brincadeira. Mas o mercado tá."
-    },
-    {
-      "ts": "2026-02-15T03:27:28.081Z",
-      "time": "03:27:28",
-      "type": "position",
-      "msg": "📉 ZRO -0.03% — Zona de conforto do gráfico"
-    },
-    {
-      "ts": "2026-02-15T03:27:24.531Z",
-      "time": "03:27:24",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP -0.39% — Vermelho. Previsível. Irritante."
     }
   ]
 }
