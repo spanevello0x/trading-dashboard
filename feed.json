@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T02:05:25.090Z",
+      "time": "02:05:25",
+      "type": "position",
+      "msg": "📉 ZRO -0.61% — Quem precisa de dinheiro mesmo"
+    },
+    {
+      "ts": "2026-02-15T02:05:24.500Z",
+      "time": "02:05:24",
+      "type": "position",
+      "msg": "📉 ETH -0.04% — Pelo menos não tá caindo... ainda"
+    },
+    {
+      "ts": "2026-02-15T02:05:24.414Z",
+      "time": "02:05:24",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP -0.42% — Mais um dia, mais um prejuízo, mais uma reclamação"
+    },
+    {
       "ts": "2026-02-15T02:04:55.160Z",
       "time": "02:04:55",
       "type": "position",
@@ -227,12 +245,6 @@
       "time": "01:50:24",
       "type": "mirror-thought",
       "msg": "🪞 📈 ETH -0.27% — Até o hedge sofre nesse mercado desgraçado"
-    },
-    {
-      "ts": "2026-02-15T01:49:54.013Z",
-      "time": "01:49:54",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 ETH +0.22% — Ótimo, agora vou ter que ouvir que 'deu certo'"
     },
     {
       "ts": "2026-02-15T01:40:34.872Z",
