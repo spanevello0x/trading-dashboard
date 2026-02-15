@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T03:43:58.754Z",
+      "time": "03:43:58",
+      "type": "position",
+      "msg": "📉 ZRO +0.77% — Imagina se eu tivesse colocado mais..."
+    },
+    {
+      "ts": "2026-02-15T03:43:58.491Z",
+      "time": "03:43:58",
+      "type": "position",
+      "msg": "📉 ETH +1.12% — Quem diria, acertei uma"
+    },
+    {
+      "ts": "2026-02-15T03:43:55.084Z",
+      "time": "03:43:55",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP -0.34% — O hedge não funciona se TUDO desaba, gênio"
+    },
+    {
       "ts": "2026-02-15T03:43:25.083Z",
       "time": "03:43:25",
       "type": "mirror-thought",
@@ -281,24 +299,6 @@
       "time": "03:31:27",
       "type": "position",
       "msg": "📉 ETH +0.48% — Respira... ainda não acabou"
-    },
-    {
-      "ts": "2026-02-15T03:31:24.536Z",
-      "time": "03:31:24",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP +0.14% — Lucro? Uau. Que surpresa. Ninguém esperava. Mentira, EU esperava."
-    },
-    {
-      "ts": "2026-02-15T03:30:58.217Z",
-      "time": "03:30:58",
-      "type": "position",
-      "msg": "📉 ZRO +0.23% — Isso aí, garoto. Vai, vai, vai..."
-    },
-    {
-      "ts": "2026-02-15T03:30:54.535Z",
-      "time": "03:30:54",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC +0.10% — Oscilando entre 'meh' e 'whatever'"
     }
   ]
 }
