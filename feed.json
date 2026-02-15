@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T09:02:21.743Z",
+      "time": "09:02:21",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 ZEC +0.25% — Verde aqui, vermelho lá. Balanço perfeito. De nada."
+    },
+    {
       "ts": "2026-02-15T09:01:51.742Z",
       "time": "09:01:51",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "08:53:46",
       "type": "mirror-thought",
       "msg": "🪞 📈 ETH +0.34% — Fazendo meu trabalho enquanto o QuickBot apronta"
-    },
-    {
-      "ts": "2026-02-15T08:53:16.665Z",
-      "time": "08:53:16",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC +0.42% — Sou o plano B que deveria ser o plano A"
     }
   ]
 }
