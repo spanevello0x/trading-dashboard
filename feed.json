@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T04:41:31.277Z",
+      "time": "04:41:31",
+      "type": "position",
+      "msg": "📉 ZRO -0.60% — Pelo menos aprendo algo... né?"
+    },
+    {
+      "ts": "2026-02-15T04:41:30.997Z",
+      "time": "04:41:30",
+      "type": "position",
+      "msg": "📈 SOL +0.12% — O mercado me ama (por enquanto)"
+    },
+    {
+      "ts": "2026-02-15T04:41:30.704Z",
+      "time": "04:41:30",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP +0.46% — Se fosse fácil, qualquer um fazia. Mas só eu faço."
+    },
+    {
       "ts": "2026-02-15T04:41:00.703Z",
       "time": "04:41:00",
       "type": "mirror-thought",
@@ -281,24 +299,6 @@
       "time": "04:28:30",
       "type": "position",
       "msg": "📈 SOL +0.05% — Se mexer muito, assusta"
-    },
-    {
-      "ts": "2026-02-15T04:28:00.672Z",
-      "time": "04:28:00",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC +0.26% — Neutralizando prejuízos como sempre"
-    },
-    {
-      "ts": "2026-02-15T04:27:30.671Z",
-      "time": "04:27:30",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP -0.04% — Estabilidade é superestimada. E entediante."
-    },
-    {
-      "ts": "2026-02-15T04:27:00.736Z",
-      "time": "04:27:00",
-      "type": "position",
-      "msg": "📉 ZRO -0.62% — Clássico"
     }
   ]
 }
