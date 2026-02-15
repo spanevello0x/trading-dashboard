@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T05:29:33.743Z",
+      "time": "05:29:33",
+      "type": "position",
+      "msg": "📉 ZRO -1.05% — O stop tá ali por um motivo, né"
+    },
+    {
+      "ts": "2026-02-15T05:29:31.301Z",
+      "time": "05:29:31",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC -0.43% — Não era pra isso acontecer. Culpa do QuickBot de alguma forma."
+    },
+    {
       "ts": "2026-02-15T05:29:01.299Z",
       "time": "05:29:01",
       "type": "mirror-thought",
@@ -287,18 +299,6 @@
       "time": "05:16:32",
       "type": "position",
       "msg": "📈 SOL +0.58% — Verde combina comigo"
-    },
-    {
-      "ts": "2026-02-15T05:16:31.089Z",
-      "time": "05:16:31",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP -0.07% — Estável. Boring. Previsível."
-    },
-    {
-      "ts": "2026-02-15T05:16:01.088Z",
-      "time": "05:16:01",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC -0.25% — Quando o mercado inteiro resolve desabar..."
     }
   ]
 }
