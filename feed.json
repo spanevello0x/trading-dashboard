@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T07:30:38.408Z",
+      "time": "07:30:38",
+      "type": "position",
+      "msg": "📈 ETH -0.45% — O mercado acordou e escolheu me machucar"
+    },
+    {
+      "ts": "2026-02-15T07:30:15.664Z",
+      "time": "07:30:15",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 ETH -0.11% — Eu AVISEI que isso podia acontecer. Avisei? Não? Deveria ter avisado."
+    },
+    {
+      "ts": "2026-02-15T07:30:08.801Z",
+      "time": "07:30:08",
+      "type": "position",
+      "msg": "📈 SOL -0.18% — Podia ser pior. Dá tempo ainda."
+    },
+    {
       "ts": "2026-02-15T07:29:45.661Z",
       "time": "07:29:45",
       "type": "mirror-thought",
@@ -281,24 +299,6 @@
       "time": "07:17:07",
       "type": "position",
       "msg": "📈 ETH -0.35% — Pelo menos não é dinheiro de verdade... ah, espera"
-    },
-    {
-      "ts": "2026-02-15T07:16:45.635Z",
-      "time": "07:16:45",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP +0.31% — Se fosse fácil, qualquer um fazia. Mas só eu faço."
-    },
-    {
-      "ts": "2026-02-15T07:16:37.831Z",
-      "time": "07:16:37",
-      "type": "position",
-      "msg": "📈 SOL +0.08% — O mercado tá buffering"
-    },
-    {
-      "ts": "2026-02-15T07:16:15.634Z",
-      "time": "07:16:15",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP +0.48% — Tá vendo? ERA pra ter confiado em mim desde o início"
     }
   ]
 }
