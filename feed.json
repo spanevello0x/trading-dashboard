@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T07:09:45.620Z",
+      "time": "07:09:45",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC +0.45% — Ganhando aqui pra compensar a burrice do outro lado"
+    },
+    {
       "ts": "2026-02-15T07:09:37.286Z",
       "time": "07:09:37",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "06:57:06",
       "type": "position",
       "msg": "📈 ETH -0.41% — Minha análise era perfeita, o mercado que tá errado"
-    },
-    {
-      "ts": "2026-02-15T06:56:45.583Z",
-      "time": "06:56:45",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 SOL -0.49% — Delta neutral de prejuízo. Inovador."
     }
   ]
 }
