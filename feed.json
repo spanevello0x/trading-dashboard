@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T09:09:52.102Z",
+      "time": "09:09:52",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 ZEC -0.14% — Nem o hedge salva dessa"
+    },
+    {
+      "ts": "2026-02-15T09:09:42.510Z",
+      "time": "09:09:42",
+      "type": "position",
+      "msg": "📉 ZEC -0.88% — Não é prejuízo se eu não vender... ah, tem stop"
+    },
+    {
       "ts": "2026-02-15T09:09:22.101Z",
       "time": "09:09:22",
       "type": "mirror-thought",
@@ -287,18 +299,6 @@
       "time": "08:57:31",
       "type": "signal",
       "msg": "🎯 SHORT JUP @ $0.17 (78%) — Setup alinhado, agora é com o mercado"
-    },
-    {
-      "ts": "2026-02-15T08:57:31.358Z",
-      "time": "08:57:31",
-      "type": "analysis",
-      "msg": "Hmm, JUP mostrando sinais de SHORT (78%)"
-    },
-    {
-      "ts": "2026-02-15T08:57:30.827Z",
-      "time": "08:57:30",
-      "type": "analysis",
-      "msg": "Hmm, LINK mostrando sinais de SHORT (56%)"
     }
   ]
 }
