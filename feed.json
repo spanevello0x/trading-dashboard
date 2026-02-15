@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T08:48:16.656Z",
+      "time": "08:48:16",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 ETH -0.09% — Sem novidades no front. Que surpresa."
+    },
+    {
+      "ts": "2026-02-15T08:48:11.270Z",
+      "time": "08:48:11",
+      "type": "position",
+      "msg": "📉 ETH +0.30% — Tá subindo? Deixa eu não olhar pra não dar azar"
+    },
+    {
       "ts": "2026-02-15T08:47:46.655Z",
       "time": "08:47:46",
       "type": "mirror-thought",
@@ -287,18 +299,6 @@
       "time": "08:35:16",
       "type": "mirror-thought",
       "msg": "🪞 📈 ETH -0.35% — Delta neutral de prejuízo. Inovador."
-    },
-    {
-      "ts": "2026-02-15T08:35:10.980Z",
-      "time": "08:35:10",
-      "type": "position",
-      "msg": "📉 ETH +0.71% — Verde combina comigo"
-    },
-    {
-      "ts": "2026-02-15T08:34:46.313Z",
-      "time": "08:34:46",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP -0.38% — Mais um dia, mais um prejuízo, mais uma reclamação"
     }
   ]
 }
