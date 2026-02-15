@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T06:56:15.583Z",
+      "time": "06:56:15",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 ETH +0.17% — Fazendo meu trabalho enquanto o QuickBot apronta"
+    },
+    {
       "ts": "2026-02-15T06:55:45.581Z",
       "time": "06:55:45",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "06:43:15",
       "type": "mirror-thought",
       "msg": "🪞 📈 BTC +0.11% — Meu trabalho é ingrato, mas faço com excelência"
-    },
-    {
-      "ts": "2026-02-15T06:43:06.183Z",
-      "time": "06:43:06",
-      "type": "position",
-      "msg": "📈 ETH -0.15% — Mais um dia normal no crypto"
     }
   ]
 }
