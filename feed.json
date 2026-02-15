@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T03:38:58.364Z",
+      "time": "03:38:58",
+      "type": "position",
+      "msg": "📉 ETH +1.13% — Obrigado universo, tava precisando"
+    },
+    {
+      "ts": "2026-02-15T03:38:55.072Z",
+      "time": "03:38:55",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC -0.21% — Fiz minha parte, o universo que não colaborou"
+    },
+    {
       "ts": "2026-02-15T03:38:28.685Z",
       "time": "03:38:28",
       "type": "position",
@@ -287,18 +299,6 @@
       "time": "03:27:17",
       "type": "signal",
       "msg": "🎯 LONG MOODENG @ $0.06 (78%) — Os indicadores mandaram, eu obedeci"
-    },
-    {
-      "ts": "2026-02-15T03:27:17.336Z",
-      "time": "03:27:17",
-      "type": "analysis",
-      "msg": "MOODENG tá interessante, 78% pro LONG"
-    },
-    {
-      "ts": "2026-02-15T03:27:16.927Z",
-      "time": "03:27:16",
-      "type": "analysis",
-      "msg": "ARB no radar: 67% SHORT"
     }
   ]
 }
