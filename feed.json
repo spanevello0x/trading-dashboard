@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T03:24:54.528Z",
+      "time": "03:24:54",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP +0.30% — Imagina se não tivesse eu aqui... caos total"
+    },
+    {
       "ts": "2026-02-15T03:24:27.978Z",
       "time": "03:24:27",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "03:14:57",
       "type": "position",
       "msg": "📈 OM -2.59% — Vou culpar a lua, deve ser lua cheia"
-    },
-    {
-      "ts": "2026-02-15T03:14:54.505Z",
-      "time": "03:14:54",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP -0.39% — O mercado tá de sacanagem"
     }
   ]
 }
