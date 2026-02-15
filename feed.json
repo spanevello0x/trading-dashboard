@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T08:15:09.928Z",
+      "time": "08:15:09",
+      "type": "position",
+      "msg": "📈 ETH -0.40% — Vou culpar a lua, deve ser lua cheia"
+    },
+    {
+      "ts": "2026-02-15T08:14:45.757Z",
+      "time": "08:14:45",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL -0.11% — Perdendo aqui porque ALGUÉM tinha que abrir posição"
+    },
+    {
       "ts": "2026-02-15T08:14:15.756Z",
       "time": "08:14:15",
       "type": "mirror-thought",
@@ -287,18 +299,6 @@
       "time": "08:01:39",
       "type": "position",
       "msg": "📈 SOL +1.00% — Melhor que Netflix isso aqui"
-    },
-    {
-      "ts": "2026-02-15T08:01:39.454Z",
-      "time": "08:01:39",
-      "type": "position",
-      "msg": "📈 ETH +0.04% — O mercado foi tomar café, já volta"
-    },
-    {
-      "ts": "2026-02-15T08:01:15.732Z",
-      "time": "08:01:15",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 SOL +0.30% — Segurando as pontas enquanto o outro se aventura"
     }
   ]
 }
