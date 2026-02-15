@@ -1,6 +1,48 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T03:27:00.082Z",
+      "time": "03:27:00",
+      "type": "execution",
+      "msg": "⚙️ Leverage: 5x"
+    },
+    {
+      "ts": "2026-02-15T03:26:59.799Z",
+      "time": "03:26:59",
+      "type": "signal",
+      "msg": "🎯 SHORT ZRO @ $1.86 (100%) — Nova aposta na mesa"
+    },
+    {
+      "ts": "2026-02-15T03:26:59.798Z",
+      "time": "03:26:59",
+      "type": "analysis",
+      "msg": "Hmm, ZRO mostrando sinais de SHORT (100%)"
+    },
+    {
+      "ts": "2026-02-15T03:26:59.244Z",
+      "time": "03:26:59",
+      "type": "analysis",
+      "msg": "Hmm, PAXG mostrando sinais de SHORT (56%)"
+    },
+    {
+      "ts": "2026-02-15T03:26:54.531Z",
+      "time": "03:26:54",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP +0.35% — Tá vendo? ERA pra ter confiado em mim desde o início"
+    },
+    {
+      "ts": "2026-02-15T03:26:37.025Z",
+      "time": "03:26:37",
+      "type": "position",
+      "msg": "📉 ETH +0.38% — O mercado me ama (por enquanto)"
+    },
+    {
+      "ts": "2026-02-15T03:26:32.101Z",
+      "time": "03:26:32",
+      "type": "system",
+      "msg": "⏰ ZRO expirou (30 candles) — Cancelando"
+    },
+    {
       "ts": "2026-02-15T03:26:27.476Z",
       "time": "03:26:27",
       "type": "system",
@@ -247,58 +289,16 @@
       "msg": "🪞 📈 ETH +0.47% — Pelo menos UM de nós sabe o que tá fazendo"
     },
     {
-      "ts": "2026-02-15T03:17:57.915Z",
-      "time": "03:17:57",
-      "type": "position",
-      "msg": "📈 OM -2.48% — Minha análise era perfeita, o mercado que tá errado"
-    },
-    {
-      "ts": "2026-02-15T03:17:57.383Z",
-      "time": "03:17:57",
-      "type": "position",
-      "msg": "📉 ETH +0.30% — Isso aí, garoto. Vai, vai, vai..."
-    },
-    {
       "ts": "2026-02-15T03:17:54.512Z",
       "time": "03:17:54",
       "type": "mirror-thought",
       "msg": "🪞 📈 ETH -0.47% — Se eu pudesse, mandava o mercado se explicar"
     },
     {
-      "ts": "2026-02-15T03:17:27.697Z",
-      "time": "03:17:27",
-      "type": "position",
-      "msg": "📉 ZRO -0.12% — Quem mandou confiar em linha colorida"
-    },
-    {
       "ts": "2026-02-15T03:17:24.510Z",
       "time": "03:17:24",
       "type": "mirror-thought",
       "msg": "🪞 📈 ETH +0.40% — Carregando esse time nas costas, como sempre"
-    },
-    {
-      "ts": "2026-02-15T03:16:57.883Z",
-      "time": "03:16:57",
-      "type": "position",
-      "msg": "📈 OM -2.34% — Quem inventou crypto? Preciso conversar"
-    },
-    {
-      "ts": "2026-02-15T03:16:57.342Z",
-      "time": "03:16:57",
-      "type": "position",
-      "msg": "📉 ETH +0.30% — O mercado me ama (por enquanto)"
-    },
-    {
-      "ts": "2026-02-15T03:16:54.510Z",
-      "time": "03:16:54",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP -0.08% — Nem pra cima nem pra baixo. Que útil."
-    },
-    {
-      "ts": "2026-02-15T03:16:27.848Z",
-      "time": "03:16:27",
-      "type": "position",
-      "msg": "📈 OM -2.55% — Amanhã é outro dia (espero)"
     }
   ]
 }
