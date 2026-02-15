@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T02:11:55.245Z",
+      "time": "02:11:55",
+      "type": "position",
+      "msg": "📈 OM -1.91% — Quem mandou confiar em linha colorida"
+    },
+    {
+      "ts": "2026-02-15T02:11:54.423Z",
+      "time": "02:11:54",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 ETH +0.18% — Pelo menos UM de nós sabe o que tá fazendo"
+    },
+    {
       "ts": "2026-02-15T02:11:25.403Z",
       "time": "02:11:25",
       "type": "position",
@@ -265,12 +277,6 @@
       "msg": "📈 OM -1.72% — Quem precisa de dinheiro mesmo"
     },
     {
-      "ts": "2026-02-15T02:03:37.980Z",
-      "time": "02:03:37",
-      "type": "position",
-      "msg": "📉 ZRO -0.27% — Quem precisa de dinheiro mesmo"
-    },
-    {
       "ts": "2026-02-15T02:03:24.028Z",
       "time": "02:03:24",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "02:01:54",
       "type": "mirror-thought",
       "msg": "🪞 📈 BTC -0.13% — Se o QuickBot não tivesse... ah, deixa pra lá"
-    },
-    {
-      "ts": "2026-02-15T02:01:24.027Z",
-      "time": "02:01:24",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 ETH +0.47% — Compensando a incompetência alheia desde sempre"
     }
   ]
 }
