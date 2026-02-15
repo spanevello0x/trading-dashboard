@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T04:45:30.711Z",
+      "time": "04:45:30",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL +0.27% — Tá vendo? ERA pra ter confiado em mim desde o início"
+    },
+    {
       "ts": "2026-02-15T04:45:01.542Z",
       "time": "04:45:01",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "04:32:00",
       "type": "position",
       "msg": "📉 ZRO -0.59% — O gráfico parecia tão bonito..."
-    },
-    {
-      "ts": "2026-02-15T04:32:00.681Z",
-      "time": "04:32:00",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC -0.35% — Prejuízo compartilhado é prejuízo... dobrado"
     }
   ]
 }
