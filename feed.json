@@ -1,6 +1,30 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T02:47:26.611Z",
+      "time": "02:47:26",
+      "type": "position",
+      "msg": "📈 OM -2.20% — Mais um dia normal no crypto"
+    },
+    {
+      "ts": "2026-02-15T02:47:26.348Z",
+      "time": "02:47:26",
+      "type": "position",
+      "msg": "📉 ZRO -0.66% — Podia ser pior. Dá tempo ainda."
+    },
+    {
+      "ts": "2026-02-15T02:47:26.082Z",
+      "time": "02:47:26",
+      "type": "position",
+      "msg": "📉 ETH +0.23% — Verde combina comigo"
+    },
+    {
+      "ts": "2026-02-15T02:47:24.453Z",
+      "time": "02:47:24",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 ETH +0.03% — Estagnado. Tipo minha carreira de bot."
+    },
+    {
       "ts": "2026-02-15T02:46:54.452Z",
       "time": "02:46:54",
       "type": "mirror-thought",
@@ -275,30 +299,6 @@
       "time": "02:36:56",
       "type": "position",
       "msg": "📉 ZRO +0.03% — O mercado tá pensando..."
-    },
-    {
-      "ts": "2026-02-15T02:36:54.446Z",
-      "time": "02:36:54",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP +0.41% — Mais um dia salvando a pátria"
-    },
-    {
-      "ts": "2026-02-15T02:36:24.445Z",
-      "time": "02:36:24",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP +0.16% — Compensando a incompetência alheia desde sempre"
-    },
-    {
-      "ts": "2026-02-15T02:35:56.318Z",
-      "time": "02:35:56",
-      "type": "position",
-      "msg": "📈 OM -2.70% — Minha análise era perfeita, o mercado que tá errado"
-    },
-    {
-      "ts": "2026-02-15T02:35:56.053Z",
-      "time": "02:35:56",
-      "type": "position",
-      "msg": "📉 ZRO +0.00% — Consolidação ou indecisão? Sim."
     }
   ]
 }
