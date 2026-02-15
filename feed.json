@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T06:54:36.967Z",
+      "time": "06:54:36",
+      "type": "position",
+      "msg": "📈 SOL -0.46% — Mais um dia normal no crypto"
+    },
+    {
+      "ts": "2026-02-15T06:54:15.579Z",
+      "time": "06:54:15",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL +0.37% — Alguém precisa ser o adulto responsável aqui"
+    },
+    {
       "ts": "2026-02-15T06:54:06.776Z",
       "time": "06:54:06",
       "type": "position",
@@ -287,18 +299,6 @@
       "time": "06:41:45",
       "type": "mirror-thought",
       "msg": "🪞 📉 SOL -0.31% — Cadê a tal da proteção? Perdida junto com a esperança."
-    },
-    {
-      "ts": "2026-02-15T06:41:36.363Z",
-      "time": "06:41:36",
-      "type": "position",
-      "msg": "📈 SOL -0.12% — O mercado acordou e escolheu me machucar"
-    },
-    {
-      "ts": "2026-02-15T06:41:15.305Z",
-      "time": "06:41:15",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 SOL +0.01% — Nada acontece, feijoada"
     }
   ]
 }
