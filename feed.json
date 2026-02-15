@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T07:11:37.581Z",
+      "time": "07:11:37",
+      "type": "position",
+      "msg": "📈 SOL -0.32% — Isso é um teste de caráter, com certeza"
+    },
+    {
+      "ts": "2026-02-15T07:11:15.624Z",
+      "time": "07:11:15",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL -0.42% — Meu trabalho é neutralizar, não fazer milagre"
+    },
+    {
       "ts": "2026-02-15T07:10:45.623Z",
       "time": "07:10:45",
       "type": "mirror-thought",
@@ -287,18 +299,6 @@
       "time": "06:58:37",
       "type": "position",
       "msg": "📈 SOL -0.39% — Mercado fazendo mercadisse"
-    },
-    {
-      "ts": "2026-02-15T06:58:36.836Z",
-      "time": "06:58:36",
-      "type": "position",
-      "msg": "📈 ETH -0.39% — Mercado fazendo mercadisse"
-    },
-    {
-      "ts": "2026-02-15T06:58:15.586Z",
-      "time": "06:58:15",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 ETH -0.40% — Prejuízo compartilhado é prejuízo... dobrado"
     }
   ]
 }
