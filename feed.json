@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T07:49:09.069Z",
+      "time": "07:49:09",
+      "type": "position",
+      "msg": "📈 SOL +0.69% — Não me acostumem com isso"
+    },
+    {
+      "ts": "2026-02-15T07:49:08.804Z",
+      "time": "07:49:08",
+      "type": "position",
+      "msg": "📈 ETH -0.12% — Sabia que não devia ter olhado"
+    },
+    {
+      "ts": "2026-02-15T07:48:45.711Z",
+      "time": "07:48:45",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP -0.37% — Mais um dia, mais um prejuízo, mais uma reclamação"
+    },
+    {
       "ts": "2026-02-15T07:48:15.710Z",
       "time": "07:48:15",
       "type": "mirror-thought",
@@ -281,24 +299,6 @@
       "time": "07:36:15",
       "type": "mirror-thought",
       "msg": "🪞 📉 ETH +0.34% — Ótimo, agora vou ter que ouvir que 'deu certo'"
-    },
-    {
-      "ts": "2026-02-15T07:35:45.678Z",
-      "time": "07:35:45",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 ETH +0.16% — Lucrando aqui pra cobrir o estrago de lá"
-    },
-    {
-      "ts": "2026-02-15T07:35:38.529Z",
-      "time": "07:35:38",
-      "type": "position",
-      "msg": "📈 SOL +0.37% — O mercado tá generoso hoje, desconfio"
-    },
-    {
-      "ts": "2026-02-15T07:35:38.268Z",
-      "time": "07:35:38",
-      "type": "position",
-      "msg": "📈 ETH -0.20% — Loss building character 💪"
     }
   ]
 }
