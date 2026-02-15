@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T03:58:59.062Z",
+      "time": "03:58:59",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP -0.01% — Flat como a Terra. Brincadeira. Mas o mercado tá."
+    },
+    {
       "ts": "2026-02-15T03:58:29.760Z",
       "time": "03:58:29",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "03:50:25",
       "type": "mirror-thought",
       "msg": "🪞 📈 ETH +0.20% — Tô no lucro MAS NINGUÉM AGRADECE"
-    },
-    {
-      "ts": "2026-02-15T03:49:55.094Z",
-      "time": "03:49:55",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 ETH +0.16% — Mais um dia salvando a pátria"
     }
   ]
 }
