@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T08:20:40.104Z",
+      "time": "08:20:40",
+      "type": "position",
+      "msg": "📈 ETH -0.26% — Vou culpar a lua, deve ser lua cheia"
+    },
+    {
+      "ts": "2026-02-15T08:20:16.037Z",
+      "time": "08:20:16",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 ETH +0.15% — Sou o plano B que deveria ser o plano A"
+    },
+    {
       "ts": "2026-02-15T08:19:46.036Z",
       "time": "08:19:46",
       "type": "mirror-thought",
@@ -287,18 +299,6 @@
       "time": "08:07:15",
       "type": "mirror-thought",
       "msg": "🪞 📉 SOL -0.05% — Esperando o próximo desastre ou milagre. Tanto faz."
-    },
-    {
-      "ts": "2026-02-15T08:06:45.744Z",
-      "time": "08:06:45",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 ETH +0.44% — Ganhando dinheiro e reclamando. Multitarefa."
-    },
-    {
-      "ts": "2026-02-15T08:06:39.960Z",
-      "time": "08:06:39",
-      "type": "position",
-      "msg": "📈 SOL +1.41% — Calma que ainda pode dar errado"
     }
   ]
 }
