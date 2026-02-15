@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T03:37:28.781Z",
+      "time": "03:37:28",
+      "type": "position",
+      "msg": "📉 ETH +1.04% — Finalmente algo de bom nesse mercado"
+    },
+    {
+      "ts": "2026-02-15T03:37:25.068Z",
+      "time": "03:37:25",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC +0.08% — Se tédio fosse trade, eu tava rico"
+    },
+    {
       "ts": "2026-02-15T03:36:58.455Z",
       "time": "03:36:58",
       "type": "position",
@@ -287,18 +299,6 @@
       "time": "03:27:15",
       "type": "system",
       "msg": "⚠️ Limite atingido (5/5) - XMR cancelado"
-    },
-    {
-      "ts": "2026-02-15T03:27:15.591Z",
-      "time": "03:27:15",
-      "type": "signal",
-      "msg": "🎯 SHORT XMR @ $351.38 (78%) — Análise feita, trade executado, fé ativada"
-    },
-    {
-      "ts": "2026-02-15T03:27:15.591Z",
-      "time": "03:27:15",
-      "type": "analysis",
-      "msg": "XMR no radar: 78% SHORT"
     }
   ]
 }
