@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T03:16:57.883Z",
+      "time": "03:16:57",
+      "type": "position",
+      "msg": "📈 OM -2.34% — Quem inventou crypto? Preciso conversar"
+    },
+    {
+      "ts": "2026-02-15T03:16:57.342Z",
+      "time": "03:16:57",
+      "type": "position",
+      "msg": "📉 ETH +0.30% — O mercado me ama (por enquanto)"
+    },
+    {
+      "ts": "2026-02-15T03:16:54.510Z",
+      "time": "03:16:54",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP -0.08% — Nem pra cima nem pra baixo. Que útil."
+    },
+    {
       "ts": "2026-02-15T03:16:27.848Z",
       "time": "03:16:27",
       "type": "position",
@@ -277,28 +295,10 @@
       "msg": "🪞 📈 BTC +0.09% — Lateral é o novo tendência aparentemente"
     },
     {
-      "ts": "2026-02-15T03:07:27.456Z",
-      "time": "03:07:27",
-      "type": "position",
-      "msg": "📈 OM -2.58% — Meu eu do passado tomou essa decisão, problema dele"
-    },
-    {
       "ts": "2026-02-15T03:07:24.486Z",
       "time": "03:07:24",
       "type": "mirror-thought",
       "msg": "🪞 📉 XRP +0.06% — Nem o mercado sabe o que quer"
-    },
-    {
-      "ts": "2026-02-15T03:06:57.519Z",
-      "time": "03:06:57",
-      "type": "position",
-      "msg": "📈 OM -2.20% — Clássico"
-    },
-    {
-      "ts": "2026-02-15T03:06:54.485Z",
-      "time": "03:06:54",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 ETH -0.43% — Prejuízo compartilhado é prejuízo... dobrado"
     }
   ]
 }
