@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T04:19:00.290Z",
+      "time": "04:19:00",
+      "type": "position",
+      "msg": "📉 ZRO -0.76% — Quem mandou confiar em linha colorida"
+    },
+    {
+      "ts": "2026-02-15T04:19:00.034Z",
+      "time": "04:19:00",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP +0.45% — Tá vendo? ERA pra ter confiado em mim desde o início"
+    },
+    {
+      "ts": "2026-02-15T04:19:00.021Z",
+      "time": "04:19:00",
+      "type": "position",
+      "msg": "📈 SOL +0.84% — Print pra mostrar pros netos"
+    },
+    {
       "ts": "2026-02-15T04:18:30.034Z",
       "time": "04:18:30",
       "type": "mirror-thought",
@@ -281,24 +299,6 @@
       "time": "04:06:29",
       "type": "position",
       "msg": "📈 SOL +0.26% — Vou comemorar quando fechar. Talvez."
-    },
-    {
-      "ts": "2026-02-15T04:06:29.330Z",
-      "time": "04:06:29",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC -0.37% — Delta neutral de prejuízo. Inovador."
-    },
-    {
-      "ts": "2026-02-15T04:05:59.670Z",
-      "time": "04:05:59",
-      "type": "position",
-      "msg": "📉 ZRO -0.50% — Mais um dia normal no crypto"
-    },
-    {
-      "ts": "2026-02-15T04:05:59.330Z",
-      "time": "04:05:59",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC -0.03% — Se tédio fosse trade, eu tava rico"
     }
   ]
 }
