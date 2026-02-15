@@ -1,304 +1,190 @@
 {
   "feed": [
     {
-      "ts": "2026-02-15T00:42:09.688Z",
-      "time": "00:42:09",
-      "type": "mirror",
-      "msg": "🪞 Mirror Bot iniciado"
+      "ts": "2026-02-15T01:12:47.226Z",
+      "time": "01:12:47",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC +0.20% — Imagina se não tivesse eu aqui... caos total"
     },
     {
-      "ts": "2026-02-15T00:41:31.507Z",
-      "time": "00:41:31",
-      "type": "mirror",
-      "msg": "🪞 Abrindo SHORT XRP $16 (HL: LONG)"
-    },
-    {
-      "ts": "2026-02-15T00:41:30.506Z",
-      "time": "00:41:30",
-      "type": "mirror",
-      "msg": "🪞 ✅ LONG BTC @ $69664.50"
-    },
-    {
-      "ts": "2026-02-15T00:41:22.186Z",
-      "time": "00:41:22",
-      "type": "mirror",
-      "msg": "🪞 Abrindo LONG BTC $22 (HL: SHORT)"
-    },
-    {
-      "ts": "2026-02-15T00:41:21.892Z",
-      "time": "00:41:21",
-      "type": "mirror",
-      "msg": "🪞 Mirror Bot iniciado"
-    },
-    {
-      "ts": "2026-02-15T00:39:02.308Z",
-      "time": "00:39:02",
-      "type": "mirror",
-      "msg": "🪞 ✅ SHORT XRP @ $1.53"
-    },
-    {
-      "ts": "2026-02-15T00:38:54.060Z",
-      "time": "00:38:54",
-      "type": "mirror",
-      "msg": "🪞 Abrindo SHORT XRP $16 (HL: LONG)"
-    },
-    {
-      "ts": "2026-02-15T00:38:53.059Z",
-      "time": "00:38:53",
-      "type": "mirror",
-      "msg": "🪞 ✅ LONG BTC @ $69667.50"
-    },
-    {
-      "ts": "2026-02-15T00:38:44.816Z",
-      "time": "00:38:44",
-      "type": "mirror",
-      "msg": "🪞 Abrindo LONG BTC $22 (HL: SHORT)"
-    },
-    {
-      "ts": "2026-02-15T00:38:44.521Z",
-      "time": "00:38:44",
-      "type": "mirror",
-      "msg": "🪞 Mirror Bot iniciado"
-    },
-    {
-      "ts": "2026-02-15T00:32:27.322Z",
-      "time": "00:32:27",
-      "type": "closed",
-      "msg": "🧪 TESTE OK! Fechado @ $69697 (-0.001%)"
-    },
-    {
-      "ts": "2026-02-15T00:32:20.597Z",
-      "time": "00:32:20",
+      "ts": "2026-02-15T01:12:33.022Z",
+      "time": "01:12:33",
       "type": "position",
-      "msg": "🧪 BTC LONG @ $69698! Fechando em 5s..."
+      "msg": "HYPE +0.23% — Melhor que Netflix isso aqui"
     },
     {
-      "ts": "2026-02-15T00:32:18.612Z",
-      "time": "00:32:18",
-      "type": "test",
-      "msg": "🧪 TESTE: Abrindo BTC LONG..."
-    },
-    {
-      "ts": "2026-02-15T00:32:09.543Z",
-      "time": "00:32:09",
-      "type": "error",
-      "msg": "🧪 Ordem não preenchida"
-    },
-    {
-      "ts": "2026-02-15T00:32:07.576Z",
-      "time": "00:32:07",
-      "type": "test",
-      "msg": "🧪 TESTE: Abrindo BTC LONG..."
-    },
-    {
-      "ts": "2026-02-15T00:31:22.289Z",
-      "time": "00:31:22",
-      "type": "error",
-      "msg": "🧪 TESTE ERRO: Cannot read properties of undefined (reading 'toFixed')"
-    },
-    {
-      "ts": "2026-02-15T00:31:22.275Z",
-      "time": "00:31:22",
-      "type": "test",
-      "msg": "🧪 TESTE: Abrindo BTC LONG pra testar dashboard..."
-    },
-    {
-      "ts": "2026-02-15T00:31:00.210Z",
-      "time": "00:31:00",
-      "type": "error",
-      "msg": "🧪 TESTE ERRO: Cannot read properties of undefined (reading 'toFixed')"
-    },
-    {
-      "ts": "2026-02-15T00:31:00.191Z",
-      "time": "00:31:00",
-      "type": "test",
-      "msg": "🧪 TESTE: Abrindo BTC LONG pra testar dashboard..."
-    },
-    {
-      "ts": "2026-02-15T00:30:41.879Z",
-      "time": "00:30:41",
-      "type": "error",
-      "msg": "🧪 TESTE ERRO: Cannot read properties of undefined (reading 'toFixed')"
-    },
-    {
-      "ts": "2026-02-15T00:30:41.866Z",
-      "time": "00:30:41",
-      "type": "test",
-      "msg": "🧪 TESTE: Abrindo BTC LONG pra testar dashboard..."
-    },
-    {
-      "ts": "2026-02-15T00:30:04.198Z",
-      "time": "00:30:04",
-      "type": "error",
-      "msg": "🧪 TESTE ERRO: Unknown asset: BTC"
-    },
-    {
-      "ts": "2026-02-15T00:30:04.183Z",
-      "time": "00:30:04",
-      "type": "test",
-      "msg": "🧪 TESTE: Abrindo BTC LONG pra testar dashboard..."
-    },
-    {
-      "ts": "2026-02-15T00:29:43.198Z",
-      "time": "00:29:43",
-      "type": "error",
-      "msg": "🧪 TESTE ERRO: Não consegui pegar preço do BTC"
-    },
-    {
-      "ts": "2026-02-15T00:16:37.190Z",
-      "time": "00:16:37",
-      "type": "mirror",
-      "msg": "🪞 NADO: Mirror Bot iniciado"
-    },
-    {
-      "ts": "2026-02-14T15:43:32.198Z",
-      "time": "15:43:32",
+      "ts": "2026-02-15T01:12:32.755Z",
+      "time": "01:12:32",
       "type": "position",
-      "msg": "PAXG -0.03% — Esperando o mercado decidir o que quer da vida"
+      "msg": "ZRO -0.15% — Ah sim, o famoso 'compra no topo'"
     },
     {
-      "ts": "2026-02-14T15:43:31.936Z",
-      "time": "15:43:31",
+      "ts": "2026-02-15T01:12:03.175Z",
+      "time": "01:12:03",
       "type": "position",
-      "msg": "SOL +0.27% — Será que é armadilha? Provavelmente. Mas vou curtir enquanto dura"
+      "msg": "OM +2.03% — Vou fingir que sabia que isso ia acontecer"
     },
     {
-      "ts": "2026-02-14T15:43:31.660Z",
-      "time": "15:43:31",
+      "ts": "2026-02-15T01:11:32.865Z",
+      "time": "01:11:32",
       "type": "position",
-      "msg": "ETH -0.08% — Se mexer muito, assusta"
+      "msg": "OM +1.47% — Obrigado universo, tava precisando"
     },
     {
-      "ts": "2026-02-14T15:42:32.177Z",
-      "time": "15:42:32",
+      "ts": "2026-02-15T01:11:32.595Z",
+      "time": "01:11:32",
       "type": "position",
-      "msg": "PAXG -0.04% — Tá ali, existindo"
+      "msg": "HYPE +0.22% — Se continuar assim, quase empato na semana"
     },
     {
-      "ts": "2026-02-14T15:42:31.918Z",
-      "time": "15:42:31",
+      "ts": "2026-02-15T01:11:32.331Z",
+      "time": "01:11:32",
       "type": "position",
-      "msg": "SOL +0.16% — Será que é armadilha? Provavelmente. Mas vou curtir enquanto dura"
+      "msg": "ZRO -0.12% — Minha análise era perfeita, o mercado que tá errado"
     },
     {
-      "ts": "2026-02-14T15:42:31.629Z",
-      "time": "15:42:31",
+      "ts": "2026-02-15T01:11:02.916Z",
+      "time": "01:11:02",
       "type": "position",
-      "msg": "ETH -0.15% — Respira... é só número na tela"
+      "msg": "OM +2.59% — Isso aí, garoto. Vai, vai, vai..."
     },
     {
-      "ts": "2026-02-14T15:41:32.116Z",
-      "time": "15:41:32",
+      "ts": "2026-02-15T01:10:32.464Z",
+      "time": "01:10:32",
       "type": "position",
-      "msg": "PAXG -0.03% — Consolidação ou indecisão? Sim."
+      "msg": "HYPE +0.27% — Lucro é lucro, mesmo que pague só o almoço"
     },
     {
-      "ts": "2026-02-14T15:41:01.974Z",
-      "time": "15:41:01",
+      "ts": "2026-02-15T01:10:32.196Z",
+      "time": "01:10:32",
       "type": "position",
-      "msg": "SOL +0.10% — Olha só, o mercado decidiu colaborar hoje"
+      "msg": "ZRO -0.16% — Quem mandou confiar em linha colorida"
     },
     {
-      "ts": "2026-02-14T15:41:01.647Z",
-      "time": "15:41:01",
+      "ts": "2026-02-15T01:10:02.853Z",
+      "time": "01:10:02",
       "type": "position",
-      "msg": "ETH -0.19% — O mercado escolheu violência hoje"
+      "msg": "OM +3.80% — Vou fingir que sabia que isso ia acontecer"
     },
     {
-      "ts": "2026-02-14T15:40:32.062Z",
-      "time": "15:40:32",
+      "ts": "2026-02-15T01:09:32.758Z",
+      "time": "01:09:32",
       "type": "position",
-      "msg": "PAXG -0.03% — Tá ali, existindo"
+      "msg": "OM +4.39% — Será que alguém sabe algo que eu não sei? Sempre sabem."
     },
     {
-      "ts": "2026-02-14T15:40:01.799Z",
-      "time": "15:40:01",
+      "ts": "2026-02-15T01:09:32.412Z",
+      "time": "01:09:32",
       "type": "position",
-      "msg": "SOL +0.16% — Quase consigo pagar o café de ontem"
+      "msg": "HYPE +0.26% — Melhor que Netflix isso aqui"
     },
     {
-      "ts": "2026-02-14T15:40:01.535Z",
-      "time": "15:40:01",
+      "ts": "2026-02-15T01:09:32.145Z",
+      "time": "01:09:32",
       "type": "position",
-      "msg": "ETH -0.12% — Quem precisa de dinheiro mesmo"
+      "msg": "ZRO -0.30% — Isso é um teste de caráter, com certeza"
     },
     {
-      "ts": "2026-02-14T15:39:02.130Z",
-      "time": "15:39:02",
+      "ts": "2026-02-15T01:09:02.825Z",
+      "time": "01:09:02",
       "type": "position",
-      "msg": "PAXG -0.01% — Lateral é o novo tendência"
+      "msg": "OM +2.95% — Stonks 📈 (desculpa, não resisti)"
     },
     {
-      "ts": "2026-02-14T15:38:31.790Z",
-      "time": "15:38:31",
+      "ts": "2026-02-15T01:08:32.396Z",
+      "time": "01:08:32",
       "type": "position",
-      "msg": "SOL +0.18% — Tá verde? Tira print rápido antes que vire"
+      "msg": "HYPE +0.25% — Alguém avisa o mercado que eu tô comprado"
     },
     {
-      "ts": "2026-02-14T15:38:31.519Z",
-      "time": "15:38:31",
+      "ts": "2026-02-15T01:08:32.130Z",
+      "time": "01:08:32",
       "type": "position",
-      "msg": "ETH -0.13% — Vermelho é a minha cor favorita agora"
+      "msg": "ZRO -0.22% — Pelo menos não é dinheiro de verdade... ah, espera"
     },
     {
-      "ts": "2026-02-14T15:38:02.122Z",
-      "time": "15:38:02",
+      "ts": "2026-02-15T01:08:02.638Z",
+      "time": "01:08:02",
       "type": "position",
-      "msg": "PAXG -0.01% — Esperando o mercado decidir o que quer da vida"
+      "msg": "OM +3.09% — Vou fingir que sabia que isso ia acontecer"
     },
     {
-      "ts": "2026-02-14T15:37:31.764Z",
-      "time": "15:37:31",
+      "ts": "2026-02-15T01:07:32.618Z",
+      "time": "01:07:32",
       "type": "position",
-      "msg": "SOL +0.10% — Verde combina comigo"
+      "msg": "OM +2.66% — Stonks 📈 (desculpa, não resisti)"
     },
     {
-      "ts": "2026-02-14T15:37:31.485Z",
-      "time": "15:37:31",
+      "ts": "2026-02-15T01:07:32.347Z",
+      "time": "01:07:32",
       "type": "position",
-      "msg": "ETH -0.19% — Prometo estudar mais... mentira, vou continuar igual"
+      "msg": "HYPE +0.21% — Calma que ainda pode dar errado"
     },
     {
-      "ts": "2026-02-14T15:37:02.026Z",
-      "time": "15:37:02",
+      "ts": "2026-02-15T01:07:32.082Z",
+      "time": "01:07:32",
       "type": "position",
-      "msg": "PAXG -0.01% — Dormiu no ponto"
+      "msg": "ZRO -0.32% — O mercado escolheu violência hoje"
     },
     {
-      "ts": "2026-02-14T15:36:31.745Z",
-      "time": "15:36:31",
+      "ts": "2026-02-15T01:06:32.533Z",
+      "time": "01:06:32",
       "type": "position",
-      "msg": "SOL +0.24% — Vou comemorar quando fechar. Talvez."
+      "msg": "OM +2.26% — Tá verde? Tira print rápido antes que vire"
     },
     {
-      "ts": "2026-02-14T15:36:31.480Z",
-      "time": "15:36:31",
+      "ts": "2026-02-15T01:06:32.271Z",
+      "time": "01:06:32",
       "type": "position",
-      "msg": "ETH -0.06% — Plot twist a qualquer momento"
+      "msg": "HYPE +0.24% — Print pra mostrar pros netos"
     },
     {
-      "ts": "2026-02-14T15:36:01.944Z",
-      "time": "15:36:01",
+      "ts": "2026-02-15T01:06:32.003Z",
+      "time": "01:06:32",
       "type": "position",
-      "msg": "PAXG -0.01% — Plot twist a qualquer momento"
+      "msg": "ZRO -0.56% — O gráfico parecia tão bonito..."
     },
     {
-      "ts": "2026-02-14T15:35:31.661Z",
-      "time": "15:35:31",
+      "ts": "2026-02-15T01:06:02.516Z",
+      "time": "01:06:02",
       "type": "position",
-      "msg": "SOL +0.40% — Não me acostumem com isso"
+      "msg": "OM +2.98% — Vou comemorar quando fechar. Talvez."
     },
     {
-      "ts": "2026-02-14T15:35:31.395Z",
-      "time": "15:35:31",
+      "ts": "2026-02-15T01:05:32.564Z",
+      "time": "01:05:32",
       "type": "position",
-      "msg": "ETH -0.00% — O mercado tá buffering"
+      "msg": "OM +2.31% — Se continuar assim, quase empato na semana"
     },
     {
-      "ts": "2026-02-14T15:34:32.492Z",
-      "time": "15:34:32",
+      "ts": "2026-02-15T01:05:32.031Z",
+      "time": "01:05:32",
       "type": "position",
-      "msg": "PAXG -0.01% — Pelo menos não tá caindo... ainda"
+      "msg": "ZRO -0.34% — Mercado fazendo mercadisse"
+    },
+    {
+      "ts": "2026-02-15T01:05:02.709Z",
+      "time": "01:05:02",
+      "type": "position",
+      "msg": "OM +2.76% — Verde combina comigo"
+    },
+    {
+      "ts": "2026-02-15T01:05:02.398Z",
+      "time": "01:05:02",
+      "type": "position",
+      "msg": "HYPE +0.19% — Respira... ainda não acabou"
+    },
+    {
+      "ts": "2026-02-15T01:05:02.029Z",
+      "time": "01:05:02",
+      "type": "position",
+      "msg": "ZRO -0.10% — Pelo menos o stop existe. Graças a Deus pelo stop."
+    },
+    {
+      "ts": "2026-02-15T01:04:02.598Z",
+      "time": "01:04:02",
+      "type": "position",
+      "msg": "OM +2.17% — Não é muito, mas é trabalho honesto"
     }
   ]
 }
