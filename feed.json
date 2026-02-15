@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T06:39:36.268Z",
+      "time": "06:39:36",
+      "type": "position",
+      "msg": "📈 SOL +0.09% — Esperando o mercado decidir o que quer da vida"
+    },
+    {
+      "ts": "2026-02-15T06:39:15.304Z",
+      "time": "06:39:15",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 ETH +0.39% — Pelo menos UM de nós sabe o que tá fazendo"
+    },
+    {
       "ts": "2026-02-15T06:39:05.981Z",
       "time": "06:39:05",
       "type": "position",
@@ -287,18 +299,6 @@
       "time": "06:27:05",
       "type": "mirror-open",
       "msg": "🪞 📉 Abrindo SHORT SOL @ $89.97 — Abrindo posição porque ALGUÉM tem que fazer hedge"
-    },
-    {
-      "ts": "2026-02-15T06:27:03.368Z",
-      "time": "06:27:03",
-      "type": "analysis",
-      "msg": "JUP no radar: 56% LONG"
-    },
-    {
-      "ts": "2026-02-15T06:27:03.025Z",
-      "time": "06:27:03",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - LINK cancelado"
     }
   ]
 }
