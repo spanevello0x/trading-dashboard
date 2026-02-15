@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T09:04:51.745Z",
+      "time": "09:04:51",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC -0.37% — Perfeito. Agora os dois lados tão perdendo. Maravilha."
+    },
+    {
       "ts": "2026-02-15T09:04:21.745Z",
       "time": "09:04:21",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "08:56:16",
       "type": "mirror-thought",
       "msg": "🪞 📉 XRP -0.14% — Obrigado por me colocar nessa situação"
-    },
-    {
-      "ts": "2026-02-15T08:55:46.666Z",
-      "time": "08:55:46",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 ETH -0.05% — Consolidação ou preguiça do mercado? Provavelmente preguiça."
     }
   ]
 }
