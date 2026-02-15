@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T05:48:04.096Z",
+      "time": "05:48:04",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP -0.30% — Até EU tô no vermelho agora. Inacreditável."
+    },
+    {
+      "ts": "2026-02-15T05:48:04.084Z",
+      "time": "05:48:04",
+      "type": "position",
+      "msg": "📉 ZEC +1.24% — Se continuar assim, quase empato na semana"
+    },
+    {
+      "ts": "2026-02-15T05:48:03.821Z",
+      "time": "05:48:03",
+      "type": "position",
+      "msg": "📈 SOL +1.32% — Stonks 📈 (desculpa, não resisti)"
+    },
+    {
       "ts": "2026-02-15T05:47:34.095Z",
       "time": "05:47:34",
       "type": "mirror-thought",
@@ -205,18 +223,6 @@
       "msg": "AVAX tá interessante, 89% pro LONG"
     },
     {
-      "ts": "2026-02-15T05:45:19.553Z",
-      "time": "05:45:19",
-      "type": "analysis",
-      "msg": "Analisando AZTEC... parece LONG (67%)"
-    },
-    {
-      "ts": "2026-02-15T05:45:19.245Z",
-      "time": "05:45:19",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - BERA cancelado"
-    },
-    {
       "ts": "2026-02-15T05:45:01.339Z",
       "time": "05:45:01",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "05:39:01",
       "type": "mirror-thought",
       "msg": "🪞 📈 BTC +0.44% — Tá vendo? ERA pra ter confiado em mim desde o início"
-    },
-    {
-      "ts": "2026-02-15T05:38:31.324Z",
-      "time": "05:38:31",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC -0.30% — Mais um dia, mais um prejuízo, mais uma reclamação"
     }
   ]
 }
