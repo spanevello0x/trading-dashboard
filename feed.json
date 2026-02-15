@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T02:46:54.452Z",
+      "time": "02:46:54",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 ETH -0.04% — Aguardando o mercado decidir o que quer da vida"
+    },
+    {
       "ts": "2026-02-15T02:46:24.453Z",
       "time": "02:46:24",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "02:35:56",
       "type": "position",
       "msg": "📉 ZRO +0.00% — Consolidação ou indecisão? Sim."
-    },
-    {
-      "ts": "2026-02-15T02:35:55.759Z",
-      "time": "02:35:55",
-      "type": "position",
-      "msg": "📉 ETH +0.72% — Será que é armadilha? Provavelmente. Mas vou curtir enquanto dura"
     }
   ]
 }
