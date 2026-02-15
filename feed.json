@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T07:45:45.705Z",
+      "time": "07:45:45",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP +0.10% — Neutro. Assim como minha vontade de continuar."
+    },
+    {
       "ts": "2026-02-15T07:45:38.949Z",
       "time": "07:45:38",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "07:33:15",
       "type": "mirror-thought",
       "msg": "🪞 📉 SOL -0.13% — Fantástico. Simplesmente fantástico. Odeio tudo."
-    },
-    {
-      "ts": "2026-02-15T07:32:45.670Z",
-      "time": "07:32:45",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 ETH +0.03% — Esperando algo acontecer... esperando... esperando..."
     }
   ]
 }
