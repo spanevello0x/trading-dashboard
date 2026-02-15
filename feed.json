@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T06:39:05.981Z",
+      "time": "06:39:05",
+      "type": "position",
+      "msg": "📈 ETH -0.01% — Será que esqueceram dessa moeda?"
+    },
+    {
+      "ts": "2026-02-15T06:38:45.304Z",
+      "time": "06:38:45",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP +0.39% — O mercado me odeia menos que odeia o QuickBot"
+    },
+    {
       "ts": "2026-02-15T06:38:36.219Z",
       "time": "06:38:36",
       "type": "position",
@@ -287,18 +299,6 @@
       "time": "06:27:03",
       "type": "system",
       "msg": "⚠️ Limite atingido (5/5) - LINK cancelado"
-    },
-    {
-      "ts": "2026-02-15T06:27:02.752Z",
-      "time": "06:27:02",
-      "type": "signal",
-      "msg": "🎯 LONG LINK @ $9.20 (100%) — Setup alinhado, agora é com o mercado"
-    },
-    {
-      "ts": "2026-02-15T06:27:02.751Z",
-      "time": "06:27:02",
-      "type": "analysis",
-      "msg": "LINK tá interessante, 100% pro LONG"
     }
   ]
 }
