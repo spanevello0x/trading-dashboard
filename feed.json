@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T03:31:27.990Z",
+      "time": "03:31:27",
+      "type": "position",
+      "msg": "📉 ETH +0.48% — Respira... ainda não acabou"
+    },
+    {
+      "ts": "2026-02-15T03:31:24.536Z",
+      "time": "03:31:24",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP +0.14% — Lucro? Uau. Que surpresa. Ninguém esperava. Mentira, EU esperava."
+    },
+    {
       "ts": "2026-02-15T03:30:58.217Z",
       "time": "03:30:58",
       "type": "position",
@@ -223,12 +235,6 @@
       "msg": "⚠️ Limite atingido (5/5) - BERA cancelado"
     },
     {
-      "ts": "2026-02-15T03:27:11.889Z",
-      "time": "03:27:11",
-      "type": "signal",
-      "msg": "🎯 SHORT BERA @ $0.67 (89%) — Vamo ver no que dá"
-    },
-    {
       "ts": "2026-02-15T03:26:54.531Z",
       "time": "03:26:54",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "03:21:54",
       "type": "mirror-thought",
       "msg": "🪞 📉 XRP -0.35% — Correlação foi pro espaço, junto com meu lucro"
-    },
-    {
-      "ts": "2026-02-15T03:21:24.519Z",
-      "time": "03:21:24",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP -0.44% — Não era assim no backtest"
     }
   ]
 }
