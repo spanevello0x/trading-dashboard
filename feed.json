@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T09:10:22.103Z",
+      "time": "09:10:22",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 ETH -0.12% — Eu AVISEI que isso podia acontecer. Avisei? Não? Deveria ter avisado."
+    },
+    {
+      "ts": "2026-02-15T09:10:12.057Z",
+      "time": "09:10:12",
+      "type": "position",
+      "msg": "📉 ETH -0.24% — Amanhã é outro dia (espero)"
+    },
+    {
       "ts": "2026-02-15T09:09:52.102Z",
       "time": "09:09:52",
       "type": "mirror-thought",
@@ -287,18 +299,6 @@
       "time": "08:57:32",
       "type": "mirror-open",
       "msg": "🪞 📈 Abrindo LONG ZEC @ $304.73 — Abrindo posição porque ALGUÉM tem que fazer hedge"
-    },
-    {
-      "ts": "2026-02-15T08:57:31.634Z",
-      "time": "08:57:31",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - JUP cancelado"
-    },
-    {
-      "ts": "2026-02-15T08:57:31.359Z",
-      "time": "08:57:31",
-      "type": "signal",
-      "msg": "🎯 SHORT JUP @ $0.17 (78%) — Setup alinhado, agora é com o mercado"
     }
   ]
 }
