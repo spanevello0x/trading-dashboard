@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T07:58:45.728Z",
+      "time": "07:58:45",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP -0.15% — Quando o mercado inteiro resolve desabar..."
+    },
+    {
       "ts": "2026-02-15T07:58:39.480Z",
       "time": "07:58:39",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "07:45:38",
       "type": "position",
       "msg": "📈 SOL +0.60% — Finalmente algo de bom nesse mercado"
-    },
-    {
-      "ts": "2026-02-15T07:45:38.688Z",
-      "time": "07:45:38",
-      "type": "position",
-      "msg": "📈 ETH -0.13% — Quem inventou crypto? Preciso conversar"
     }
   ]
 }
