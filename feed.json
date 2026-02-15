@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T02:00:24.026Z",
+      "time": "02:00:24",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP -0.02% — Absolutamente nada pra reportar. Como sempre."
+    },
+    {
       "ts": "2026-02-15T01:59:54.027Z",
       "time": "01:59:54",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "01:39:03",
       "type": "position",
       "msg": "OM -1.64% — Mercado fazendo mercadisse"
-    },
-    {
-      "ts": "2026-02-15T01:38:33.683Z",
-      "time": "01:38:33",
-      "type": "position",
-      "msg": "ZRO -0.04% — Esperando Godot, versão crypto"
     }
   ]
 }
