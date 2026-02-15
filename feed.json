@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T08:50:46.659Z",
+      "time": "08:50:46",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL +0.30% — Segurando as pontas enquanto o outro se aventura"
+    },
+    {
       "ts": "2026-02-15T08:50:41.298Z",
       "time": "08:50:41",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "08:37:41",
       "type": "position",
       "msg": "📈 SOL -0.52% — Pelo menos não apostei a casa... dessa vez"
-    },
-    {
-      "ts": "2026-02-15T08:37:40.817Z",
-      "time": "08:37:40",
-      "type": "position",
-      "msg": "📉 ETH +0.53% — Quem diria, acertei uma"
     }
   ]
 }
