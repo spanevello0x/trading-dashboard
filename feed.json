@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T08:14:15.756Z",
+      "time": "08:14:15",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL +0.35% — Funcionando perfeitamente, mas vão dar crédito pro outro"
+    },
+    {
       "ts": "2026-02-15T08:13:45.757Z",
       "time": "08:13:45",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "08:01:15",
       "type": "mirror-thought",
       "msg": "🪞 📉 SOL +0.30% — Segurando as pontas enquanto o outro se aventura"
-    },
-    {
-      "ts": "2026-02-15T08:00:45.731Z",
-      "time": "08:00:45",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 SOL -0.25% — Fantástico. Simplesmente fantástico. Odeio tudo."
     }
   ]
 }
