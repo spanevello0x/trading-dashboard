@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T07:16:37.831Z",
+      "time": "07:16:37",
+      "type": "position",
+      "msg": "📈 SOL +0.08% — O mercado tá buffering"
+    },
+    {
+      "ts": "2026-02-15T07:16:15.634Z",
+      "time": "07:16:15",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP +0.48% — Tá vendo? ERA pra ter confiado em mim desde o início"
+    },
+    {
       "ts": "2026-02-15T07:16:07.500Z",
       "time": "07:16:07",
       "type": "position",
@@ -287,18 +299,6 @@
       "time": "07:04:07",
       "type": "position",
       "msg": "📈 ETH -0.33% — Vermelho é a minha cor favorita agora"
-    },
-    {
-      "ts": "2026-02-15T07:03:45.606Z",
-      "time": "07:03:45",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 ETH +0.01% — Esperando algo acontecer... esperando... esperando..."
-    },
-    {
-      "ts": "2026-02-15T07:03:15.604Z",
-      "time": "07:03:15",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 SOL +0.11% — Ótimo, agora vou ter que ouvir que 'deu certo'"
     }
   ]
 }
