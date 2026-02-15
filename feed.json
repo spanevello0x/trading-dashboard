@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T05:33:33.325Z",
+      "time": "05:33:33",
+      "type": "position",
+      "msg": "📈 SOL +1.21% — Tá verde? Tira print rápido antes que vire"
+    },
+    {
+      "ts": "2026-02-15T05:33:31.313Z",
+      "time": "05:33:31",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL -0.49% — Tá todo mundo perdendo e a culpa vai cair em mim"
+    },
+    {
       "ts": "2026-02-15T05:33:03.455Z",
       "time": "05:33:03",
       "type": "position",
@@ -287,18 +299,6 @@
       "time": "05:20:32",
       "type": "position",
       "msg": "📈 SOL +0.81% — Quem diria, acertei uma"
-    },
-    {
-      "ts": "2026-02-15T05:20:31.099Z",
-      "time": "05:20:31",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC +0.43% — Mais um resgate bem-sucedido"
-    },
-    {
-      "ts": "2026-02-15T05:20:02.892Z",
-      "time": "05:20:02",
-      "type": "position",
-      "msg": "📉 ZRO -1.50% — Minha análise era perfeita, o mercado que tá errado"
     }
   ]
 }
