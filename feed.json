@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T06:29:15.094Z",
+      "time": "06:29:15",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP -0.38% — Perdendo aqui porque ALGUÉM tinha que abrir posição"
+    },
+    {
       "ts": "2026-02-15T06:29:05.846Z",
       "time": "06:29:05",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "06:21:39",
       "type": "mirror-thought",
       "msg": "🪞 📈 BTC -0.29% — Se eu pudesse, mandava o mercado se explicar"
-    },
-    {
-      "ts": "2026-02-15T06:21:09.877Z",
-      "time": "06:21:09",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP +0.38% — Obrigado por nada, eu que me viro mesmo"
     }
   ]
 }
