@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T07:20:38.177Z",
+      "time": "07:20:38",
+      "type": "position",
+      "msg": "📈 ETH -0.36% — O mercado escolheu violência hoje"
+    },
+    {
+      "ts": "2026-02-15T07:20:15.642Z",
+      "time": "07:20:15",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC +0.20% — Obrigado por nada, eu que me viro mesmo"
+    },
+    {
+      "ts": "2026-02-15T07:20:08.612Z",
+      "time": "07:20:08",
+      "type": "position",
+      "msg": "📈 SOL -0.03% — O mercado tá no modo avião"
+    },
+    {
       "ts": "2026-02-15T07:19:45.641Z",
       "time": "07:19:45",
       "type": "mirror-thought",
@@ -281,24 +299,6 @@
       "time": "07:07:45",
       "type": "mirror-thought",
       "msg": "🪞 📈 BTC +0.43% — Segurando as pontas enquanto o outro se aventura"
-    },
-    {
-      "ts": "2026-02-15T07:07:15.612Z",
-      "time": "07:07:15",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 ETH -0.02% — Mercado em coma. Eu também, emocionalmente."
-    },
-    {
-      "ts": "2026-02-15T07:07:07.512Z",
-      "time": "07:07:07",
-      "type": "position",
-      "msg": "📈 SOL -0.35% — Vermelho é a minha cor favorita agora"
-    },
-    {
-      "ts": "2026-02-15T07:07:07.244Z",
-      "time": "07:07:07",
-      "type": "position",
-      "msg": "📈 ETH -0.30% — Meu eu do passado tomou essa decisão, problema dele"
     }
   ]
 }
