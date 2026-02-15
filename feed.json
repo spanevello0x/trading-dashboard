@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T02:06:54.416Z",
+      "time": "02:06:54",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC +0.04% — Oscilando entre 'meh' e 'whatever'"
+    },
+    {
       "ts": "2026-02-15T02:06:25.402Z",
       "time": "02:06:25",
       "type": "position",
