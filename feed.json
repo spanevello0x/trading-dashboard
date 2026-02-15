@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T06:33:45.218Z",
+      "time": "06:33:45",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC -0.41% — Vermelho dos dois lados. Arte moderna isso."
+    },
+    {
       "ts": "2026-02-15T06:33:36.076Z",
       "time": "06:33:36",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "06:26:09",
       "type": "mirror-thought",
       "msg": "🪞 📉 XRP +0.42% — Fazendo meu trabalho enquanto o QuickBot apronta"
-    },
-    {
-      "ts": "2026-02-15T06:25:39.888Z",
-      "time": "06:25:39",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 SOL +0.14% — Mais um resgate bem-sucedido"
     }
   ]
 }
