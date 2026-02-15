@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T08:59:11.611Z",
+      "time": "08:59:11",
+      "type": "position",
+      "msg": "📉 ETH +0.20% — Alguém avisa o mercado que eu tô comprado"
+    },
+    {
+      "ts": "2026-02-15T08:58:51.740Z",
+      "time": "08:58:51",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP +0.46% — Delta neutral funcionando. Genial? Sim. Reconhecido? Nunca."
+    },
+    {
+      "ts": "2026-02-15T08:58:41.896Z",
+      "time": "08:58:41",
+      "type": "position",
+      "msg": "📉 ZEC -0.14% — Não é prejuízo se eu não vender... ah, tem stop"
+    },
+    {
       "ts": "2026-02-15T08:58:21.559Z",
       "time": "08:58:21",
       "type": "mirror-thought",
@@ -187,18 +205,6 @@
       "msg": "🎯 SHORT XPL @ $0.10 (78%) — Entrei. Arrependimento em 3, 2, 1..."
     },
     {
-      "ts": "2026-02-15T08:57:24.521Z",
-      "time": "08:57:24",
-      "type": "analysis",
-      "msg": "Hmm, XPL mostrando sinais de SHORT (78%)"
-    },
-    {
-      "ts": "2026-02-15T08:57:24.097Z",
-      "time": "08:57:24",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - BCH cancelado"
-    },
-    {
       "ts": "2026-02-15T08:57:19.093Z",
       "time": "08:57:19",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "08:50:16",
       "type": "mirror-thought",
       "msg": "🪞 📈 BTC +0.02% — Monótono demais. Até reclamar tá difícil."
-    },
-    {
-      "ts": "2026-02-15T08:49:46.658Z",
-      "time": "08:49:46",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP -0.36% — Prejuízo compartilhado é prejuízo... dobrado"
     }
   ]
 }
