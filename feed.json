@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T05:56:34.472Z",
+      "time": "05:56:34",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL +0.05% — Se emoção matasse, eu taria vivo pra sempre"
+    },
+    {
       "ts": "2026-02-15T05:56:04.471Z",
       "time": "05:56:04",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "05:45:24",
       "type": "signal",
       "msg": "🎯 LONG LINK @ $9.19 (100%) — Nova aposta na mesa"
-    },
-    {
-      "ts": "2026-02-15T05:45:24.110Z",
-      "time": "05:45:24",
-      "type": "analysis",
-      "msg": "LINK tá interessante, 100% pro LONG"
     }
   ]
 }
