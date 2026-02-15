@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T05:51:04.099Z",
+      "time": "05:51:04",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP -0.21% — Delta neutral de prejuízo. Inovador."
+    },
+    {
       "ts": "2026-02-15T05:50:34.202Z",
       "time": "05:50:34",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "05:42:01",
       "type": "mirror-thought",
       "msg": "🪞 📉 XRP +0.11% — Funcionando perfeitamente, mas vão dar crédito pro outro"
-    },
-    {
-      "ts": "2026-02-15T05:41:31.332Z",
-      "time": "05:41:31",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC -0.18% — Nem o hedge salva dessa"
     }
   ]
 }
