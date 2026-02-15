@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T09:12:22.107Z",
+      "time": "09:12:22",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC +0.03% — Range mais apertado que minha paciência"
+    },
+    {
+      "ts": "2026-02-15T09:12:12.536Z",
+      "time": "09:12:12",
+      "type": "position",
+      "msg": "📉 ZEC -0.85% — Mercado fazendo mercadisse"
+    },
+    {
+      "ts": "2026-02-15T09:12:12.266Z",
+      "time": "09:12:12",
+      "type": "position",
+      "msg": "📉 ETH -0.14% — Podia ser pior. Dá tempo ainda."
+    },
+    {
       "ts": "2026-02-15T09:11:52.106Z",
       "time": "09:11:52",
       "type": "mirror-thought",
@@ -281,24 +299,6 @@
       "time": "08:59:21",
       "type": "mirror-thought",
       "msg": "🪞 📈 BTC +0.15% — Funcionando perfeitamente, mas vão dar crédito pro outro"
-    },
-    {
-      "ts": "2026-02-15T08:59:11.611Z",
-      "time": "08:59:11",
-      "type": "position",
-      "msg": "📉 ETH +0.20% — Alguém avisa o mercado que eu tô comprado"
-    },
-    {
-      "ts": "2026-02-15T08:58:51.740Z",
-      "time": "08:58:51",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP +0.46% — Delta neutral funcionando. Genial? Sim. Reconhecido? Nunca."
-    },
-    {
-      "ts": "2026-02-15T08:58:41.896Z",
-      "time": "08:58:41",
-      "type": "position",
-      "msg": "📉 ZEC -0.14% — Não é prejuízo se eu não vender... ah, tem stop"
     }
   ]
 }
