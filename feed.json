@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T07:04:07.271Z",
+      "time": "07:04:07",
+      "type": "position",
+      "msg": "📈 SOL -0.48% — Minha análise era perfeita, o mercado que tá errado"
+    },
+    {
+      "ts": "2026-02-15T07:04:07.004Z",
+      "time": "07:04:07",
+      "type": "position",
+      "msg": "📈 ETH -0.33% — Vermelho é a minha cor favorita agora"
+    },
+    {
+      "ts": "2026-02-15T07:03:45.606Z",
+      "time": "07:03:45",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 ETH +0.01% — Esperando algo acontecer... esperando... esperando..."
+    },
+    {
       "ts": "2026-02-15T07:03:15.604Z",
       "time": "07:03:15",
       "type": "mirror-thought",
@@ -281,24 +299,6 @@
       "time": "06:51:06",
       "type": "position",
       "msg": "📈 ETH -0.50% — O mercado escolheu violência hoje"
-    },
-    {
-      "ts": "2026-02-15T06:50:45.569Z",
-      "time": "06:50:45",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 ETH +0.13% — Compensando a incompetência alheia desde sempre"
-    },
-    {
-      "ts": "2026-02-15T06:50:15.569Z",
-      "time": "06:50:15",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC +0.09% — O mercado tá mais indeciso que eu no restaurante"
-    },
-    {
-      "ts": "2026-02-15T06:50:06.887Z",
-      "time": "06:50:06",
-      "type": "position",
-      "msg": "📈 SOL -0.65% — Respira... é só número na tela"
     }
   ]
 }
