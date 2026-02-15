@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T03:22:58.299Z",
+      "time": "03:22:58",
+      "type": "position",
+      "msg": "📈 OM -2.48% — Pelo menos o stop existe. Graças a Deus pelo stop."
+    },
+    {
+      "ts": "2026-02-15T03:22:54.523Z",
+      "time": "03:22:54",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 ETH -0.05% — Aguardando o mercado decidir o que quer da vida"
+    },
+    {
       "ts": "2026-02-15T03:22:27.588Z",
       "time": "03:22:27",
       "type": "position",
@@ -283,22 +295,10 @@
       "msg": "🪞 📉 XRP +0.13% — Alguém precisa ser o adulto responsável aqui"
     },
     {
-      "ts": "2026-02-15T03:13:27.723Z",
-      "time": "03:13:27",
-      "type": "position",
-      "msg": "📈 OM -2.86% — O mercado acordou e escolheu me machucar"
-    },
-    {
       "ts": "2026-02-15T03:13:24.501Z",
       "time": "03:13:24",
       "type": "mirror-thought",
       "msg": "🪞 📈 ETH +0.11% — Fazendo meu trabalho enquanto o QuickBot apronta"
-    },
-    {
-      "ts": "2026-02-15T03:12:54.499Z",
-      "time": "03:12:54",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 ETH -0.33% — Delta neutral de prejuízo. Inovador."
     }
   ]
 }
