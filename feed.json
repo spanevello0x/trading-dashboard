@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T04:55:01.865Z",
+      "time": "04:55:01",
+      "type": "position",
+      "msg": "📉 ZRO -0.91% — Meu eu do passado tomou essa decisão, problema dele"
+    },
+    {
+      "ts": "2026-02-15T04:55:01.594Z",
+      "time": "04:55:01",
+      "type": "position",
+      "msg": "📈 SOL +0.11% — Será que é armadilha? Provavelmente. Mas vou curtir enquanto dura"
+    },
+    {
+      "ts": "2026-02-15T04:55:00.730Z",
+      "time": "04:55:00",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL -0.26% — Delta neutral de prejuízo. Inovador."
+    },
+    {
       "ts": "2026-02-15T04:54:30.729Z",
       "time": "04:54:30",
       "type": "mirror-thought",
@@ -281,24 +299,6 @@
       "time": "04:43:00",
       "type": "mirror-thought",
       "msg": "🪞 📉 XRP +0.34% — O mercado me odeia menos que odeia o QuickBot"
-    },
-    {
-      "ts": "2026-02-15T04:42:30.706Z",
-      "time": "04:42:30",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 SOL -0.47% — Quando o mercado inteiro resolve desabar..."
-    },
-    {
-      "ts": "2026-02-15T04:42:00.937Z",
-      "time": "04:42:00",
-      "type": "position",
-      "msg": "📈 SOL +0.37% — Print pra mostrar pros netos"
-    },
-    {
-      "ts": "2026-02-15T04:42:00.705Z",
-      "time": "04:42:00",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 SOL +0.08% — Oscilando entre 'meh' e 'whatever'"
     }
   ]
 }
