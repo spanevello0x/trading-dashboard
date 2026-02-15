@@ -1,6 +1,12 @@
 {
-  "lastUpdate": "2026-02-15T00:55:03.860Z",
+  "lastUpdate": "2026-02-15T00:55:37.737Z",
   "feed": [
+    {
+      "ts": "2026-02-15T00:55:01.288Z",
+      "time": "00:55:01",
+      "type": "mirror-system",
+      "msg": "🪞 Mirror Bot online. Hora de trabalhar enquanto outros descansam."
+    },
     {
       "ts": "2026-02-15T00:54:16.977Z",
       "time": "00:54:16",
@@ -294,24 +300,18 @@
       "time": "15:35:31",
       "type": "position",
       "msg": "SOL +0.40% — Não me acostumem com isso"
-    },
-    {
-      "ts": "2026-02-14T15:35:31.395Z",
-      "time": "15:35:31",
-      "type": "position",
-      "msg": "ETH -0.00% — O mercado tá buffering"
     }
   ],
   "hl": {
-    "balance": 15.920021,
+    "balance": 15.912961,
     "positions": [
       {
         "coin": "BTC",
         "side": "SHORT",
         "size": 0.00032,
         "entry": 69697,
-        "pnl": -0.00288,
-        "pnlPct": -0.06456519
+        "pnl": -0.01024,
+        "pnlPct": -0.22956512
       },
       {
         "coin": "XRP",
@@ -326,8 +326,8 @@
         "side": "LONG",
         "size": 0.003,
         "entry": 5030.2,
-        "pnl": -0.0189,
-        "pnlPct": -0.62621765
+        "pnl": -0.0186,
+        "pnlPct": -0.61627768
       }
     ]
   },
