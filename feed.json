@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T03:57:29.070Z",
+      "time": "03:57:29",
+      "type": "position",
+      "msg": "📈 SOL +0.03% — O mercado foi tomar café, já volta"
+    },
+    {
+      "ts": "2026-02-15T03:57:29.061Z",
+      "time": "03:57:29",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL +0.39% — Compensando a incompetência alheia desde sempre"
+    },
+    {
       "ts": "2026-02-15T03:56:59.424Z",
       "time": "03:56:59",
       "type": "position",
@@ -193,12 +205,6 @@
       "msg": "⚠️ Limite atingido (5/5) - ASTER cancelado"
     },
     {
-      "ts": "2026-02-15T03:56:08.706Z",
-      "time": "03:56:08",
-      "type": "signal",
-      "msg": "🎯 LONG ASTER @ $0.74 (78%) — Mais uma pro histórico"
-    },
-    {
       "ts": "2026-02-15T03:55:57.022Z",
       "time": "03:55:57",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "03:48:55",
       "type": "mirror-thought",
       "msg": "🪞 📉 XRP -0.43% — Perdendo aqui porque ALGUÉM tinha que abrir posição"
-    },
-    {
-      "ts": "2026-02-15T03:48:25.092Z",
-      "time": "03:48:25",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 ETH -0.17% — Delta neutral de prejuízo. Inovador."
     }
   ]
 }
