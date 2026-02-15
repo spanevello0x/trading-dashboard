@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T03:42:28.784Z",
+      "time": "03:42:28",
+      "type": "position",
+      "msg": "📉 ZRO +0.64% — Não sou eu, é o mercado que tá errado... ah não, dessa vez acertou"
+    },
+    {
+      "ts": "2026-02-15T03:42:28.522Z",
+      "time": "03:42:28",
+      "type": "position",
+      "msg": "📉 ETH +1.11% — Isso aí, garoto. Vai, vai, vai..."
+    },
+    {
+      "ts": "2026-02-15T03:42:25.081Z",
+      "time": "03:42:25",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP +0.27% — Alguém precisa ser o adulto responsável aqui"
+    },
+    {
       "ts": "2026-02-15T03:41:55.079Z",
       "time": "03:41:55",
       "type": "mirror-thought",
@@ -281,24 +299,6 @@
       "time": "03:29:58",
       "type": "position",
       "msg": "📉 ETH +0.48% — Obrigado universo, tava precisando"
-    },
-    {
-      "ts": "2026-02-15T03:29:54.532Z",
-      "time": "03:29:54",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP -0.24% — Cadê a tal da proteção? Perdida junto com a esperança."
-    },
-    {
-      "ts": "2026-02-15T03:29:28.744Z",
-      "time": "03:29:28",
-      "type": "position",
-      "msg": "📉 ZRO +0.16% — Obrigado universo, tava precisando"
-    },
-    {
-      "ts": "2026-02-15T03:29:24.532Z",
-      "time": "03:29:24",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 ETH +0.38% — Ganhando em silêncio, sem aplausos, sem medalha"
     }
   ]
 }
