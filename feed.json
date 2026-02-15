@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T04:47:00.714Z",
+      "time": "04:47:00",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP +0.09% — Esperando o próximo desastre ou milagre. Tanto faz."
+    },
+    {
       "ts": "2026-02-15T04:46:30.713Z",
       "time": "04:46:30",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "04:33:30",
       "type": "mirror-thought",
       "msg": "🪞 📉 SOL +0.17% — Obrigado por nada, eu que me viro mesmo"
-    },
-    {
-      "ts": "2026-02-15T04:33:01.318Z",
-      "time": "04:33:01",
-      "type": "position",
-      "msg": "📉 ZRO -0.57% — Tá bom, universo, entendi o recado"
     }
   ]
 }
