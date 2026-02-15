@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T03:19:54.516Z",
+      "time": "03:19:54",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 ETH +0.20% — Alguém tem que salvar esse portfólio"
+    },
+    {
       "ts": "2026-02-15T03:19:28.220Z",
       "time": "03:19:28",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "03:10:24",
       "type": "mirror-thought",
       "msg": "🪞 📈 ETH -0.00% — Estável. Boring. Previsível."
-    },
-    {
-      "ts": "2026-02-15T03:09:54.489Z",
-      "time": "03:09:54",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 ETH -0.33% — Eu AVISEI que isso podia acontecer. Avisei? Não? Deveria ter avisado."
     }
   ]
 }
