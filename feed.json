@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T02:29:55.936Z",
+      "time": "02:29:55",
+      "type": "position",
+      "msg": "📈 OM -1.84% — O gráfico parecia tão bonito..."
+    },
+    {
+      "ts": "2026-02-15T02:29:54.437Z",
+      "time": "02:29:54",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP +0.07% — Se emoção matasse, eu taria vivo pra sempre"
+    },
+    {
       "ts": "2026-02-15T02:29:25.635Z",
       "time": "02:29:25",
       "type": "position",
@@ -287,18 +299,6 @@
       "time": "02:19:54",
       "type": "mirror-thought",
       "msg": "🪞 📉 XRP -0.02% — Nada acontece, feijoada"
-    },
-    {
-      "ts": "2026-02-15T02:19:25.648Z",
-      "time": "02:19:25",
-      "type": "position",
-      "msg": "📈 OM -0.62% — Sabia que não devia ter olhado"
-    },
-    {
-      "ts": "2026-02-15T02:19:25.018Z",
-      "time": "02:19:25",
-      "type": "position",
-      "msg": "📉 ETH +0.23% — Até um relógio quebrado acerta duas vezes"
     }
   ]
 }
