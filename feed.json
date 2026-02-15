@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T04:00:59.528Z",
+      "time": "04:00:59",
+      "type": "position",
+      "msg": "📉 ZRO -0.86% — Quem precisa de dinheiro mesmo"
+    },
+    {
+      "ts": "2026-02-15T04:00:59.243Z",
+      "time": "04:00:59",
+      "type": "position",
+      "msg": "📈 SOL +0.23% — Print pra mostrar pros netos"
+    },
+    {
+      "ts": "2026-02-15T04:00:59.063Z",
+      "time": "04:00:59",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL -0.17% — O mercado acordou e escolheu caos"
+    },
+    {
       "ts": "2026-02-15T04:00:29.064Z",
       "time": "04:00:29",
       "type": "mirror-thought",
@@ -229,18 +247,6 @@
       "msg": "FARTCOIN tá interessante, 67% pro LONG"
     },
     {
-      "ts": "2026-02-15T03:56:11.143Z",
-      "time": "03:56:11",
-      "type": "analysis",
-      "msg": "BCH tá interessante, 56% pro LONG"
-    },
-    {
-      "ts": "2026-02-15T03:56:10.589Z",
-      "time": "03:56:10",
-      "type": "analysis",
-      "msg": "Analisando UNI... parece LONG (67%)"
-    },
-    {
       "ts": "2026-02-15T03:55:57.022Z",
       "time": "03:55:57",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "03:52:25",
       "type": "mirror-thought",
       "msg": "🪞 📈 BTC +0.19% — Pelo menos UM de nós sabe o que tá fazendo"
-    },
-    {
-      "ts": "2026-02-15T03:51:55.099Z",
-      "time": "03:51:55",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP -0.25% — Se o QuickBot não tivesse... ah, deixa pra lá"
     }
   ]
 }
