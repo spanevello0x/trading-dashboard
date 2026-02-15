@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T05:41:33.600Z",
+      "time": "05:41:33",
+      "type": "position",
+      "msg": "📈 SOL +1.24% — Tá bom demais pra ser verdade... ops, não deveria falar isso"
+    },
+    {
+      "ts": "2026-02-15T05:41:31.332Z",
+      "time": "05:41:31",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC -0.18% — Nem o hedge salva dessa"
+    },
+    {
       "ts": "2026-02-15T05:41:04.253Z",
       "time": "05:41:04",
       "type": "position",
@@ -287,18 +299,6 @@
       "time": "05:28:33",
       "type": "position",
       "msg": "📉 ZRO -1.05% — Clássico"
-    },
-    {
-      "ts": "2026-02-15T05:28:33.371Z",
-      "time": "05:28:33",
-      "type": "position",
-      "msg": "📈 SOL +0.92% — Se continuar assim, quase empato na semana"
-    },
-    {
-      "ts": "2026-02-15T05:28:31.298Z",
-      "time": "05:28:31",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC +0.10% — Mais um dia salvando a pátria"
     }
   ]
 }
