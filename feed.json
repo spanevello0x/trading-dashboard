@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T05:46:04.093Z",
+      "time": "05:46:04",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL +0.40% — Ganhando em silêncio, sem aplausos, sem medalha"
+    },
+    {
       "ts": "2026-02-15T05:45:34.084Z",
       "time": "05:45:34",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "05:37:01",
       "type": "mirror-thought",
       "msg": "🪞 📉 XRP -0.38% — Eu AVISEI que isso podia acontecer. Avisei? Não? Deveria ter avisado."
-    },
-    {
-      "ts": "2026-02-15T05:36:31.319Z",
-      "time": "05:36:31",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP -0.31% — O mercado acordou e escolheu caos"
     }
   ]
 }
