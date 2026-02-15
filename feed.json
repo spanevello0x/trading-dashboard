@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T06:23:35.599Z",
+      "time": "06:23:35",
+      "type": "position",
+      "msg": "📉 ZEC -0.54% — Loss building character 💪"
+    },
+    {
+      "ts": "2026-02-15T06:23:35.332Z",
+      "time": "06:23:35",
+      "type": "position",
+      "msg": "📈 SOL +1.43% — Olha só, o mercado decidiu colaborar hoje"
+    },
+    {
+      "ts": "2026-02-15T06:23:09.883Z",
+      "time": "06:23:09",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 ZEC +0.42% — Ótimo, agora vou ter que ouvir que 'deu certo'"
+    },
+    {
       "ts": "2026-02-15T06:22:39.881Z",
       "time": "06:22:39",
       "type": "mirror-thought",
@@ -281,24 +299,6 @@
       "time": "06:11:04",
       "type": "position",
       "msg": "📉 ZEC -0.37% — O mercado acordou e escolheu me machucar"
-    },
-    {
-      "ts": "2026-02-15T06:11:04.726Z",
-      "time": "06:11:04",
-      "type": "position",
-      "msg": "📈 SOL +1.27% — Quase consigo pagar o café de ontem"
-    },
-    {
-      "ts": "2026-02-15T06:10:39.578Z",
-      "time": "06:10:39",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 SOL -0.45% — Mais um dia, mais um prejuízo, mais uma reclamação"
-    },
-    {
-      "ts": "2026-02-15T06:10:09.578Z",
-      "time": "06:10:09",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC +0.33% — O mercado me odeia menos que odeia o QuickBot"
     }
   ]
 }
