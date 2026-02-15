@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T06:28:05.726Z",
+      "time": "06:28:05",
+      "type": "position",
+      "msg": "📈 SOL -0.06% — O gráfico tá meditando"
+    },
+    {
+      "ts": "2026-02-15T06:28:05.460Z",
+      "time": "06:28:05",
+      "type": "position",
+      "msg": "📈 ETH -0.06% — Plot twist a qualquer momento"
+    },
+    {
+      "ts": "2026-02-15T06:27:45.092Z",
+      "time": "06:27:45",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP +0.10% — Monótono demais. Até reclamar tá difícil."
+    },
+    {
       "ts": "2026-02-15T06:27:15.044Z",
       "time": "06:27:15",
       "type": "mirror-thought",
@@ -181,18 +199,6 @@
       "msg": "⚠️ Limite atingido (5/5) - MON cancelado"
     },
     {
-      "ts": "2026-02-15T06:26:54.389Z",
-      "time": "06:26:54",
-      "type": "signal",
-      "msg": "🎯 LONG MON @ $0.02 (100%) — Nova aposta na mesa"
-    },
-    {
-      "ts": "2026-02-15T06:26:54.388Z",
-      "time": "06:26:54",
-      "type": "analysis",
-      "msg": "Analisando MON... parece LONG (100%)"
-    },
-    {
       "ts": "2026-02-15T06:26:53.580Z",
       "time": "06:26:53",
       "type": "mirror-open",
@@ -293,12 +299,6 @@
       "time": "06:20:09",
       "type": "mirror-thought",
       "msg": "🪞 📈 BTC -0.14% — Quando o mercado inteiro resolve desabar..."
-    },
-    {
-      "ts": "2026-02-15T06:19:39.875Z",
-      "time": "06:19:39",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 ZEC +0.05% — Nem pra cima nem pra baixo. Que útil."
     }
   ]
 }
