@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T04:10:59.337Z",
+      "time": "04:10:59",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL -0.00% — Nem pra cima nem pra baixo. Que útil."
+    },
+    {
       "ts": "2026-02-15T04:10:29.336Z",
       "time": "04:10:29",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "03:58:29",
       "type": "mirror-thought",
       "msg": "🪞 📈 BTC -0.40% — Nem o hedge salva dessa"
-    },
-    {
-      "ts": "2026-02-15T03:57:59.062Z",
-      "time": "03:57:59",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 SOL +0.03% — Sem novidades no front. Que surpresa."
     }
   ]
 }
