@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T07:40:45.691Z",
+      "time": "07:40:45",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL +0.41% — Ganhando aqui pra compensar a burrice do outro lado"
+    },
+    {
       "ts": "2026-02-15T07:40:38.736Z",
       "time": "07:40:38",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "07:28:08",
       "type": "position",
       "msg": "📈 SOL -0.14% — O stop tá ali por um motivo, né"
-    },
-    {
-      "ts": "2026-02-15T07:28:08.080Z",
-      "time": "07:28:08",
-      "type": "position",
-      "msg": "📈 ETH -0.41% — O stop tá ali por um motivo, né"
     }
   ]
 }
