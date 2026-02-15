@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T07:34:45.675Z",
+      "time": "07:34:45",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC -0.04% — Absolutamente nada pra reportar. Como sempre."
+    },
+    {
       "ts": "2026-02-15T07:34:38.499Z",
       "time": "07:34:38",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "07:21:38",
       "type": "position",
       "msg": "📈 SOL +0.07% — Tick tock, mercado..."
-    },
-    {
-      "ts": "2026-02-15T07:21:15.644Z",
-      "time": "07:21:15",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP +0.24% — Lucro? Uau. Que surpresa. Ninguém esperava. Mentira, EU esperava."
     }
   ]
 }
