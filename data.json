@@ -1,6 +1,18 @@
 {
-  "lastUpdate": "2026-02-15T05:47:12.324Z",
+  "lastUpdate": "2026-02-15T05:47:42.418Z",
   "feed": [
+    {
+      "ts": "2026-02-15T05:47:34.095Z",
+      "time": "05:47:34",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP +0.35% — Sou o plano B que deveria ser o plano A"
+    },
+    {
+      "ts": "2026-02-15T05:47:34.029Z",
+      "time": "05:47:34",
+      "type": "position",
+      "msg": "📉 ZEC +0.93% — Tá verde? Tira print rápido antes que vire"
+    },
     {
       "ts": "2026-02-15T05:47:04.184Z",
       "time": "05:47:04",
@@ -206,12 +218,6 @@
       "msg": "⚠️ Limite atingido (5/5) - BERA cancelado"
     },
     {
-      "ts": "2026-02-15T05:45:18.961Z",
-      "time": "05:45:18",
-      "type": "signal",
-      "msg": "🎯 LONG BERA @ $0.68 (78%) — Vamo ver no que dá"
-    },
-    {
       "ts": "2026-02-15T05:45:01.339Z",
       "time": "05:45:01",
       "type": "mirror-thought",
@@ -294,56 +300,50 @@
       "time": "05:38:31",
       "type": "mirror-thought",
       "msg": "🪞 📈 BTC -0.30% — Mais um dia, mais um prejuízo, mais uma reclamação"
-    },
-    {
-      "ts": "2026-02-15T05:38:01.323Z",
-      "time": "05:38:01",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 SOL +0.37% — Ganhando aqui pra compensar a burrice do outro lado"
     }
   ],
   "hl": {
-    "balance": 16.046684,
+    "balance": 16.188514,
     "positions": [
       {
         "coin": "BTC",
         "side": "SHORT",
         "size": 0.00032,
         "entry": 69697,
-        "pnl": -0.216,
-        "pnlPct": -4.8423892
+        "pnl": -0.21216,
+        "pnlPct": -4.75630228
       },
       {
         "coin": "SOL",
         "side": "LONG",
         "size": 0.16,
         "entry": 88.485,
-        "pnl": 0.19616,
-        "pnlPct": 6.927727860000001
+        "pnl": 0.19088,
+        "pnlPct": 6.74125558
       },
       {
         "coin": "XRP",
         "side": "LONG",
         "size": 11,
         "entry": 1.4503,
-        "pnl": 1.4014,
-        "pnlPct": 43.92194718
+        "pnl": 1.419,
+        "pnlPct": 44.4735572
       },
       {
         "coin": "OM",
         "side": "LONG",
         "size": 83.5,
         "entry": 0.06402,
-        "pnl": -0.09352,
-        "pnlPct": -5.24835989
+        "pnl": -0.09185,
+        "pnlPct": -5.15463918
       },
       {
         "coin": "ZEC",
         "side": "SHORT",
         "size": 0.05,
         "entry": 319.8,
-        "pnl": 0.0355,
-        "pnlPct": 1.11006879
+        "pnl": 0.1595,
+        "pnlPct": 4.98749218
       }
     ]
   },
@@ -355,40 +355,40 @@
         "side": "LONG",
         "size": 0.0006,
         "entry": 69665,
-        "price": 70379.5,
-        "notional": 42.2277,
-        "pnl": 0.42869999999999997,
-        "pnlPct": 1.0256226225507787
+        "price": 70381.5,
+        "notional": 42.228899999999996,
+        "pnl": 0.42989999999999995,
+        "pnlPct": 1.0284935046292973
       },
       {
         "coin": "SOL",
         "side": "SHORT",
         "size": 0.1,
         "entry": 88.535,
-        "price": 89.725,
-        "notional": 8.9725,
-        "pnl": -0.11899999999999977,
-        "pnlPct": -1.3441012029140993
+        "price": 89.715,
+        "notional": 8.9715,
+        "pnl": -0.11800000000000069,
+        "pnlPct": -1.3328062348223944
       },
       {
         "coin": "XRP",
         "side": "SHORT",
         "size": 10,
         "entry": 1.53,
-        "price": 1.57715,
-        "notional": 15.7715,
-        "pnl": -0.47150000000000025,
-        "pnlPct": -3.0816993464052302
+        "price": 1.5789499999999999,
+        "notional": 15.789499999999999,
+        "pnl": -0.48949999999999827,
+        "pnlPct": -3.1993464052287464
       },
       {
         "coin": "ZEC",
         "side": "LONG",
         "size": 0.04,
         "entry": 319.95000000000005,
-        "price": 315.145,
-        "notional": 12.6058,
-        "pnl": -0.19220000000000256,
-        "pnlPct": -1.5017971558056142
+        "price": 316.28,
+        "notional": 12.6512,
+        "pnl": -0.1468000000000029,
+        "pnlPct": -1.1470542272230262
       }
     ]
   }
