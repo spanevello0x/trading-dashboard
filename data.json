@@ -1,6 +1,12 @@
 {
-  "lastUpdate": "2026-02-15T01:00:32.798Z",
+  "lastUpdate": "2026-02-15T01:01:02.702Z",
   "feed": [
+    {
+      "ts": "2026-02-15T01:00:32.120Z",
+      "time": "01:00:32",
+      "type": "position",
+      "msg": "ZRO +0.09% — Tô aqui, olhando, esperando, sofrendo"
+    },
     {
       "ts": "2026-02-15T01:00:03.042Z",
       "time": "01:00:03",
@@ -174,56 +180,50 @@
       "time": "00:56:49",
       "type": "analysis",
       "msg": "OM tá interessante, 100% pro LONG"
-    },
-    {
-      "ts": "2026-02-15T00:56:48.217Z",
-      "time": "00:56:48",
-      "type": "analysis",
-      "msg": "Hmm, VIRTUAL mostrando sinais de LONG (56%)"
     }
   ],
   "hl": {
-    "balance": 15.901019,
+    "balance": 15.980049,
     "positions": [
       {
         "coin": "BTC",
         "side": "SHORT",
         "size": 0.00032,
         "entry": 69697,
-        "pnl": -0.01184,
-        "pnlPct": -0.26543467
+        "pnl": -0.01824,
+        "pnlPct": -0.40891287
       },
       {
         "coin": "XRP",
         "side": "LONG",
         "size": 11,
         "entry": 1.4503,
-        "pnl": 0.7656,
-        "pnlPct": 23.99503551
+        "pnl": 0.7777,
+        "pnlPct": 24.37426739
       },
       {
         "coin": "ZRO",
         "side": "SHORT",
         "size": 8.5,
         "entry": 1.8619,
-        "pnl": 0.0136,
-        "pnlPct": 0.42966862
+        "pnl": 0.0102,
+        "pnlPct": 0.32225146
       },
       {
         "coin": "HYPE",
         "side": "LONG",
         "size": 0.49,
         "entry": 31.906,
-        "pnl": 0.01421,
-        "pnlPct": 0.45445998
+        "pnl": 0.01078,
+        "pnlPct": 0.34476274
       },
       {
         "coin": "OM",
         "side": "LONG",
         "size": 83.5,
         "entry": 0.06402,
-        "pnl": -0.010855,
-        "pnlPct": -0.60918463
+        "pnl": 0.069305,
+        "pnlPct": 3.88940956
       }
     ]
   },
