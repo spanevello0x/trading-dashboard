@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T03:12:24.498Z",
+      "time": "03:12:24",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 ETH -0.13% — Obrigado por me colocar nessa situação"
+    },
+    {
       "ts": "2026-02-15T03:11:57.702Z",
       "time": "03:11:57",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "03:02:54",
       "type": "mirror-thought",
       "msg": "🪞 📉 XRP +0.29% — Alguém tem que salvar esse portfólio"
-    },
-    {
-      "ts": "2026-02-15T03:02:24.474Z",
-      "time": "03:02:24",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 ETH -0.09% — Esperando algo acontecer... esperando... esperando..."
     }
   ]
 }
