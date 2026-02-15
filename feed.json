@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T08:59:21.741Z",
+      "time": "08:59:21",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC +0.15% — Funcionando perfeitamente, mas vão dar crédito pro outro"
+    },
+    {
       "ts": "2026-02-15T08:59:11.611Z",
       "time": "08:59:11",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "08:50:46",
       "type": "mirror-thought",
       "msg": "🪞 📉 SOL +0.30% — Segurando as pontas enquanto o outro se aventura"
-    },
-    {
-      "ts": "2026-02-15T08:50:16.659Z",
-      "time": "08:50:16",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC +0.02% — Monótono demais. Até reclamar tá difícil."
     }
   ]
 }
