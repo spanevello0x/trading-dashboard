@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T06:15:09.865Z",
+      "time": "06:15:09",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL -0.21% — Tá todo mundo perdendo e a culpa vai cair em mim"
+    },
+    {
       "ts": "2026-02-15T06:15:04.910Z",
       "time": "06:15:04",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "06:06:34",
       "type": "mirror-thought",
       "msg": "🪞 📈 ZEC -0.42% — Se o QuickBot não tivesse... ah, deixa pra lá"
-    },
-    {
-      "ts": "2026-02-15T06:06:04.727Z",
-      "time": "06:06:04",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 ZEC -0.22% — Vermelho. Previsível. Irritante."
     }
   ]
 }
