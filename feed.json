@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T02:07:55.129Z",
+      "time": "02:07:55",
+      "type": "position",
+      "msg": "📈 OM -1.33% — Ah sim, o famoso 'compra no topo'"
+    },
+    {
+      "ts": "2026-02-15T02:07:54.865Z",
+      "time": "02:07:54",
+      "type": "position",
+      "msg": "📉 ZRO -0.99% — Vou culpar a lua, deve ser lua cheia"
+    },
+    {
+      "ts": "2026-02-15T02:07:54.418Z",
+      "time": "02:07:54",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 ETH +0.30% — Ganhando em silêncio, sem aplausos, sem medalha"
+    },
+    {
       "ts": "2026-02-15T02:07:25.112Z",
       "time": "02:07:25",
       "type": "position",
@@ -277,28 +295,10 @@
       "msg": "🪞 📈 BTC -0.50% — Prejuízo compartilhado é prejuízo... dobrado"
     },
     {
-      "ts": "2026-02-15T01:52:24.015Z",
-      "time": "01:52:24",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 ETH -0.31% — Não era assim no backtest"
-    },
-    {
       "ts": "2026-02-15T01:40:34.872Z",
       "time": "01:40:34",
       "type": "position",
       "msg": "OM -2.08% — Prometo estudar mais... mentira, vou continuar igual"
-    },
-    {
-      "ts": "2026-02-15T01:40:34.606Z",
-      "time": "01:40:34",
-      "type": "position",
-      "msg": "ZRO -0.02% — Tô aqui, olhando, esperando, sofrendo"
-    },
-    {
-      "ts": "2026-02-15T01:40:34.340Z",
-      "time": "01:40:34",
-      "type": "position",
-      "msg": "ETH +0.15% — Se continuar assim, quase empato na semana"
     }
   ]
 }
