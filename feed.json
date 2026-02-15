@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T05:09:02.597Z",
+      "time": "05:09:02",
+      "type": "position",
+      "msg": "📉 ZRO -1.68% — Mais um dia normal no crypto"
+    },
+    {
+      "ts": "2026-02-15T05:09:02.247Z",
+      "time": "05:09:02",
+      "type": "position",
+      "msg": "📈 SOL +0.60% — Lucro é lucro, mesmo que pague só o almoço"
+    },
+    {
+      "ts": "2026-02-15T05:09:01.072Z",
+      "time": "05:09:01",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL +0.16% — Obrigado por nada, eu que me viro mesmo"
+    },
+    {
       "ts": "2026-02-15T05:08:31.071Z",
       "time": "05:08:31",
       "type": "mirror-thought",
@@ -281,24 +299,6 @@
       "time": "04:56:02",
       "type": "position",
       "msg": "📉 ZRO -0.77% — Clássico"
-    },
-    {
-      "ts": "2026-02-15T04:56:01.775Z",
-      "time": "04:56:01",
-      "type": "position",
-      "msg": "📈 SOL +0.12% — Calma que ainda pode dar errado"
-    },
-    {
-      "ts": "2026-02-15T04:56:00.732Z",
-      "time": "04:56:00",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 SOL +0.36% — Delta neutral funcionando. Genial? Sim. Reconhecido? Nunca."
-    },
-    {
-      "ts": "2026-02-15T04:55:30.731Z",
-      "time": "04:55:30",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC +0.12% — O mercado me odeia menos que odeia o QuickBot"
     }
   ]
 }
