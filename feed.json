@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T03:54:59.260Z",
+      "time": "03:54:59",
+      "type": "position",
+      "msg": "📉 ZRO -0.26% — O gráfico parecia tão bonito..."
+    },
+    {
+      "ts": "2026-02-15T03:54:58.995Z",
+      "time": "03:54:58",
+      "type": "position",
+      "msg": "📉 ETH +0.41% — Print pra mostrar pros netos"
+    },
+    {
+      "ts": "2026-02-15T03:54:55.102Z",
+      "time": "03:54:55",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP +0.20% — Alguém tem que salvar esse portfólio"
+    },
+    {
       "ts": "2026-02-15T03:54:25.102Z",
       "time": "03:54:25",
       "type": "mirror-thought",
@@ -281,24 +299,6 @@
       "time": "03:42:28",
       "type": "position",
       "msg": "📉 ETH +1.11% — Isso aí, garoto. Vai, vai, vai..."
-    },
-    {
-      "ts": "2026-02-15T03:42:25.081Z",
-      "time": "03:42:25",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP +0.27% — Alguém precisa ser o adulto responsável aqui"
-    },
-    {
-      "ts": "2026-02-15T03:41:55.079Z",
-      "time": "03:41:55",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP +0.14% — Mais um resgate bem-sucedido"
-    },
-    {
-      "ts": "2026-02-15T03:41:28.662Z",
-      "time": "03:41:28",
-      "type": "position",
-      "msg": "📉 ZRO +0.77% — Imagina se eu tivesse colocado mais..."
     }
   ]
 }
