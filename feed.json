@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T04:43:01.252Z",
+      "time": "04:43:01",
+      "type": "position",
+      "msg": "📉 ZRO -0.62% — Não é prejuízo se eu não vender... ah, tem stop"
+    },
+    {
+      "ts": "2026-02-15T04:43:00.966Z",
+      "time": "04:43:00",
+      "type": "position",
+      "msg": "📈 SOL +0.16% — Isso aí, garoto. Vai, vai, vai..."
+    },
+    {
+      "ts": "2026-02-15T04:43:00.707Z",
+      "time": "04:43:00",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP +0.34% — O mercado me odeia menos que odeia o QuickBot"
+    },
+    {
       "ts": "2026-02-15T04:42:30.706Z",
       "time": "04:42:30",
       "type": "mirror-thought",
@@ -281,24 +299,6 @@
       "time": "04:29:30",
       "type": "position",
       "msg": "📉 ZRO -0.56% — Pelo menos o stop existe. Graças a Deus pelo stop."
-    },
-    {
-      "ts": "2026-02-15T04:29:30.676Z",
-      "time": "04:29:30",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP -0.31% — Parabéns mercado, você venceu. Por enquanto."
-    },
-    {
-      "ts": "2026-02-15T04:29:30.533Z",
-      "time": "04:29:30",
-      "type": "position",
-      "msg": "📈 SOL -0.11% — Não é prejuízo se eu não vender... ah, tem stop"
-    },
-    {
-      "ts": "2026-02-15T04:29:00.675Z",
-      "time": "04:29:00",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC -0.35% — O mercado tá de sacanagem"
     }
   ]
 }
