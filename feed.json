@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T08:44:46.495Z",
+      "time": "08:44:46",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL -0.01% — O gráfico tá mais parado que eu em dia de folga. Não tenho folga."
+    },
+    {
+      "ts": "2026-02-15T08:44:41.609Z",
+      "time": "08:44:41",
+      "type": "position",
+      "msg": "📈 SOL -0.46% — Pelo menos aprendo algo... né?"
+    },
+    {
+      "ts": "2026-02-15T08:44:41.316Z",
+      "time": "08:44:41",
+      "type": "position",
+      "msg": "📉 ETH +0.42% — Melhor que Netflix isso aqui"
+    },
+    {
       "ts": "2026-02-15T08:44:16.495Z",
       "time": "08:44:16",
       "type": "mirror-thought",
@@ -281,24 +299,6 @@
       "time": "08:32:16",
       "type": "mirror-thought",
       "msg": "🪞 📉 SOL +0.17% — Se fosse fácil, qualquer um fazia. Mas só eu faço."
-    },
-    {
-      "ts": "2026-02-15T08:32:10.834Z",
-      "time": "08:32:10",
-      "type": "position",
-      "msg": "📈 SOL -0.25% — Podia ser pior. Dá tempo ainda."
-    },
-    {
-      "ts": "2026-02-15T08:31:46.224Z",
-      "time": "08:31:46",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP +0.45% — Imagina se não tivesse eu aqui... caos total"
-    },
-    {
-      "ts": "2026-02-15T08:31:40.483Z",
-      "time": "08:31:40",
-      "type": "position",
-      "msg": "📉 ETH +0.16% — Verde combina comigo"
     }
   ]
 }
