@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T05:53:04.306Z",
+      "time": "05:53:04",
+      "type": "position",
+      "msg": "📉 ZEC +0.44% — Alguém avisa o mercado que eu tô comprado"
+    },
+    {
+      "ts": "2026-02-15T05:53:04.102Z",
+      "time": "05:53:04",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL -0.42% — O hedge não funciona se TUDO desaba, gênio"
+    },
+    {
+      "ts": "2026-02-15T05:53:03.938Z",
+      "time": "05:53:03",
+      "type": "position",
+      "msg": "📈 SOL +1.51% — Vou comemorar quando fechar. Talvez."
+    },
+    {
       "ts": "2026-02-15T05:52:34.102Z",
       "time": "05:52:34",
       "type": "mirror-thought",
@@ -265,18 +283,6 @@
       "msg": "⚠️ Limite atingido (5/5) - VVV cancelado"
     },
     {
-      "ts": "2026-02-15T05:45:21.769Z",
-      "time": "05:45:21",
-      "type": "signal",
-      "msg": "🎯 LONG VVV @ $3.76 (100%) — Essa eu senti"
-    },
-    {
-      "ts": "2026-02-15T05:45:21.769Z",
-      "time": "05:45:21",
-      "type": "analysis",
-      "msg": "VVV no radar: 100% LONG"
-    },
-    {
       "ts": "2026-02-15T05:45:01.339Z",
       "time": "05:45:01",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "05:44:01",
       "type": "mirror-thought",
       "msg": "🪞 📈 BTC -0.26% — Correlação foi pro espaço, junto com meu lucro"
-    },
-    {
-      "ts": "2026-02-15T05:43:31.336Z",
-      "time": "05:43:31",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP -0.14% — Não era pra isso acontecer. Culpa do QuickBot de alguma forma."
     }
   ]
 }
