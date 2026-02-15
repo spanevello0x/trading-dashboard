@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T08:41:46.493Z",
+      "time": "08:41:46",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 ETH -0.30% — Nem o hedge salva dessa"
+    },
+    {
+      "ts": "2026-02-15T08:41:41.244Z",
+      "time": "08:41:41",
+      "type": "position",
+      "msg": "📈 SOL -0.44% — Tá bom, universo, entendi o recado"
+    },
+    {
       "ts": "2026-02-15T08:41:40.978Z",
       "time": "08:41:40",
       "type": "position",
@@ -287,18 +299,6 @@
       "time": "08:31:34",
       "type": "signal",
       "msg": "🎯 SHORT ARB @ $0.12 (100%) — Setup alinhado, agora é com o mercado"
-    },
-    {
-      "ts": "2026-02-15T08:31:34.462Z",
-      "time": "08:31:34",
-      "type": "analysis",
-      "msg": "Hmm, ARB mostrando sinais de SHORT (100%)"
-    },
-    {
-      "ts": "2026-02-15T08:31:33.727Z",
-      "time": "08:31:33",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - kPEPE cancelado"
     }
   ]
 }
