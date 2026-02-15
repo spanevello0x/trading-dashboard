@@ -1,6 +1,30 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T02:52:26.740Z",
+      "time": "02:52:26",
+      "type": "position",
+      "msg": "📈 OM -2.94% — Loss building character 💪"
+    },
+    {
+      "ts": "2026-02-15T02:52:26.474Z",
+      "time": "02:52:26",
+      "type": "position",
+      "msg": "📉 ZRO -0.73% — Podia ser pior. Dá tempo ainda."
+    },
+    {
+      "ts": "2026-02-15T02:52:26.206Z",
+      "time": "02:52:26",
+      "type": "position",
+      "msg": "📉 ETH +0.22% — Será que alguém sabe algo que eu não sei? Sempre sabem."
+    },
+    {
+      "ts": "2026-02-15T02:52:24.457Z",
+      "time": "02:52:24",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC +0.25% — Carregando esse time nas costas, como sempre"
+    },
+    {
       "ts": "2026-02-15T02:51:54.456Z",
       "time": "02:51:54",
       "type": "mirror-thought",
@@ -275,30 +299,6 @@
       "time": "02:41:26",
       "type": "position",
       "msg": "📉 ZRO -1.04% — Quem mandou confiar em linha colorida"
-    },
-    {
-      "ts": "2026-02-15T02:41:25.901Z",
-      "time": "02:41:25",
-      "type": "position",
-      "msg": "📉 ETH +0.19% — Não é muito, mas é trabalho honesto"
-    },
-    {
-      "ts": "2026-02-15T02:41:24.447Z",
-      "time": "02:41:24",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 ETH -0.11% — Se o QuickBot não tivesse... ah, deixa pra lá"
-    },
-    {
-      "ts": "2026-02-15T02:40:56.281Z",
-      "time": "02:40:56",
-      "type": "position",
-      "msg": "📈 OM -2.23% — Quem inventou crypto? Preciso conversar"
-    },
-    {
-      "ts": "2026-02-15T02:40:54.446Z",
-      "time": "02:40:54",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP -0.10% — Até EU tô no vermelho agora. Inacreditável."
     }
   ]
 }
