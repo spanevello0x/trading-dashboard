@@ -1,6 +1,18 @@
 {
-  "lastUpdate": "2026-02-15T08:37:17.146Z",
+  "lastUpdate": "2026-02-15T08:37:47.332Z",
   "feed": [
+    {
+      "ts": "2026-02-15T08:37:40.817Z",
+      "time": "08:37:40",
+      "type": "position",
+      "msg": "📉 ETH +0.53% — Quem diria, acertei uma"
+    },
+    {
+      "ts": "2026-02-15T08:37:16.382Z",
+      "time": "08:37:16",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 ETH -0.30% — O mercado tá de sacanagem"
+    },
     {
       "ts": "2026-02-15T08:36:46.381Z",
       "time": "08:36:46",
@@ -248,12 +260,6 @@
       "msg": "🪞 📈 Abrindo LONG ETH @ $2071.85 — Mais trabalho pra mim. Que novidade."
     },
     {
-      "ts": "2026-02-15T08:31:32.212Z",
-      "time": "08:31:32",
-      "type": "system",
-      "msg": "⚠️ Limite atingido (5/5) - TAO cancelado"
-    },
-    {
       "ts": "2026-02-15T08:31:20.816Z",
       "time": "08:31:20",
       "type": "mirror-close",
@@ -294,56 +300,50 @@
       "time": "08:28:46",
       "type": "mirror-thought",
       "msg": "🪞 📈 BTC +0.20% — Fazendo meu trabalho enquanto o QuickBot apronta"
-    },
-    {
-      "ts": "2026-02-15T08:28:16.107Z",
-      "time": "08:28:16",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 SOL +0.10% — Neutro. Assim como minha vontade de continuar."
     }
   ],
   "hl": {
-    "balance": 16.368594,
+    "balance": 16.357814,
     "positions": [
       {
         "coin": "BTC",
         "side": "SHORT",
         "size": 0.00032,
         "entry": 69697,
-        "pnl": -0.19328,
-        "pnlPct": -4.3330415900000006
+        "pnl": -0.19072,
+        "pnlPct": -4.2756503100000005
       },
       {
         "coin": "ETH",
         "side": "SHORT",
         "size": 0.008,
         "entry": 2071.5,
-        "pnl": 0.088,
-        "pnlPct": 2.65508086
+        "pnl": 0.0872,
+        "pnlPct": 2.63094376
       },
       {
         "coin": "SOL",
         "side": "LONG",
         "size": 0.18,
         "entry": 89.898,
-        "pnl": -0.07704,
-        "pnlPct": -2.38047565
+        "pnl": -0.08424,
+        "pnlPct": -2.60295001
       },
       {
         "coin": "XRP",
         "side": "LONG",
         "size": 11,
         "entry": 1.4503,
-        "pnl": 1.9283,
-        "pnlPct": 60.43577191
+        "pnl": 1.9096,
+        "pnlPct": 59.84968627
       },
       {
         "coin": "OM",
         "side": "LONG",
         "size": 83.5,
         "entry": 0.06402,
-        "pnl": -0.3006,
-        "pnlPct": -16.86972821
+        "pnl": -0.28724,
+        "pnlPct": -16.11996251
       }
     ]
   },
@@ -355,40 +355,40 @@
         "side": "LONG",
         "size": 0.0006,
         "entry": 69665,
-        "price": 70324.5,
-        "notional": 42.1947,
-        "pnl": 0.39569999999999994,
-        "pnlPct": 0.9466733653915165
+        "price": 70325.5,
+        "notional": 42.195299999999996,
+        "pnl": 0.3963,
+        "pnlPct": 0.9481088064307759
       },
       {
         "coin": "ETH",
         "side": "LONG",
         "size": 0.007,
         "entry": 2071.8500000000004,
-        "price": 2061.55,
-        "notional": 14.430850000000001,
-        "pnl": -0.07210000000000127,
-        "pnlPct": -0.497140236986277
+        "price": 2061.35,
+        "notional": 14.42945,
+        "pnl": -0.07350000000000319,
+        "pnlPct": -0.5067934454714604
       },
       {
         "coin": "SOL",
         "side": "SHORT",
         "size": 0.1,
         "entry": 89.965,
-        "price": 89.515,
-        "notional": 8.951500000000001,
-        "pnl": 0.04500000000000029,
-        "pnlPct": 0.5001945200911497
+        "price": 89.455,
+        "notional": 8.945500000000001,
+        "pnl": 0.05100000000000052,
+        "pnlPct": 0.5668871227699718
       },
       {
         "coin": "XRP",
         "side": "SHORT",
         "size": 10,
         "entry": 1.53,
-        "price": 1.62605,
-        "notional": 16.2605,
-        "pnl": -0.9604999999999997,
-        "pnlPct": -6.277777777777775
+        "price": 1.6249500000000001,
+        "notional": 16.2495,
+        "pnl": -0.9495000000000009,
+        "pnlPct": -6.205882352941182
       }
     ]
   }
