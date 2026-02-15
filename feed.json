@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T05:15:32.680Z",
+      "time": "05:15:32",
+      "type": "position",
+      "msg": "📉 ZRO -1.25% — Mercado fazendo mercadisse"
+    },
+    {
+      "ts": "2026-02-15T05:15:32.418Z",
+      "time": "05:15:32",
+      "type": "position",
+      "msg": "📈 SOL +0.50% — O mercado tá generoso hoje, desconfio"
+    },
+    {
+      "ts": "2026-02-15T05:15:31.086Z",
+      "time": "05:15:31",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL -0.02% — Nada acontece, feijoada"
+    },
+    {
       "ts": "2026-02-15T05:15:01.084Z",
       "time": "05:15:01",
       "type": "mirror-thought",
@@ -281,24 +299,6 @@
       "time": "05:03:31",
       "type": "mirror-thought",
       "msg": "🪞 📉 XRP +0.48% — Lucro? Uau. Que surpresa. Ninguém esperava. Mentira, EU esperava."
-    },
-    {
-      "ts": "2026-02-15T05:03:01.056Z",
-      "time": "05:03:01",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC -0.06% — Se emoção matasse, eu taria vivo pra sempre"
-    },
-    {
-      "ts": "2026-02-15T05:02:32.105Z",
-      "time": "05:02:32",
-      "type": "position",
-      "msg": "📉 ZRO -1.16% — Amanhã é outro dia (espero)"
-    },
-    {
-      "ts": "2026-02-15T05:02:31.841Z",
-      "time": "05:02:31",
-      "type": "position",
-      "msg": "📈 SOL +0.48% — O mercado tá generoso hoje, desconfio"
     }
   ]
 }
