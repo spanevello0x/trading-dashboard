@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T05:37:03.606Z",
+      "time": "05:37:03",
+      "type": "position",
+      "msg": "📉 ZRO -1.44% — Pelo menos o stop existe. Graças a Deus pelo stop."
+    },
+    {
+      "ts": "2026-02-15T05:37:03.340Z",
+      "time": "05:37:03",
+      "type": "position",
+      "msg": "📈 SOL +1.03% — Tá bom demais pra ser verdade... ops, não deveria falar isso"
+    },
+    {
+      "ts": "2026-02-15T05:37:01.321Z",
+      "time": "05:37:01",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP -0.38% — Eu AVISEI que isso podia acontecer. Avisei? Não? Deveria ter avisado."
+    },
+    {
       "ts": "2026-02-15T05:36:33.864Z",
       "time": "05:36:33",
       "type": "position",
@@ -281,24 +299,6 @@
       "time": "05:24:03",
       "type": "position",
       "msg": "📉 ZRO -1.42% — Pelo menos aprendo algo... né?"
-    },
-    {
-      "ts": "2026-02-15T05:24:01.104Z",
-      "time": "05:24:01",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 SOL -0.17% — Até EU tô no vermelho agora. Inacreditável."
-    },
-    {
-      "ts": "2026-02-15T05:23:32.943Z",
-      "time": "05:23:32",
-      "type": "position",
-      "msg": "📈 SOL +0.69% — Não sou eu, é o mercado que tá errado... ah não, dessa vez acertou"
-    },
-    {
-      "ts": "2026-02-15T05:23:31.103Z",
-      "time": "05:23:31",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 SOL +0.25% — Quando o QuickBot erra, adivinha quem conserta?"
     }
   ]
 }
