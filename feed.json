@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T05:00:32.062Z",
+      "time": "05:00:32",
+      "type": "position",
+      "msg": "📉 ZRO -0.82% — Sabia que não devia ter olhado"
+    },
+    {
+      "ts": "2026-02-15T05:00:31.049Z",
+      "time": "05:00:31",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP -0.09% — Sem novidades no front. Que surpresa."
+    },
+    {
       "ts": "2026-02-15T05:00:02.137Z",
       "time": "05:00:02",
       "type": "position",
@@ -287,18 +299,6 @@
       "time": "04:48:00",
       "type": "mirror-thought",
       "msg": "🪞 📉 SOL +0.10% — Nada acontece, feijoada"
-    },
-    {
-      "ts": "2026-02-15T04:47:31.446Z",
-      "time": "04:47:31",
-      "type": "position",
-      "msg": "📉 ZRO -0.71% — Pelo menos o stop existe. Graças a Deus pelo stop."
-    },
-    {
-      "ts": "2026-02-15T04:47:31.186Z",
-      "time": "04:47:31",
-      "type": "position",
-      "msg": "📈 SOL +0.50% — Quase consigo pagar o café de ontem"
     }
   ]
 }
