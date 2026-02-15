@@ -1,6 +1,30 @@
 {
-  "lastUpdate": "2026-02-15T02:28:05.518Z",
+  "lastUpdate": "2026-02-15T02:28:35.429Z",
   "feed": [
+    {
+      "ts": "2026-02-15T02:28:25.872Z",
+      "time": "02:28:25",
+      "type": "position",
+      "msg": "📈 OM -1.47% — Não é prejuízo se eu não vender... ah, tem stop"
+    },
+    {
+      "ts": "2026-02-15T02:28:25.607Z",
+      "time": "02:28:25",
+      "type": "position",
+      "msg": "📉 ZRO -0.64% — Tá bom, universo, entendi o recado"
+    },
+    {
+      "ts": "2026-02-15T02:28:25.339Z",
+      "time": "02:28:25",
+      "type": "position",
+      "msg": "📉 ETH +0.45% — O mercado me ama (por enquanto)"
+    },
+    {
+      "ts": "2026-02-15T02:28:24.435Z",
+      "time": "02:28:24",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC +0.22% — Lucro? Uau. Que surpresa. Ninguém esperava. Mentira, EU esperava."
+    },
     {
       "ts": "2026-02-15T02:27:54.434Z",
       "time": "02:27:54",
@@ -276,74 +300,50 @@
       "time": "02:18:24",
       "type": "position",
       "msg": "📉 ETH +0.18% — Lucro é lucro, mesmo que pague só o almoço"
-    },
-    {
-      "ts": "2026-02-15T02:18:24.427Z",
-      "time": "02:18:24",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP -0.06% — Neutro. Assim como minha vontade de continuar."
-    },
-    {
-      "ts": "2026-02-15T02:17:55.539Z",
-      "time": "02:17:55",
-      "type": "position",
-      "msg": "📈 OM -0.11% — Pelo menos o stop existe. Graças a Deus pelo stop."
-    },
-    {
-      "ts": "2026-02-15T02:17:54.427Z",
-      "time": "02:17:54",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP -0.16% — O mercado tá de sacanagem"
-    },
-    {
-      "ts": "2026-02-15T02:17:25.532Z",
-      "time": "02:17:25",
-      "type": "position",
-      "msg": "📈 OM -0.36% — O mercado acordou e escolheu me machucar"
     }
   ],
   "hl": {
-    "balance": 15.804379,
+    "balance": 15.800739,
     "positions": [
       {
         "coin": "BTC",
         "side": "SHORT",
         "size": 0.00032,
         "entry": 69697,
-        "pnl": 0.08256,
-        "pnlPct": 1.85086876
+        "pnl": 0.08032,
+        "pnlPct": 1.80065139
       },
       {
         "coin": "ETH",
         "side": "SHORT",
         "size": 0.0076,
         "entry": 2065,
-        "pnl": 0.076,
-        "pnlPct": 2.4213075099999997
+        "pnl": 0.06992,
+        "pnlPct": 2.22760291
       },
       {
         "coin": "XRP",
         "side": "LONG",
         "size": 11,
         "entry": 1.4503,
-        "pnl": 0.8459,
-        "pnlPct": 26.511756190000003
+        "pnl": 0.8514,
+        "pnlPct": 26.684134320000002
       },
       {
         "coin": "ZRO",
         "side": "SHORT",
         "size": 8.5,
         "entry": 1.8619,
-        "pnl": -0.102,
-        "pnlPct": -3.22251464
+        "pnl": -0.10115,
+        "pnlPct": -3.19566035
       },
       {
         "coin": "OM",
         "side": "LONG",
         "size": 83.5,
         "entry": 0.06402,
-        "pnl": -0.07849,
-        "pnlPct": -4.40487348
+        "pnl": -0.08016,
+        "pnlPct": -4.49859419
       }
     ]
   },
@@ -355,30 +355,30 @@
         "side": "LONG",
         "size": 0.0006,
         "entry": 69665,
-        "price": 69467.5,
-        "notional": 41.680499999999995,
-        "pnl": -0.1185,
-        "pnlPct": -0.2834996052537142
+        "price": 69470.5,
+        "notional": 41.6823,
+        "pnl": -0.11669999999999998,
+        "pnlPct": -0.27919328213593625
       },
       {
         "coin": "ETH",
         "side": "LONG",
         "size": 0.007,
         "entry": 2066.75,
-        "price": 2055.75,
-        "notional": 14.39025,
-        "pnl": -0.077,
-        "pnlPct": -0.5322366033627677
+        "price": 2056.55,
+        "notional": 14.395850000000001,
+        "pnl": -0.07139999999999873,
+        "pnlPct": -0.4935284867545575
       },
       {
         "coin": "XRP",
         "side": "SHORT",
         "size": 10,
         "entry": 1.53,
-        "price": 1.5282499999999999,
-        "notional": 15.282499999999999,
-        "pnl": 0.017500000000001403,
-        "pnlPct": 0.11437908496732944
+        "price": 1.5286,
+        "notional": 15.286,
+        "pnl": 0.014000000000000679,
+        "pnlPct": 0.09150326797386064
       }
     ]
   }

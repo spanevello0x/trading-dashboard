@@ -1,6 +1,30 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T02:28:25.872Z",
+      "time": "02:28:25",
+      "type": "position",
+      "msg": "📈 OM -1.47% — Não é prejuízo se eu não vender... ah, tem stop"
+    },
+    {
+      "ts": "2026-02-15T02:28:25.607Z",
+      "time": "02:28:25",
+      "type": "position",
+      "msg": "📉 ZRO -0.64% — Tá bom, universo, entendi o recado"
+    },
+    {
+      "ts": "2026-02-15T02:28:25.339Z",
+      "time": "02:28:25",
+      "type": "position",
+      "msg": "📉 ETH +0.45% — O mercado me ama (por enquanto)"
+    },
+    {
+      "ts": "2026-02-15T02:28:24.435Z",
+      "time": "02:28:24",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 BTC +0.22% — Lucro? Uau. Que surpresa. Ninguém esperava. Mentira, EU esperava."
+    },
+    {
       "ts": "2026-02-15T02:27:54.434Z",
       "time": "02:27:54",
       "type": "mirror-thought",
@@ -275,30 +299,6 @@
       "time": "02:18:24",
       "type": "position",
       "msg": "📉 ETH +0.18% — Lucro é lucro, mesmo que pague só o almoço"
-    },
-    {
-      "ts": "2026-02-15T02:18:24.427Z",
-      "time": "02:18:24",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP -0.06% — Neutro. Assim como minha vontade de continuar."
-    },
-    {
-      "ts": "2026-02-15T02:17:55.539Z",
-      "time": "02:17:55",
-      "type": "position",
-      "msg": "📈 OM -0.11% — Pelo menos o stop existe. Graças a Deus pelo stop."
-    },
-    {
-      "ts": "2026-02-15T02:17:54.427Z",
-      "time": "02:17:54",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP -0.16% — O mercado tá de sacanagem"
-    },
-    {
-      "ts": "2026-02-15T02:17:25.532Z",
-      "time": "02:17:25",
-      "type": "position",
-      "msg": "📈 OM -0.36% — O mercado acordou e escolheu me machucar"
     }
   ]
 }
