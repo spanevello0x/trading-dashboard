@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T01:53:54.018Z",
+      "time": "01:53:54",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP -0.35% — Fiz minha parte, o universo que não colaborou"
+    },
+    {
       "ts": "2026-02-15T01:53:24.018Z",
       "time": "01:53:24",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "01:35:33",
       "type": "position",
       "msg": "ETH +0.29% — O mercado me ama (por enquanto)"
-    },
-    {
-      "ts": "2026-02-15T01:34:33.694Z",
-      "time": "01:34:33",
-      "type": "position",
-      "msg": "OM -0.64% — O gráfico parecia tão bonito..."
     }
   ]
 }
