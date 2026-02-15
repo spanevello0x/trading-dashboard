@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T08:01:45.732Z",
+      "time": "08:01:45",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP +0.36% — Imagina se não tivesse eu aqui... caos total"
+    },
+    {
+      "ts": "2026-02-15T08:01:39.715Z",
+      "time": "08:01:39",
+      "type": "position",
+      "msg": "📈 SOL +1.00% — Melhor que Netflix isso aqui"
+    },
+    {
       "ts": "2026-02-15T08:01:39.454Z",
       "time": "08:01:39",
       "type": "position",
@@ -287,18 +299,6 @@
       "time": "07:49:08",
       "type": "position",
       "msg": "📈 ETH -0.12% — Sabia que não devia ter olhado"
-    },
-    {
-      "ts": "2026-02-15T07:48:45.711Z",
-      "time": "07:48:45",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP -0.37% — Mais um dia, mais um prejuízo, mais uma reclamação"
-    },
-    {
-      "ts": "2026-02-15T07:48:15.710Z",
-      "time": "07:48:15",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 ETH -0.27% — Correlação foi pro espaço, junto com meu lucro"
     }
   ]
 }
