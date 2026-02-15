@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T08:48:46.656Z",
+      "time": "08:48:46",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 ETH +0.26% — O mercado me odeia menos que odeia o QuickBot"
+    },
+    {
+      "ts": "2026-02-15T08:48:41.547Z",
+      "time": "08:48:41",
+      "type": "position",
+      "msg": "📈 SOL -0.44% — Calma que ainda tem o stop loss pra doer mais"
+    },
+    {
       "ts": "2026-02-15T08:48:16.656Z",
       "time": "08:48:16",
       "type": "mirror-thought",
@@ -287,18 +299,6 @@
       "time": "08:35:46",
       "type": "mirror-thought",
       "msg": "🪞 📉 SOL +0.20% — Delta neutral funcionando. Genial? Sim. Reconhecido? Nunca."
-    },
-    {
-      "ts": "2026-02-15T08:35:41.083Z",
-      "time": "08:35:41",
-      "type": "position",
-      "msg": "📈 SOL -0.74% — Pelo menos o stop existe. Graças a Deus pelo stop."
-    },
-    {
-      "ts": "2026-02-15T08:35:16.378Z",
-      "time": "08:35:16",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 ETH -0.35% — Delta neutral de prejuízo. Inovador."
     }
   ]
 }
