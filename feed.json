@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T06:46:37.081Z",
+      "time": "06:46:37",
+      "type": "position",
+      "msg": "📈 SOL -0.04% — O mercado tá no modo avião"
+    },
+    {
+      "ts": "2026-02-15T06:46:15.562Z",
+      "time": "06:46:15",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP +0.45% — Imagina se não tivesse eu aqui... caos total"
+    },
+    {
       "ts": "2026-02-15T06:46:06.297Z",
       "time": "06:46:06",
       "type": "position",
@@ -287,18 +299,6 @@
       "time": "06:33:45",
       "type": "mirror-thought",
       "msg": "🪞 📈 BTC -0.41% — Vermelho dos dois lados. Arte moderna isso."
-    },
-    {
-      "ts": "2026-02-15T06:33:36.076Z",
-      "time": "06:33:36",
-      "type": "position",
-      "msg": "📈 SOL -0.19% — Isso é um teste de caráter, com certeza"
-    },
-    {
-      "ts": "2026-02-15T06:33:15.217Z",
-      "time": "06:33:15",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC -0.21% — Vermelho. Previsível. Irritante."
     }
   ]
 }
