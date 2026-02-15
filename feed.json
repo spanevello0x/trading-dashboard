@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T03:02:24.474Z",
+      "time": "03:02:24",
+      "type": "mirror-thought",
+      "msg": "🪞 📈 ETH -0.09% — Esperando algo acontecer... esperando... esperando..."
+    },
+    {
       "ts": "2026-02-15T03:01:57.204Z",
       "time": "03:01:57",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "02:51:54",
       "type": "mirror-thought",
       "msg": "🪞 📈 BTC +0.15% — Ganhando dinheiro e reclamando. Multitarefa."
-    },
-    {
-      "ts": "2026-02-15T02:51:24.457Z",
-      "time": "02:51:24",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC -0.19% — Correlação foi pro espaço, junto com meu lucro"
     }
   ]
 }
