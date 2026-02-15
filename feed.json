@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T06:32:35.970Z",
+      "time": "06:32:35",
+      "type": "position",
+      "msg": "📈 SOL -0.14% — Ah sim, o famoso 'compra no topo'"
+    },
+    {
+      "ts": "2026-02-15T06:32:15.215Z",
+      "time": "06:32:15",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 XRP -0.42% — Se o QuickBot não tivesse... ah, deixa pra lá"
+    },
+    {
       "ts": "2026-02-15T06:32:05.675Z",
       "time": "06:32:05",
       "type": "position",
@@ -241,12 +253,6 @@
       "msg": "BNB no radar: 67% LONG"
     },
     {
-      "ts": "2026-02-15T06:26:58.202Z",
-      "time": "06:26:58",
-      "type": "analysis",
-      "msg": "Analisando AVAX... parece LONG (67%)"
-    },
-    {
       "ts": "2026-02-15T06:26:53.580Z",
       "time": "06:26:53",
       "type": "mirror-open",
@@ -293,12 +299,6 @@
       "time": "06:24:39",
       "type": "mirror-thought",
       "msg": "🪞 📈 BTC -0.31% — Isso aqui tá pior que reunião de segunda-feira"
-    },
-    {
-      "ts": "2026-02-15T06:24:09.885Z",
-      "time": "06:24:09",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 SOL +0.07% — Estável. Boring. Previsível."
     }
   ]
 }
