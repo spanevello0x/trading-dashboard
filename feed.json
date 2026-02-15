@@ -1,6 +1,18 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T04:11:59.635Z",
+      "time": "04:11:59",
+      "type": "position",
+      "msg": "📈 SOL +0.85% — Print pra mostrar pros netos"
+    },
+    {
+      "ts": "2026-02-15T04:11:59.337Z",
+      "time": "04:11:59",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL -0.30% — Até o hedge sofre nesse mercado desgraçado"
+    },
+    {
       "ts": "2026-02-15T04:11:29.898Z",
       "time": "04:11:29",
       "type": "position",
@@ -287,18 +299,6 @@
       "time": "03:59:29",
       "type": "position",
       "msg": "📈 SOL +0.16% — O mercado me ama (por enquanto)"
-    },
-    {
-      "ts": "2026-02-15T03:59:29.063Z",
-      "time": "03:59:29",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 BTC -0.27% — Isso aqui tá pior que reunião de segunda-feira"
-    },
-    {
-      "ts": "2026-02-15T03:58:59.062Z",
-      "time": "03:58:59",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 XRP -0.01% — Flat como a Terra. Brincadeira. Mas o mercado tá."
     }
   ]
 }
