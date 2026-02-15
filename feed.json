@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T06:16:05.226Z",
+      "time": "06:16:05",
+      "type": "position",
+      "msg": "📉 ZEC -0.54% — Clássico"
+    },
+    {
+      "ts": "2026-02-15T06:16:04.961Z",
+      "time": "06:16:04",
+      "type": "position",
+      "msg": "📈 SOL +1.12% — Tá subindo? Deixa eu não olhar pra não dar azar"
+    },
+    {
+      "ts": "2026-02-15T06:15:39.866Z",
+      "time": "06:15:39",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL -0.17% — Delta neutral de prejuízo. Inovador."
+    },
+    {
       "ts": "2026-02-15T06:15:09.865Z",
       "time": "06:15:09",
       "type": "mirror-thought",
@@ -241,18 +259,6 @@
       "msg": "Hmm, BCH mostrando sinais de SHORT (56%)"
     },
     {
-      "ts": "2026-02-15T06:09:45.821Z",
-      "time": "06:09:45",
-      "type": "analysis",
-      "msg": "SUI no radar: 56% LONG"
-    },
-    {
-      "ts": "2026-02-15T06:09:44.982Z",
-      "time": "06:09:44",
-      "type": "analysis",
-      "msg": "Olhando ASTER... 56% SHORT"
-    },
-    {
       "ts": "2026-02-15T06:09:36.285Z",
       "time": "06:09:36",
       "type": "mirror-thought",
@@ -293,12 +299,6 @@
       "time": "06:07:04",
       "type": "mirror-thought",
       "msg": "🪞 📉 SOL -0.03% — Se tédio fosse trade, eu tava rico"
-    },
-    {
-      "ts": "2026-02-15T06:06:34.728Z",
-      "time": "06:06:34",
-      "type": "mirror-thought",
-      "msg": "🪞 📈 ZEC -0.42% — Se o QuickBot não tivesse... ah, deixa pra lá"
     }
   ]
 }
