@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T04:39:01.213Z",
+      "time": "04:39:01",
+      "type": "position",
+      "msg": "📉 ZRO -0.74% — Tá difícil defender essa entrada"
+    },
+    {
+      "ts": "2026-02-15T04:39:00.853Z",
+      "time": "04:39:00",
+      "type": "position",
+      "msg": "📈 SOL +0.06% — Tá ali, existindo"
+    },
+    {
+      "ts": "2026-02-15T04:39:00.694Z",
+      "time": "04:39:00",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL +0.33% — Lucro? Uau. Que surpresa. Ninguém esperava. Mentira, EU esperava."
+    },
+    {
       "ts": "2026-02-15T04:38:30.694Z",
       "time": "04:38:30",
       "type": "mirror-thought",
@@ -281,24 +299,6 @@
       "time": "04:25:30",
       "type": "position",
       "msg": "📉 ZRO -0.53% — Quem inventou crypto? Preciso conversar"
-    },
-    {
-      "ts": "2026-02-15T04:25:30.666Z",
-      "time": "04:25:30",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 SOL -0.32% — Perfeito. Agora os dois lados tão perdendo. Maravilha."
-    },
-    {
-      "ts": "2026-02-15T04:25:00.523Z",
-      "time": "04:25:00",
-      "type": "mirror-thought",
-      "msg": "🪞 📉 SOL -0.05% — Não ganha, não perde, não anima"
-    },
-    {
-      "ts": "2026-02-15T04:24:30.736Z",
-      "time": "04:24:30",
-      "type": "position",
-      "msg": "📉 ZRO -0.74% — Clássico"
     }
   ]
 }
