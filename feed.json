@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T08:11:45.752Z",
+      "time": "08:11:45",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 SOL +0.11% — Hedge funcionando, cadê meu reconhecimento?"
+    },
+    {
       "ts": "2026-02-15T08:11:39.988Z",
       "time": "08:11:39",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "07:58:45",
       "type": "mirror-thought",
       "msg": "🪞 📉 XRP -0.15% — Quando o mercado inteiro resolve desabar..."
-    },
-    {
-      "ts": "2026-02-15T07:58:39.480Z",
-      "time": "07:58:39",
-      "type": "position",
-      "msg": "📈 SOL +0.81% — Se continuar assim, quase empato na semana"
     }
   ]
 }
