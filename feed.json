@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "ts": "2026-02-15T07:02:15.601Z",
+      "time": "07:02:15",
+      "type": "mirror-thought",
+      "msg": "🪞 📉 ETH -0.17% — Eu AVISEI que isso podia acontecer. Avisei? Não? Deveria ter avisado."
+    },
+    {
       "ts": "2026-02-15T07:02:07.215Z",
       "time": "07:02:07",
       "type": "position",
@@ -293,12 +299,6 @@
       "time": "06:48:45",
       "type": "mirror-thought",
       "msg": "🪞 📉 SOL -0.16% — Até o hedge sofre nesse mercado desgraçado"
-    },
-    {
-      "ts": "2026-02-15T06:48:36.701Z",
-      "time": "06:48:36",
-      "type": "position",
-      "msg": "📈 SOL -0.35% — Vermelho é a minha cor favorita agora"
     }
   ]
 }
